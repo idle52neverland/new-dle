@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>i-Tube</title>
+
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <!-- DATA FILES -->
+  <script src="data/cards-Releases.js" defer></script>
+  <script src="data/cards-Special_Releases.js" defer></script>
+  <script src="data/cards-Broadcast_Stage.js" defer></script>
+  <script src="data/cards-Festival_Stage.js" defer></script>
+  <script src="data/cards-Official_Channel.js" defer></script>
+  <script src="data/cards-Original_Variety.js" defer></script>
+  <script src="data/cards-Recording_Behind.js" defer></script>
+  <script src="data/cards-Media_Content.js" defer></script>
+  <script src="data/cards-Media_Performance.js" defer></script>
+  <script src="data/cards-Interviews.js" defer></script>
+  <script src="data/cards-Radio_Podcast.js" defer></script>
+  <script src="data/cards-Live_Streams.js" defer></script>
+  <script src="data/cards-Commercials.js" defer></script>
+  <script src="data/cards-Etc.js" defer></script>
+  <script src="data/cards-Shorts.js" defer></script>
+  <script src="data/subtags.js" defer></script>
+
+  <!-- MAIN JS -->
+  <script src="assets/js/index.js" defer></script>
+</head>
+
+<body>
+
+  <!-- ■■■ 상단 고정 전체 wrapper ■■■ -->
+  <div class="fixed-top-wrapper">
+    <div class="fixed-inner">
+
+<!-- ■ 검색창: header-bar / searchbox -->
+<header class="header-bar">
+  <div class="searchbox">
+    <div class="icon-left-wrap">
+      <img src="images/home.svg" class="icon-left" id="homeBtn">
+    </div>
+
+    <input 
+      type="text" 
+      id="searchInput" 
+      placeholder="검색"
+      autocomplete="off"
+      autocorrect="off"
+      autocapitalize="off"
+      spellcheck="false"
+    >
+
+    <img src="images/search.svg" class="icon-right" id="searchBtn">
+  </div>
+</header>
+
+      <!-- ■ 카테고리바: category-bar / category-btn -->
+      <div class="category-bar">
+        <button id="categoryDropdownBtn" class="category-btn">
+          <span id="currentCategory">All Videos</span>
+          <img src="images/arrow_down.svg" class="arrow">
+        </button>
+
+        <div id="categoryDropdown" class="category-dropdown hidden">
+          <div class="cat-item">All Videos</div>
+          <div class="cat-item">Releases</div>
+          <div class="cat-item">Special Releases</div>
+          <div class="cat-item">Broadcast Stage</div>
+          <div class="cat-item">Festival Stage</div>
+          <div class="cat-item">Official Channel</div>
+          <div class="cat-item">Original Variety</div>
+          <div class="cat-item">Recording Behind</div>
+          <div class="cat-item">Media Content</div>
+          <div class="cat-item">Media Performance</div>
+          <div class="cat-item">Interviews</div>
+          <div class="cat-item">Radio & Podcast</div>
+          <div class="cat-item">Live Streams</div>
+          <div class="cat-item">Commercials</div>
+          <div class="cat-item">Etc</div>
+          <div class="cat-item">Shorts</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+
+  <!-- ■■■ 본문 container ■■■ -->
+  <div class="container">
+
+    <!-- ■ 필터줄: filter-bar / filterBtn / toggleSortBtn -->
+    <div class="filter-bar">
+      <button id="yearFilter" class="filterBtn">연도</button>
+      <button id="monthFilter" class="filterBtn">월</button>
+      <button id="subTagFilter" class="filterBtn">서브태그</button>
+      <button id="toggleSortBtn" class="filterBtn">최신순</button>
+    </div>
+
+<div id="filterMenu" class="hidden"></div>
+
+    <!-- ■ 영상 갯수 -->
+    <div class="video-count-row">
+      <span id="cardCount">총 0개</span>
+    </div>
+
+    <!-- ■ 카드 리스트: card-container -->
+    <section id="allCards" class="card-container"></section>
+
+    <!-- ■ footer 영역 -->
+    <footer class="footer">
+      <button id="loadMoreBtn" class="more-btn">
+        <img src="images/more.svg" alt="more">
+      </button>
+
+      <button id="scrollTopBtn" class="top-btn">
+        <img src="images/up.svg" alt="top">
+      </button>
+    </footer>
+
+  </div>
+
+</body>
+</html>
