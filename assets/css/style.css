@@ -1,239 +1,280 @@
-/* 기본 */
-* { box-sizing: border-box; }
-body { margin: 0; font-family: Arial, sans-serif; background: #fff; }
+/* ===========================================================
+   GLOBAL ROOT SETTINGS (폰트, 단위, 전체 UI 비율 자동화)
+=========================================================== */
+:root {
+  font-size: 16px;
 
-/*********************************************
-  상단 고정 wrapper
-*********************************************/
+  --radius-small: 0.35rem;
+  --radius-med: 0.55rem;
+  --radius-large: 0.75rem;
+
+  --gap-small: 0.45rem;
+  --gap-med: 0.75rem;
+  --gap-large: 1rem;
+
+  --border-default: 1px solid #ccc;
+  --bg-light: #f8f8f8;
+  --bg-btn: #f1f1f1;
+
+  --fs-small: clamp(0.7rem, 1.4vw, 0.85rem);
+  --fs-normal: clamp(0.8rem, 1.5vw, 1rem);
+  --fs-large: clamp(1rem, 1.8vw, 1.25rem);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: #fff;
+  font-family: Arial, sans-serif;
+  font-size: var(--fs-normal);
+}
+
+/* ===========================================================
+   FIXED TOP BAR
+=========================================================== */
 .fixed-top-wrapper {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   background: #fff;
-  z-index: 9999;
+  z-index: 1000;
+  border-bottom: 1px solid #eee;
 }
 
-/* 내부 1600px 컨테이너 */
 .fixed-inner {
   max-width: 1600px;
+  width: min(100%, 90%);
   margin: 0 auto;
-  padding: 10px 12px 6px 12px;
+  padding: 0.75rem 0;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* ★ 기존 문제 원인: justify-content:center 제거 */
 }
 
-/*********************************************
-  검색창 (header-bar / searchbox)
-*********************************************/
+/* ===========================================================
+   HEADER BAR (상단바 전체)
+=========================================================== */
 .header-bar {
   display: flex;
-  justify-content: center;
-  padding-bottom: 10px;
+  align-items: center;
+  gap: 0.6rem;
+  width: 100%;
 }
 
+/* PC 전용: 상단바 가운데 정렬 */
+@media (min-width: 1024px) {
+  .header-bar {
+    justify-content: center;
+    gap: 1rem;
+  }
+}
+
+/* 메뉴 아이콘 */
+.mobile-menu-btn {
+  width: 1.6rem;
+  height: 1.6rem;
+  flex-shrink: 0;
+}
+
+/* 홈 아이콘 */
+.icon-left {
+  width: clamp(1.2rem, 2.5vw, 1.7rem);
+  height: clamp(1.2rem, 2.5vw, 1.7rem);
+  flex-shrink: 0;
+}
+
+/* ===========================================================
+   SEARCHBOX (카테고리 + 검색)
+=========================================================== */
 .searchbox {
-  width: 600px;
-  height: 45px;
-  background: #f8f8f8;
-  border: 1px solid #ccc;
-  border-radius: 25px;
   display: flex;
   align-items: center;
-  padding: 0 16px;
+  background: var(--bg-light);
+  border: 1px solid #ccc;
+  border-radius: 2rem;
+  padding: 0 0.75rem;
+  height: 2.5rem;
+  width: 40rem;
+  min-width: 18rem;
+  max-width: 50rem;
+  margin-left: 0;
+  position: relative;
 }
 
+/* 검색창 내부 카테고리 버튼 */
+.category-btn.inside {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+
+  background: none;
+  border: none;
+  padding: 0;
+  height: 100%;
+
+  font-size: var(--fs-normal);
+  color: #333;
+  cursor: pointer;
+}
+
+/* 구분선 */
+.category-btn.inside::after {
+  content: "";
+  display: block;
+  width: 1px;
+  height: 60%;
+  background: #dcdcdc;
+  margin-left: 0.5rem;
+}
+
+.category-btn.inside .arrow {
+  width: 0.9rem;
+  height: 0.9rem;
+}
+
+/* 검색 입력창 */
 .searchbox input {
   flex: 1;
   border: none;
   background: transparent;
-  font-size: 18px;
+  margin-left: 0.65rem;
+  font-size: var(--fs-small);
   outline: none;
-  margin-left: 10px;
-}
-
-.icon-left-wrap {
-  display: flex;
-  align-items: center;
-  padding-right: 12px;
-  margin-right: 14px;
-  border-right: 1px solid #ccc;
-}
-
-.icon-left,
-.icon-right {
-  width: 27px;
-  height: 27px;
-  flex-shrink: 0;
-}
-
-/*********************************************
-  카테고리바 (category-bar / category-btn)
-*********************************************/
-.category-bar {
-  display: flex;
-  justify-content: flex-start;
-  padding: 4px 10px 2px;
-  position: relative;
-  padding:
-}
-
-.category-btn {
-  padding: 4px 10px; /버튼크기 조절임. 위치조절 아님 
-  height: 32px;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 15px;
-  border: 1px solid #ccc;
-  background: #f1f1f1;
-  border-radius: 8px;
-  cursor: pointer;
-}
-
-.category-dropdown {
-  position: absolute;
-  top: 40px;
-  left: 0;
-  background: #fff;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  width: 200px;
-  max-height: none;     
-  overflow-y: visible;  
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-/* 🔥 브라우저 높이가 작을 때만 스크롤 자동 생성 */
-@media (max-height: 700px) {
-  .category-dropdown {
-    max-height: 300px;   
-    overflow-y: auto;    
-  }
-}
-
-.cat-item {
-  padding: 10px 14px;
-  cursor: pointer;
-}
-.cat-item:hover { background: #f2f2f2; }
-
-.hidden { display: none; }
-
-/*********************************************
-  컨테이너 – 상단 고정바 높이만큼 본문 내리기
-*********************************************/
-.container {
-  max-width: 1600px;
-  margin: 0 auto;
-  margin-top: 113px; 
-  padding: 0 12px;
-}
-
-/*********************************************
-  필터바 (filter-bar / filterBtn / toggleSortBtn)
-*********************************************/
-.filter-bar {
-  margin-top: 10px;
-  display: flex;
-  gap: 8px;
-  padding-left: 10px;  
-  padding-right: 0px;
-}
-
-.filterBtn {
-  padding: 4px 10px;
-  height: 32px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 15px;
-  border: 1px solid #ccc;
-  background: #f1f1f1;
-  border-radius: 8px;
-  cursor: pointer;
-  white-space: nowrap;
-}
-
-/* 최신순 버튼 (개별 스타일 가능할 때 사용) */
-#toggleSortBtn {
-  /* 필요하면 개별 패딩 조정해줘 */
-}
-
-/*********************************************
-   공통 드롭다운 스타일 (카테고리 + 필터)
-*********************************************/
-.category-dropdown,
-#filterMenu {
-  position: absolute;
-  background: #fff;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  padding: 6px 6px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.10);
-  z-index: 999;
-}
-
-.category-dropdown .cat-item,
-#filterMenu .filter-item {
-  padding: 6px 10px;       
-  margin: 3px 0;            
-  border-radius: 6px;      
-  background: #fafafa;
-  border: 1px solid #efefef;
-  cursor: pointer;
-  transition: background 0.15s, border-color 0.15s;
-  white-space: nowrap;
-  font-size: 14px;          
-}
-
-.category-dropdown .cat-item:hover,
-#filterMenu .filter-item:hover {
-  background: #f2f2f2;
-  border-color: #dddddd;
-}
-
-
-.category-dropdown.hidden,
-#filterMenu.hidden {
-  display: none;
-}
-
-@media (max-height: 700px) {
-  .category-dropdown,
-  #filterMenu {
-    max-height: 280px;   
-    overflow-y: auto;
-  }
-}
-
-/*********************************************
-  영상 개수
-*********************************************/
-.video-count-row {
-  display: flex;
-  justify-content: flex-end;
-  padding: 6px 10px 0 0;
-  font-size: 15px;
   color: #333;
 }
 
-/*********************************************
-  카드 3열 그리드 (card-container)
-*********************************************/
-.card-container {
-  margin-top: 7px;
-  width: 100%;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 28px 20px;
+/* 돋보기 */
+.icon-right {
+  width: 1.2rem;
+  height: 1.2rem;
+  flex-shrink: 0;
+  cursor: pointer;
 }
 
-.card { cursor: pointer; }
+/* 드롭다운 */
+.category-dropdown {
+  position: absolute;
+  top: calc(100% + 0.35rem);
+  left: 0.5rem;
+
+  background: #fff;
+  border-radius: var(--radius-med);
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+  width: 12rem;
+
+  z-index: 1200;
+}
+
+.hidden { display: none; }
+
+.cat-item {
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  border-radius: var(--radius-small);
+  font-size: var(--fs-normal);
+}
+
+.cat-item:hover {
+  background: #f2f2f2;
+}
+
+/* ===========================================================
+   MAIN CONTAINER
+=========================================================== */
+.container {
+  max-width: 1600px;
+  width: min(100%, 90%);
+  padding-top: clamp(6rem, 16vw, 7.5rem);
+  margin: 0 auto;
+  padding-bottom: 3rem;
+}
+
+/* ===========================================================
+   FILTER BAR
+=========================================================== */
+.filter-bar {
+  display: flex;
+  gap: var(--gap-small);
+  margin-bottom: 0.5rem;
+}
+
+.filterBtn {
+  display: inline-flex;
+  align-items: center;
+  height: clamp(1.8rem, 3vw, 2.1rem);
+  padding: 0 0.75rem;
+  font-size: var(--fs-normal);
+  background: var(--bg-btn);
+  border-radius: var(--radius-med);
+  border: var(--border-default);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+#filterMenu {
+  position: absolute;
+  background: #fff;
+  border-radius: var(--radius-med);
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+  padding: 0.4rem;
+  z-index: 1100;
+}
+
+#filterMenu .filter-item {
+  padding: 0.45rem 0.75rem;
+  margin: 0.25rem 0;
+  border-radius: var(--radius-small);
+  background: #fafafa;
+  border: 1px solid #eee;
+  font-size: var(--fs-normal);
+}
+
+#filterMenu .filter-item:hover {
+  background: #f1f1f1;
+}
+
+/* ===========================================================
+   VIDEO COUNT
+=========================================================== */
+.video-count-row {
+  display: flex;
+  justify-content: flex-end;
+  font-size: var(--fs-normal);
+  color: #444;
+  margin-bottom: 0.5rem;
+}
+
+/* ===========================================================
+   CARD GRID
+=========================================================== */
+.card-container {
+  margin-top: 0.5rem;
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(clamp(18rem, 28%, 22rem), 1fr));
+  gap: clamp(1rem, 2vw, 1.5rem);
+}
+
+.card {
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.card.show {
+  opacity: 1;
+}
 
 .thumb-wrap {
   width: 100%;
   aspect-ratio: 16/9;
-  border-radius: 12px;
-  margin-bottom: 6px;
+  border-radius: var(--radius-large);
   overflow: hidden;
   background: #ddd;
   position: relative;
@@ -247,216 +288,117 @@ body { margin: 0; font-family: Arial, sans-serif; background: #fff; }
 
 .thumb-duration {
   position: absolute;
-  right: 8px;
-  bottom: 8px;
-  padding: 3px 6px;
+  right: 0.6rem;
+  bottom: 0.6rem;
+  padding: 0.25rem 0.5rem;
+  font-size: var(--fs-small);
   background: rgba(0,0,0,0.75);
+  border-radius: var(--radius-small);
   color: #fff;
-  border-radius: 4px;
-  font-size: 12px;
-}
-
-.card-title,
-.card-meta {
-  width: 98%;
-  margin: 0 auto;
-  text-align: left;
 }
 
 .card-title {
-  font-size: 16px;
-  line-height: 1.3;
-  padding: 10px 0 0;
+  width: 95%;
+  margin: 0.6rem auto 0;
+  font-size: var(--fs-large);
+  line-height: 1.35;
   color: #000;
-  overflow: hidden;
+
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
-  text-overflow: ellipsis;
+  overflow: hidden;
 }
 
 .card-meta {
-  font-size: 13px;
+  width: 95%;
+  margin: 0.4rem auto 0;
+  font-size: var(--fs-small);
   color: #666;
-  margin-top: 4px;
+
   display: flex;
-  gap: 6px;
+  gap: 0.4rem;
   flex-wrap: wrap;
 }
-.card-meta span:last-child { color: #999; }
+
+.card-meta span:last-child { color: #888; }
 
 .card-info {
-  width: 98%;
-  margin: 0 auto 14px;
-  font-size: 14px;
+  width: 95%;
+  margin: 0.4rem auto 1rem;
+  font-size: var(--fs-normal);
   color: #666;
-  padding-top: 6px;
-  line-height: 1.3;
-  text-align: left;
+  line-height: 1.35;
 }
 
-.card {
-  opacity: 0;
-  transition: opacity 0.25s ease;
-}
-.card.show {
-  opacity: 1;
+/* ===========================================================
+   SHORTS MODE
+=========================================================== */
+.card-container.vertical-mode {
+  grid-template-columns: repeat(auto-fit, minmax(clamp(8rem, 22%, 12rem), 1fr));
 }
 
-/*********************************************
-  하단 버튼 (loadMoreBtn / scrollTopBtn)
-*********************************************/
+.card-container.vertical-mode .thumb-wrap {
+  aspect-ratio: 9/16;
+}
+
+/* ===========================================================
+   FOOTER / BUTTONS
+=========================================================== */
 .footer {
-  margin: 40px 0;
+  margin-top: 2rem;
   display: flex;
   justify-content: center;
-  gap: 16px;
+  gap: 1.5rem;
 }
 
 .more-btn,
-.top-btn,
-.loadMoreBtn {
-  width: 36px;
-  height: 36px;
+.top-btn {
+  width: clamp(2rem, 4vw, 2.4rem);
+  height: clamp(2rem, 4vw, 2.4rem);
   border-radius: 50%;
-  border: 1px solid #ccc;
-  background: #f1f1f1;
+  background: var(--bg-btn);
+  border: var(--border-default);
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.top-btn,
 #scrollTopBtn {
   position: fixed;
-  bottom: 35px;
-  right: 50px;
-  z-index: 999;
+  bottom: clamp(1.5rem, 4vw, 2rem);
+  right: clamp(1.5rem, 4vw, 2rem);
+  z-index: 1000;
 }
 
-#loadMoreBtn img {
-  display: block;
-  width: 24px;      
-  height: 24px;
-  transform: translate(-0.5px, -0.5px);  
-}
+/* ===========================================================
+   MOBILE OPTIMIZATION
+=========================================================== */
+@media (max-width: 767px) {
 
-/*********************************************
-이미지 복사금지
-*********************************************/
-img {
-  -webkit-user-drag: none;
-  user-drag: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
+  .mobile-menu-btn { display: block; }
 
-/*********************************************
- Short 영상 전용 레이아웃
-*********************************************/
-/* Shorts 페이지 전용 세로형 모드 */
-.card-container.vertical-mode {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr); 
-  gap: 16px;
-}
-
-/* 카드 기본 구조 */
-.card-container.vertical-mode .card {
-  width: 100%;
-}
-
-/* 썸네일 정비율 9:16 유지 */
-.card-container.vertical-mode .thumb-wrap {
-  width: 100%;
-  aspect-ratio: 9 / 16;
-}
-
-.card-container.vertical-mode .thumb-wrap img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-/* ============================================================
-   모바일 버전 (PC UI 동일 유지 + 폭 100% + 카드 1열 + 컴팩트)
-============================================================ */
-@media (max-width: 768px) {
-
-  /* ───── 0. 핵심: 모바일 레이아웃 정상화 ───── */
   .fixed-inner {
-    max-width: 100% !important;
+    width: min(100%, 95%);
   }
 
-  .container {
-    max-width: 100% !important;
-    padding-left: 10px !important;
-    padding-right: 10px !important;
+   .header-bar {
+    gap: 0.6rem !important;
+    justify-content: center !important;
   }
 
   .searchbox {
-    width: 80% !important;
-    max-width: 100% !important;
-    height: 36px !important;
-    padding: 0 10px !important;
+    width: 20rem;
+    min-width: 8rem;
+    max-width: 20rem;
+    margin-left: 0 !important;
   }
 
-  .searchbox input {
-    font-size: 14px !important;
-  }
-
-  .icon-left,
-  .icon-right {
-    width: 20px !important;
-    height: 20px !important;
-  }
-
-  /* 카드 1열 */
   .card-container {
-    grid-template-columns: 1fr !important;
-    gap: 20px !important;
+    grid-template-columns: 1fr;
   }
+
   .card-container.vertical-mode {
-    grid-template-columns: 1fr !important;
-  }
-
-  /* ───── 카테고리바 ───── */
-  .category-bar {
-    margin-top: 5px !important;
-    padding: 0 !important;
-    gap: 5px !important;
-    width: 100% !important;
-  }
-
-  .category-btn {
-    font-size: 12.5px !important;
-    padding: 4px 9px !important;
-    height: 30px !important;
-  }
-
-  /* ───── 필터바 ───── */
-  .filter-bar {
-    margin-top: 5px !important;
-    gap: 5px !important;
-    width: 100% !important;
-  }
-
-  .filterBtn {
-    font-size: 12.5px !important;
-    padding: 4px 9px !important;
-    height: 30px !important;
-  }
-
-  /* ───── 카드 텍스트 ───── */
-  .card-title {
-    font-size: 15px !important;
-  }
-
-  .card-info {
-    font-size: 13px !important;
+    grid-template-columns: 1fr;
   }
 }
-
-

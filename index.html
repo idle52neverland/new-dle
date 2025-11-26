@@ -32,60 +32,58 @@
 <body>
 
   <!-- ■■■ 상단 고정 전체 wrapper ■■■ -->
-  <div class="fixed-top-wrapper">
-    <div class="fixed-inner">
+<div class="fixed-top-wrapper">
+  <div class="fixed-inner">
 
-<!-- ■ 검색창: header-bar / searchbox -->
-<header class="header-bar">
-  <div class="searchbox">
-    <div class="icon-left-wrap">
+    <div class="header-bar">
+
+      <!-- 메뉴 + 홈 -->
+      <img src="images/menu.svg" class="mobile-menu-btn">
       <img src="images/home.svg" class="icon-left" id="homeBtn">
-    </div>
 
-    <input 
-      type="text" 
-      id="searchInput" 
-      placeholder="검색"
-      autocomplete="off"
-      autocorrect="off"
-      autocapitalize="off"
-      spellcheck="false"
-    >
+<div class="searchbox">
 
-    <img src="images/search.svg" class="icon-right" id="searchBtn">
-  </div>
-</header>
+  <!-- ★ 검색창 내부 왼쪽에 카테고리 버튼 이동 -->
+  <button id="categoryDropdownBtn" class="category-btn inside">
+    <span id="currentCategory">All Videos</span>
+    <img src="images/arrow_down.svg" class="arrow">
+  </button>
 
-      <!-- ■ 카테고리바: category-bar / category-btn -->
-      <div class="category-bar">
-        <button id="categoryDropdownBtn" class="category-btn">
-          <span id="currentCategory">All Videos</span>
-          <img src="images/arrow_down.svg" class="arrow">
-        </button>
+  <input 
+          type="text"
+          id="searchInput"
+          placeholder="검색"
+          autocomplete="off"
+        >
 
-        <div id="categoryDropdown" class="category-dropdown hidden">
-          <div class="cat-item">All Videos</div>
-          <div class="cat-item">Releases</div>
-          <div class="cat-item">Special Releases</div>
-          <div class="cat-item">Broadcast Stage</div>
-          <div class="cat-item">Festival Stage</div>
-          <div class="cat-item">Official Channel</div>
-          <div class="cat-item">Original Variety</div>
-          <div class="cat-item">Recording Behind</div>
-          <div class="cat-item">Media Content</div>
-          <div class="cat-item">Media Performance</div>
-          <div class="cat-item">Interviews</div>
-          <div class="cat-item">Radio & Podcast</div>
-          <div class="cat-item">Live Streams</div>
-          <div class="cat-item">Commercials</div>
-          <div class="cat-item">Etc</div>
-          <div class="cat-item">Shorts</div>
-        </div>
+  <img src="images/search.svg" class="icon-right" id="searchBtn">
+</div>
+
+
+      <!-- ★★★ 드롭다운: 반드시 header-bar 내부에 둬야 동작함 -->
+      <div id="categoryDropdown" class="category-dropdown hidden">
+        <div class="cat-item">All Videos</div>
+        <div class="cat-item">Releases</div>
+        <div class="cat-item">Special Releases</div>
+        <div class="cat-item">Broadcast Stage</div>
+        <div class="cat-item">Festival Stage</div>
+        <div class="cat-item">Official Channel</div>
+        <div class="cat-item">Original Variety</div>
+        <div class="cat-item">Recording Behind</div>
+        <div class="cat-item">Media Content</div>
+        <div class="cat-item">Media Performance</div>
+        <div class="cat-item">Interviews</div>
+        <div class="cat-item">Radio & Podcast</div>
+        <div class="cat-item">Live Streams</div>
+        <div class="cat-item">Commercials</div>
+        <div class="cat-item">Etc</div>
+        <div class="cat-item">Shorts</div>
       </div>
 
-    </div>
-  </div>
+    </div><!-- header-bar 끝 -->
 
+  </div>
+</div>
 
 
   <!-- ■■■ 본문 container ■■■ -->
@@ -99,7 +97,7 @@
       <button id="toggleSortBtn" class="filterBtn">최신순</button>
     </div>
 
-<div id="filterMenu" class="hidden"></div>
+    <div id="filterMenu" class="hidden"></div>
 
     <!-- ■ 영상 갯수 -->
     <div class="video-count-row">
@@ -124,3 +122,4 @@
 
 </body>
 </html>
+
