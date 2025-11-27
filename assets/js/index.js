@@ -55,36 +55,51 @@ const allCardsContainer = document.getElementById("allCards");
    카테고리 → 데이터변수 매핑
 ============================================================ */
 function categoryToVarName(category) {
-  return (
-    category
-      .trim()
-      .toLowerCase()
-      .replace(/[^a-z0-9]+/gi, " ")
-      .split(" ")
-      .map((w, i) => (i === 0 ? w : w[0].toUpperCase() + w.slice(1)))
-      .join("") + "Cards"
-  );
+  const raw = category.trim();
+
+  // 한글 포함 여부
+  const hasHangul = /[가-힣]/.test(raw);
+
+  if (hasHangul) {
+    // 한글 카테고리는: 공백·특수문자 제거 후 Cards 붙이기
+    // "콜라보·OST·참여곡" → "콜라보OST참여곡Cards"
+    return raw
+      .replace(/[^가-힣a-zA-Z0-9]/g, "")   // 한글/영문/숫자 이외 제거
+      + "Cards";
+  } else {
+    // 영어는 기존 방식
+    return (
+      raw
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/gi, " ")
+        .split(" ")
+        .map((w, i) => (i === 0 ? w : w[0].toUpperCase() + w.slice(1)))
+        .join("") + "Cards"
+    );
+  }
 }
+
+
 
 /* ============================================================
    All Videos = 모든 카테고리를 합친 배열 생성
 ============================================================ */
 function buildAllVideos() {
   const vars = [
-    "releasesCards",
-    "specialReleasesCards",
-    "broadcastStageCards",
-    "festivalStageCards",
-    "officialChannelCards",
-    "originalVarietyCards",
-    "recordingBehindCards",
-    "mediaContentCards",
-    "mediaPerformanceCards",
-    "interviewsCards",
-    "radioPodcastCards",
-    "liveStreamsCards",
-    "commercialsCards",
-    "etcCards"
+    "발매곡Cards",
+    "OST참여곡Cards",
+    "방송무대Cards",
+    "페스티벌직캠Cards",
+    "공식채널Cards",
+    "자체예능Cards",
+    "녹음비하인드Cards",
+    "출연콘텐츠Cards",
+    "퍼포먼스클립Cards",
+    "매거진인터뷰Cards",
+    "라디오오디오쇼Cards",
+    "라이브방송Cards",
+    "광고Cards",
+    "기타Cards"
   ];
 
   let arr = [];
@@ -511,3 +526,36 @@ overlay.addEventListener("click", (e) => {
   }
 });
 
+/* ============================================================
+   카테고리 버튼 너비 
+============================================================ */
+function setCategoryButtonFixedWidth() {
+  const dummy = document.getElementById("categoryBtnDummy");
+  const items = document.querySelectorAll("#categoryDropdown .cat-item");
+
+  if (!dummy || !items.length) return;
+
+  let maxWidth = 0;
+
+  items.forEach(item => {
+    // 텍스트 넣기
+    dummy.innerHTML = `
+      <span>${item.textContent.trim()}</span>
+      <img src="images/arrow_down.svg" class="arrow">
+    `;
+
+    // width 측정 (전체 버튼)
+    const w = dummy.getBoundingClientRect().width;
+    if (w > maxWidth) maxWidth = w;
+  });
+
+  // divider 포함: + 8px
+  maxWidth += 8;
+
+  document.documentElement.style.setProperty(
+    "--category-btn-fixed-width",
+    `${maxWidth}px`
+  );
+}
+
+window.addEventListener("load", setCategoryButtonFixedWidth);

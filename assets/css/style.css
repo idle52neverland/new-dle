@@ -107,19 +107,33 @@ body {
 
 /* 검색창 내부 카테고리 버튼 */
 .category-btn.inside {
+  flex: 0 0 9.5rem;    /* ★ 정확한 고정폭 */
+  width: 9.5rem;
+  max-width: 9.5rem;
+
   display: flex;
   align-items: center;
   gap: 0.3rem;
-
+  
+  padding: 0 0.6rem 0 0.4rem;  /* 좌우 여유 공간 */
   background: none;
   border: none;
-  padding: 0;
   height: 100%;
-
+  
+  white-space: nowrap;         
+  overflow: hidden;            
   font-size: var(--fs-normal);
   color: #333;
   cursor: pointer;
 }
+#currentCategory {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 
 /* 구분선 */
 .category-btn.inside::after {
@@ -392,6 +406,22 @@ body {
     min-width: 8rem;
     max-width: 20rem;
     margin-left: 0 !important;
+  }
+
+  .searchbox input {
+    flex: 1 1 auto;
+    min-width: 0;
+    max-width: 8rem; 
+  }
+
+@media (max-width: 767px) {
+  .category-btn.inside {
+    flex: 0 0 8rem;
+    width: 8rem;
+    max-width: 8rem;
+  }
+  #currentCategory {
+    font-size: 0.7rem;  /* ← 원하는 크기로 여기만 바꾸면 됨 */
   }
 
   .card-container {
