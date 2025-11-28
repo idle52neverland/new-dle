@@ -31,7 +31,7 @@
 
 <body>
 
-  <!-- ■■■ 상단 고정 전체 wrapper ■■■ -->
+<!-- ■■■ 상단 고정 전체 wrapper ■■■ -->
 <div class="fixed-top-wrapper">
   <div class="fixed-inner">
 
@@ -41,28 +41,26 @@
       <img src="images/menu.svg" class="mobile-menu-btn">
       <img src="images/home.svg" class="icon-left" id="homeBtn">
 
-<div class="searchbox">
-
-  <!-- ★ 검색창 내부 왼쪽에 카테고리 버튼 이동 -->
-  <button id="categoryDropdownBtn" class="category-btn inside">
-    <span id="currentCategory">All Videos</span>
-    <img src="images/arrow_down.svg" class="arrow">
-  </button>
-
-  <input 
-          type="text"
-          id="searchInput"
-          placeholder="검색"
-          autocomplete="off"
+      <!-- ★ 검색창  -->
+      <div class="searchbox">
+        <input 
+            type="text"
+            id="searchInput"
+            placeholder="검색"
+            autocomplete="off"
         >
+        <img src="images/search.svg" class="icon-right" id="searchBtn">
+      </div>
 
-  <img src="images/search.svg" class="icon-right" id="searchBtn">
-</div>
+      <!-- ★ 카테고리 버튼 (고정폭 유지) -->
+      <button id="categoryDropdownBtn" class="category-btn">
+        <span id="currentCategory">All Videos</span>
+        <img src="images/arrow_down.svg" class="arrow">
+      </button>
 
-
-      <!-- ★★★ 드롭다운: 반드시 header-bar 내부에 둬야 동작함 -->
+      <!-- ★★★ 카테고리 드롭다운 -->
       <div id="categoryDropdown" class="category-dropdown hidden">
-        <div class="cat-item">All Video</div>
+        <div class="cat-item">All Videos</div>
         <div class="cat-item">발매곡</div>
         <div class="cat-item">OST·참여곡</div>
         <div class="cat-item">음악방송·시상식</div>
@@ -84,6 +82,7 @@
 
   </div>
 </div>
+
 
 
   <!-- ■■■ 본문 container ■■■ -->
@@ -119,6 +118,8 @@
     </footer>
 
   </div>
+<div id="categoryBtnDummy" style="position:absolute; visibility:hidden; white-space:nowrap;"></div>
+
 
 </body>
 </html>

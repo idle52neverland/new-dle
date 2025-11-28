@@ -329,26 +329,26 @@ function openFilterMenu(type, btn) {
   if (type === "subtag") {
     const cat = currentCategory.textContent.trim();
     const subtagMap = {
-      "Releases": ["전체","MV","Special Clip","Audio Track"],
-      "Special Releases": ["전체","음악방송","쇼케이스","특집"],
-      "Broadcast Stage": ["전체","음악방송","쇼케이스","특집"],
-      "Festival Stage": ["전체","음악방송","쇼케이스","특집"],
-      "Official Channel": [
+      "발매곡": ["전체","MV","Special Clip","Audio Track"],
+      "OST·참여곡": ["전체","음악방송","쇼케이스","특집"],
+      "음악방송·시상식": ["전체","음악방송","쇼케이스","특집"],
+      "페스티벌 직캠": ["전체","음악방송","쇼케이스","특집"],
+      "공식 채널": [
         "전체","아이톡 | I-TALK","해시톡 | HASHTALK","아이로그 | I-LOG",
         "라이브 H/L | I-LIVE H/L","비하인드 외전 | Extra Behind",
         "프로모션 | Comeback Promotion","퍼포먼스 | Performance",
         "커버곡 | Cover","스페셜컨텐츠 | Special Content",
         "응원법 | Fan Chant","기타 | Etc"
       ],
-      "Original Variety": ["전체","음악방송","쇼케이스","특집"],
-      "Recording Behind": ["전체","음악방송","쇼케이스","특집"],
-      "Media Content": ["전체","음악방송","쇼케이스","특집"],
-      "Media Performance": ["전체","음악방송","쇼케이스","특집"],
-      "Interviews": ["전체","음악방송","쇼케이스","특집"],
-      "Radio & Podcast": ["전체","음악방송","쇼케이스","특집"],
-      "Live Streams": ["전체","음악방송","쇼케이스","특집"],
-      "Commercials": ["전체","음악방송","쇼케이스","특집"],
-      "Etc": ["전체","음악방송","쇼케이스","특집"],
+      "자체 예능": ["전체","음악방송","쇼케이스","특집"],
+      "녹음 비하인드": ["전체","음악방송","쇼케이스","특집"],
+      "출연 콘텐츠": ["전체","음악방송","쇼케이스","특집"],
+      "퍼포먼스 클립": ["전체","음악방송","쇼케이스","특집"],
+      "매거진·인터뷰": ["전체","음악방송","쇼케이스","특집"],
+      "라디오·오디오쇼": ["전체","음악방송","쇼케이스","특집"],
+      "라이브 방송": ["전체","음악방송","쇼케이스","특집"],
+      "광고": ["전체","음악방송","쇼케이스","특집"],
+      "기타": ["전체","음악방송","쇼케이스","특집"],
       "Shorts": ["전체","음악방송","쇼케이스","특집"]
     };
     const list = subtagMap[cat] || ["전체"];
@@ -513,49 +513,58 @@ document.addEventListener("contextmenu", (e) => {
 });
 
 
-const openSearchOverlay = document.getElementById("openSearchOverlay");
-const overlay = document.querySelector(".search-overlay");
-
-openSearchOverlay.addEventListener("click", () => {
-  overlay.classList.remove("hidden");
-});
-
-overlay.addEventListener("click", (e) => {
-  if (e.target === overlay) {
-    overlay.classList.add("hidden");
-  }
-});
-
 /* ============================================================
-   카테고리 버튼 너비 
+   카테고리 버튼 자동 고정폭 계산
 ============================================================ */
 function setCategoryButtonFixedWidth() {
-  const dummy = document.getElementById("categoryBtnDummy");
-  const items = document.querySelectorAll("#categoryDropdown .cat-item");
+  const btn = document.getElementById("categoryDropdownBtn");
+  if (!btn) return;
 
-  if (!dummy || !items.length) return;
+  const span = btn.querySelector("span");
+  const arrow = btn.querySelector(".arrow");
+
+  // 실제 사이트에서 사용하는 카테고리 텍스트 목록
+  const categoryNames = [
+    "All Videos",
+    "발매곡",
+    "OST·참여곡",
+    "음악방송·시상식",
+    "페스티벌 직캠",
+    "공식 채널",
+    "자체 예능",
+    "녹음 비하인드",
+    "출연 콘텐츠",
+    "퍼포먼스 클립",
+    "매거진·인터뷰",
+    "라디오·오디오쇼",
+    "라이브 방송",
+    "광고",
+    "기타",
+    "Shorts"
+  ];
 
   let maxWidth = 0;
+  const originalText = span.textContent;
 
-  items.forEach(item => {
-    // 텍스트 넣기
-    dummy.innerHTML = `
-      <span>${item.textContent.trim()}</span>
-      <img src="images/arrow_down.svg" class="arrow">
-    `;
-
-    // width 측정 (전체 버튼)
-    const w = dummy.getBoundingClientRect().width;
+  categoryNames.forEach(name => {
+    span.textContent = name;
+    const w = btn.getBoundingClientRect().width;
     if (w > maxWidth) maxWidth = w;
   });
 
-  // divider 포함: + 8px
-  maxWidth += 8;
+  // 패딩/여백 고려하여 여유 값 추가
+  maxWidth += 4;
 
+  // CSS 변수 설정
   document.documentElement.style.setProperty(
     "--category-btn-fixed-width",
     `${maxWidth}px`
   );
+
+  // 원래 카테고리명 복구
+  span.textContent = originalText;
 }
 
+// 페이지 로드 시 실행
 window.addEventListener("load", setCategoryButtonFixedWidth);
+
