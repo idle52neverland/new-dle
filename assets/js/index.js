@@ -364,6 +364,9 @@ function openFilterMenu(type, btn) {
   filterMenu.style.top  = window.scrollY + rect.bottom + 4 + "px";
 }
 
+
+
+
 /* ============================================================
    이벤트 연결
 ============================================================ */
@@ -389,9 +392,14 @@ scrollTopBtn.addEventListener("click", () =>
   window.scrollTo({ top: 0, behavior: "auto" })
 );
 
-categoryDropdownBtn.addEventListener("click", () =>
-  categoryDropdown.classList.toggle("hidden")
-);
+categoryDropdownBtn.addEventListener("click", () => {
+  categoryDropdown.classList.toggle("hidden");
+
+  if (!categoryDropdown.classList.contains("hidden")) {
+    positionCategoryDropdown(); // ★ 버튼 바로 아래로 위치
+  }
+});
+
 
 categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
   item.addEventListener("click", () => {
@@ -512,6 +520,12 @@ document.addEventListener("contextmenu", (e) => {
   }
 });
 
+function positionCategoryDropdown() {
+  const rect = categoryDropdownBtn.getBoundingClientRect();
+  categoryDropdown.style.position = "fixed";   // ★ fixed 로 고정
+  categoryDropdown.style.left = rect.left + "px";
+  categoryDropdown.style.top  = (rect.bottom + 4) + "px";  // window.scrollY 필요 없음
+}
 
 /* ============================================================
    카테고리 버튼 자동 고정폭 계산

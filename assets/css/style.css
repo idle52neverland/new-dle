@@ -2,7 +2,7 @@
    GLOBAL ROOT SETTINGS (폰트, 단위, 전체 UI 비율 자동화)
 =========================================================== */
 :root {
-  font-size: 16px;
+  font-size: 14px;
 
   --radius-small: 0.35rem;
   --radius-med: 0.55rem;
@@ -109,7 +109,6 @@ body {
   flex: 1;
   border: none;
   background: transparent;
-  margin-left: 0.65rem;
   font-size: var(--fs-small);
   outline: none;
   color: #333;
@@ -154,8 +153,6 @@ body {
 =========================================================== */
 .category-dropdown {
   position: absolute;
-  top: calc(100% + 0.35rem);
-  left: 0.5rem;
 
   background: #fff;
   border-radius: var(--radius-med);
@@ -163,6 +160,8 @@ body {
   box-shadow: 0 4px 10px rgba(0,0,0,0.12);
   width: 12rem;
   z-index: 1200;
+  left: 0;
+  top: 0;
 }
 
 .hidden { display: none; }
@@ -455,6 +454,10 @@ body {
 
   .card-container.vertical-mode {
     grid-template-columns: 1fr;
+  }
+
+.thumb-wrap {
+    border-radius: 0 !important;
   }
 }
 
