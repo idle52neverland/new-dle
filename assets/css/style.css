@@ -329,7 +329,13 @@ body {
    SHORTS MODE
 =========================================================== */
 .card-container.vertical-mode {
-  grid-template-columns: repeat(auto-fit, minmax(clamp(8rem, 22%, 12rem), 1fr));
+  /*
+    기존: grid-template-columns: repeat(auto-fit, minmax(clamp(8rem, 18%, 10rem), 1fr));
+    ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+  */
+  /* PC (768px 이상)에서 5열로 고정하고, 각 열의 너비를 균등하게 분배 (1fr) */
+  grid-template-columns: repeat(5, 1fr); 
+  gap: 1rem; /* 일반 카드와 동일하거나 원하는 간격으로 조정 */
 }
 
 .card-container.vertical-mode .thumb-wrap {
@@ -454,6 +460,12 @@ body {
 
   .card-container.vertical-mode {
     grid-template-columns: 1fr;
+  }
+
+.card-container.vertical-mode {
+    /* SHORTS 카테고리 (세로형): 2열로 수정 */
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 0.5rem; /* 2열로 촘촘해지므로 간격 조정 */
   }
 
 .thumb-wrap {

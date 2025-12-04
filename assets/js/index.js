@@ -88,7 +88,7 @@ function buildAllVideos() {
   const vars = [
     "발매곡Cards",
     "OST참여곡Cards",
-    "방송무대Cards",
+    "음악방송시상식Cards",
     "페스티벌직캠Cards",
     "공식채널Cards",
     "자체예능Cards",
