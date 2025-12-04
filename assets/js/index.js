@@ -527,58 +527,18 @@ function positionCategoryDropdown() {
   categoryDropdown.style.top  = (rect.bottom + 4) + "px";  // window.scrollY 필요 없음
 }
 
-/* ============================================================
-   카테고리 버튼 자동 고정폭 계산
-============================================================ */
-function setCategoryButtonFixedWidth() {
-  const btn = document.getElementById("categoryDropdownBtn");
-  if (!btn) return;
 
-  const span = btn.querySelector("span");
-  const arrow = btn.querySelector(".arrow");
+function positionCategoryDropdown() {
+  const rect = categoryDropdownBtn.getBoundingClientRect();
+  
+  categoryDropdown.style.position = "fixed";   // 뷰포트 기준 고정
 
-  // 실제 사이트에서 사용하는 카테고리 텍스트 목록
-  const categoryNames = [
-    "All Videos",
-    "발매곡",
-    "OST·참여곡",
-    "음악방송·시상식",
-    "페스티벌 직캠",
-    "공식 채널",
-    "자체 예능",
-    "녹음 비하인드",
-    "출연 콘텐츠",
-    "퍼포먼스 클립",
-    "매거진·인터뷰",
-    "라디오·오디오쇼",
-    "라이브 방송",
-    "광고",
-    "기타",
-    "Shorts"
-  ];
-
-  let maxWidth = 0;
-  const originalText = span.textContent;
-
-  categoryNames.forEach(name => {
-    span.textContent = name;
-    const w = btn.getBoundingClientRect().width;
-    if (w > maxWidth) maxWidth = w;
-  });
-
-  // 패딩/여백 고려하여 여유 값 추가
-  maxWidth += 4;
-
-  // CSS 변수 설정
-  document.documentElement.style.setProperty(
-    "--category-btn-fixed-width",
-    `${maxWidth}px`
-  );
-
-  // 원래 카테고리명 복구
-  span.textContent = originalText;
+  // ★ 드롭다운 메뉴의 오른쪽 끝을 버튼의 오른쪽 끝에 맞춥니다.
+  categoryDropdown.style.right = (window.innerWidth - rect.right) + "px";
+  
+  // 왼쪽 속성은 적용되지 않도록 "auto"로 설정
+  categoryDropdown.style.left = "auto"; 
+  
+  // 버튼 바로 아래에 위치
+  categoryDropdown.style.top  = (rect.bottom + 4) + "px";
 }
-
-// 페이지 로드 시 실행
-window.addEventListener("load", setCategoryButtonFixedWidth);
-

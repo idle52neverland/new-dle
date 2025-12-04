@@ -37,25 +37,25 @@
 
     <div class="header-bar">
 
-      <!-- 메뉴 + 홈 -->
       <img src="images/menu.svg" class="mobile-menu-btn">
       <img src="images/home.svg" class="icon-left" id="homeBtn">
 
-      <!-- ★ 검색창  -->
       <div class="searchbox">
         <input 
             type="text"
             id="searchInput"
             autocomplete="off"
         >
+        
         <img src="images/search.svg" class="icon-right" id="searchBtn">
+        
+        <div class="separator"></div>
+        
+        <button id="categoryDropdownBtn" class="category-btn in-search">
+            <span id="currentCategory">All Videos</span>
+            <img src="images/arrow_down.svg" class="arrow"> 
+        </button>
       </div>
-
-      <!-- ★ 카테고리 버튼 (고정폭 유지) -->
-      <button id="categoryDropdownBtn" class="category-btn">
-        <span id="currentCategory">All Videos</span>
-        <img src="images/arrow_down.svg" class="arrow">
-      </button>
 
       <!-- ★★★ 카테고리 드롭다운 -->
       <div id="categoryDropdown" class="category-dropdown hidden">
