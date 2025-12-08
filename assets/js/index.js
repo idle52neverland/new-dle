@@ -14,12 +14,32 @@ function simplifyDuration(d) {
 }
 
 /* ============================================================
-   전역 변수
+   전역 변수 (수정)
 ============================================================ */
 let allCards = [];
 let filteredCards = [];
 let visibleCount = 0;
-const CARDS_PER_LOAD = 40;
+
+function getCardsPerLoad() {
+  const width = window.innerWidth;
+  const isMobile = width < 768;
+  const container = document.getElementById("allCards");
+  const isVertical = container.classList.contains("vertical-mode");
+
+  if (isMobile) {
+    return 40; 
+  } else {
+    const containerWidth = Math.min(width, 1284);
+    
+    if (isVertical) {
+      const cardsPerRow = Math.floor(containerWidth / 192);
+      return cardsPerRow * 15; 
+    } else {
+      const cardsPerRow = Math.floor(containerWidth / 276);
+      return cardsPerRow * 15; 
+    }
+  }
+}
 
 let sortOrder = "newest";
 
@@ -134,7 +154,10 @@ function renderCards(reset = false) {
   }
 
   const cat = currentCategory.textContent.trim(); 
-  const slice = filteredCards.slice(visibleCount, visibleCount + CARDS_PER_LOAD);
+
+  // ★ 정의된 함수를 호출하여 현재 상황에 맞는 개수를 가져옵니다.
+  const cardsPerLoad = getCardsPerLoad();
+  const slice = filteredCards.slice(visibleCount, visibleCount + cardsPerLoad);
 
   slice.forEach(item => {
   const card = document.createElement("div");

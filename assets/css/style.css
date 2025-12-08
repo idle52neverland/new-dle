@@ -2,7 +2,7 @@
    GLOBAL ROOT SETTINGS (폰트, 단위, 전체 UI 비율 자동화)
 =========================================================== */
 :root {
-  font-size: 14px;
+  font-size: 15px;
 
   --radius-small: 0.35rem;
   --radius-med: 0.55rem;
@@ -26,8 +26,14 @@
 body {
   margin: 0;
   background: #fff;
-  font-family: Arial, sans-serif;
-  font-size: var(--fs-normal);
+  font-family: 'Roboto', 'Arial', sans-serif;
+  color: #0f0f0f; /* 유튜브 특유의 진한 검정색 */
+  -webkit-font-smoothing: antialiased; 
+}
+
+body, button, input, select, textarea, div, span {
+  font-family: 'Roboto', 'Arial', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
 }
 
 /* ===========================================================
@@ -44,7 +50,7 @@ body {
 }
 
 .fixed-inner {
-  max-width: 1600px;
+  max-width: 1284px;
   width: min(100%, 90%);
   margin: 0 auto;
   padding: 0.75rem 0;
@@ -96,7 +102,7 @@ body {
   border: 1px solid #ccc;
   border-radius: 2rem;
   padding: 0 0.5rem; /* 좌우 패딩을 줄여 공간 확보 */
-  height: 2.5rem;
+  height: 3rem;
   width: 40rem;
   min-width: 18rem;
   max-width: 50rem;
@@ -106,19 +112,23 @@ body {
 
 /* 검색 입력창 */
 .searchbox input {
-  flex: 1; /* 입력창이 남은 공간을 모두 차지 */
+  font-size: 16px !important;
+  transform: scale(0.8);
+  transform-origin: left center; /* 왼쪽 기준으로 축소하여 정렬 유지 */
+  flex: 1; 
   border: none;
   background: transparent;
-  font-size: var(--fs-small);
+  font-family: inherit; 
+  font-size: var(--fs-normal); 
   outline: none;
-  color: #333;
-  padding: 0 0.25rem;
+  color: #0f0f0f; 
+  padding: 0 1rem; 
 }
 
 /* 돋보기 아이콘 (검색창 내부) */
 .searchbox .icon-right {
-  width: 1.2rem;
-  height: 1.2rem;
+  width: 1.5rem;
+  height: 1.5rem;
   flex-shrink: 0;
   cursor: pointer;
   margin-right: 0.5rem; /* 구분선과의 간격 */
@@ -193,21 +203,26 @@ body {
 .cat-item, 
 .filter-item,
 #currentCategory {
-    /* 브라우저가 날짜로 인식해 파란색으로 바꾸는 걸 무력화 */
-    color: inherit !important; 
-    color: #000 !important; /* 명시적으로 검은색 지정 */
+    font-family: inherit; /* body의 Roboto를 상속 */
+    font-weight: 500;    
+    color: #0f0f0f !important;
     text-decoration: none !important;
     
     /* iOS Safari 등에서 파란색 하이라이트 방지 */
     -webkit-tap-highlight-color: transparent;
 }
 
+/* 필터 버튼은 클릭 시 약간 더 선명하게 보이기 위해 500 사용 권장 */
+.filterBtn {
+    font-weight: 500;
+}
+
 /* ===========================================================
    MAIN CONTAINER
 =========================================================== */
 .container {
-  max-width: 1600px;
-  width: min(100%, 90%);
+  max-width: 1284px !important;
+  width: 100%;
   padding-top: clamp(4rem, 10vw, 5rem);
   margin: 0 auto;
   padding-bottom: 3rem;
@@ -220,6 +235,7 @@ body {
   display: flex;
   gap: var(--gap-small);
   margin-bottom: 0.5rem;
+  padding-left: 15px;
 }
 
 .filterBtn {
@@ -264,20 +280,24 @@ body {
 .video-count-row {
   display: flex;
   justify-content: flex-end;
-  font-size: var(--fs-normal);
-  color: #444;
-  margin-bottom: 0.5rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.95rem; /* 약간 작게 */
+  font-weight: 500; /* 유튜브 메타데이터보다 살짝 강조된 느낌 */
+  color: #0f0f0f; /* 연한 회색에서 진한 검정으로 변경 */
+  margin-bottom: 0.8rem;
+  padding-right: 15px;
 }
 
 /* ===========================================================
    CARD GRID
 =========================================================== */
 .card-container {
-  margin-top: 0.5rem;
-  display: grid;
-  width: 100%;
-  grid-template-columns: repeat(auto-fit, minmax(clamp(18rem, 28%, 22rem), 1fr));
-  gap: clamp(1rem, 2vw, 1.5rem);
+    display: grid;
+    /* ★ 핵심 수정: 카드 최소 너비를 간격(16px)을 포함한 값인 260px 정도로 키움 */
+    /* 이렇게 해야 1284px 공간 안에서 5개가 들어가지 못하고 4개로 고정됩니다. */
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)) !important;
+    gap: 16px !important; 
+    padding: 0 16px;
 }
 
 .card {
@@ -317,16 +337,17 @@ body {
 }
 
 .card-title {
-  width: 95%;
-  margin: 0.6rem auto 0;
-  font-size: var(--fs-large);
-  line-height: 1.35;
-  color: #000;
-
+  width: 95% !important;        
+  margin: 12px auto 0 !important; 
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.4rem;
+  color: #0f0f0f;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
   overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .card-meta {
@@ -343,55 +364,96 @@ body {
 .card-meta span:last-child { color: #888; }
 
 .card-info {
-  width: 95%;
-  margin: 0.4rem auto 1rem;
-  font-size: var(--fs-normal);
-  color: #666;
+  width: 95% !important;       
+  margin: 4px auto 1rem !important; 
+  font-size: 0.85rem;
+  color: #606060;
   line-height: 1.35;
 }
 
 /* ===========================================================
    SHORTS MODE
 =========================================================== */
+/* style.css */
+
+/* 1. 숏츠 그리드: 1284px 공간 내에서 무조건 6개 배열되도록 수치 낮춤 */
 .card-container.vertical-mode {
-  /*
-    기존: grid-template-columns: repeat(auto-fit, minmax(clamp(8rem, 18%, 10rem), 1fr));
-    ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-  */
-  /* PC (768px 이상)에서 5열로 고정하고, 각 열의 너비를 균등하게 분배 (1fr) */
-  grid-template-columns: repeat(5, 1fr); 
-  gap: 1rem; /* 일반 카드와 동일하거나 원하는 간격으로 조정 */
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)) !important; 
+    gap: 12px !important; 
+    padding: 0 16px !important;
 }
 
+/* 2. 썸네일 박스: 상하를 자르기 위해 세로를 깎은 9:14 비율 */
 .card-container.vertical-mode .thumb-wrap {
-  aspect-ratio: 9/16;
+    width: 100% !important;
+    aspect-ratio: 9 / 14 !important; 
+    overflow: hidden !important; 
+    position: relative !important;
+    background: #000;
+}
+
+/* 3. 이미지 설정: 박스보다 이미지를 20% 더 크게 늘려 여백을 덮어버림 */
+.card-container.vertical-mode .thumb-wrap img {
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 120% !important; 
+    height: auto !important;
+    min-height: 120% !important; 
+    
+    /* 비율 유지하며 빈틈없이 쑤셔넣기 */
+    object-fit: cover !important; 
+    
+    /* 브라우저의 이미지 축소 로직을 강제로 무시 */
+    max-width: none !important;
+    display: block !important;
+}
+
+/* 4. 모바일 최적화: 2열 유지 및 촘촘한 간격 */
+@media (max-width: 767px) {
+    .card-container.vertical-mode {
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 6px !important; 
+        padding: 0 6px !important;
+    }
 }
 
 
-/* 트위터 모드일 때 그리드를 한 줄로 강제하고 중앙 정렬 */
 .card-container.twitter-mode {
   display: flex !important;
   flex-direction: column !important;
-  align-items: center !important;
-  grid-template-columns: 1fr !important; /* 그리드 설정 무력화 */
+  align-items: center !important; /* 자식 요소들을 가로축 중앙으로 */
+  width: 100%;
 }
 
 .tweet-card {
   width: 100%;
   max-width: 550px;
-  min-height: 450px; /* 트윗 로드 전 자리를 잡아줌 */
-  margin: 1.5rem auto !important;
-  display: block !important;
-  
-  /* --- 로딩 애니메이션 추가 시작 --- */
-  background: linear-gradient(90deg, #f0f0f0 25%, #f8f8f8 50%, #f0f0f0 75%);
-  background-size: 200% 100%;
-  animation: tweetLoading 1.5s infinite;
-  border-radius: 12px;
-  border: 1px solid #eee;
-  /* --- 로딩 애니메이션 추가 끝 --- */
+  min-height: 450px;
+  margin: 1.5rem auto !important; /* 상하 간격, 좌우 자동(중앙) */
+  display: flex !important;      /* 내부 로딩 메시지 정렬을 위해 flex 사용 */
+  align-items: center;
+  justify-content: center;
+  position: relative;
 }
 
+/* 로딩 중 텍스트 표시 */
+.tweet-card::before {
+  content: "X(Twitter) 게시물을 불러오는 중...";
+  font-size: 14px;
+  color: #000;
+  position: absolute;
+  z-index: 1; /* 트윗이 로드되면 아래에 깔리게 함 */
+}
+
+/* 트윗 로드가 완료되면 글자가 안 보이도록 (트윗 박스가 위를 덮음) */
+.tweet-card iframe {
+  position: relative;
+  z-index: 2;
+  background: white; /* 로드된 후 글자가 안 비치게 배경색 지정 */
+}
 
 /* ===========================================================
    FOOTER / BUTTONS
@@ -405,20 +467,27 @@ body {
 
 .more-btn,
 .top-btn {
-  width: clamp(2rem, 4vw, 2.4rem);
-  height: clamp(2rem, 4vw, 2.4rem);
+  width: clamp(2.4rem, 5vw, 2.8rem) !important;
+  height: clamp(2.4rem, 5vw, 2.8rem) !important;
   border-radius: 50%;
   background: var(--bg-btn);
   border: var(--border-default);
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: transform 0.2s ease; 
+}
+
+.more-btn img,
+.top-btn img {
+  width: 1.2rem !important; 
+  height: 1.2rem !important;
 }
 
 #scrollTopBtn {
   position: fixed;
-  bottom: clamp(1.5rem, 4vw, 2rem);
-  right: clamp(1.5rem, 4vw, 2rem);
+  bottom: 2rem;
+  right: 2rem;
   z-index: 1000;
 }
 
@@ -427,116 +496,127 @@ body {
 =========================== */
 @media (max-width: 767px) {
 
-/* ★★★ 모바일에서 inner 컨테이너 너비를 100%로 설정 ★★★ */
+    /* ★★★ 모바일에서 inner 컨테이너 너비를 100%로 설정 ★★★ */
     .fixed-inner {
         width: 100% !important; 
-        /* 상하 패딩 유지, 좌우 패딩을 0으로 설정하여 header-bar에 위임 */
         padding: 0.75rem 0; 
     }
 
-    /* 상단바 전체 (.header-bar): 좌우 여백을 10px에 맞춰 줌 */
+    /* 상단바 전체 (.header-bar): 한 줄 유지 및 정렬 보정 */
     .header-bar {
         gap: 0.4rem !important; 
-        /* ★★★ 좌우 여백을 10px로 설정 (혹은 0.7rem으로) ★★★ */
         padding: 0 10px; 
+        display: flex !important;
+        flex-wrap: nowrap !important; /* 요소들이 아래로 꺾이지 않게 함 */
     }
     
-  /* 메뉴/홈 아이콘 크기 통일 */
-  .mobile-menu-btn,
-  .icon-left {
-      width: 1.7rem;
-      height: 1.7rem;
-  }
-    
-  /* 모바일 검색창: 꽉 찬 너비 사용 */
-  .searchbox {
-    flex: 1; 
-    min-width: 0;
-    max-width: none; 
-    height: 2.1rem; 
-    padding: 0 0.2rem; /* ★ searchbox 내부 좌우 패딩을 더 줄임 */
-  }
-
-  /* 돋보기 크기 및 간격 조정 */
-  .searchbox .icon-right {
-    width: 1.1rem;
-    height: 1.1rem;
-    margin-right: 0.2rem; /* ★ 구분선과의 간격을 더 줄임 */
-  }
-
-  /* 구분선 조정 */
-  .searchbox .separator {
-      margin-right: 0.2rem; /* ★ 카테고리 버튼과의 간격을 더 줄임 */
-  }
-    
-  /* 카테고리 버튼 조정 */
-  .category-btn.in-search {
-    padding: 0 0.4rem; /* ★ 버튼 내부 좌우 패딩을 더 줄임 */
-    font-size: var(--fs-small);
-    border-radius: 0 2rem 2rem 0;
-    /* .searchbox의 패딩(0.2rem)에 맞춰 오른쪽 벽에 붙이도록 조정 */
-    margin-right: -0.2rem; 
-  }
-    
-  /* 드롭다운 화살표 조정 */
-  .category-btn .arrow {
-      width: 0.7rem;
-      height: 0.7rem;
-  }
-  
-  /* ★ 모바일 카테고리 버튼 고정폭 관련 CSS 변수 제거 */
-  .category-btn {
-    width: auto !important; /* 고정폭 대신 자동 너비 사용 */
-    min-width: auto !important;
-    max-width: auto !important;
-  }
-
-  /* 필터 버튼 */
-  .filter-bar {
-    justify-content: flex-start;
-    padding-left: 10px;   /* 왼쪽 여백 */
-  }
-
-  .video-count-row {
-    padding-right: 10px;  
-  }
-
-  /* 카드: 모바일에서 벽에 완전 딱 붙게 */
-  .container {
-    width: 100%;
-    padding-left: 0;
-    padding-right: 0;
-  }
-
-  
-  .card-container {
-    grid-template-columns: 1fr;
-    width: 100%;
-    margin: 0 auto;
-    padding-left: 0;
-    padding-right: 0;
-  }
-
-  .card-container.vertical-mode {
-    grid-template-columns: 1fr;
-  }
-
-.card-container.vertical-mode {
-    /* SHORTS 카테고리 (세로형): 2열로 수정 */
-    grid-template-columns: repeat(2, 1fr); 
-    gap: 0.5rem; /* 2열로 촘촘해지므로 간격 조정 */
-  }
-
-.thumb-wrap {
-    border-radius: 0 !important;
-  }
-}
-
-  .tweet-card {
-    max-width: 100%;
-  }
-}
-.filterBtn, .cat-item {
-        -webkit-tap-highlight-color: transparent; /* 터치 시 파란 박스 방지 */
-
+    .mobile-menu-btn,
+    .icon-left {
+        width: 1.7rem;
+        height: 1.7rem;
     }
+    
+    /* 모바일 검색창: 내부 요소가 버튼 길이에 따라 유연하게 반응 */
+    .searchbox {
+        flex: 1; 
+        min-width: 0;
+        max-width: none; 
+        height: 2.1rem; 
+        padding: 0 0.2rem; 
+        display: flex !important;
+        flex-wrap: nowrap !important; /* 내부 2줄 방지 */
+    }
+
+    .searchbox input {
+        flex: 1 1 auto !important; /* 버튼이 커지면 유연하게 줄어듦 */
+        min-width: 0 !important;   /* ★ 중요: 버튼에 자리를 양보하기 위해 최소너비 해제 */
+        font-size: 16px !important; 
+        font-family: inherit;
+        /* 시각적 크기 보정 */
+        transform: scale(0.9);
+        transform-origin: left center;
+        padding: 0 0.5rem !important;
+    }
+
+    .searchbox .icon-right {
+        width: 1.1rem;
+        height: 1.1rem;
+        margin-right: 0.2rem; 
+    }
+
+    .searchbox .separator {
+        margin-right: 0.2rem; 
+    }
+    
+    /* 카테고리 버튼: 글자 길이에 맞춰 자동으로 늘어나며 1줄 유지 */
+    .category-btn.in-search {
+        flex: 0 0 auto !important;  /* ★ 중요: 글자 길이만큼만 공간 차지 */
+        white-space: nowrap !important; /* ★ 중요: 절대 2줄로 꺾이지 않게 강제 */
+        width: auto !important;     /* 고정 너비 해제 */
+        padding: 0 0.4rem; 
+        font-size: var(--fs-small);
+        border-radius: 0 2rem 2rem 0;
+        margin-right: -0.2rem; 
+        display: flex !important;
+        align-items: center;
+        max-width: 45%; /* 너무 길어져서 인풋을 가리는 것 방지 */
+    }
+    
+    .category-btn .arrow {
+        width: 0.7rem;
+        height: 0.7rem;
+        margin-left: 2px !important; /* 간격 미세 조정 */
+    }
+    
+    /* 모바일 카테고리 버튼 공통 설정 */
+    .category-btn {
+        width: auto !important; 
+        min-width: auto !important;
+        max-width: auto !important;
+    }
+
+    /* 필터 버튼 */
+    .filter-bar {
+        justify-content: flex-start;
+        padding-left: 10px;
+        overflow-x: auto; /* 공간 부족 시 가로 스크롤 가능하게 */
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .video-count-row {
+        font-size: 0.8rem !important; 
+        margin-bottom: 0.4rem;       
+        padding-right: 10px;         
+        font-weight: 400;            
+    }
+
+    /* 본문 레이아웃 */
+    .container {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .card-container {
+        grid-template-columns: 1fr;
+        width: 100%;
+        margin: 0 auto;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .thumb-wrap {
+        border-radius: 0 !important;
+    }
+
+    /* 트위터 카드 */
+    .tweet-card {
+        max-width: 100%;
+    }
+
+    /* 하이라이트 방지 */
+    .filterBtn, .cat-item {
+        -webkit-tap-highlight-color: transparent; 
+    }
+}
