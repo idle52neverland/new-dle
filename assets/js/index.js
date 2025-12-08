@@ -57,6 +57,9 @@ const allCardsContainer = document.getElementById("allCards");
 function categoryToVarName(category) {
   const raw = category.trim();
 
+// ★ 이 부분을 추가하세요: 트위터 카테고리 강제 매핑
+  if (raw === "X(Twitter)") return "xTwitterCards";
+
   // 한글 포함 여부
   const hasHangul = /[가-힣]/.test(raw);
 
@@ -122,53 +125,82 @@ function sortCards(list) {
 }
 
 /* ============================================================
-   카드 렌더링 (페이드 인)
+   카드 렌더링 (최종 수정 버전)
 ============================================================ */
 function renderCards(reset = false) {
-
   if (reset) {
     allCardsContainer.innerHTML = "";
     visibleCount = 0;
   }
 
+  const cat = currentCategory.textContent.trim(); 
   const slice = filteredCards.slice(visibleCount, visibleCount + CARDS_PER_LOAD);
 
   slice.forEach(item => {
-    const card = document.createElement("div");
-    card.className = "card";
+  const card = document.createElement("div");
+
+  // 1. 트위터 카테고리일 경우 (임베드 형식)
+  if (cat === "X(Twitter)") {
+    card.className = "tweet-card";
+    
+    // ★ 테스트 파일(twitter.js)에서 사용한 치환 로직 적용
+    // x.com 주소를 twitter.com으로 실시간 변환하여 스크립트 인식률 향상
+    const compatUrl = item.url.replace("https://x.com", "https://twitter.com");
 
     card.innerHTML = `
-      <div class="thumb-wrap">
-        <img src="${item.thumbnail}">
-        <div class="thumb-duration">${simplifyDuration(item.duration)}</div>
-      </div>
-      <div class="card-title">${item.title}</div>
-      <div class="card-info">${
-        [
-          (item.date ? String(item.date).split("T")[0] : ""),
-          (item.member || ""),
-          (item.note || "")
-        ].filter(Boolean).join(" ")
-      }</div>
+      <blockquote class="twitter-tweet" data-lang="ko" data-dnt="true">
+        <a href="${compatUrl}"></a> </blockquote>
     `;
+  }
+    // 2. 일반 카테고리일 경우
+    else {
+      card.className = "card";
+      const displayThumb = item.thumbnail || "";
+      const displayTitle = item.title || "";
+      
+      card.innerHTML = `
+        <div class="thumb-wrap">
+          <img src="${displayThumb}">
+          <div class="thumb-duration">${simplifyDuration(item.duration)}</div>
+        </div>
+        <div class="card-title">${displayTitle}</div>
+        <div class="card-info">${
+          [
+            (item.date ? String(item.date).split("T")[0] : ""),
+            (item.member || ""),
+            (item.note || "")
+          ].filter(Boolean).join(" ")
+        }</div>
+      `;
 
-    card.addEventListener("click", () => {
-      if (item.link) window.open(item.link, "_blank");
-    });
+      card.addEventListener("click", () => {
+        if (item.link) window.open(item.link, "_blank");
+      });
+    }
 
     allCardsContainer.appendChild(card);
 
-    requestAnimationFrame(() => {
-      card.classList.add("show");
-    });
+    if (cat !== "X(Twitter)") {
+      requestAnimationFrame(() => {
+        card.classList.add("show");
+      });
+    }
+  }); // slice.forEach 끝
 
-  });
+if (cat === "X(Twitter)") {
+    // 500ms(0.5초) -> 50ms(0.05초)로 대폭 단축
+    // 카드가 생성되자마자 거의 즉시 트위터 스크립트에게 변환 명령을 내립니다.
+    setTimeout(() => {
+        if (window.twttr && window.twttr.widgets) {
+            window.twttr.widgets.load(allCardsContainer);
+        }
+    }, 50); 
+}
 
   visibleCount += slice.length;
   cardCount.textContent = `총 ${filteredCards.length}개`;
   loadMoreBtn.style.display = (visibleCount >= filteredCards.length) ? "none" : "block";
 }
-
 /* ============================================================
    카테고리 변경
 ============================================================ */
@@ -182,14 +214,20 @@ function changeCategory(category, updateURL = true) {
     allCards = Array.isArray(window[varName]) ? [...window[varName]] : [];
   }
 
-  // ======== ★ 여기부터 Shorts 전용 세로형 활성화 ========
-  const container = document.querySelector(".card-container");
+  // ======== ★ 여기부터 Shorts ,twitter 전용 활성화 ========
+const container = document.getElementById("allCards"); // card-container 대신 id로 직접 타겟팅
+  
   if (category === "Shorts") {
-    container.classList.add("vertical-mode");   // 세로형 켜기
+    container.classList.add("vertical-mode");
+    container.classList.remove("twitter-mode");
+  } else if (category === "X(Twitter)") {
+    container.classList.add("twitter-mode");    // 트위터 모드 활성화
+    container.classList.remove("vertical-mode");
   } else {
-    container.classList.remove("vertical-mode"); // 세로형 끄기
+    container.classList.remove("vertical-mode");
+    container.classList.remove("twitter-mode");
   }
-  // ========================================================
+  // ============================================
 
   activeFilters = { year: null, month: null, subtag: null };
   yearFilter.textContent = "연도";
@@ -542,3 +580,5 @@ function positionCategoryDropdown() {
   // 버튼 바로 아래에 위치
   categoryDropdown.style.top  = (rect.bottom + 4) + "px";
 }
+
+

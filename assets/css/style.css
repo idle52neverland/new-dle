@@ -354,6 +354,32 @@ body {
   aspect-ratio: 9/16;
 }
 
+
+/* 트위터 모드일 때 그리드를 한 줄로 강제하고 중앙 정렬 */
+.card-container.twitter-mode {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  grid-template-columns: 1fr !important; /* 그리드 설정 무력화 */
+}
+
+.tweet-card {
+  width: 100%;
+  max-width: 550px;
+  min-height: 450px; /* 트윗 로드 전 자리를 잡아줌 */
+  margin: 1.5rem auto !important;
+  display: block !important;
+  
+  /* --- 로딩 애니메이션 추가 시작 --- */
+  background: linear-gradient(90deg, #f0f0f0 25%, #f8f8f8 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: tweetLoading 1.5s infinite;
+  border-radius: 12px;
+  border: 1px solid #eee;
+  /* --- 로딩 애니메이션 추가 끝 --- */
+}
+
+
 /* ===========================================================
    FOOTER / BUTTONS
 =========================================================== */
@@ -493,3 +519,9 @@ body {
   }
 }
 
+/* 모바일 대응 */
+@media (max-width: 767px) {
+  .tweet-card {
+    max-width: 100%;
+  }
+}
