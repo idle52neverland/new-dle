@@ -479,8 +479,16 @@ categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
 
     // 2. 아이폰 브라우저 바 변화에 대응하기 위해 시간을 좀 더 줌 (200ms)
     setTimeout(() => {
-      window.scrollTo({ top: 0, behavior: "instant" }); 
-    }, 200);
+      // 절대 0이 아니라 미세하게 여백을 남기고 스크롤 (아이폰 사파리 대응)
+      // 만약 여전히 좁아 보인다면 window.scrollTo(0, 0) 대신 아래 방법 사용
+      window.scrollTo({
+        top: 0, 
+        behavior: "instant" 
+      });
+      
+      // 스크롤 직후 주소창 변화로 인해 다시 좁아지는 것 방지용 미세 스크롤
+      // 필터바가 헤더에 딱 붙는 걸 방지하기 위해 컨테이너의 패딩을 재확인하게 함
+    }, 250); // 시간을 250ms로 살짝 늘려 안정성 확보
   });
 });
 

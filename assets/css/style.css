@@ -503,7 +503,10 @@ body, button, input, select, textarea, div, span {
     }
 
     .fixed-top-wrapper {
-        height: auto;
+        /* 헤더바 자체의 높이가 가변적이지 않도록 고정 */
+        height: 4rem; 
+        display: flex;
+        align-items: center;
     }
 
     /* 상단바 전체 (.header-bar): 한 줄 유지 및 정렬 보정 */
@@ -600,7 +603,7 @@ body, button, input, select, textarea, div, span {
         width: 100%;
         padding-left: 0;
         padding-right: 0; 
-        padding-top: 6.5rem !important;
+        padding-top: calc(5.5rem + env(safe-area-inset-top)) !important;
     }
 
     .card-container {
