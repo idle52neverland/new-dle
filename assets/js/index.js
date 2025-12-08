@@ -225,7 +225,7 @@ if (cat === "X(Twitter)") {
   loadMoreBtn.style.display = (visibleCount >= filteredCards.length) ? "none" : "block";
 }
 /* ============================================================
-   카테고리 변경
+   카테고리 변경 (수정 버전)
 ============================================================ */
 function changeCategory(category, updateURL = true) {
   currentCategory.textContent = category;
@@ -237,20 +237,18 @@ function changeCategory(category, updateURL = true) {
     allCards = Array.isArray(window[varName]) ? [...window[varName]] : [];
   }
 
-  // ======== ★ 여기부터 Shorts ,twitter 전용 활성화 ========
-const container = document.getElementById("allCards"); // card-container 대신 id로 직접 타겟팅
+  const container = document.getElementById("allCards"); 
   
   if (category === "Shorts") {
     container.classList.add("vertical-mode");
     container.classList.remove("twitter-mode");
   } else if (category === "X(Twitter)") {
-    container.classList.add("twitter-mode");    // 트위터 모드 활성화
+    container.classList.add("twitter-mode");
     container.classList.remove("vertical-mode");
   } else {
     container.classList.remove("vertical-mode");
     container.classList.remove("twitter-mode");
   }
-  // ============================================
 
   activeFilters = { year: null, month: null, subtag: null };
   yearFilter.textContent = "연도";
@@ -265,9 +263,9 @@ const container = document.getElementById("allCards"); // card-container 대신 
     history.pushState({ category }, "", `?category=${category}`);
   }
 
-  window.scrollTo({ top: 0, behavior: "auto" });
+  // ★ 기존 window.scrollTo 코드를 여기서 삭제합니다.
+  // 외부 클릭 이벤트에서 setTimeout으로 제어할 것입니다.
 }
-
 
 /* ============================================================
    검색/필터 적용
@@ -476,13 +474,13 @@ categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
     sortOrder = "newest";
     toggleSortBtn.textContent = "최신순";
 
-    // 1. 먼저 카테고리를 변경하여 내용을 새로 그립니다.
+    // 1. 카테고리 먼저 변경
     changeCategory(item.textContent.trim(), true);
 
-    // 2. 0.05~0.1초 뒤에 최상단으로 스크롤합니다. (가려짐 방지)
+    // 2. 아이폰 브라우저 바 변화에 대응하기 위해 시간을 좀 더 줌 (200ms)
     setTimeout(() => {
-      window.scrollTo({ top: 0, behavior: "auto" });
-    }, 50);
+      window.scrollTo({ top: 0, behavior: "instant" }); 
+    }, 200);
   });
 });
 
@@ -526,8 +524,8 @@ if (homeBtn) {
 
     // 지연 스크롤 실행
     setTimeout(() => {
-      window.scrollTo({ top: 0, behavior: "auto" });
-    }, 50);
+      window.scrollTo({ top: 0, behavior: "instant" });
+    }, 200);
   });
 }
 

@@ -502,6 +502,10 @@ body, button, input, select, textarea, div, span {
         padding: 0.75rem 0; 
     }
 
+    .fixed-top-wrapper {
+        height: auto;
+    }
+
     /* 상단바 전체 (.header-bar): 한 줄 유지 및 정렬 보정 */
     .header-bar {
         gap: 0.4rem !important; 
@@ -595,7 +599,8 @@ body, button, input, select, textarea, div, span {
     .container {
         width: 100%;
         padding-left: 0;
-        padding-right: 0;
+        padding-right: 0; 
+        padding-top: 6.5rem !important;
     }
 
     .card-container {
