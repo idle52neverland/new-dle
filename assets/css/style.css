@@ -189,6 +189,13 @@ body {
   background: #f2f2f2;
 }
 
+.cat-item, 
+.filterBtn, 
+.filter-item {
+    color: #000 !important; /* 또는 디자인에 맞는 검은색 계열 */
+    text-decoration: none !important; /* 밑줄 생김 방지 */
+}
+
 /* ===========================================================
    MAIN CONTAINER
 =========================================================== */
@@ -519,9 +526,10 @@ body {
   }
 }
 
-/* 모바일 대응 */
-@media (max-width: 767px) {
   .tweet-card {
     max-width: 100%;
   }
 }
+.filterBtn, .cat-item {
+        -webkit-tap-highlight-color: transparent; /* 터치 시 파란 박스 방지 */
+    }
