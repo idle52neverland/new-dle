@@ -476,9 +476,13 @@ categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
     sortOrder = "newest";
     toggleSortBtn.textContent = "최신순";
 
-    window.scrollTo({ top: 0 });
-
+    // 1. 먼저 카테고리를 변경하여 내용을 새로 그립니다.
     changeCategory(item.textContent.trim(), true);
+
+    // 2. 0.05~0.1초 뒤에 최상단으로 스크롤합니다. (가려짐 방지)
+    setTimeout(() => {
+      window.scrollTo({ top: 0, behavior: "auto" });
+    }, 50);
   });
 });
 
@@ -503,11 +507,10 @@ window.addEventListener("popstate", () => {
 /* ============================================================
    홈버튼 → 초기화
 ============================================================ */
-const homeBtn = document.getElementById("homeBtn");
 if (homeBtn) {
   homeBtn.addEventListener("click", () => {
-    window.location.href = "index.html";
-
+    // 만약 index.html로 페이지 이동을 한다면 아래 로직은 의미가 없으나, 
+    // 같은 페이지 내에서 초기화만 하는 용도라면 동일하게 처리합니다.
     searchInput.value = "";
 
     activeFilters = { year: null, month: null, subtag: null };
@@ -518,9 +521,13 @@ if (homeBtn) {
     sortOrder = "newest";
     toggleSortBtn.textContent = "최신순";
 
-    window.scrollTo({ top: 0 });
-
+    // 카테고리 변경 먼저 실행
     changeCategory("All Videos", false);
+
+    // 지연 스크롤 실행
+    setTimeout(() => {
+      window.scrollTo({ top: 0, behavior: "auto" });
+    }, 50);
   });
 }
 
