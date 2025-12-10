@@ -623,14 +623,14 @@ body, button, input, select, textarea, div, span {
     /* 필터 버튼 (Filter Bar) */
     .filter-bar {
         justify-content: flex-start;
-        padding-left: 10px;         /* 왼쪽 패딩 제거 */
+        padding-left: 10px;        
         overflow-x: auto;
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;
     }
 
     .filterBtn {
-        font-size: 0.9rem !important; /* 글씨 크기 키움 */
+        font-size: 0.9rem !important; 
         height: 2.1rem !important;
         padding: 0 0.7rem !important;
     }
@@ -647,7 +647,7 @@ body, button, input, select, textarea, div, span {
         width: 100%;
         padding-left: 0;
         padding-right: 0; 
-        padding-top: calc(5.5rem + env(safe-area-inset-top)) !important;
+        padding-top: 4.5rem !important;
     }
 
     .card-container {
