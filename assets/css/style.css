@@ -13,7 +13,7 @@
   --gap-large: 1rem;
 
   --border-default: 1px solid #ccc;
-  --bg-light: #f8f8f8;
+  --bg-light: #fff;
   --bg-btn: #f1f1f1;
 
   --fs-small: clamp(0.7rem, 1.4vw, 0.85rem);
@@ -98,7 +98,7 @@ body, button, input, select, textarea, div, span {
 .searchbox {
   display: flex; /* 내부 요소 배치를 위해 Flexbox 사용 */
   align-items: center;
-  background: var(--bg-light);
+  background: #fff;
   border: 1px solid #ccc;
   border-radius: 2rem;
   padding: 0 0.5rem; /* 좌우 패딩을 줄여 공간 확보 */
@@ -127,8 +127,8 @@ body, button, input, select, textarea, div, span {
 
 /* 돋보기 아이콘 (검색창 내부) */
 .searchbox .icon-right {
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 1.6rem;
+  height: 1.6rem;
   flex-shrink: 0;
   cursor: pointer;
   margin-right: 0.5rem; /* 구분선과의 간격 */
@@ -143,23 +143,27 @@ body, button, input, select, textarea, div, span {
   margin-right: 0.5rem; /* 카테고리 버튼과의 간격 */
 }
 
+.category-btn {
+    /* --fs-small의 최대값(0.85rem)을 뚫고 1.0rem 또는 1.1rem으로 키움 */
+    font-size: 1.0rem !important; /* 1.0rem으로 키우고 !important로 강제 적용 */
+    padding: 0 0.8rem;
+    height: 2.1rem; /* 검색창 높이에 맞게 유지 */
+}
+
 /* ★ 카테고리 버튼 (검색창 내부)  */
 .category-btn.in-search {
-  height: 100%; /* 검색창 높이에 맞추기 */
+  height: 100%; 
   padding: 0 0.6rem; 
-  background: transparent; /* 검색창 내부에서는 배경 투명 */
-  border: none; /* 검색창이 테두리를 가짐 */
-  position: static; /* Flexbox 흐름을 따름 */
+  background: transparent; 
+  border: none; 
+  position: static; 
   transform: none;
-
-  /* ★★★ 추가: Flexbox 정렬 속성 추가 ★★★ */
-  display: flex;             /* display: flex;가 이미 상위 .category-btn에 있을 수 있으나, 명확히 지정 */
-  align-items: center;       /* ★★★ 수직 중앙 정렬 ★★★ */
-  justify-content: space-between; /* 텍스트와 화살표 사이 간격 */
-  
-  /* 오른쪽 끝 둥근 모서리 연결을 위한 추가 속성 */
+  display: flex;            
+  align-items: center;      
+  justify-content: space-between; 
   border-radius: 0 2rem 2rem 0; 
-  margin-right: -0.5rem; /* .searchbox의 오른쪽 패딩(-0.5rem)을 덮도록 조정 */
+  margin-right: -0.5rem; 
+  font-size: 0.9rem !important;
 }
 
 .category-btn.in-search:hover {
@@ -174,45 +178,76 @@ body, button, input, select, textarea, div, span {
 
 /* ===========================================================
    카테고리 드롭다운 메뉴 (categoryDropdown) - 새로 추가
+   (중복 제거 및 0.9rem 강제 통일 반영)
 =========================================================== */
+
+/* 드롭다운 메뉴 컨테이너 스타일 */
 .category-dropdown {
-  position: absolute; /* JS에서 fixed로 변경될 수 있음 */
-  background: #fff; /* ★ 배경색을 흰색으로 명확하게 지정 */
-  border-radius: var(--radius-med);
-  border: 1px solid #ddd;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.12);
-  padding: 0.4rem;
-  z-index: 2000; /* ★ 다른 모든 요소 위에 오도록 높게 설정 */
-  min-width: 12rem;
+    position: absolute; 
+    background: #fff; 
+    border-radius: var(--radius-med);
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    padding: 0.4rem;
+    z-index: 2000; 
+    min-width: 12rem;
 }
 
 .hidden { display: none; }
 
+/* ---------------------------------------------------- */
+/* 1. 카테고리 드롭다운 리스트 항목 (.cat-item) */
+/* ---------------------------------------------------- */
 .cat-item {
-  padding: 0.5rem 0.75rem;
-  cursor: pointer;
-  border-radius: var(--radius-small);
-  font-size: var(--fs-normal);
+    /* ★ 최종 수정: 0.9rem으로 강제 고정 및 기존 변수 오버라이드 */
+    font-size: 0.9rem !important; 
+    padding: 0.6rem 1rem !important; /* 0.9rem에 맞게 여백 조정 및 !important */
+    cursor: pointer;
+    border-radius: var(--radius-small);
 }
 
 .cat-item:hover {
-  background: #f2f2f2;
+    background: #f2f2f2;
 }
 
-.filterBtn, 
-.cat-item, 
+/* ---------------------------------------------------- */
+/* 2. 공통 인터랙티브 요소 스타일 (중복 제거) */
+/* ---------------------------------------------------- */
+/* .category-btn을 포함하여 모든 인터랙티브 요소에 공통 스타일 적용 */
+.filterBtn,  
+.cat-item,  
 .filter-item,
-#currentCategory {
-    font-family: inherit; /* body의 Roboto를 상속 */
-    font-weight: 500;    
+.category-btn,          /* 검색창 카테고리 버튼 */
+.category-btn.in-search,
+#currentCategory 
+{
+    font-family: inherit; 
+    font-weight: 500 !important; /* 모든 요소의 폰트 두께를 500으로 강제 통일 */
     color: #0f0f0f !important;
     text-decoration: none !important;
-    
     /* iOS Safari 등에서 파란색 하이라이트 방지 */
     -webkit-tap-highlight-color: transparent;
 }
 
-/* 필터 버튼은 클릭 시 약간 더 선명하게 보이기 위해 500 사용 권장 */
+
+/* ---------------------------------------------------- */
+/* 3. 버튼 및 필터 항목의 최종 크기 고정 (0.9rem 통일) */
+/* ---------------------------------------------------- */
+
+/* 검색창 카테고리 버튼 (.category-btn)의 크기 및 높이 고정 */
+.category-btn,
+.category-btn.in-search {
+    font-size: 0.9rem !important; /* ★ 최종 수정: 0.9rem으로 강제 통일 */
+    height: 2.1rem !important; 
+    padding: 0 0.8rem !important;
+}
+
+/* 필터 메뉴 리스트 항목의 크기 고정 */
+#filterMenu .filter-item { 
+    font-size: 0.9rem !important;
+    padding: 0.6rem 1rem !important;
+}
+
 .filterBtn {
     font-weight: 500;
 }
@@ -543,6 +578,8 @@ body, button, input, select, textarea, div, span {
         line-height: 2.6rem !important; /* 수직 중앙 정렬을 위해 부모 높이와 일치 (rem 사용) */
         transform-origin: left center;
         padding: 0 0.5rem !important;
+        -webkit-text-size-adjust: 100%; 
+        text-size-adjust: 100%;
     }
 
     .searchbox .icon-right {
@@ -574,7 +611,8 @@ body, button, input, select, textarea, div, span {
         height: 0.7rem;
         margin-left: 2px !important;
     }
-    
+
+   
     /* 모바일 카테고리 버튼 공통 설정 */
     .category-btn {
         width: auto !important; 
@@ -626,13 +664,13 @@ body, button, input, select, textarea, div, span {
 
     /* 카드 제목/정보 글씨 크기 축소 */
     .card-title {
-        font-size: 0.9rem !important;
+        font-size: 0.95rem !important;
         line-height: 1.3rem;
         margin: 8px auto 0 !important;
     }
 
     .card-info {
-        font-size: 0.75rem !important;
+        font-size: 0.7rem !important;
         margin: 2px auto 0.5rem !important;
     }
 
