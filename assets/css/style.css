@@ -503,7 +503,6 @@ body, button, input, select, textarea, div, span {
     }
 
     .fixed-top-wrapper {
-        /* 헤더바 자체의 높이가 가변적이지 않도록 고정 */
         height: 4rem; 
         display: flex;
         align-items: center;
@@ -514,13 +513,13 @@ body, button, input, select, textarea, div, span {
         gap: 0.4rem !important; 
         padding: 0 10px; 
         display: flex !important;
-        flex-wrap: nowrap !important; /* 요소들이 아래로 꺾이지 않게 함 */
+        flex-wrap: nowrap !important;
     }
     
     .mobile-menu-btn,
     .icon-left {
-        width: 1.7rem;
-        height: 1.7rem;
+        width: 1.8rem;
+        height: 1.8rem;
     }
     
     /* 모바일 검색창: 내부 요소가 버튼 길이에 따라 유연하게 반응 */
@@ -528,26 +527,27 @@ body, button, input, select, textarea, div, span {
         flex: 1; 
         min-width: 0;
         max-width: none; 
-        height: 2.1rem; 
-        padding: 0 0.2rem; 
+        height: 2.6rem; /* ★ 2.1rem -> 2.6rem (검색창 자체 높이 증가) */
+        padding: 0 0.8rem; 
         display: flex !important;
-        flex-wrap: nowrap !important; /* 내부 2줄 방지 */
+        flex-wrap: nowrap !important;
     }
 
     .searchbox input {
-        flex: 1 1 auto !important; /* 버튼이 커지면 유연하게 줄어듦 */
-        min-width: 0 !important;   /* ★ 중요: 버튼에 자리를 양보하기 위해 최소너비 해제 */
-        font-size: 16px !important; 
+        flex: 1 1 auto !important;
+        min-width: 0 !important;
+        font-size: 0.9rem !important;
         font-family: inherit;
-        /* 시각적 크기 보정 */
-        transform: scale(0.9);
+        transform: none !important; 
+        height: 100% !important;        /* 부모 높이에 꽉 차도록 설정 */
+        line-height: 2.6rem !important; /* 수직 중앙 정렬을 위해 부모 높이와 일치 (rem 사용) */
         transform-origin: left center;
         padding: 0 0.5rem !important;
     }
 
     .searchbox .icon-right {
-        width: 1.1rem;
-        height: 1.1rem;
+        width: 1.6rem;
+        height: 1.6rem;
         margin-right: 0.2rem; 
     }
 
@@ -557,22 +557,22 @@ body, button, input, select, textarea, div, span {
     
     /* 카테고리 버튼: 글자 길이에 맞춰 자동으로 늘어나며 1줄 유지 */
     .category-btn.in-search {
-        flex: 0 0 auto !important;  /* ★ 중요: 글자 길이만큼만 공간 차지 */
-        white-space: nowrap !important; /* ★ 중요: 절대 2줄로 꺾이지 않게 강제 */
-        width: auto !important;     /* 고정 너비 해제 */
+        flex: 0 0 auto !important;
+        white-space: nowrap !important;
+        width: auto !important;
         padding: 0 0.4rem; 
         font-size: var(--fs-small);
         border-radius: 0 2rem 2rem 0;
         margin-right: -0.2rem; 
         display: flex !important;
         align-items: center;
-        max-width: 45%; /* 너무 길어져서 인풋을 가리는 것 방지 */
+        max-width: 45%;
     }
     
     .category-btn .arrow {
         width: 0.7rem;
         height: 0.7rem;
-        margin-left: 2px !important; /* 간격 미세 조정 */
+        margin-left: 2px !important;
     }
     
     /* 모바일 카테고리 버튼 공통 설정 */
@@ -582,13 +582,19 @@ body, button, input, select, textarea, div, span {
         max-width: auto !important;
     }
 
-    /* 필터 버튼 */
+    /* 필터 버튼 (Filter Bar) */
     .filter-bar {
-        justify-content: flex-start;
-        padding-left: 10px;
-        overflow-x: auto; /* 공간 부족 시 가로 스크롤 가능하게 */
+        justify-content: center; /* 중앙 정렬로 변경 */
+        padding-left: 0;         /* 왼쪽 패딩 제거 */
+        overflow-x: auto;
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;
+    }
+
+    .filterBtn {
+        font-size: 0.9rem !important; /* 글씨 크기 키움 */
+        height: 2.1rem !important;
+        padding: 0 0.7rem !important;
     }
 
     .video-count-row {
@@ -616,6 +622,18 @@ body, button, input, select, textarea, div, span {
 
     .thumb-wrap {
         border-radius: 0 !important;
+    }
+
+    /* 카드 제목/정보 글씨 크기 축소 */
+    .card-title {
+        font-size: 0.9rem !important;
+        line-height: 1.3rem;
+        margin: 8px auto 0 !important;
+    }
+
+    .card-info {
+        font-size: 0.75rem !important;
+        margin: 2px auto 0.5rem !important;
     }
 
     /* 트위터 카드 */

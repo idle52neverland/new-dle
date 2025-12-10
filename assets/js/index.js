@@ -253,7 +253,7 @@ function changeCategory(category, updateURL = true) {
   activeFilters = { year: null, month: null, subtag: null };
   yearFilter.textContent = "연도";
   monthFilter.textContent = "월";
-  subTagFilter.textContent = "서브태그";
+  subTagFilter.textContent = "서브필터 선택";
 
   filteredCards = sortCards([...allCards]);
 
@@ -301,7 +301,7 @@ if (activeFilters.month !== null) {
 }
 
 
-// ========== 서브태그 필터 ==========
+// ========== 서브필터 선택 필터 ==========
 if (activeFilters.subtag !== null) {
     const sub = String(c.subtag || c.note || "").toLowerCase();
     if (!sub.includes(String(activeFilters.subtag).toLowerCase())) return false;
@@ -342,7 +342,7 @@ function applyFilterSelection(type, label, value) {
 
   if (type === "year")  yearFilter.textContent  = value === null ? "연도" : label;
   if (type === "month") monthFilter.textContent = value === null ? "월"   : label;
-  if (type === "subtag") subTagFilter.textContent = value === null ? "서브태그" : label;
+  if (type === "subtag") subTagFilter.textContent = value === null ? "서브필터 선택" : label;
 
   applySearch();
 }
@@ -405,7 +405,7 @@ function openFilterMenu(type, btn) {
       "노래 클립": ["전체"],
       "매거진·인터뷰": ["전체"],
       "라디오·오디오쇼": ["전체","라디오","네이버NOW","오디오","그 외"],
-      "라이브 방송": ["베리즈 라이브","브이앱·위버스 라이브","인스타 라이브","컴백 라이브","기념일 라이브","그 외 라이브"],
+      "라이브 방송": ["전체","베리즈 라이브","브이앱·위버스 라이브","인스타 라이브","컴백 라이브","기념일 라이브","그 외 라이브"],
       "광고": ["전체"],
       "기타": ["전체"],
       "Shorts": ["전체"]
@@ -469,7 +469,7 @@ categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
     activeFilters = { year: null, month: null, subtag: null };
     yearFilter.textContent = "연도";
     monthFilter.textContent = "월";
-    subTagFilter.textContent = "서브태그";
+    subTagFilter.textContent = "서브필터 선택";
 
     sortOrder = "newest";
     toggleSortBtn.textContent = "최신순";
@@ -522,7 +522,7 @@ if (homeBtn) {
     activeFilters = { year: null, month: null, subtag: null };
     yearFilter.textContent = "연도";
     monthFilter.textContent = "월";
-    subTagFilter.textContent = "서브태그";
+    subTagFilter.textContent = "서브필터 선택";
 
     sortOrder = "newest";
     toggleSortBtn.textContent = "최신순";

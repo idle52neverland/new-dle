@@ -67,21 +67,10 @@ const 자체예능Cards = [
 },
 
 {
-  "link": "https://youtu.be/kINZmIZfCKY",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2020-07-21T18:00:00",
-  "duration": "00:16:49",
-  "thumbnail": "https://i.ytimg.com/vi/kINZmIZfCKY/sddefault.jpg",
-  "alt": "[네버엔딩 네버랜드 1회] Part 2 - [Never-ending Neverland Ep.1] Part 2 (ENG)",
-  "title": "[네버엔딩 네버랜드 1회] Part 2 - [Never-ending Neverland Ep.1] Part 2 (ENG)"
-},
-
-{
   "link": "https://youtu.be/1r6-hAIItqc",
   "category": "자체예능",
   "member": "아이들",
-  "date": "2020-07-21T18:00:00",
+  "date": "2020-07-21T18:00:01",
   "duration": "00:09:42",
   "thumbnail": "https://i.ytimg.com/vi/1r6-hAIItqc/sddefault.jpg",
   "alt": "[네버엔딩 네버랜드 1회] Part 1 - [Never-ending Neverland Ep.1] Part 1 (ENG)",
@@ -89,10 +78,21 @@ const 자체예능Cards = [
 },
 
 {
+  "link": "https://youtu.be/kINZmIZfCKY",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2020-07-21T18:00:02",
+  "duration": "00:16:49",
+  "thumbnail": "https://i.ytimg.com/vi/kINZmIZfCKY/sddefault.jpg",
+  "alt": "[네버엔딩 네버랜드 1회] Part 2 - [Never-ending Neverland Ep.1] Part 2 (ENG)",
+  "title": "[네버엔딩 네버랜드 1회] Part 2 - [Never-ending Neverland Ep.1] Part 2 (ENG)"
+},
+
+{
   "link": "https://youtu.be/XZIOS2tgqGo",
   "category": "자체예능",
   "member": "아이들",
-  "date": "2020-07-28T18:00:00",
+  "date": "2020-07-28T18:00:01",
   "duration": "00:11:29",
   "thumbnail": "https://i.ytimg.com/vi/XZIOS2tgqGo/sddefault.jpg",
   "alt": "[네버엔딩 네버랜드 2회] Part 1 - [Never-ending Neverland Ep.2] Part 1 (ENG)",
@@ -103,7 +103,7 @@ const 자체예능Cards = [
   "link": "https://youtu.be/MWi5w4dEkZQ",
   "category": "자체예능",
   "member": "아이들",
-  "date": "2020-07-28T18:00:00",
+  "date": "2020-07-28T18:00:02",
   "duration": "00:13:32",
   "thumbnail": "https://i.ytimg.com/vi/MWi5w4dEkZQ/sddefault.jpg",
   "alt": "[네버엔딩 네버랜드 2회] Part 2 - [Never-ending Neverland Ep.2] Part 2 (ENG)",
@@ -114,7 +114,7 @@ const 자체예능Cards = [
   "link": "https://youtu.be/SFq8qllSyq0",
   "category": "자체예능",
   "member": "아이들",
-  "date": "2020-08-04T18:00:00",
+  "date": "2020-08-04T18:00:01",
   "duration": "00:07:46",
   "thumbnail": "https://i.ytimg.com/vi/SFq8qllSyq0/sddefault.jpg",
   "alt": "[네버엔딩 네버랜드 3회] Part 1 - [Never-ending Neverland Ep.3] Part 1 (ENG)",
@@ -125,7 +125,7 @@ const 자체예능Cards = [
   "link": "https://youtu.be/VbK8mHanAhI",
   "category": "자체예능",
   "member": "아이들",
-  "date": "2020-08-04T18:00:00",
+  "date": "2020-08-04T18:00:02",
   "duration": "00:15:39",
   "thumbnail": "https://i.ytimg.com/vi/VbK8mHanAhI/sddefault.jpg",
   "alt": "[네버엔딩 네버랜드 3회] Part 2 - [Never-ending Neverland Ep.3] Part 2 (ENG)",
@@ -136,7 +136,7 @@ const 자체예능Cards = [
   "link": "https://youtu.be/pO59kn3sU14",
   "category": "자체예능",
   "member": "아이들",
-  "date": "2020-08-11T18:00:00",
+  "date": "2020-08-11T18:00:01",
   "duration": "00:16:23",
   "thumbnail": "https://i.ytimg.com/vi/pO59kn3sU14/sddefault.jpg",
   "alt": "[네버엔딩 네버랜드 4회] Part 1 - [Never-ending Neverland Ep.4] Part 1 (ENG)",
@@ -147,7 +147,7 @@ const 자체예능Cards = [
   "link": "https://youtu.be/DhZ4HCPDLac",
   "category": "자체예능",
   "member": "아이들",
-  "date": "2020-08-11T18:00:00",
+  "date": "2020-08-11T18:00:02",
   "duration": "00:07:07",
   "thumbnail": "https://i.ytimg.com/vi/DhZ4HCPDLac/sddefault.jpg",
   "alt": "[네버엔딩 네버랜드 4회] Part 2 - [Never-ending Neverland Ep.4] Part 2 (ENG)",
@@ -155,25 +155,25 @@ const 자체예능Cards = [
 },
 
 {
-  "link": "https://youtu.be/MYGW1hTnp9o",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2020-08-18T18:00:00",
-  "duration": "00:12:21",
-  "thumbnail": "https://i.ytimg.com/vi/MYGW1hTnp9o/sddefault.jpg",
-  "alt": "[네버엔딩 네버랜드 5회] Part 2 - [Never-ending Neverland Ep.5] Part 2 (ENG)",
-  "title": "[네버엔딩 네버랜드 5회] Part 2 - [Never-ending Neverland Ep.5] Part 2 (ENG)"
-},
-
-{
   "link": "https://youtu.be/FyiWt8Q0Wl0",
   "category": "자체예능",
   "member": "아이들",
-  "date": "2020-08-18T18:00:00",
+  "date": "2020-08-18T18:00:01",
   "duration": "00:15:08",
   "thumbnail": "https://i.ytimg.com/vi/FyiWt8Q0Wl0/sddefault.jpg",
   "alt": "[네버엔딩 네버랜드 5회] Part 1 - [Never-ending Neverland Ep.5] Part 1 (ENG)",
   "title": "[네버엔딩 네버랜드 5회] Part 1 - [Never-ending Neverland Ep.5] Part 1 (ENG)"
+},
+
+{
+  "link": "https://youtu.be/MYGW1hTnp9o",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2020-08-18T18:00:02",
+  "duration": "00:12:21",
+  "thumbnail": "https://i.ytimg.com/vi/MYGW1hTnp9o/sddefault.jpg",
+  "alt": "[네버엔딩 네버랜드 5회] Part 2 - [Never-ending Neverland Ep.5] Part 2 (ENG)",
+  "title": "[네버엔딩 네버랜드 5회] Part 2 - [Never-ending Neverland Ep.5] Part 2 (ENG)"
 },
 
 {
@@ -359,8 +359,8 @@ const 자체예능Cards = [
   "date": "2022-06-23T18:00:00",
   "duration": "00:27:41",
   "thumbnail": "https://i.ytimg.com/vi/cHdtMzIGVeY/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.1",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.1"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.1",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.1"
 },
 
 {
@@ -370,8 +370,8 @@ const 자체예능Cards = [
   "date": "2022-06-30T18:00:00",
   "duration": "00:30:57",
   "thumbnail": "https://i.ytimg.com/vi/n7z0y9rntug/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.2",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.2"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.2",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.2"
 },
 
 {
@@ -381,8 +381,8 @@ const 자체예능Cards = [
   "date": "2022-07-07T18:00:00",
   "duration": "00:29:01",
   "thumbnail": "https://i.ytimg.com/vi/Q8hx7ivQZNI/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.3",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.3"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.3",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.3"
 },
 
 {
@@ -392,8 +392,8 @@ const 자체예능Cards = [
   "date": "2022-07-12T18:00:00",
   "duration": "00:03:01",
   "thumbnail": "https://i.ytimg.com/vi/H9DdJL73eD8/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.3 Behind",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.3 Behind"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.3 Behind",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.3 Behind"
 },
 
 {
@@ -403,8 +403,8 @@ const 자체예능Cards = [
   "date": "2022-07-14T18:00:00",
   "duration": "00:32:05",
   "thumbnail": "https://i.ytimg.com/vi/7DrSDGbS_iE/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.4",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.4"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.4",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.4"
 },
 
 {
@@ -414,8 +414,8 @@ const 자체예능Cards = [
   "date": "2022-07-19T18:00:00",
   "duration": "00:02:51",
   "thumbnail": "https://i.ytimg.com/vi/ASJlcRmvz6c/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.4 Behind",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.4 Behind"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.4 Behind",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.4 Behind"
 },
 
 {
@@ -425,8 +425,8 @@ const 자체예능Cards = [
   "date": "2022-07-21T18:00:00",
   "duration": "00:34:27",
   "thumbnail": "https://i.ytimg.com/vi/t81p5JxJPVo/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.5",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.5"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.5",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.5"
 },
 
 {
@@ -436,8 +436,8 @@ const 자체예능Cards = [
   "date": "2022-07-26T18:00:00",
   "duration": "00:04:55",
   "thumbnail": "https://i.ytimg.com/vi/0zyIqbyz6zM/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 EP.5 Behind",
-  "title": "(여자)아이들 외 취급주의 시즌1 EP.5 Behind"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.5 Behind",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.5 Behind"
 },
 
 {
@@ -447,8 +447,8 @@ const 자체예능Cards = [
   "date": "2022-09-22T18:00:00",
   "duration": "00:28:07",
   "thumbnail": "https://i.ytimg.com/vi/1rTlSErNfzM/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.1",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.1"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.1",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.1"
 },
 
 {
@@ -458,8 +458,8 @@ const 자체예능Cards = [
   "date": "2022-10-28T18:00:00",
   "duration": "00:04:00",
   "thumbnail": "https://i.ytimg.com/vi/WVwCF8NDAPk/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 Behind",
-  "title": "(여자)아이들 외 취급주의 시즌2 Behind"
+  "alt": "(여자)아이들 외 취급주의 시즌2  - Behind",
+  "title": "(여자)아이들 외 취급주의 시즌2 - Behind"
 },
 
 {
@@ -491,8 +491,8 @@ const 자체예능Cards = [
   "date": "2022-05-25T18:00:01",
   "duration": "00:04:30",
   "thumbnail": "https://i.ytimg.com/vi/-4e-b6krd84/sddefault.jpg",
-  "alt": "꿀로그잼：네버버 예술 학교 BEHIND",
-  "title": "꿀로그잼：네버버 예술 학교 BEHIND"
+  "alt": "꿀로그잼：네버버 예술 학교 (BEHIND)",
+  "title": "꿀로그잼：네버버 예술 학교 (BEHIND)"
 },
 
 {
@@ -502,8 +502,8 @@ const 자체예능Cards = [
   "date": "2022-09-14T18:00:00",
   "duration": "01:13:08",
   "thumbnail": "https://i.ytimg.com/vi/pKMLtR2PlJc/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDxFZ0VpDgGGNTOPs3amAgunR_Bvw",
-  "alt": "방해금지모드+ (FULL VER.) | Do Not Disturb",
-  "title": "방해금지모드+ (FULL VER.) | Do Not Disturb"
+  "alt": "방해금지모드+ (Full Ver.)",
+  "title": "방해금지모드+ (Full Ver.)"
 },
 
 {
@@ -513,8 +513,8 @@ const 자체예능Cards = [
   "date": "2022-09-15T18:00:00",
   "duration": "00:04:18",
   "thumbnail": "https://i.ytimg.com/vi/pKMLtR2PlJc/hqdefault.jpg",
-  "alt": "방해금지모드+ BEHIND | Do Not Disturb",
-  "title": "방해금지모드+ BEHIND | Do Not Disturb"
+  "alt": "방해금지모드+ (BEHIND)",
+  "title": "방해금지모드+ (BEHIND)"
 },
 
 {
@@ -524,8 +524,8 @@ const 자체예능Cards = [
   "date": "2022-09-29T18:00:00",
   "duration": "00:25:27",
   "thumbnail": "https://i.ytimg.com/vi/QZGXnGH2hA8/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.2",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.2"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.2",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.2"
 },
 
 {
@@ -535,8 +535,8 @@ const 자체예능Cards = [
   "date": "2022-10-06T18:00:00",
   "duration": "00:26:36",
   "thumbnail": "https://i.ytimg.com/vi/Y-WAKb5frs0/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.3",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.3"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.3",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.3"
 },
 
 {
@@ -546,8 +546,8 @@ const 자체예능Cards = [
   "date": "2022-10-13T18:00:00",
   "duration": "00:24:58",
   "thumbnail": "https://i.ytimg.com/vi/-EUwuAGZBBs/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.4",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.4"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.4",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.4"
 },
 
 {
@@ -557,8 +557,8 @@ const 자체예능Cards = [
   "date": "2022-10-20T18:00:00",
   "duration": "00:26:48",
   "thumbnail": "https://i.ytimg.com/vi/xrKH2_vSOm8/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.5",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.5"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.5",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.5"
 },
 
 {
@@ -568,8 +568,8 @@ const 자체예능Cards = [
   "date": "2022-10-27T18:00:00",
   "duration": "00:29:23",
   "thumbnail": "https://i.ytimg.com/vi/4tcDGRZ2MIo/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 EP.6",
-  "title": "(여자)아이들 외 취급주의 시즌2 EP.6"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.6",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.6"
 },
 
 {
