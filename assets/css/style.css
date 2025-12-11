@@ -562,7 +562,7 @@ body, button, input, select, textarea, div, span {
         flex: 1; 
         min-width: 0;
         max-width: none; 
-        height: 2.6rem; /* ★ 2.1rem -> 2.6rem (검색창 자체 높이 증가) */
+        height: 2.6rem; 
         padding: 0 0.8rem; 
         display: flex !important;
         flex-wrap: nowrap !important;
@@ -571,12 +571,12 @@ body, button, input, select, textarea, div, span {
     .searchbox input {
         flex: 1 1 auto !important;
         min-width: 0 !important;
-        font-size: 0.9rem !important;
-        font-family: inherit;
-        transform: none !important; 
-        height: 100% !important;        /* 부모 높이에 꽉 차도록 설정 */
-        line-height: 2.6rem !important; /* 수직 중앙 정렬을 위해 부모 높이와 일치 (rem 사용) */
-        transform-origin: left center;
+        font-size: 16px !important; 
+        transform: scale(0.85) !important; 
+        transform-origin: left center !important; 
+        line-height: calc(2.6rem / 0.85) !important; 
+        width: 117% !important; 
+        height: 100% !important;
         padding: 0 0.5rem !important;
         -webkit-text-size-adjust: 100%; 
         text-size-adjust: 100%;

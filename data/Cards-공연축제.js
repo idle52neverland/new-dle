@@ -29,8 +29,8 @@ const 공연축제Cards = [
   "date": "2018-06-09T18:00:00",
   "duration": "00:34:38",
   "thumbnail": "https://i.ytimg.com/vi/9ssS4ubfeOE/sddefault.jpg",
-  "alt": "음악중심 미니팬미팅- (여자)아이들 (G)I-DLE Mini Fanmeeting(FULL) @상암 물빛공원",
-  "title": "음악중심 미니팬미팅- (여자)아이들 (G)I-DLE Mini Fanmeeting(FULL) @상암 물빛공원"
+  "alt": "음악중심 미니팬미팅 @상암 물빛공원",
+  "title": "음악중심 미니팬미팅 @상암 물빛공원"
 },
 
 {
@@ -40,8 +40,8 @@ const 공연축제Cards = [
   "date": "2018-06-19T18:00:00",
   "duration": "00:12:33",
   "thumbnail": "https://i.ytimg.com/vi/aj1WQSNfwL0/maxresdefault.jpg",
-  "alt": "[SBS러브FM 월드컵 공개방송 풀캠] 여자아이들 (G) I-DLE (LATATA + MAZE)",
-  "title": "[SBS러브FM 월드컵 공개방송 풀캠] 여자아이들 (G) I-DLE (LATATA + MAZE)"
+  "alt": "[SBS러브FM 월드컵 공개방송 풀캠] (여자)아이들 - LATATA + MAZE",
+  "title": "[SBS러브FM 월드컵 공개방송 풀캠] (여자)아이들 - LATATA + MAZE"
 },
 
 {
@@ -51,74 +51,74 @@ const 공연축제Cards = [
   "date": "2018-09-02T18:00:00",
   "duration": "00:03:28",
   "thumbnail": "https://i.ytimg.com/vi/dU4JD7bYVyg/maxresdefault.jpg",
-  "alt": "[인천 한류 관광 콘서트/INK CONCERT] (여자)아이들 - 한 (一)(Alone) 직캠",
-  "title": "[인천 한류 관광 콘서트/INK CONCERT] (여자)아이들 - 한 (一)(Alone) 직캠"
+  "alt": "[인천 한류관광 콘서트] (여자)아이들 - 한 (一)(Alone) 직캠  #INK CONCERT",
+  "title": "[인천 한류관광 콘서트] (여자)아이들 - 한 (一)(Alone) 직캠  #INK CONCERT"
 },
 
 {
   "link": "https://youtu.be/iyaMD5t2TdQ",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-09-08T18:00:00",
+  "date": "2018-09-08T18:00:01",
   "duration": "00:03:20",
   "thumbnail": "https://i.ytimg.com/vi/iyaMD5t2TdQ/maxresdefault.jpg",
-  "alt": "[DMC페스티벌 코뮤웨] 리허설(Rehearsal) - 한 (HANN) [Korean Music Wave DMCF]",
-  "title": "[DMC페스티벌 코뮤웨] 리허설(Rehearsal) -  한 (HANN) [Korean Music Wave DMCF]"
+  "alt": "[DMC페스티벌 코뮤웨] (여자)아이들 - 한(一) 리허설  #Korean Music Wave DMCF",
+  "title": "[DMC페스티벌 코뮤웨] (여자)아이들 - 한(一) 리허설  #Korean Music Wave DMCF"
 },
 
 {
   "link": "https://youtu.be/B_cTe3pLM0E",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-09-08T18:00:00",
+  "date": "2018-09-08T18:00:02",
   "duration": "00:01:36",
   "thumbnail": "https://i.ytimg.com/vi/B_cTe3pLM0E/maxresdefault.jpg",
-  "alt": "[DMC페스티벌 코뮤웨] 리허설(Rehearsal) - HOT ISSUE (원곡 포미닛) 리허설 (Rehearsal) [Korean Music Wave DMCF]",
-  "title": "[DMC페스티벌 코뮤웨] 리허설(Rehearsal) - HOT ISSUE (원곡 포미닛) 리허설 (Rehearsal) [Korean Music Wave DMCF]"
-},
-
-{
-  "link": "https://youtu.be/EQ3c6jYcMz0",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2018-09-15T18:00:00",
-  "duration": "00:01:38",
-  "thumbnail": "https://i.ytimg.com/vi/EQ3c6jYcMz0/maxresdefault.jpg",
-  "alt": "[DMC페스티벌 코뮤웨] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover)  [Korean Music Wave DMCF]",
-  "title": "[DMC페스티벌 코뮤웨] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover) [Korean Music Wave DMCF]"
+  "alt": "[DMC페스티벌 코뮤웨] (여자)아이들  - Hot Issue (Cover) 리허설  #Korean Music Wave DMCF",
+  "title": "[DMC페스티벌 코뮤웨] (여자)아이들 - Hot Issue (Cover) 리허설  #Korean Music Wave DMCF"
 },
 
 {
   "link": "https://youtu.be/It7RdfjKofM",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-09-15T18:00:00",
+  "date": "2018-09-08T18:00:03",
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/It7RdfjKofM/maxresdefault.jpg",
-  "alt": "[DMC페스티벌 코뮤웨] (G)I-DLE - HANN (Alone) , (여자)아이들 -  한(一) [Korean Music Wave DMCF]",
-  "title": "[DMC페스티벌 코뮤웨] (G)I-DLE - HANN (Alone) , (여자)아이들 -  한(一) [Korean Music Wave DMCF]"
+  "alt": "[DMC페스티벌 코뮤웨] (여자)아이들 - 한(一)  #Korean Music Wave DMCF",
+  "title": "[DMC페스티벌 코뮤웨] (여자)아이들 - 한(一)  #Korean Music Wave DMCF"
 },
 
 {
-  "link": "https://youtu.be/fUtQJ0Kk2qQ",
+  "link": "https://youtu.be/EQ3c6jYcMz0",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-09-15T18:00:00",
+  "date": "2018-09-08T18:00:04",
   "duration": "00:01:38",
-  "thumbnail": "https://i.ytimg.com/vi/fUtQJ0Kk2qQ/maxresdefault.jpg",
-  "alt": "[DMC페스티벌 코뮤웨] [Live Cam] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover) [Korean Music Wave DMCF]",
-  "title": "[DMC페스티벌 코뮤웨] [Live Cam] (G)I-DLE - Hot Issue ,(여자)아이들 - 핫이슈, (4minute Cover) [Korean Music Wave DMCF]"
+  "thumbnail": "https://i.ytimg.com/vi/EQ3c6jYcMz0/maxresdefault.jpg",
+  "alt": "[DMC페스티벌 코뮤웨] (여자)아이들  - Hot Issue (Cover)  #Korean Music Wave DMCF",
+  "title": "[DMC페스티벌 코뮤웨] (여자)아이들  - Hot Issue (Cover)  #Korean Music Wave DMCF"
 },
 
 {
   "link": "https://youtu.be/l8yLUY4C4vc",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-09-15T18:00:00",
+  "date": "2018-09-15T18:00:05",
   "duration": "00:03:25",
   "thumbnail": "https://i.ytimg.com/vi/l8yLUY4C4vc/maxresdefault.jpg",
-  "alt": "[DMC페스티벌 코뮤웨] [Live Cam] (G)I-DLE - HANN (Alone) , (여자)아이들 -  한(一) [Korean Music Wave DMCF]",
-  "title": "[DMC페스티벌 코뮤웨] [Live Cam] (G)I-DLE - HANN (Alone) , (여자)아이들 -  한(一) [Korean Music Wave DMCF]"
+  "alt": "[DMC페스티벌 코뮤웨]  [Live Cam] (여자)아이들 - 한(一)  #Korean Music Wave DMCF",
+  "title": "[DMC페스티벌 코뮤웨]  [Live Cam] (여자)아이들 - 한(一)  #Korean Music Wave DMCF"
+},
+
+{
+  "link": "https://youtu.be/fUtQJ0Kk2qQ",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-09-15T18:00:06",
+  "duration": "00:01:38",
+  "thumbnail": "https://i.ytimg.com/vi/fUtQJ0Kk2qQ/maxresdefault.jpg",
+  "alt": "[DMC페스티벌 코뮤웨]  [Live Cam] (여자)아이들  - Hot Issue (Cover)  #Korean Music Wave DMCF",
+  "title": "[DMC페스티벌 코뮤웨]  [Live Cam] (여자)아이들  - Hot Issue (Cover)  #Korean Music Wave DMCF"
 },
 
 {
@@ -128,8 +128,8 @@ const 공연축제Cards = [
   "date": "2018-10-03T18:00:00",
   "duration": "00:03:21",
   "thumbnail": "https://i.ytimg.com/vi/RX6r7MDAnfU/maxresdefault.jpg",
-  "alt": "[숙명여대 방송제] 여자아이들Latata SMWU Sbs방송국 축제",
-  "title": "[숙명여대 방송제] 여자아이들Latata SMWU Sbs방송국 축제"
+  "alt": "[숙명여대 방송제] 여자아이들 Latata SMWU Sbs방송국 축제",
+  "title": "[숙명여대 방송제] 여자아이들 Latata SMWU Sbs방송국 축제"
 },
 
 {
@@ -370,8 +370,8 @@ const 공연축제Cards = [
   "date": "2018-10-16T18:00:00",
   "duration": "00:13:18",
   "thumbnail": "https://i.ytimg.com/vi/D2p2htqV5EE/maxresdefault.jpg",
-  "alt": "[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LA TA TA)",
-  "title": "[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LA TA TA)"
+  "alt": "[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LATATA)",
+  "title": "[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LATATA)"
 },
 
 {
@@ -403,8 +403,8 @@ const 공연축제Cards = [
   "date": "2019-02-20T18:00:00",
   "duration": "00:03:51",
   "thumbnail": "https://i.ytimg.com/vi/fuwPJ9AhRBU/hqdefault.jpg",
-  "alt": "(여자)아이들 - 들어줘요 라이브 ((G)I-DLE HEAR ME/LISTEN TO ME)",
-  "title": "(여자)아이들 - 들어줘요 라이브 ((G)I-DLE HEAR ME/LISTEN TO ME)"
+  "alt": "(여자)아이들 - 들어줘요 라이브",
+  "title": "(여자)아이들 - 들어줘요 라이브"
 },
 
 {
@@ -414,8 +414,8 @@ const 공연축제Cards = [
   "date": "2019-03-03T18:00:00",
   "duration": "00:15:52",
   "thumbnail": "https://i.ytimg.com/vi/dRYkKNmAsRI/maxresdefault.jpg",
-  "alt": "음악중심 미니팬미팅 직캠- 여자아이들 (G)I-DLE ( 질문응답 )",
-  "title": "음악중심 미니팬미팅 직캠- 여자아이들 (G)I-DLE ( 질문응답 )"
+  "alt": "음악중심 미니팬미팅 직캠 - 여자아이들 ( 질문응답 )",
+  "title": "음악중심 미니팬미팅 직캠 - 여자아이들 ( 질문응답 )"
 },
 
 {
@@ -436,8 +436,8 @@ const 공연축제Cards = [
   "date": "2019-04-20T18:00:00",
   "duration": "00:20:17",
   "thumbnail": "https://i.ytimg.com/vi/lIqd9jNVqUk/maxresdefault.jpg",
-  "alt": "[함께 걷자 INCHEON FESTA] 여자아이들 (G) I-DLE Full Ver. (HANN + LATATA + MAZE + Senorita)",
-  "title": "[함께 걷자 INCHEON FESTA] 여자아이들 (G) I-DLE Full Ver. (HANN + LATATA + MAZE + Senorita)"
+  "alt": "[함께 걷자 INCHEON FESTA] 여자아이들 (G)I-DLE Full Ver. (HANN + LATATA + MAZE + Senorita)",
+  "title": "[함께 걷자 INCHEON FESTA] 여자아이들 (G)I-DLE Full Ver. (HANN + LATATA + MAZE + Senorita)"
 },
 
 {
@@ -1811,8 +1811,8 @@ const 공연축제Cards = [
   "date": "2024-05-30T18:00:00",
   "duration": "00:26:54",
   "thumbnail": "https://i.ytimg.com/vi/uUH9qpcujNI/maxresdefault.jpg",
-  "alt": "[인제대학교 축제] (여자)아이들 - Super Lady/LATATA/MY BAG/Queencard/TOMBOY/아딱질",
-  "title": "[인제대학교 축제] (여자)아이들 - Super Lady/LATATA/MY BAG/Queencard/TOMBOY/아딱질"
+  "alt": "[인제대 축제] (여자)아이들 - Super Lady/LATATA/MY BAG/Queencard/TOMBOY/아딱질",
+  "title": "[인제대 축제] (여자)아이들 - Super Lady/LATATA/MY BAG/Queencard/TOMBOY/아딱질"
 },
 
 {
@@ -1822,8 +1822,8 @@ const 공연축제Cards = [
   "date": "2024-05-30T18:00:00",
   "duration": "00:35:25",
   "thumbnail": "https://i.ytimg.com/vi/haV9i4JwkB0/maxresdefault.jpg",
-  "alt": "[한성대학교 축제] 소연 빠진 (여자)아이들 한성대학교 축제 35분 full 미니 콘서트",
-  "title": "[한성대학교 축제 소연 빠진 (여자)아이들 한성대학교 축제 35분 full 미니 콘서트"
+  "alt": "[한성대 축제] 소연 빠진 (여자)아이들 한성대학교 축제 35분 full 미니 콘서트",
+  "title": "[한성대 축제] 소연 빠진 (여자)아이들 한성대학교 축제 35분 full 미니 콘서트"
 },
 
 {
