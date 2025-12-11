@@ -464,18 +464,19 @@ if ('scrollRestoration' in history) {
 }
 
 function applyIosScrollTrick() {
-    // 100ms 딜레이를 주어 iOS 상단바가 최종적으로 자리를 잡은 후 스크롤을 강제 초기화
+    // ★ 수정: 지연 없이 즉시 스크롤을 맨 위로 강제 이동 (가장 중요)
+    window.scrollTo({ top: 0, behavior: "instant" });
+    
+    // 50ms 후, 미세한 스크롤 이동(0 -> 1 -> 0)으로 iOS가 뷰포트를 재계산하도록 유도
     setTimeout(() => {
-        // 즉시(instant) 스크롤을 맨 위로 이동
-        window.scrollTo({ top: 0, behavior: "instant" });
-        
-        // 미세한 스크롤 이동(0 -> 1 -> 0)으로 iOS가 뷰포트를 재계산하도록 유도
-        setTimeout(() => {
-            window.scrollTo(0, 1);
-            window.scrollTo(0, 0);
-        }, 50); // 50ms 후 최종 확인
-        
-    }, 100); // 100ms 후 초기 실행
+        window.scrollTo(0, 1);
+        window.scrollTo(0, 0);
+    }, 50); 
+    
+    // 100ms 후 최종적으로 한 번 더 스크롤 초기화 (안전장치)
+    setTimeout(() => {
+        window.scrollTo(0, 0);
+    }, 100);
 }
 
 

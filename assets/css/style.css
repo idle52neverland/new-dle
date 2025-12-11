@@ -623,15 +623,18 @@ body, button, input, select, textarea, div, span {
     /* 필터 버튼 (Filter Bar) */
     .filter-bar {
         justify-content: flex-start;
-        padding-left: 10px;         
+        padding-left: 10px;        
         overflow-x: auto;
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;
+        margin-bottom: 0 !important; /* 하단 여백 제거 유지 */
         
-        /* ★★★ 필터바 고정 강제 해제 (핵심 수정) ★★★ */
-        position: static !important; /* 모든 고정 속성 강제 제거 */
+        /* 이전 sticky 속성 강제 제거 및 초기화 */
+        position: static !important;
         top: auto !important;
-        position: unset !important;  /* sticky 속성 등도 제거 */
+        background: transparent !important;
+        z-index: auto !important;
+        position: unset !important; /* 혹시 모를 sticky 제거를 위한 안전장치 */
     }
 
     .filterBtn {
