@@ -562,7 +562,7 @@ body, button, input, select, textarea, div, span {
         flex: 1; 
         min-width: 0;
         max-width: none; 
-        height: 2.6rem; 
+        height: 2.6rem; /* ★ 2.1rem -> 2.6rem (검색창 자체 높이 증가) */
         padding: 0 0.8rem; 
         display: flex !important;
         flex-wrap: nowrap !important;
@@ -571,12 +571,12 @@ body, button, input, select, textarea, div, span {
     .searchbox input {
         flex: 1 1 auto !important;
         min-width: 0 !important;
-        font-size: 16px !important; 
+        font-size: 0.9rem !important;
         font-family: inherit;
-        transform: scale(0.85) !important; 
-        transform-origin: left center !important; 
-        height: 100% !important;        
-        line-height: 2.6rem !important; 
+        transform: none !important; 
+        height: 100% !important;        /* 부모 높이에 꽉 차도록 설정 */
+        line-height: 2.6rem !important; /* 수직 중앙 정렬을 위해 부모 높이와 일치 (rem 사용) */
+        transform-origin: left center;
         padding: 0 0.5rem !important;
         -webkit-text-size-adjust: 100%; 
         text-size-adjust: 100%;
@@ -623,27 +623,14 @@ body, button, input, select, textarea, div, span {
     /* 필터 버튼 (Filter Bar) */
     .filter-bar {
         justify-content: flex-start;
-        padding-left: 10px;        
+        padding-left: 10px;         /* 왼쪽 패딩 제거 */
         overflow-x: auto;
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;
-        margin-bottom: 0 !important; 
-        
-        /* ★ 핵심 수정 1: 스크롤해도 필터바를 상단에 고정 */
-        position: sticky; 
-        
-        /* ★ 핵심 수정 2: 상단 고정바(4rem) 바로 아래에 붙도록 위치 지정 */
-        top: 4rem; 
-        
-        /* ★ 핵심 수정 3: 배경색을 줘야 상단바 밑으로 콘텐츠가 비치지 않음 */
-        background: #fff; 
-        
-        /* ★ 핵심 수정 4: 상단바(1000) 위에 나타나도록 z-index 조정 */
-        z-index: 999; 
     }
 
     .filterBtn {
-        font-size: 0.9rem !important; 
+        font-size: 0.9rem !important; /* 글씨 크기 키움 */
         height: 2.1rem !important;
         padding: 0 0.7rem !important;
     }

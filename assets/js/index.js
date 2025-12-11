@@ -14,6 +14,34 @@ function simplifyDuration(d) {
 }
 
 /* ============================================================
+   ★ 카테고리 매핑 (URL slug 사용을 위해 추가)
+============================================================ */
+const CATEGORY_MAP = {
+    "All Videos": "1",
+    "공식 채널": "2",
+    "발매곡": "3",
+    "OST·참여곡": "4",
+    "음악방송·시상식": "5",
+    "공연·축제": "6",
+    "자체 예능": "7",
+    "녹음 비하인드": "8",
+    "출연 콘텐츠": "9",
+    "노래 클립": "10",
+    "매거진·인터뷰": "11",
+    "라디오·오디오쇼": "12",
+    "라이브 방송": "13",
+    "광고": "14",
+    "기타": "15",
+    "Shorts": "16",
+    "X(Twitter)": "17"
+};
+
+const SLUG_MAP = Object.fromEntries(
+    Object.entries(CATEGORY_MAP).map(([name, slug]) => [slug, name])
+);
+
+
+/* ============================================================
    전역 변수 (수정)
 ============================================================ */
 let allCards = [];
@@ -227,22 +255,23 @@ if (cat === "X(Twitter)") {
 /* ============================================================
    카테고리 변경 (수정 버전)
 ============================================================ */
-function changeCategory(category, updateURL = true) {
-  currentCategory.textContent = category;
+// ★ categoryName이 한글 카테고리 이름입니다.
+function changeCategory(categoryName, updateURL = true) {
+  currentCategory.textContent = categoryName;
 
-  if (category === "All Videos") {
+  if (categoryName === "All Videos") {
     allCards = buildAllVideos();
   } else {
-    const varName = categoryToVarName(category);
+    const varName = categoryToVarName(categoryName);
     allCards = Array.isArray(window[varName]) ? [...window[varName]] : [];
   }
 
   const container = document.getElementById("allCards"); 
   
-  if (category === "Shorts") {
+  if (categoryName === "Shorts") {
     container.classList.add("vertical-mode");
     container.classList.remove("twitter-mode");
-  } else if (category === "X(Twitter)") {
+  } else if (categoryName === "X(Twitter)") {
     container.classList.add("twitter-mode");
     container.classList.remove("vertical-mode");
   } else {
@@ -260,7 +289,9 @@ function changeCategory(category, updateURL = true) {
   renderCards(true);
 
   if (updateURL) {
-    history.pushState({ category }, "", `?category=${category}`);
+    // ★ 수정: URL에는 한글 이름 대신 숫자 코드(slug)를 사용합니다.
+    const categorySlug = CATEGORY_MAP[categoryName] || categoryName;
+    history.pushState({ category: categorySlug }, "", `?category=${categorySlug}`);
   }
 
   // ★ 기존 window.scrollTo 코드를 여기서 삭제합니다.
@@ -474,21 +505,18 @@ categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
     sortOrder = "newest";
     toggleSortBtn.textContent = "최신순";
 
-    // 1. 카테고리 먼저 변경
+    // 1. 카테고리 먼저 변경 (한글 이름 사용)
     changeCategory(item.textContent.trim(), true);
 
-    // 2. 아이폰 브라우저 바 변화에 대응하기 위해 시간을 좀 더 줌 (200ms)
+    // 2. ★ 수정: iOS 브라우저 툴바 변화 대응을 위한 스크롤 트릭 적용
     setTimeout(() => {
-      // 절대 0이 아니라 미세하게 여백을 남기고 스크롤 (아이폰 사파리 대응)
-      // 만약 여전히 좁아 보인다면 window.scrollTo(0, 0) 대신 아래 방법 사용
-      window.scrollTo({
-        top: 0, 
-        behavior: "instant" 
-      });
+      window.scrollTo({ top: 0, behavior: "instant" }); // 스크롤을 맨 위(0)로 즉시 이동
       
-      // 스크롤 직후 주소창 변화로 인해 다시 좁아지는 것 방지용 미세 스크롤
-      // 필터바가 헤더에 딱 붙는 걸 방지하기 위해 컨테이너의 패딩을 재확인하게 함
-    }, 250); // 시간을 250ms로 살짝 늘려 안정성 확보
+      // 미세한 스크롤을 강제로 발생시켜 iOS 툴바가 높이를 재계산하도록 유도
+      window.scrollTo(0, 1); 
+      window.scrollTo(0, 0); // 다시 맨 위로 복구
+      
+    }, 250); 
   });
 });
 
@@ -497,7 +525,11 @@ categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
 ============================================================ */
 window.addEventListener("DOMContentLoaded", () => {
   const params = new URLSearchParams(location.search);
-  const cat = params.get("category") || "All Videos";
+  const slug = params.get("category"); // URL에서 숫자 코드(slug)를 가져옵니다.
+
+  // ★ 수정: slug를 한글 카테고리 이름으로 변환합니다. (없으면 "All Videos" 사용)
+  const cat = slug ? (SLUG_MAP[slug] || "All Videos") : "All Videos";
+  
   changeCategory(cat, false);
 });
 
@@ -506,7 +538,11 @@ window.addEventListener("DOMContentLoaded", () => {
 ============================================================ */
 window.addEventListener("popstate", () => {
   const params = new URLSearchParams(location.search);
-  const cat = params.get("category") || "All Videos";
+  const slug = params.get("category"); // URL에서 숫자 코드(slug)를 가져옵니다.
+  
+  // ★ 수정: slug를 한글 카테고리 이름으로 변환합니다. (없으면 "All Videos" 사용)
+  const cat = slug ? (SLUG_MAP[slug] || "All Videos") : "All Videos";
+
   changeCategory(cat, false);
 });
 
@@ -530,9 +566,13 @@ if (homeBtn) {
     // 카테고리 변경 먼저 실행
     changeCategory("All Videos", false);
 
-    // 지연 스크롤 실행
+    // ★ 수정: iOS 스크롤 트릭 적용
     setTimeout(() => {
       window.scrollTo({ top: 0, behavior: "instant" });
+
+      // 미세 스크롤 트릭
+      window.scrollTo(0, 1); 
+      window.scrollTo(0, 0);
     }, 200);
   });
 }
@@ -616,5 +656,3 @@ function positionCategoryDropdown() {
   // 버튼 바로 아래에 위치
   categoryDropdown.style.top  = (rect.bottom + 4) + "px";
 }
-
-
