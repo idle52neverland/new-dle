@@ -622,12 +622,17 @@ body, button, input, select, textarea, div, span {
 
     /* 필터 버튼 (Filter Bar) */
     .filter-bar {
-        justify-content: flex-start;
-        padding-left: 10px;         /* 왼쪽 패딩 제거 */
-        overflow-x: auto;
-        white-space: nowrap;
-        -webkit-overflow-scrolling: touch;
-    }
+    justify-content: flex-start;
+    padding-left: 10px;         
+    overflow-x: auto;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    
+    /* ★★★ 필터바 고정 해제 코드 추가 ★★★ */
+    position: static !important; /* 모든 고정 속성 강제 제거 */
+    top: auto !important;
+    position: unset !important;  /* sticky 속성 등도 제거 */
+}
 
     .filterBtn {
         font-size: 0.9rem !important; /* 글씨 크기 키움 */
@@ -644,11 +649,12 @@ body, button, input, select, textarea, div, span {
 
     /* 본문 레이아웃 */
     .container {
-        width: 100%;
-        padding-left: 0;
-        padding-right: 0; 
-        padding-top: 4.5rem !important;
-    }
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0; 
+    /* ★★★ iOS Safe Area를 고려한 정확한 4rem 높이 패딩으로 변경 ★★★ */
+    padding-top: calc(4rem + env(safe-area-inset-top)) !important;
+}
 
     .card-container {
         grid-template-columns: 1fr;
