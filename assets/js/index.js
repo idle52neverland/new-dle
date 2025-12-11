@@ -455,6 +455,28 @@ function openFilterMenu(type, btn) {
 }
 
 
+/* ============================================================
+   ★ iOS 스크롤 복원 방지 및 상단 초기화 트릭 (핵심 함수)
+============================================================ */
+// 1. 브라우저의 자동 스크롤 복원 기능 비활성화
+if ('scrollRestoration' in history) {
+    history.scrollRestoration = 'manual';
+}
+
+function applyIosScrollTrick() {
+    // 100ms 딜레이를 주어 iOS 상단바가 최종적으로 자리를 잡은 후 스크롤을 강제 초기화
+    setTimeout(() => {
+        // 즉시(instant) 스크롤을 맨 위로 이동
+        window.scrollTo({ top: 0, behavior: "instant" });
+        
+        // 미세한 스크롤 이동(0 -> 1 -> 0)으로 iOS가 뷰포트를 재계산하도록 유도
+        setTimeout(() => {
+            window.scrollTo(0, 1);
+            window.scrollTo(0, 0);
+        }, 50); // 50ms 후 최종 확인
+        
+    }, 100); // 100ms 후 초기 실행
+}
 
 
 /* ============================================================
@@ -508,15 +530,8 @@ categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
     // 1. 카테고리 먼저 변경 (한글 이름 사용)
     changeCategory(item.textContent.trim(), true);
 
-    // 2. ★ 수정: iOS 브라우저 툴바 변화 대응을 위한 스크롤 트릭 적용
-    setTimeout(() => {
-      window.scrollTo({ top: 0, behavior: "instant" }); // 스크롤을 맨 위(0)로 즉시 이동
-      
-      // 미세한 스크롤을 강제로 발생시켜 iOS 툴바가 높이를 재계산하도록 유도
-      window.scrollTo(0, 1); 
-      window.scrollTo(0, 0); // 다시 맨 위로 복구
-      
-    }, 250); 
+    // 2. ★ 수정: 통합된 iOS 스크롤 트릭 함수 호출
+    applyIosScrollTrick();
   });
 });
 
@@ -531,6 +546,9 @@ window.addEventListener("DOMContentLoaded", () => {
   const cat = slug ? (SLUG_MAP[slug] || "All Videos") : "All Videos";
   
   changeCategory(cat, false);
+  
+  // ★ 추가: 최초 로딩 시 iOS 스크롤 트릭 적용
+  applyIosScrollTrick();
 });
 
 /* ============================================================
@@ -544,11 +562,16 @@ window.addEventListener("popstate", () => {
   const cat = slug ? (SLUG_MAP[slug] || "All Videos") : "All Videos";
 
   changeCategory(cat, false);
+  
+  // ★ 추가: 뒤로가기/앞으로가기 시 iOS 스크롤 트릭 적용
+  applyIosScrollTrick();
 });
 
 /* ============================================================
    홈버튼 → 초기화
 ============================================================ */
+// NOTE: homeBtn이 DOM에 정의되어 있어야 합니다.
+// const homeBtn = document.getElementById("homeBtn"); // 필요하다면 DOM 변수 정의
 if (homeBtn) {
   homeBtn.addEventListener("click", () => {
     // 만약 index.html로 페이지 이동을 한다면 아래 로직은 의미가 없으나, 
@@ -566,14 +589,8 @@ if (homeBtn) {
     // 카테고리 변경 먼저 실행
     changeCategory("All Videos", false);
 
-    // ★ 수정: iOS 스크롤 트릭 적용
-    setTimeout(() => {
-      window.scrollTo({ top: 0, behavior: "instant" });
-
-      // 미세 스크롤 트릭
-      window.scrollTo(0, 1); 
-      window.scrollTo(0, 0);
-    }, 200);
+    // ★ 수정: 통합된 iOS 스크롤 트릭 함수 호출
+    applyIosScrollTrick();
   });
 }
 
@@ -633,14 +650,6 @@ document.addEventListener("contextmenu", (e) => {
     e.preventDefault();
   }
 });
-
-function positionCategoryDropdown() {
-  const rect = categoryDropdownBtn.getBoundingClientRect();
-  categoryDropdown.style.position = "fixed";   // ★ fixed 로 고정
-  categoryDropdown.style.left = rect.left + "px";
-  categoryDropdown.style.top  = (rect.bottom + 4) + "px";  // window.scrollY 필요 없음
-}
-
 
 function positionCategoryDropdown() {
   const rect = categoryDropdownBtn.getBoundingClientRect();
