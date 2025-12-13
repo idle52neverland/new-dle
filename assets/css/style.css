@@ -725,8 +725,13 @@ body, button, input, select, textarea, div, span {
         width: 100%;
         padding-left: 0;
         padding-right: 0; 
-        /* ★ 수정: 고정 상단바(4rem) + 안전 영역을 반영한 4.5rem base */
-        padding-top: calc(4.5rem + env(safe-area-inset-top)) !important; 
+        
+        /* ★ CRITICAL: 기존 padding-top을 0으로 초기화하여 이중 여백 방지 */
+        padding-top: 0 !important; 
+        
+        /* ★★★ FINAL SOLUTION: margin-top으로 전환 및 1.2rem 버퍼 적용 ★★★ */
+        /* 상단바(4rem) + 1.2rem 버퍼 = 5.2rem. 이 margin-top이 고정 요소를 밀어내는 역할을 합니다. */
+        margin-top: calc(5.2rem + env(safe-area-inset-top)) !important;
     }
 
     .card-container {
