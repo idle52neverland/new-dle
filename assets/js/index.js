@@ -524,27 +524,19 @@ function openFilterMenu(type, btn) {
 /* ============================================================
    ★ iOS 스크롤 복원 방지 및 상단 초기화 트릭 (핵심 함수)
 ============================================================ */
-// 1. 브라우저의 자동 스크롤 복원 기능 비활성화
+// 1. 스크롤 복원 방지 (있다면 그대로 유지)
 if ('scrollRestoration' in history) {
     history.scrollRestoration = 'manual';
 }
 
-function applyIosScrollTrick() {
-    // ★ 수정: 지연 없이 즉시 스크롤을 맨 위로 강제 이동 (가장 중요)
-    window.scrollTo({ top: 0, behavior: "instant" });
-    
-    // 50ms 후, 미세한 스크롤 이동(0 -> 1 -> 0)으로 iOS가 뷰포트를 재계산하도록 유도
-    setTimeout(() => {
-        window.scrollTo(0, 1);
-        window.scrollTo(0, 0);
-    }, 50); 
-    
-    // 100ms 후 최종적으로 한 번 더 스크롤 초기화 (안전장치)
-    setTimeout(() => {
-        window.scrollTo(0, 0);
-    }, 100);
-}
+// 2. 스크롤을 맨 위로 초기화 (가장 기본적인 명령)
+window.scrollTo(0, 0);
 
+// 3. ★★★ iOS 버그 방지용 최종 안전 장치 추가 (가장 중요) ★★★
+// DOM 변경 직후, 브라우저가 스크롤을 복원하기 직전에 다시 한번 강제 초기화합니다.
+setTimeout(() => {
+    window.scrollTo(0, 0);
+}, 10); // 10ms는 사람이 인지할 수 없는 짧은 시간입니다.
 
 /* ============================================================
    이벤트 연결 (수정)
