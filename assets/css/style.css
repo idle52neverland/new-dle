@@ -697,14 +697,13 @@ body, button, input, select, textarea, div, span {
         overflow-x: auto;
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;
-        margin-bottom: 0 !important; /* 하단 여백 제거 유지 */
-        
-        /* 이전 sticky 속성 강제 제거 및 초기화 */
+        margin-top: calc(4.3rem + env(safe-area-inset-top));
+        margin-bottom: 0 !important; 
         position: static !important;
         top: auto !important;
         background: transparent !important;
         z-index: auto !important;
-        position: unset !important; /* 혹시 모를 sticky 제거를 위한 안전장치 */
+        position: unset !important; 
     }
 
     .filterBtn {
@@ -725,13 +724,9 @@ body, button, input, select, textarea, div, span {
         width: 100%;
         padding-left: 0;
         padding-right: 0; 
-        
-        /* ★ CRITICAL: 기존 padding-top을 0으로 초기화하여 이중 여백 방지 */
         padding-top: 0 !important; 
-        
-        /* ★★★ FINAL SOLUTION: margin-top으로 전환 및 1.2rem 버퍼 적용 ★★★ */
-        /* 상단바(4rem) + 1.2rem 버퍼 = 5.2rem. 이 margin-top이 고정 요소를 밀어내는 역할을 합니다. */
-        margin-top: calc(5.2rem + env(safe-area-inset-top)) !important;
+        margin-top: 0 !important;
+        padding-top: calc(4.0rem + env(safe-area-inset-top)) !important;
     }
 
     .card-container {
