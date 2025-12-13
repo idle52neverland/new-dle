@@ -98,6 +98,14 @@ const currentCategory     = document.getElementById("currentCategory");
 const filterMenu     = document.getElementById("filterMenu");
 const allCardsContainer = document.getElementById("allCards");
 
+// ★★★ 새로 추가된 DOM 변수들 (화면 전환용) ★★★
+const mainHomePage = document.getElementById("mainHomePage");
+const filterBar = document.querySelector(".filter-bar");
+const videoCountRow = document.querySelector(".video-count-row");
+const footer = document.querySelector(".footer");
+const homeBtn = document.getElementById("homeBtn");
+// ★★★ 새로 추가된 DOM 변수들 끝 ★★★
+
 
 /* ============================================================
    카테고리 → 데이터변수 매핑
@@ -105,7 +113,6 @@ const allCardsContainer = document.getElementById("allCards");
 function categoryToVarName(category) {
   const raw = category.trim();
 
-// ★ 이 부분을 추가하세요: 트위터 카테고리 강제 매핑
   if (raw === "X(Twitter)") return "xTwitterCards";
 
   // 한글 포함 여부
@@ -113,9 +120,8 @@ function categoryToVarName(category) {
 
   if (hasHangul) {
     // 한글 카테고리는: 공백·특수문자 제거 후 Cards 붙이기
-    // "콜라보·OST·참여곡" → "콜라보OST참여곡Cards"
     return raw
-      .replace(/[^가-힣a-zA-Z0-9]/g, "")   // 한글/영문/숫자 이외 제거
+      .replace(/[^가-힣a-zA-Z0-9]/g, "") 
       + "Cards";
   } else {
     // 영어는 기존 방식
@@ -150,7 +156,9 @@ function buildAllVideos() {
     "라디오오디오쇼Cards",
     "라이브방송Cards",
     "광고Cards",
-    "기타Cards"
+    "기타Cards",
+    "ShortsCards", // Shorts와 X(Twitter)는 buildAllVideos에 포함시켜서
+    "xTwitterCards"  // changeCategory에서 필터링 하도록 합니다.
   ];
 
   let arr = [];
@@ -249,23 +257,54 @@ if (cat === "X(Twitter)") {
 }
 
   visibleCount += slice.length;
-  cardCount.textContent = `총 ${filteredCards.length}개`;
+  cardCount.textContent = `총 ${filteredCards.length}건`;
   loadMoreBtn.style.display = (visibleCount >= filteredCards.length) ? "none" : "block";
 }
+
+/* ============================================================
+   ★ 메인 페이지 / 카드 뷰 전환 함수 (새로 추가)
+============================================================ */
+function toggleMainView(showCards) {
+  if (showCards) {
+    // 카드 뷰 보이기: 메인 페이지 숨김, 카드 관련 요소 보임
+    mainHomePage.classList.add("hidden");
+    filterBar.classList.remove("hidden");
+    videoCountRow.classList.remove("hidden");
+    allCardsContainer.classList.remove("hidden");
+    footer.classList.remove("hidden");
+    scrollTopBtn.classList.remove("hidden");
+  } else {
+    // 메인 페이지 보이기: 메인 페이지 보임, 카드 관련 요소 숨김
+    mainHomePage.classList.remove("hidden");
+    filterBar.classList.add("hidden");
+    videoCountRow.classList.add("hidden");
+    allCardsContainer.classList.add("hidden");
+    footer.classList.add("hidden");
+    scrollTopBtn.classList.add("hidden");
+  }
+}
+
 /* ============================================================
    카테고리 변경 (수정 버전)
 ============================================================ */
-// ★ categoryName이 한글 카테고리 이름입니다.
 function changeCategory(categoryName, updateURL = true) {
   currentCategory.textContent = categoryName;
 
+  // 1. 카드 데이터 로드
   if (categoryName === "All Videos") {
-    allCards = buildAllVideos();
+    // ★★★ 핵심 수정: All Videos일 때 Shorts와 X(Twitter)를 제외하도록 필터링 ★★★
+    allCards = buildAllVideos().filter(card => {
+        return card.category !== "Shorts" && card.category !== "X(Twitter)";
+    });
   } else {
     const varName = categoryToVarName(categoryName);
     allCards = Array.isArray(window[varName]) ? [...window[varName]] : [];
   }
 
+  // 2. 화면 전환 (카테고리를 클릭하면 무조건 카드 뷰를 표시)
+  toggleMainView(true);
+
+  // 3. 카드 컨테이너 모드 설정 (기존 로직 유지)
   const container = document.getElementById("allCards"); 
   
   if (categoryName === "Shorts") {
@@ -279,31 +318,58 @@ function changeCategory(categoryName, updateURL = true) {
     container.classList.remove("twitter-mode");
   }
 
+  // 4. 필터 초기화
   activeFilters = { year: null, month: null, subtag: null };
   yearFilter.textContent = "연도";
   monthFilter.textContent = "월";
   subTagFilter.textContent = "서브필터 선택";
 
+  // 5. 카드 필터링 및 정렬
   filteredCards = sortCards([...allCards]);
 
+  // 6. 카드 렌더링
   renderCards(true);
 
+  // 7. URL 업데이트
   if (updateURL) {
-    // ★ 수정: URL에는 한글 이름 대신 숫자 코드(slug)를 사용합니다.
     const categorySlug = CATEGORY_MAP[categoryName] || categoryName;
-    history.pushState({ category: categorySlug }, "", `?category=${categorySlug}`);
+    
+    // URL에 검색어 쿼리가 있다면 함께 유지합니다.
+    const params = new URLSearchParams(location.search);
+    const query = params.get("q"); 
+    
+    let url = `?category=${categorySlug}`;
+    if (query) {
+      url += `&q=${encodeURIComponent(query)}`;
+    }
+    
+    history.pushState({ category: categorySlug }, "", url);
   }
 
-  // ★ 기존 window.scrollTo 코드를 여기서 삭제합니다.
-  // 외부 클릭 이벤트에서 setTimeout으로 제어할 것입니다.
+// 8. Shorts 특별 처리 (필터 숨김) // ★ 주석 수정
+if (categoryName === "Shorts") { 
+  filterBar.classList.add("hidden");
+  toggleSortBtn.classList.add("hidden");
+  videoCountRow.classList.add("hidden");
+} else {
+  filterBar.classList.remove("hidden");
+  toggleSortBtn.classList.remove("hidden");
+  videoCountRow.classList.remove("hidden");
+}
 }
 
 /* ============================================================
    검색/필터 적용
 ============================================================ */
 function applySearch() {
+  // ★ 검색을 시작하면 홈 화면을 숨기고 카드 뷰를 표시합니다.
+  if ((searchInput.value || "").trim() !== "") {
+    toggleMainView(true);
+  }
+
   const kw = (searchInput.value || "").toLowerCase();
 
+  // 검색/필터 로직... (기존 로직 유지)
   filteredCards = allCards.filter(c => {
     let ok = true;
 
@@ -481,12 +547,36 @@ function applyIosScrollTrick() {
 
 
 /* ============================================================
-   이벤트 연결
+   이벤트 연결 (수정)
 ============================================================ */
-searchBtn.addEventListener("click", applySearch);
+
+function handleSearchAction() {
+  const kw = (searchInput.value || "").trim();
+  
+  // 현재 카테고리가 '카테고리 선택' (홈 화면) 상태이며, 검색어가 있을 때
+  if (currentCategory.textContent === "카테고리 선택" && kw.length > 0) {
+    
+    // All Videos (코드 1)로 이동하며 검색어 쿼리(q)를 URL에 추가합니다.
+    // CATEGORY_MAP["All Videos"]는 "1" 입니다.
+    window.location.href = `?category=${CATEGORY_MAP["All Videos"]}&q=${encodeURIComponent(kw)}`;
+    
+  } 
+  // 일반 카테고리 페이지이거나, 검색어가 없는 경우
+  else {
+    applySearch(); // 기존 검색 로직 실행
+  }
+}
+
+// 1. 검색 버튼 클릭 시 (기존 코드를 handleSearchAction 호출로 교체)
+searchBtn.addEventListener("click", handleSearchAction);
+
+// 2. Enter 키 입력 시 (기존 코드를 handleSearchAction 호출로 교체)
 searchInput.addEventListener("keyup", e => {
-  if (e.key === "Enter") applySearch();
+  if (e.key === "Enter") {
+    handleSearchAction();
+  }
 });
+
 
 yearFilter.addEventListener("click", e => openFilterMenu("year", e.target));
 monthFilter.addEventListener("click", e => openFilterMenu("month", e.target));
@@ -518,37 +608,62 @@ categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
   item.addEventListener("click", () => {
     categoryDropdown.classList.add("hidden");
 
+    // 카테고리를 이동하면 검색어/필터 초기화
     searchInput.value = "";
-
     activeFilters = { year: null, month: null, subtag: null };
     yearFilter.textContent = "연도";
     monthFilter.textContent = "월";
     subTagFilter.textContent = "서브필터 선택";
-
     sortOrder = "newest";
     toggleSortBtn.textContent = "최신순";
 
     // 1. 카테고리 먼저 변경 (한글 이름 사용)
     changeCategory(item.textContent.trim(), true);
 
-    // 2. ★ 수정: 통합된 iOS 스크롤 트릭 함수 호출
+    // 2. 통합된 iOS 스크롤 트릭 함수 호출
     applyIosScrollTrick();
   });
 });
 
 /* ============================================================
-   최초 로딩
+   최초 로딩 (수정)
 ============================================================ */
 window.addEventListener("DOMContentLoaded", () => {
   const params = new URLSearchParams(location.search);
   const slug = params.get("category"); // URL에서 숫자 코드(slug)를 가져옵니다.
+  const query = params.get("q");      // ★★★ 추가: URL에서 검색어(q)를 가져옵니다. ★★★
 
-  // ★ 수정: slug를 한글 카테고리 이름으로 변환합니다. (없으면 "All Videos" 사용)
-  const cat = slug ? (SLUG_MAP[slug] || "All Videos") : "All Videos";
+  // ★★★ 추가: 검색어가 있다면 검색창에 채워넣습니다. ★★★
+  if (query) {
+    searchInput.value = decodeURIComponent(query);
+  }
   
-  changeCategory(cat, false);
-  
-  // ★ 추가: 최초 로딩 시 iOS 스크롤 트릭 적용
+  // URL에 category=slug가 없는 경우 (Pure Home)
+  if (!slug) {
+    // 검색어가 있다면 All Videos로 강제 이동 및 검색 실행
+    if (query) {
+      // URL에는 category가 없지만 검색을 위해 All Videos로 로드하고 검색 실행
+      changeCategory("All Videos", false); 
+      applySearch(); 
+    } else {
+      // 검색어가 없다면 홈 뷰 유지
+      toggleMainView(false); 
+      currentCategory.textContent = "카테고리 선택"; 
+    }
+  } else {
+    // URL에 카테고리가 있는 경우 (일반 카테고리 페이지)
+    const cat = slug ? (SLUG_MAP[slug] || "All Videos") : "All Videos";
+
+    toggleMainView(true); // 카드 뷰 보여주기
+    changeCategory(cat, false);
+    
+    // ★★★ 추가: 카테고리가 로드된 후 검색어가 있다면 검색을 실행합니다. ★★★
+    if (query) {
+        applySearch();
+    }
+  }
+
+  // 최초 로딩 시 iOS 스크롤 트릭 적용
   applyIosScrollTrick();
 });
 
@@ -558,39 +673,44 @@ window.addEventListener("DOMContentLoaded", () => {
 window.addEventListener("popstate", () => {
   const params = new URLSearchParams(location.search);
   const slug = params.get("category"); // URL에서 숫자 코드(slug)를 가져옵니다.
-  
-  // ★ 수정: slug를 한글 카테고리 이름으로 변환합니다. (없으면 "All Videos" 사용)
-  const cat = slug ? (SLUG_MAP[slug] || "All Videos") : "All Videos";
 
-  changeCategory(cat, false);
-  
-  // ★ 추가: 뒤로가기/앞으로가기 시 iOS 스크롤 트릭 적용
+  // URL에 category=slug가 없는 경우 (Pure Home)
+  if (!slug) {
+    toggleMainView(false); // 새 메인 페이지 표시
+    currentCategory.textContent = "All Videos"; // UI 초기화
+  } else {
+    // slug를 한글 카테고리 이름으로 변환합니다.
+    const cat = SLUG_MAP[slug] || "All Videos";
+    changeCategory(cat, false); // URL 업데이트 없이 카테고리 로드
+  }
+
+  // 뒤로가기/앞으로가기 시 iOS 스크롤 트릭 적용
   applyIosScrollTrick();
 });
 
 /* ============================================================
-   홈버튼 → 초기화
+   홈버튼 → 초기화 (수정)
 ============================================================ */
-// NOTE: homeBtn이 DOM에 정의되어 있어야 합니다.
-// const homeBtn = document.getElementById("homeBtn"); // 필요하다면 DOM 변수 정의
 if (homeBtn) {
   homeBtn.addEventListener("click", () => {
-    // 만약 index.html로 페이지 이동을 한다면 아래 로직은 의미가 없으나, 
-    // 같은 페이지 내에서 초기화만 하는 용도라면 동일하게 처리합니다.
+    // 검색어/필터 초기화
     searchInput.value = "";
-
     activeFilters = { year: null, month: null, subtag: null };
     yearFilter.textContent = "연도";
     monthFilter.textContent = "월";
     subTagFilter.textContent = "서브필터 선택";
-
     sortOrder = "newest";
     toggleSortBtn.textContent = "최신순";
 
-    // 카테고리 변경 먼저 실행
-    changeCategory("All Videos", false);
+    // 1. URL에서 category와 q 매개변수 완전히 제거 (Pure Home 상태로 만듦)
+    // location.pathname은 "?" 이전의 URL만 남김
+    history.pushState(null, "", location.pathname); 
 
-    // ★ 수정: 통합된 iOS 스크롤 트릭 함수 호출
+    // 2. 신규 홈 화면 표시
+    currentCategory.textContent = "카테고리 선택"; // UI 초기화
+    toggleMainView(false); // 신규 홈 화면 표시
+
+    // 스크롤 초기화 및 iOS 트릭 적용
     applyIosScrollTrick();
   });
 }

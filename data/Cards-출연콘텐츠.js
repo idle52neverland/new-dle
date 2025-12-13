@@ -2542,17 +2542,6 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/iWmjp-hWkL4",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2020-04-23T18:00:00",
-  "duration": "00:06:13",
-  "thumbnail": "https://i.ytimg.com/vi/iWmjp-hWkL4/sddefault.jpg",
-  "alt": "[ENG] [BEHIND THE SCENE - (G)I-DLE] KPOP TV Show | M COUNTDOWN EP.662",
-  "title": "[ENG] [BEHIND THE SCENE - (G)I-DLE] KPOP TV Show | M COUNTDOWN EP.662"
-},
-
-{
   "link": "https://youtu.be/NRQyPvS1aJI",
   "category": "출연콘텐츠",
   "member": "아이들",
@@ -4519,17 +4508,6 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/jJ5ML_CQSFY/sddefault.jpg",
   "alt": "[Show Champion] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381",
   "title": "[Show Champion] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381"
-},
-
-{
-  "link": "https://youtu.be/K6lTRwB4w_4",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2021-01-21T18:00:00",
-  "duration": "00:05:30",
-  "thumbnail": "https://i.ytimg.com/vi/K6lTRwB4w_4/sddefault.jpg",
-  "alt": "[ENG] [BEHIND THE SCENE - (G)I-DLE] KPOP TV Show #엠카운트다운 | M COUNTDOWN EP.695",
-  "title": "[ENG] [BEHIND THE SCENE - (G)I-DLE] KPOP TV Show #엠카운트다운 | M COUNTDOWN EP.695"
 },
 
 {
@@ -8944,17 +8922,6 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/Zyc1zfQf81U",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2023-05-18T18:00:00",
-  "duration": "00:04:05",
-  "thumbnail": "https://i.ytimg.com/vi/Zyc1zfQf81U/sddefault.jpg",
-  "alt": "[EN/JP] '컴백 인터뷰' with (여자)아이들 #엠카운트다운 EP.797 | Mnet 방송",
-  "title": "[EN/JP] '컴백 인터뷰' with (여자)아이들 #엠카운트다운 EP.797 | Mnet 방송"
-},
-
-{
   "link": "https://youtu.be/Eb1Nh1tbjqY",
   "category": "출연콘텐츠",
   "member": "미연",
@@ -12769,17 +12736,6 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/IHgVv65TPuA/sddefault.jpg",
   "alt": "[전참시 미방] 아이들 메인 래퍼는 우기 on and on??? #아이들 #전지적참견시점 #kpop |전지적 참견 시점|",
   "title": "[전참시 미방] 아이들 메인 래퍼는 우기 on and on??? #아이들 #전지적참견시점 #kpop |전지적 참견 시점|"
-},
-
-{
-  "link": "https://youtu.be/iXgtOKjLPEE",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2025-05-22T18:00:00",
-  "duration": "00:03:43",
-  "thumbnail": "https://i.ytimg.com/vi/iXgtOKjLPEE/sddefault.jpg",
-  "alt": "'컴백 인터뷰' i-dle (아이들) #엠카운트다운 EP.889 | Mnet 방송",
-  "title": "'컴백 인터뷰' i-dle (아이들) #엠카운트다운 EP.889 | Mnet 방송"
 },
 
 {

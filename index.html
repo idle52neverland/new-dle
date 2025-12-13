@@ -12,7 +12,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
-  <!-- DATA FILES -->
   <script src="data/Cards-발매곡.js" defer></script>
   <script src="data/Cards-OST참여곡.js" defer></script>
   <script src="data/Cards-음악방송시상식.js" defer></script>
@@ -33,13 +32,11 @@
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-  <!-- MAIN JS -->
   <script src="assets/js/index.js" defer></script>
 </head>
 
 <body>
 
-<!-- ■■■ 상단 고정 전체 wrapper ■■■ -->
 <div class="fixed-top-wrapper">
   <div class="fixed-inner">
 
@@ -60,12 +57,11 @@
         <div class="separator"></div>
         
         <button id="categoryDropdownBtn" class="category-btn in-search">
-            <span id="currentCategory">All Videos</span>
+            <span id="currentCategory">카테고리 선택</span>
             <img src="images/arrow_down.svg" class="arrow"> 
         </button>
       </div>
 
-      <!-- ★★★ 카테고리 드롭다운 -->
       <div id="categoryDropdown" class="category-dropdown hidden">
         <div class="cat-item">All Videos</div>
         <div class="cat-item">공식 채널</div>
@@ -86,17 +82,38 @@
         <div class="cat-item">X(Twitter)</div>
       </div>
 
-    </div><!-- header-bar 끝 -->
-
-  </div>
+    </div></div>
 </div>
 
 
+    <section id="mainHomePage" class="main-home-page">
+      <h1 class="main-title">아이들 몰아보기 (i-dle Replay)</h1>
 
-  <!-- ■■■ 본문 container ■■■ -->
+      <div class="mv-wrapper"> 
+        <div class="mv-embed-box">
+          <iframe
+            src="//www.youtube.com/embed/9g9NClV1z_w?autoplay=0&rel=0" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" 
+            allowfullscreen>
+          </iframe>
+        </div>
+      </div>
+
+      <div class="intro-text-box">
+        <p class="intro-text">
+          유튜브 영상을 편하게 찾아볼 수 있도록 팬심으로 정리한 팬사이트입니다! 
+          <br>누락된 유튜브 영상들 제보해주세요
+        </p>
+        <p class="contact-text">
+          영상제보, 문의 - idleogosa@gmail.com
+        </p>
+      </div>
+    </section>
+
   <div class="container">
 
-    <!-- ■ 필터줄: filter-bar / filterBtn / toggleSortBtn -->
     <div class="filter-bar">
       <button id="yearFilter" class="filterBtn">연도</button>
       <button id="monthFilter" class="filterBtn">월</button>
@@ -106,15 +123,12 @@
 
     <div id="filterMenu" class="hidden"></div>
 
-    <!-- ■ 영상 갯수 -->
     <div class="video-count-row">
-      <span id="cardCount">총 0개</span>
+      <span id="cardCount">총 0건</span>
     </div>
 
-    <!-- ■ 카드 리스트: card-container -->
     <section id="allCards" class="card-container"></section>
 
-    <!-- ■ footer 영역 -->
     <footer class="footer">
       <button id="loadMoreBtn" class="more-btn">
         <img src="images/more.svg" alt="more">
@@ -131,4 +145,3 @@
 
 </body>
 </html>
-

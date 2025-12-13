@@ -1182,7 +1182,7 @@ const 광고Cards = [
   "link": "https://youtu.be/3fm1Yfony8c",
   "category": "광고",
   "member": "소연",
-  "date": "2025-09-05T18:00:00",
+  "date": "2025-09-04T18:00:00",
   "duration": "00:00:24",
   "thumbnail": "https://i.ytimg.com/vi/3fm1Yfony8c/maxresdefault.jpg",
   "alt": "Coach Fall 2025 | Carry All Your Expressions | SOYEON | #CourageToBeReal",

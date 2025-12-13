@@ -2806,6 +2806,17 @@ const 음악방송시상식Cards = [
 },
 
 {
+  "link": "https://youtu.be/iWmjp-hWkL4",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-04-23T18:00:15",
+  "duration": "00:06:13",
+  "thumbnail": "https://i.ytimg.com/vi/iWmjp-hWkL4/sddefault.jpg",
+  "alt": "[엠카운트다운] [ENG] BEHIND THE SCENE - (G)I-DLE  | M COUNTDOWN EP.662",
+  "title": "[엠카운트다운] [ENG] BEHIND THE SCENE - (G)I-DLE  | M COUNTDOWN EP.662"
+},
+
+{
   "link": "https://youtu.be/RjwJsqUS9d4",
   "category": "음악방송시상식",
   "member": "민니",
@@ -3672,6 +3683,17 @@ const 음악방송시상식Cards = [
   "thumbnail": "https://i.ytimg.com/vi/D89_9VYIieE/maxresdefault.jpg",
   "alt": "[엠카운트다운] [MPD직캠] (여자)아이들 슈화 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.8.13",
   "title": "[엠카운트다운] [MPD직캠] (여자)아이들 슈화 직캠 4K '덤디덤디(DUMDi DUMDi)' ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2020.8.13"
+},
+
+{
+  "link": "https://youtu.be/Ri8larIyGTU",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-08-13T18:00:20",
+  "duration": "00:06:04",
+  "thumbnail": "https://i.ytimg.com/vi/Ri8larIyGTU/maxresdefault.jpg",
+  "alt": "[엠카운트다운][ENG] BEHIND THE SCENE - (G)I-DLE | M COUNTDOWN 200813 EP.678",
+  "title": "[엠카운트다운][ENG] BEHIND THE SCENE - (G)I-DLE | M COUNTDOWN 200813 EP.678"
 },
 
 {
@@ -4893,6 +4915,17 @@ const 음악방송시상식Cards = [
   "thumbnail": "https://i.ytimg.com/vi/dbWQGz9WT_c/maxresdefault.jpg",
   "alt": "[엠카운트다운] [입덕직캠] (여자)아이들 슈화 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SHUHUA FanCam)",
   "title": "[엠카운트다운] [입덕직캠] (여자)아이들 슈화 직캠 4K '화(火花)(HWAA)' ((G)I-DLE SHUHUA FanCam)"
+},
+
+{
+  "link": "https://youtu.be/K6lTRwB4w_4",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2021-01-21T18:00:18",
+  "duration": "00:05:30",
+  "thumbnail": "https://i.ytimg.com/vi/K6lTRwB4w_4/sddefault.jpg",
+  "alt": "[엠카운트다운] [ENG] BEHIND THE SCENE - (G)I-DLE  | M COUNTDOWN EP.695",
+  "title": "[엠카운트다운] [ENG] BEHIND THE SCENE - (G)I-DLE | M COUNTDOWN EP.695"
 },
 
 {
@@ -8900,6 +8933,17 @@ const 음악방송시상식Cards = [
 },
 
 {
+  "link": "https://youtu.be/Zyc1zfQf81U",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2023-05-18T18:00:50",
+  "duration": "00:04:05",
+  "thumbnail": "https://i.ytimg.com/vi/Zyc1zfQf81U/sddefault.jpg",
+  "alt": "[엠카운트다운] [EN/JP] '컴백 인터뷰' with (여자)아이들  | EP.797",
+  "title": "[엠카운트다운] [EN/JP] '컴백 인터뷰' with (여자)아이들 | EP.797"
+},
+
+{
   "link": "https://youtu.be/kZuFOjiU-4A",
   "category": "음악방송시상식",
   "member": "아이들",
@@ -11372,6 +11416,17 @@ const 음악방송시상식Cards = [
   "thumbnail": "https://i.ytimg.com/vi/LZ41c9AhBxM/maxresdefault.jpg",
   "alt": "[엠카운트다운] [MPD직캠] 아이들 소연 직캠 4K 'Girlfriend' (i-dle SOYEON FanCam)",
   "title": "[엠카운트다운] [MPD직캠] 아이들 소연 직캠 4K 'Girlfriend' (i-dle SOYEON FanCam)"
+},
+
+{
+  "link": "https://youtu.be/iXgtOKjLPEE",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2025-05-22T18:00:00",
+  "duration": "00:03:43",
+  "thumbnail": "https://i.ytimg.com/vi/iXgtOKjLPEE/sddefault.jpg",
+  "alt": "[엠카운트다운] '컴백 인터뷰' i-dle (아이들)  | EP.889",
+  "title": "[엠카운트다운] '컴백 인터뷰' i-dle (아이들)  | EP.889"
 },
 
 {

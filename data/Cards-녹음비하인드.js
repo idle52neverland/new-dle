@@ -631,7 +631,7 @@ const 녹음비하인드Cards = [
   "link": "https://youtu.be/8a67OaExWRw",
   "category": "녹음비하인드",
   "member": "아이들",
-  "date": "2025-10-17T18:00:00",
+  "date": "2025-10-16T18:00:00",
   "duration": "00:19:28",
   "thumbnail": "https://i.ytimg.com/vi/8a67OaExWRw/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'どうしよっかな' Recording BehindㅣSUB",

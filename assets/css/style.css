@@ -50,7 +50,7 @@ body, button, input, select, textarea, div, span {
 }
 
 .fixed-inner {
-  max-width: 1284px;
+  max-width: 1440px;
   width: min(100%, 90%);
   margin: 0 auto;
   padding: 0.75rem 0;
@@ -112,17 +112,21 @@ body, button, input, select, textarea, div, span {
 
 /* 검색 입력창 */
 .searchbox input {
-  font-size: 16px !important;
+  font-size: 20px !important;
   transform: scale(0.8);
   transform-origin: left center; /* 왼쪽 기준으로 축소하여 정렬 유지 */
-  flex: 1; 
+
+  flex: 1 1 0% !important; 
+  min-width: 0; 
+
   border: none;
   background: transparent;
   font-family: inherit; 
   font-size: var(--fs-normal); 
   outline: none;
   color: #0f0f0f; 
-  padding: 0 1rem; 
+  /* padding: 0 2rem 0 1rem; <- 이전 코드 */
+  padding: 0 4rem 0 1rem; /* ★ 최종 수정: 오른쪽 패딩을 4rem으로 대폭 늘려 입력 영역 확보 */
 }
 
 /* 돋보기 아이콘 (검색창 내부) */
@@ -131,7 +135,9 @@ body, button, input, select, textarea, div, span {
   height: 1.6rem;
   flex-shrink: 0;
   cursor: pointer;
-  margin-right: 0.5rem; /* 구분선과의 간격 */
+  /* margin-left: -2rem; <- 이전 코드 */
+  margin-left: -4rem; /* ★ 최종 수정: 아이콘을 왼쪽으로 -4rem 당겨 입력 영역 위로 완전히 배치 */
+  margin-right: 0.8rem; 
 }
 
 /* ★ 세로 구분선 스타일 추가 */
@@ -199,9 +205,8 @@ body, button, input, select, textarea, div, span {
 /* 1. 카테고리 드롭다운 리스트 항목 (.cat-item) */
 /* ---------------------------------------------------- */
 .cat-item {
-    /* ★ 최종 수정: 0.9rem으로 강제 고정 및 기존 변수 오버라이드 */
     font-size: 0.9rem !important; 
-    padding: 0.6rem 1rem !important; /* 0.9rem에 맞게 여백 조정 및 !important */
+    padding: 0.6rem 1rem !important; 
     cursor: pointer;
     border-radius: var(--radius-small);
 }
@@ -256,7 +261,7 @@ body, button, input, select, textarea, div, span {
    MAIN CONTAINER
 =========================================================== */
 .container {
-  max-width: 1284px !important;
+  max-width: 1440px !important;
   width: 100%;
   padding-top: clamp(4rem, 10vw, 5rem);
   margin: 0 auto;
@@ -317,7 +322,6 @@ body, button, input, select, textarea, div, span {
   justify-content: flex-end;
   font-family: 'Roboto', sans-serif;
   font-size: 0.95rem; /* 약간 작게 */
-  font-weight: 500; /* 유튜브 메타데이터보다 살짝 강조된 느낌 */
   color: #0f0f0f; /* 연한 회색에서 진한 검정으로 변경 */
   margin-bottom: 0.8rem;
   padding-right: 15px;
@@ -328,9 +332,7 @@ body, button, input, select, textarea, div, span {
 =========================================================== */
 .card-container {
     display: grid;
-    /* ★ 핵심 수정: 카드 최소 너비를 간격(16px)을 포함한 값인 260px 정도로 키움 */
-    /* 이렇게 해야 1284px 공간 안에서 5개가 들어가지 못하고 4개로 고정됩니다. */
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)) !important;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)) !important;
     gap: 16px !important; 
     padding: 0 16px;
 }
@@ -411,7 +413,7 @@ body, button, input, select, textarea, div, span {
 =========================================================== */
 /* style.css */
 
-/* 1. 숏츠 그리드: 1284px 공간 내에서 무조건 6개 배열되도록 수치 낮춤 */
+/* 1. 숏츠 그리드: 1440px 공간 내에서 무조건 6개 배열되도록 수치 낮춤 */
 .card-container.vertical-mode {
     display: grid !important;
     grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)) !important; 
@@ -526,6 +528,75 @@ body, button, input, select, textarea, div, span {
   z-index: 1000;
 }
 
+/* ===========================================================
+   HOMEPAGE STYLES (새로 추가)
+=========================================================== */
+.hidden {
+  display: none !important;
+}
+
+#mainHomePage {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0 20px; 
+  padding-top: 5rem; 
+  text-align: center;
+}
+
+.main-title {
+  font-size: clamp(1.4rem, 2.8vw, 1.8rem);
+  font-weight: 700;
+  margin-top: 1.5rem; 
+  margin-bottom: 4rem; /* 현재 설정된 하단 여백 */
+  color: #333; 
+  letter-spacing: -0.05rem; 
+}
+
+.mv-embed-box {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 비율 유지 (정상 작동 가정) */
+  height: 0;
+  overflow: hidden;
+  border-radius: var(--radius-large);
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+  margin-bottom: 4rem;
+}
+
+.mv-embed-box iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.intro-text-box {
+  /* ★ 추가: 배경에 아주 연한 회색 추가 */
+  background: #f8f8f8; 
+  border-radius: var(--radius-med);
+  padding: 1.2rem;
+  margin-bottom: 2rem;
+  line-height: 1.5;
+  text-align: center;
+  /* ★ 추가: 은은한 테두리 추가 */
+  border: 1px solid #eee; 
+}
+
+.intro-text {
+  font-size: 1.05rem;
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+}
+
+.contact-text {
+  font-weight: 500;
+  /* ★ 수정: 연락처 색상을 부드러운 회색으로 변경 */
+  color: #777; 
+  margin-top: 0.8rem;
+  font-size: var(--fs-small);
+}
+
 /* ===========================
    MOBILE OPTIMIZATION
 =========================== */
@@ -575,7 +646,6 @@ body, button, input, select, textarea, div, span {
         transform: scale(0.85) !important; 
         transform-origin: left center !important; 
         line-height: calc(2.6rem / 0.85) !important; 
-        width: 117% !important; 
         height: 100% !important;
         padding: 0 0.5rem !important;
         -webkit-text-size-adjust: 100%; 
@@ -692,4 +762,25 @@ body, button, input, select, textarea, div, span {
     .filterBtn, .cat-item {
         -webkit-tap-highlight-color: transparent; 
     }
+
+/* 모바일 최적화 */
+@media (max-width: 767px) {
+  #mainHomePage {
+    padding: 0 10px;
+    padding-top: 5.5rem !important;
+  }
+  .main-title {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  .intro-text-box {
+    padding: 1rem;
+  }
+  .intro-text {
+    font-size: 0.95rem;
+  }
+}
+
+
+
 }
