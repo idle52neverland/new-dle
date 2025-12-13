@@ -522,31 +522,45 @@ function openFilterMenu(type, btn) {
 
 
 /* ============================================================
-   ★ iOS 스크롤 복원 방지 및 상단 초기화 트릭 (핵심 함수) - 수정된 부분
+   ★ iOS 스크롤 복원 방지 및 상단 초기화 트릭 (핵심 함수) - 최종 수정
 ============================================================ */
 // 1. 스크롤 복원 방지 (있다면 그대로 유지)
 if ('scrollRestoration' in history) {
     history.scrollRestoration = 'manual';
 }
 
-// 2. ★★★ iOS 스크롤 버그 회피 함수 정의 (누락된 함수 복원) ★★★
+// 2. ★★★ iOS 스크롤 버그 회피 함수 정의 (Final Version) ★★★
 function applyIosScrollTrick() {
-    // 1. 초기 스크롤을 즉시 맨 위로 이동
+    // 상단바 DOM 요소 찾기 (.fixed-top-wrapper가 상단바 클래스라고 가정)
+    const fixedHeader = document.querySelector('.fixed-top-wrapper'); 
+
+    // iOS Fixed Header 버그 회피 (핵심: 렌더링 강제 업데이트)
+    if (fixedHeader) {
+        // 눈에 띄지 않는 미세한 3D 변형을 강제하여 뷰포트 재계산을 유도합니다.
+        fixedHeader.style.transform = 'translate3d(0, 0, 0.1px)'; 
+    }
+
+    // 초기 스크롤을 즉시 맨 위로 이동
     window.scrollTo({ top: 0, behavior: "instant" });
     
-    // 2. 50ms 후, 미세한 스크롤 이동(0 -> 1 -> 0)으로 iOS가 뷰포트를 재계산하도록 강제
-    // (이것이 iOS가 스크롤 위치를 고집스럽게 복원하려는 것을 막는 핵입니다.)
+    // 10ms 후 3D 변형 제거 (시각적 변화 없음)
     setTimeout(() => {
-        window.scrollTo(0, 1);
-        window.scrollTo(0, 0);
+        if (fixedHeader) {
+            fixedHeader.style.transform = ''; // 변형 제거
+        }
+    }, 10);
+    
+    // 50ms 후, 미세한 스크롤 이동(0 -> 1 -> 0)으로 뷰포트 재계산 최종 유도
+    setTimeout(() => {
+        window.scrollTo(0, 1); 
+        window.scrollTo(0, 0); 
     }, 50); 
     
-    // 3. 100ms 후 최종 안전장치
+    // 100ms 후 최종 안전장치
     setTimeout(() => {
         window.scrollTo(0, 0);
     }, 100);
 }
-
 
 /* ============================================================
    이벤트 연결 (수정)
