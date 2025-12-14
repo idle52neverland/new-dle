@@ -681,7 +681,7 @@ body, button, input, select, textarea, div, span {
 
     /* 필터 버튼 (Filter Bar) */
     .filter-bar {
-        justify-content: center;
+        justify-content: flex-start;
         padding-left: 10px;        
         overflow-x: auto;
         white-space: nowrap;
@@ -712,7 +712,7 @@ body, button, input, select, textarea, div, span {
         width: 100%;
         padding-left: 0;
         padding-right: 0; 
-        padding-top: calc(6.2rem + env(safe-area-inset-top)) !important; 
+        padding-top: calc(6.4rem + env(safe-area-inset-top)) !important; 
     }
 
     .card-container {
