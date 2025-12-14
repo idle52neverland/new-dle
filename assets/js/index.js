@@ -75,7 +75,7 @@ let activeFilters = {
   year: null,
   month: null,
   subtag: null,
-  // ★★★ [NEW] 기간 설정 필터 변수 추가 ★★★
+  // 기간 설정 필터 변수
   startDate: null, 
   endDate: null
 };
@@ -87,7 +87,7 @@ const searchBtn   = document.getElementById("searchBtn");
 const yearFilter  = document.getElementById("yearFilter");
 const monthFilter = document.getElementById("monthFilter");
 const subTagFilter = document.getElementById("subTagFilter");
-// ★★★ [NEW] 기간 설정 버튼 DOM 변수 추가 ★★★
+// 기간 설정 버튼 DOM 변수
 const dateRangeIconBtn = document.getElementById("dateRangeIconBtn"); 
 
 const toggleSortBtn = document.getElementById("toggleSortBtn");
@@ -141,13 +141,14 @@ function categoryToVarName(category) {
 
 /* ============================================================
    All Videos = 모든 카테고리를 합친 배열 생성
+   (ShortsCards, xTwitterCards 제외됨)
 ============================================================ */
 function buildAllVideos() {
   const vars = [
     "발매곡Cards", "OST참여곡Cards", "음악방송시상식Cards", "공연축제Cards",
     "공식채널Cards", "자체예능Cards", "녹음비하인드Cards", "출연콘텐츠Cards",
     "노래클립Cards", "매거진인터뷰Cards", "라디오오디오쇼Cards", "라이브방송Cards",
-    "광고Cards", "기타Cards", "ShortsCards", "xTwitterCards"  
+    "광고Cards", "기타Cards" // ShortsCards, xTwitterCards 제거됨
   ];
 
   let arr = [];
@@ -274,9 +275,8 @@ function changeCategory(categoryName, updateURL = true) {
 
   // 1. 카드 데이터 로드
   if (categoryName === "All Videos") {
-    allCards = buildAllVideos().filter(card => {
-        return card.category !== "Shorts" && card.category !== "X(Twitter)";
-    });
+    // buildAllVideos 함수에서 이미 Shorts와 X(Twitter)를 제외하도록 수정했음.
+    allCards = buildAllVideos();
   } else {
     const varName = categoryToVarName(categoryName);
     allCards = Array.isArray(window[varName]) ? [...window[varName]] : [];
@@ -311,7 +311,7 @@ function changeCategory(categoryName, updateURL = true) {
   monthFilter.textContent = "월";
   subTagFilter.textContent = "서브필터";
   
-  // ★ 달력 버튼 UI 초기화 및 비활성 스타일 제거
+  // 달력 버튼 UI 초기화 및 비활성 스타일 제거
   if (dateRangeIconBtn) {
     dateRangeIconBtn.textContent = "🗓️"; 
     dateRangeIconBtn.classList.remove('active');
@@ -351,11 +351,15 @@ if (categoryName === "Shorts") {
   videoCountRow.classList.remove("hidden");
   if (dateRangeIconBtn) dateRangeIconBtn.classList.remove("hidden");
 }
+
+  // 카테고리 변경 후 스크롤을 최상단으로 이동
+  applyIosScrollTrick();
 }
 
 
 /* ============================================================
-   기간 직접 설정 로직 (HTML 메뉴 UI) - [NEW]
+   기간 직접 설정 로직 (HTML 메뉴 UI)
+   (iOS 텍스트/버튼 색상 문제 수정됨)
 ============================================================ */
 function openDateRangeMenu(btn) {
     filterMenu.innerHTML = "";
@@ -372,6 +376,7 @@ function openDateRangeMenu(btn) {
     startInput.value = activeFilters.startDate || "";
     startInput.id = "dateStartInput";
     startInput.style.marginBottom = "5px";
+    startInput.style.color = "#000"; // ★ FIX: iOS에서 텍스트가 보이도록 색상 지정
 
     // 종료일 입력
     const endInput = document.createElement("input");
@@ -379,15 +384,20 @@ function openDateRangeMenu(btn) {
     endInput.value = activeFilters.endDate || "";
     endInput.id = "dateEndInput";
     endInput.style.marginBottom = "10px";
+    endInput.style.color = "#000"; // ★ FIX: iOS에서 텍스트가 보이도록 색상 지정
 
     // 적용 버튼
     const applyBtn = document.createElement("button");
     applyBtn.textContent = "기간 적용";
     applyBtn.style.marginRight = "8px";
+    applyBtn.style.backgroundColor = "#ff0000"; // ★ FIX: 버튼 색상 지정
+    applyBtn.style.color = "#fff"; // ★ FIX: 버튼 텍스트 색상 지정
 
     // 초기화 버튼
     const resetBtn = document.createElement("button");
     resetBtn.textContent = "초기화";
+    resetBtn.style.backgroundColor = "#ccc"; // ★ FIX: 버튼 색상 지정
+    resetBtn.style.color = "#000"; // ★ FIX: 버튼 텍스트 색상 지정
     
     // UI 구성
     menuContent.appendChild(startInput);
@@ -464,7 +474,7 @@ function applyDateRangeFilter(start, end) {
 
     // 3. 필터 바 UI 업데이트 (모바일 레이아웃 유지를 위해 텍스트는 🗓️로 고정)
     dateRangeIconBtn.textContent = `🗓️`; 
-    // 활성 상태 표시용 CSS 클래스 추가 (사용자 선택 색상 #007BFF 적용 유도)
+    // 활성 상태 표시용 CSS 클래스 추가
     dateRangeIconBtn.classList.add('active'); 
 
     // 4. 검색/필터 적용
@@ -472,7 +482,7 @@ function applyDateRangeFilter(start, end) {
 }
 
 /* ============================================================
-   검색/필터 적용 (기간 필터링 버그 수정 완료)
+   검색/필터 적용
 ============================================================ */
 function applySearch() {
   if ((searchInput.value || "").trim() !== "") {
@@ -485,27 +495,25 @@ function applySearch() {
   filteredCards = allCards.filter(c => {
     let ok = true;
 
-    // ★★★ 기간 직접 설정 필터 (버그 수정 로직) ★★★
+    // 기간 직접 설정 필터
     if (activeFilters.startDate && activeFilters.endDate) {
         
         // 1. 카드 날짜 (시간대 문제 해결을 위해 날짜 문자열에 T00:00:00를 붙여 Date 객체 생성)
-        // c.date는 YYYY-MM-DDTHH:MM:SS 형식이므로, 날짜만 분리하여 사용
         const cardDateStr = c.date.split('T')[0];
         const cardDate = new Date(cardDateStr + 'T00:00:00');
         
-        // 2. 시작일 (사용자 입력 날짜 + T00:00:00)
+        // 2. 시작일 
         const start = new Date(activeFilters.startDate + 'T00:00:00');
         
         // 3. 종료일 (종료일 다음 날의 00:00:00을 계산하여 경계 포함)
         const endDay = new Date(activeFilters.endDate + 'T00:00:00');
-        endDay.setDate(endDay.getDate() + 1); // 종료일의 다음 날 00시 
+        endDay.setDate(endDay.getDate() + 1);
         
-        // [Start <= Card Date < Next Day of End] 로 비교 (정확한 범위 포함)
-        // 종료일의 다음 날 00시보다 작으므로 종료일 하루 전체를 포함함.
+        // [Start <= Card Date < Next Day of End] 로 비교
         if (cardDate < start || cardDate >= endDay) return false;
         
     } else {
-        // ★★★ 기간 설정이 없을 때만 기존 연도/월 필터 작동 ★★★
+        // 기간 설정이 없을 때만 기존 연도/월 필터 작동
 
         // ========== 연도 필터 ==========
         if (activeFilters.year !== null) {
@@ -560,8 +568,9 @@ function applySearch() {
 
   filteredCards = sortCards(filteredCards);
   renderCards(true);
-
-applyIosScrollTrick(); 
+  
+  // 필터링/검색 완료 후 스크롤을 최상단으로 이동
+  applyIosScrollTrick();
 }
 
 /* ============================================================
@@ -569,7 +578,7 @@ applyIosScrollTrick();
 ============================================================ */
 function applyFilterSelection(type, label, value) {
     
-    // ★★★ 연도 또는 월 필터를 선택하면 기간 필터를 초기화 ★★★
+    // 연도 또는 월 필터를 선택하면 기간 필터를 초기화
     if (type === "year" || type === "month") {
         activeFilters.startDate = null;
         activeFilters.endDate = null;
@@ -669,7 +678,6 @@ function openFilterMenu(type, btn) {
   filterMenu.style.top  = window.scrollY + rect.bottom + 4 + "px";
 }
 
-
 /* ============================================================
    ★ iOS 스크롤 복원 방지 및 상단 초기화 트릭 
 ============================================================ */
@@ -710,7 +718,19 @@ function handleSearchAction() {
   const kw = (searchInput.value || "").trim();
   
   if (currentCategory.textContent === "카테고리 선택" && kw.length > 0) {
-    window.location.href = `?category=${CATEGORY_MAP["All Videos"]}&q=${encodeURIComponent(kw)}`;
+    // 페이지 리로드 없이 내부 전환 사용
+    
+    const categorySlug = CATEGORY_MAP["All Videos"];
+    const url = `?category=${categorySlug}&q=${encodeURIComponent(kw)}`;
+    
+    // 1. history.pushState를 사용하여 URL만 업데이트 (페이지 리로드 방지)
+    history.pushState({ category: categorySlug, query: kw }, "", url);
+    
+    // 2. "All Videos" 카테고리로 데이터 및 UI 내부 전환
+    changeCategory("All Videos", false); 
+    
+    // 3. 검색 필터 적용
+    applySearch(); 
   } 
   else {
     applySearch(); 
@@ -729,7 +749,7 @@ yearFilter.addEventListener("click", e => openFilterMenu("year", e.target));
 monthFilter.addEventListener("click", e => openFilterMenu("month", e.target));
 subTagFilter.addEventListener("click", e => openFilterMenu("subtag", e.target));
 
-// ★★★ [NEW] 기간 설정 버튼 이벤트 연결 ★★★
+// 기간 설정 버튼 이벤트 연결
 if (dateRangeIconBtn) {
     dateRangeIconBtn.addEventListener("click", e => openDateRangeMenu(e.target));
 }
