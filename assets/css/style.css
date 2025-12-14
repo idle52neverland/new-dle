@@ -687,7 +687,7 @@ body, button, input, select, textarea, div, span {
 
     /* 필터 버튼 (Filter Bar) */
     .filter-bar {
-        justify-content: flex-start;
+        justify-content: center;
         padding-left: 10px;        
         overflow-x: auto;
         white-space: nowrap;
@@ -806,6 +806,7 @@ body, button, input, select, textarea, div, span {
     font-size: 0.95rem;
   }
 }
+
 
 
 
