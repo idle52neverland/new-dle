@@ -304,6 +304,12 @@ body, button, input, select, textarea, div, span {
   background: #f1f1f1;
 }
 
+#dateRangeIconBtn.active {
+    background-color: #007BFF; 
+    color: #ffffff; /* 흰색 텍스트 */
+    border-color: #007BFF; /* 테두리도 빨간색으로 */
+}
+
 /* ===========================================================
    VIDEO COUNT
 =========================================================== */
@@ -694,10 +700,44 @@ body, button, input, select, textarea, div, span {
         position: unset !important; 
     }
 
+    .filter-bar #dateRangeIconBtn {
+        /* 텍스트 버튼의 패딩(0.7rem)을 줄여 공간 절약 */
+        padding: 0 0.4rem !important; 
+        
+        /* 최소 너비를 높이와 비슷하게 맞추어 정사각형 형태로 만듦 */
+        min-width: 2.1rem !important; 
+        
+        /* 폰트 크기를 키워 아이콘이 잘 보이게 함 */
+        font-size: 1.1rem !important; 
+        
+        /* flex 설정을 통해 아이콘이 중앙에 위치하도록 보장 */
+        display: flex !important;
+        justify-content: center;
+        align-items: center;
+        
+        /* 버튼 자체의 크기 및 높이 설정 유지 (기존 filterBtn 상속) */
+        height: 2.1rem !important; 
+        flex-shrink: 0; /* 공간이 부족해도 아이콘이 축소되지 않게 방지 */
+    }
+
     .filterBtn {
         font-size: 0.9rem !important; /* 글씨 크기 키움 */
         height: 2.1rem !important;
         padding: 0 0.7rem !important;
+    }
+
+    .filter-bar .filterBtn {
+        /* 공간이 부족할 때 버튼이 유연하게 줄어들도록 설정 */
+        flex-shrink: 1; 
+        flex-grow: 0;   
+        white-space: nowrap; 
+    }
+    
+    #dateRangeIconBtn {
+        /* 아이콘 전용이므로 크기를 최소화하고 축소 방지 */
+        min-width: 30px; 
+        padding: 0 0.5rem !important;
+        flex-shrink: 0; /* 이 버튼은 줄어들지 않도록 고정 */
     }
 
     .video-count-row {
