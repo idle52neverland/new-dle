@@ -78,18 +78,12 @@ body, button, input, select, textarea, div, span {
   }
 }
 
-/* 메뉴 아이콘 */
-.mobile-menu-btn {
-  width: 1.6rem;
-  height: 1.6rem;
-  flex-shrink: 0;
-}
-
 /* 홈 아이콘 */
 .icon-left {
-  width: clamp(1.2rem, 2.5vw, 1.7rem);
-  height: clamp(1.2rem, 2.5vw, 1.7rem);
+  width: clamp(1.65rem, 3.5vw, 2.5rem);
+  height: clamp(1.65rem, 3.5vw, 2.5rem);
   flex-shrink: 0;
+  color: #0f0f0f; 
 }
 
 /* ===========================================================
@@ -115,18 +109,15 @@ body, button, input, select, textarea, div, span {
   font-size: 20px !important;
   transform: scale(0.8);
   transform-origin: left center; /* 왼쪽 기준으로 축소하여 정렬 유지 */
-
   flex: 1 1 0% !important; 
   min-width: 0; 
-
   border: none;
   background: transparent;
   font-family: inherit; 
   font-size: var(--fs-normal); 
   outline: none;
   color: #0f0f0f; 
-  /* padding: 0 2rem 0 1rem; <- 이전 코드 */
-  padding: 0 4rem 0 1rem; /* ★ 최종 수정: 오른쪽 패딩을 4rem으로 대폭 늘려 입력 영역 확보 */
+  padding: 0 4rem 0 1rem;
 }
 
 /* 돋보기 아이콘 (검색창 내부) */
@@ -150,10 +141,9 @@ body, button, input, select, textarea, div, span {
 }
 
 .category-btn {
-    /* --fs-small의 최대값(0.85rem)을 뚫고 1.0rem 또는 1.1rem으로 키움 */
-    font-size: 1.0rem !important; /* 1.0rem으로 키우고 !important로 강제 적용 */
+    font-size: 1.0rem !important; 
     padding: 0 0.8rem;
-    height: 2.1rem; /* 검색창 높이에 맞게 유지 */
+    height: 2.1rem; 
 }
 
 /* ★ 카테고리 버튼 (검색창 내부)  */
@@ -621,13 +611,12 @@ body, button, input, select, textarea, div, span {
         display: flex !important;
         flex-wrap: nowrap !important;
     }
-    
-    .mobile-menu-btn,
+
     .icon-left {
-        width: 1.8rem;
-        height: 1.8rem;
+        width: 2.3rem;
+        height: 2.3rem;
     }
-    
+       
     /* 모바일 검색창: 내부 요소가 버튼 길이에 따라 유연하게 반응 */
     .searchbox {
         flex: 1; 
@@ -726,7 +715,7 @@ body, button, input, select, textarea, div, span {
         padding-left: 0;
         padding-right: 0; 
         /* ★ 수정: 고정 상단바(4rem) + 안전 영역을 반영한 4.5rem base */
-        padding-top: calc(4.5rem + env(safe-area-inset-top)) !important; 
+        padding-top: calc(5.5rem + env(safe-area-inset-top)) !important; 
     }
 
     .card-container {
