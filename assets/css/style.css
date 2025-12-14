@@ -714,8 +714,7 @@ body, button, input, select, textarea, div, span {
         width: 100%;
         padding-left: 0;
         padding-right: 0; 
-        /* ★ 수정: 고정 상단바(4rem) + 안전 영역을 반영한 4.5rem base */
-        padding-top: calc(5.5rem + env(safe-area-inset-top)) !important; 
+        padding-top: calc(6rem + env(safe-area-inset-top)) !important; 
     }
 
     .card-container {
