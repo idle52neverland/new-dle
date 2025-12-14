@@ -148,7 +148,7 @@ function buildAllVideos() {
     "발매곡Cards", "OST참여곡Cards", "음악방송시상식Cards", "공연축제Cards",
     "공식채널Cards", "자체예능Cards", "녹음비하인드Cards", "출연콘텐츠Cards",
     "노래클립Cards", "매거진인터뷰Cards", "라디오오디오쇼Cards", "라이브방송Cards",
-    "광고Cards", "기타Cards" // ShortsCards, xTwitterCards 제거됨
+    "광고Cards", "기타Cards" 
   ];
 
   let arr = [];
@@ -359,7 +359,6 @@ if (categoryName === "Shorts") {
 
 /* ============================================================
    기간 직접 설정 로직 (HTML 메뉴 UI)
-   (iOS 텍스트/버튼 색상 문제 수정됨)
 ============================================================ */
 function openDateRangeMenu(btn) {
     filterMenu.innerHTML = "";
@@ -376,7 +375,7 @@ function openDateRangeMenu(btn) {
     startInput.value = activeFilters.startDate || "";
     startInput.id = "dateStartInput";
     startInput.style.marginBottom = "5px";
-    startInput.style.color = "#000"; // ★ FIX: iOS에서 텍스트가 보이도록 색상 지정
+    startInput.style.color = "#000"; 
 
     // 종료일 입력
     const endInput = document.createElement("input");
@@ -384,20 +383,20 @@ function openDateRangeMenu(btn) {
     endInput.value = activeFilters.endDate || "";
     endInput.id = "dateEndInput";
     endInput.style.marginBottom = "10px";
-    endInput.style.color = "#000"; // ★ FIX: iOS에서 텍스트가 보이도록 색상 지정
+    endInput.style.color = "#000"; 
 
     // 적용 버튼
     const applyBtn = document.createElement("button");
     applyBtn.textContent = "기간 적용";
     applyBtn.style.marginRight = "8px";
-    applyBtn.style.backgroundColor = "#ff0000"; // ★ FIX: 버튼 색상 지정
-    applyBtn.style.color = "#fff"; // ★ FIX: 버튼 텍스트 색상 지정
+    applyBtn.style.backgroundColor = "#ff0000"; 
+    applyBtn.style.color = "#fff"; 
 
     // 초기화 버튼
     const resetBtn = document.createElement("button");
     resetBtn.textContent = "초기화";
-    resetBtn.style.backgroundColor = "#ccc"; // ★ FIX: 버튼 색상 지정
-    resetBtn.style.color = "#000"; // ★ FIX: 버튼 텍스트 색상 지정
+    resetBtn.style.backgroundColor = "#ccc"; 
+    resetBtn.style.color = "#000"; 
     
     // UI 구성
     menuContent.appendChild(startInput);
@@ -409,8 +408,16 @@ function openDateRangeMenu(btn) {
     menuContent.appendChild(wave);
     
     menuContent.appendChild(endInput);
-    menuContent.appendChild(applyBtn);
-    menuContent.appendChild(resetBtn);
+    
+    // UI 개선: 버튼을 감싸는 컨테이너 추가
+    const buttonContainer = document.createElement("div");
+    buttonContainer.style.display = "flex";
+    buttonContainer.style.justifyContent = "center";
+    buttonContainer.style.gap = "8px"; 
+    buttonContainer.appendChild(applyBtn);
+    buttonContainer.appendChild(resetBtn);
+    menuContent.appendChild(buttonContainer);
+
 
     filterMenu.appendChild(menuContent);
 
@@ -711,25 +718,30 @@ function applyIosScrollTrick() {
 }
 
 /* ============================================================
-   이벤트 연결 (기간 설정 이벤트 추가)
+   이벤트 연결 (돋보기 버튼 작동 로직 최종 수정)
 ============================================================ */
 
-function handleSearchAction() {
+function handleSearchAction(e) { 
+  if (e) {
+    e.preventDefault();     
+    // ★ FIX 1: 이벤트 버블링 및 캡처링 중단 (아이콘이 클릭을 가로채는 문제 해결)
+    e.stopPropagation(); 
+  }
+
+  // 검색 버튼 클릭 시 입력 필드의 포커스를 강제로 해제
+  searchInput.blur(); 
+  
   const kw = (searchInput.value || "").trim();
   
   if (currentCategory.textContent === "카테고리 선택" && kw.length > 0) {
-    // 페이지 리로드 없이 내부 전환 사용
     
     const categorySlug = CATEGORY_MAP["All Videos"];
     const url = `?category=${categorySlug}&q=${encodeURIComponent(kw)}`;
     
-    // 1. history.pushState를 사용하여 URL만 업데이트 (페이지 리로드 방지)
     history.pushState({ category: categorySlug, query: kw }, "", url);
     
-    // 2. "All Videos" 카테고리로 데이터 및 UI 내부 전환
     changeCategory("All Videos", false); 
     
-    // 3. 검색 필터 적용
     applySearch(); 
   } 
   else {
@@ -737,10 +749,29 @@ function handleSearchAction() {
   }
 }
 
+// =======================================================
+// ★ 최종 FIX 2: 돋보기 버튼에 대한 이벤트 처리 (stopPropagation과 Passive: false 적용)
+// =======================================================
+
+// PC 클릭 및 모바일 탭 환경 대응
 searchBtn.addEventListener("click", handleSearchAction);
+
+// 모바일 터치 환경 대응 (touchstart 사용, passive: false로 preventDefault() 보장)
+searchBtn.addEventListener("touchstart", function(e) {
+    // 1. 이벤트의 기본 동작(스크롤, 확대 등)을 즉시 막습니다.
+    e.preventDefault(); 
+    // 2. 버블링을 막아 아이콘 등 내부 요소의 간섭을 차단합니다.
+    e.stopPropagation();
+    // 3. 검색 액션을 실행합니다.
+    handleSearchAction(); 
+    // 모바일 터치에서 click 이벤트가 또 발생하는 것을 막기 위한 return
+    return false;
+}, { passive: false }); // passive: false로 설정하여 e.preventDefault()가 확실히 작동하도록 함.
+
+
 searchInput.addEventListener("keyup", e => {
   if (e.key === "Enter") {
-    handleSearchAction();
+    handleSearchAction(e); 
   }
 });
 
