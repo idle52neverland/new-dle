@@ -681,19 +681,17 @@ body, button, input, select, textarea, div, span {
 
     /* 필터 버튼 (Filter Bar) */
     .filter-bar {
-        justify-content: flex-start;
+        justify-content: center;
         padding-left: 10px;        
         overflow-x: auto;
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;
-        margin-bottom: 0 !important; /* 하단 여백 제거 유지 */
-        
-        /* 이전 sticky 속성 강제 제거 및 초기화 */
+        margin-bottom: 25px;
         position: static !important;
         top: auto !important;
         background: transparent !important;
         z-index: auto !important;
-        position: unset !important; /* 혹시 모를 sticky 제거를 위한 안전장치 */
+        position: unset !important; 
     }
 
     .filterBtn {
@@ -714,7 +712,7 @@ body, button, input, select, textarea, div, span {
         width: 100%;
         padding-left: 0;
         padding-right: 0; 
-        padding-top: calc(6rem + env(safe-area-inset-top)) !important; 
+        padding-top: calc(6.2rem + env(safe-area-inset-top)) !important; 
     }
 
     .card-container {
