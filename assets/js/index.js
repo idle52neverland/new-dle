@@ -339,19 +339,6 @@ function changeCategory(categoryName, updateURL = true) {
     history.pushState({ category: categorySlug }, "", url);
   }
 
-// 8. Shorts 특별 처리 
-if (categoryName === "Shorts") { 
-  filterBar.classList.add("hidden");
-  toggleSortBtn.classList.add("hidden");
-  videoCountRow.classList.add("hidden");
-  if (dateRangeIconBtn) dateRangeIconBtn.classList.add("hidden"); 
-} else {
-  filterBar.classList.remove("hidden");
-  toggleSortBtn.classList.remove("hidden");
-  videoCountRow.classList.remove("hidden");
-  if (dateRangeIconBtn) dateRangeIconBtn.classList.remove("hidden");
-}
-
   // 카테고리 변경 후 스크롤을 최상단으로 이동
   applyIosScrollTrick();
 }
