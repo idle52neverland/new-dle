@@ -2,42 +2,47 @@
    GLOBAL ROOT SETTINGS (폰트, 단위, 전체 UI 비율 자동화)
 =========================================================== */
 :root {
-  font-size: 15px;
+  font-size: 15px; /* 기본 폰트 크기 */
 
+  /* 모서리 둥글기 (Radius) 변수 */
   --radius-small: 0.35rem;
   --radius-med: 0.55rem;
   --radius-large: 0.75rem;
 
+  /* 간격 (Gap/Spacing) 변수 */
   --gap-small: 0.45rem;
   --gap-med: 0.75rem;
   --gap-large: 1rem;
 
+  /* 공통 스타일 변수 */
   --border-default: 1px solid #ccc;
   --bg-light: #fff;
   --bg-btn: #f1f1f1;
 
+  /* 반응형 폰트 크기 변수 (fluid typography) */
   --fs-small: clamp(0.7rem, 1.4vw, 0.85rem);
   --fs-normal: clamp(0.8rem, 1.5vw, 1rem);
   --fs-large: clamp(1rem, 1.8vw, 1.25rem);
 }
 
-* { box-sizing: border-box; }
+* { box-sizing: border-box; } /* 모든 요소에 Border-box 모델 적용 */
 
 body {
   margin: 0;
   background: #fff;
   font-family: 'Roboto', 'Arial', sans-serif;
-  color: #0f0f0f; /* 유튜브 특유의 진한 검정색 */
+  color: #0f0f0f;
   -webkit-font-smoothing: antialiased; 
 }
 
+/* 모든 UI 요소의 폰트 통일 */
 body, button, input, select, textarea, div, span {
   font-family: 'Roboto', 'Arial', sans-serif !important;
   -webkit-font-smoothing: antialiased;
 }
 
 /* ===========================================================
-   FIXED TOP BAR
+   FIXED TOP BAR (최상단 고정 영역)
 =========================================================== */
 .fixed-top-wrapper {
   position: fixed;
@@ -49,6 +54,7 @@ body, button, input, select, textarea, div, span {
   border-bottom: 1px solid #eee;
 }
 
+/* 상단바 내부 콘텐츠 영역 */
 .fixed-inner {
   max-width: 1440px;
   width: min(100%, 90%);
@@ -78,7 +84,7 @@ body, button, input, select, textarea, div, span {
   }
 }
 
-/* 홈 아이콘 */
+/* 홈 아이콘 (Logo 또는 Site Icon) */
 .icon-left {
   width: clamp(1.65rem, 3.5vw, 2.5rem);
   height: clamp(1.65rem, 3.5vw, 2.5rem);
@@ -87,28 +93,28 @@ body, button, input, select, textarea, div, span {
 }
 
 /* ===========================================================
-   SEARCHBOX
+   SEARCHBOX (검색 입력 영역)
 =========================================================== */
 .searchbox {
-  display: flex; /* 내부 요소 배치를 위해 Flexbox 사용 */
+  display: flex; 
   align-items: center;
   background: #fff;
   border: 1px solid #ccc;
   border-radius: 2rem;
-  padding: 0 0.5rem; /* 좌우 패딩을 줄여 공간 확보 */
+  padding: 0 0.5rem; 
   height: 3rem;
   width: 40rem;
   min-width: 18rem;
   max-width: 50rem;
   margin-left: 0;
-  position: relative; /* 내부 요소 위치 기준 */
+  position: relative; 
 }
 
-/* 검색 입력창 */
+/* 검색 입력창 (input) */
 .searchbox input {
   font-size: 20px !important;
   transform: scale(0.8);
-  transform-origin: left center; /* 왼쪽 기준으로 축소하여 정렬 유지 */
+  transform-origin: left center; 
   flex: 1 1 0% !important; 
   min-width: 0; 
   border: none;
@@ -117,7 +123,7 @@ body, button, input, select, textarea, div, span {
   font-size: var(--fs-normal); 
   outline: none;
   color: #0f0f0f; 
-  padding: 0 4rem 0 1rem;
+  padding: 0 4rem 0 1rem; /* 오른쪽 패딩(4rem)은 돋보기 아이콘 공간 확보 */
 }
 
 /* 돋보기 아이콘 (검색창 내부) */
@@ -126,30 +132,32 @@ body, button, input, select, textarea, div, span {
   height: 1.6rem;
   flex-shrink: 0;
   cursor: pointer;
-  /* margin-left: -2rem; <- 이전 코드 */
-  margin-left: -4rem; /* ★ 최종 수정: 아이콘을 왼쪽으로 -4rem 당겨 입력 영역 위로 완전히 배치 */
-  margin-right: 0.8rem; 
+  margin-left: -4rem; /* 입력창의 오른쪽 패딩 영역으로 아이콘을 이동시켜 겹치게 함 */
 }
 
-/* ★ 세로 구분선 스타일 추가 */
+/* 세로 구분선 (검색창 내부 요소 분리) */
 .searchbox .separator {
   width: 1px;
-  height: 60%; /* 검색창 높이에 맞춰 세로 길이 조정 */
+  height: 60%; 
   background-color: #ccc;
   flex-shrink: 0;
-  margin-right: 0.5rem; /* 카테고리 버튼과의 간격 */
+  margin-right: 0.5rem; 
 }
 
+/* 카테고리 버튼의 기본 설정 (다른 영역에서 사용되는 경우) */
 .category-btn {
-    font-size: 1.0rem !important; 
+    font-size: 1.0rem; 
     padding: 0 0.8rem;
     height: 2.1rem; 
+    font-weight: 500;
+    color: #0f0f0f;
+    text-decoration: none;
 }
 
-/* ★ 카테고리 버튼 (검색창 내부)  */
+/* 카테고리 버튼 (검색창 내부, '.category-btn.in-search') */
 .category-btn.in-search {
+  /* in-search 고유 스타일 */
   height: 100%; 
-  padding: 0 0.6rem; 
   background: transparent; 
   border: none; 
   position: static; 
@@ -160,21 +168,23 @@ body, button, input, select, textarea, div, span {
   border-radius: 0 2rem 2rem 0; 
   margin-right: -0.5rem; 
   font-size: 0.9rem !important;
+  height: 2.1rem !important; 
+  padding: 0 0.8rem !important;
 }
 
 .category-btn.in-search:hover {
   background: #f0f0f0; 
 }
 
+/* 카테고리 버튼 내부의 드롭다운 화살표 */
 .category-btn.in-search .arrow {
     width: 0.9rem;
     height: 0.9rem;
-    margin-left: 0.2rem; /* 화살표와 텍스트 간격 조정 */
+    margin-left: 0.2rem;
 }
 
 /* ===========================================================
-   카테고리 드롭다운 메뉴 (categoryDropdown) - 새로 추가
-   (중복 제거 및 0.9rem 강제 통일 반영)
+   카테고리 드롭다운 메뉴 (categoryDropdown) 
 =========================================================== */
 
 /* 드롭다운 메뉴 컨테이너 스타일 */
@@ -189,71 +199,34 @@ body, button, input, select, textarea, div, span {
     min-width: 12rem;
 }
 
-.hidden { display: none; }
+.hidden { display: none; } /* 요소를 숨기는 유틸리티 클래스 */
 
-/* ---------------------------------------------------- */
-/* 1. 카테고리 드롭다운 리스트 항목 (.cat-item) */
-/* ---------------------------------------------------- */
+/* 카테고리 드롭다운 리스트 항목 (.cat-item) */
 .cat-item {
     font-size: 0.9rem !important; 
-    padding: 0.45rem 1rem !important; /* 필터 항목과 동일하게 수정 */
+    padding: 0.45rem 1rem !important; 
     cursor: pointer;
     border-radius: var(--radius-small);
     
-    /* ★★★ 추가/수정: 필터 항목과 동일한 스타일 적용 ★★★ */
-    margin: 0.25rem 0 !important; /* 상하 간격 추가 */
-    background: #fafafa; /* 배경색 */
-    border: 1px solid #eee; /* 테두리 */
+    margin: 0.25rem 0 !important; 
+    background: #fafafa; 
+    border: 1px solid #eee; 
+
+    /* 공통 스타일 통합 */
+    font-weight: 500;
+    color: #0f0f0f;
+    text-decoration: none;
 }
 
 .cat-item:hover {
-    background: #f1f1f1; /* 호버 색상을 필터 항목과 동일하게 수정 */
-}
-
-/* ---------------------------------------------------- */
-/* 2. 공통 인터랙티브 요소 스타일 (중복 제거) */
-/* ---------------------------------------------------- */
-/* .category-btn을 포함하여 모든 인터랙티브 요소에 공통 스타일 적용 */
-.filterBtn,  
-.cat-item,  
-.filter-item,
-.category-btn,          /* 검색창 카테고리 버튼 */
-.category-btn.in-search,
-#currentCategory 
-{
-    font-family: inherit; 
-    font-weight: 500 !important; /* 모든 요소의 폰트 두께를 500으로 강제 통일 */
-    color: #0f0f0f !important;
-    text-decoration: none !important;
-    /* iOS Safari 등에서 파란색 하이라이트 방지 */
-    -webkit-tap-highlight-color: transparent;
+    background: #f1f1f1; 
 }
 
 
-/* ---------------------------------------------------- */
-/* 3. 버튼 및 필터 항목의 최종 크기 고정 (0.9rem 통일) */
-/* ---------------------------------------------------- */
 
-/* 검색창 카테고리 버튼 (.category-btn)의 크기 및 높이 고정 */
-.category-btn,
-.category-btn.in-search {
-    font-size: 0.9rem !important; /* ★ 최종 수정: 0.9rem으로 강제 통일 */
-    height: 2.1rem !important; 
-    padding: 0 0.8rem !important;
-}
-
-/* 필터 메뉴 리스트 항목의 크기 고정 */
-#filterMenu .filter-item { 
-    font-size: 0.9rem !important;
-    padding: 0.6rem 1rem !important;
-}
-
-.filterBtn {
-    font-weight: 500;
-}
 
 /* ===========================================================
-   MAIN CONTAINER
+   MAIN CONTAINER (주요 콘텐츠 영역)
 =========================================================== */
 .container {
   max-width: 1440px !important;
@@ -264,7 +237,7 @@ body, button, input, select, textarea, div, span {
 }
 
 /* ===========================================================
-   FILTER BAR
+   FILTER BAR (검색 필터 버튼 영역)
 =========================================================== */
 .filter-bar {
   display: flex;
@@ -273,6 +246,7 @@ body, button, input, select, textarea, div, span {
   padding-left: 15px;
 }
 
+/* 개별 필터 버튼의 스타일 (.filterBtn) */
 .filterBtn {
   display: inline-flex;
   align-items: center;
@@ -284,52 +258,64 @@ body, button, input, select, textarea, div, span {
   border: none;
   cursor: pointer;
   white-space: nowrap;
+
+  /* 공통 스타일 통합 */
+  font-weight: 500;
+  color: #0f0f0f;
+  text-decoration: none;
 }
 
+/* 필터 드롭다운 메뉴 (#filterMenu) */
 #filterMenu {
   position: absolute;
   background: #fff;
   border-radius: var(--radius-med);
-  border: none; /* <--- '1px solid #ddd'에서 'none'으로 수정 (또는 삭제) */
-  box-shadow: 0 4px 10px rgba(0,0,0,0.12); /* 그림자는 유지 */
+  border: none; 
+  box-shadow: 0 4px 10px rgba(0,0,0,0.12); 
   padding: 0.4rem;
   z-index: 1100;
 }
 
+/* 필터 드롭다운 메뉴의 리스트 항목 (.filter-item) */
 #filterMenu .filter-item {
   padding: 0.45rem 0.75rem;
   margin: 0.25rem 0;
   border-radius: var(--radius-small);
   background: #fafafa;
   border: 1px solid #eee;
-  font-size: var(--fs-normal);
+  font-size: 0.9rem !important;
+  padding: 0.6rem 1rem !important;
+  font-weight: 500;
+  color: #0f0f0f;
+  text-decoration: none;
 }
 
 #filterMenu .filter-item:hover {
   background: #f1f1f1;
 }
 
+/* 날짜 범위 아이콘 버튼 활성화 상태 */
 #dateRangeIconBtn.active {
     background-color: #007BFF; 
-    color: #ffffff; /* 흰색 텍스트 */
-    border-color: #007BFF; /* 테두리도 빨간색으로 */
+    color: #ffffff; 
+    border-color: #007BFF; 
 }
 
 /* ===========================================================
-   VIDEO COUNT
+   VIDEO COUNT (총 영상 개수 표시 영역)
 =========================================================== */
 .video-count-row {
   display: flex;
   justify-content: flex-end;
   font-family: 'Roboto', sans-serif;
-  font-size: 0.95rem; /* 약간 작게 */
-  color: #0f0f0f; /* 연한 회색에서 진한 검정으로 변경 */
+  font-size: 0.95rem; 
+  color: #0f0f0f; 
   margin-bottom: 0.8rem;
   padding-right: 15px;
 }
 
 /* ===========================================================
-   CARD GRID
+   CARD GRID (영상/콘텐츠 목록 그리드)
 =========================================================== */
 .card-container {
     display: grid;
@@ -348,6 +334,7 @@ body, button, input, select, textarea, div, span {
   opacity: 1;
 }
 
+/* 썸네일 이미지 감싸는 영역 */
 .thumb-wrap {
   width: 100%;
   aspect-ratio: 16/9;
@@ -363,6 +350,7 @@ body, button, input, select, textarea, div, span {
   object-fit: cover;
 }
 
+/* 영상 길이(Duration) 표시 영역 */
 .thumb-duration {
   position: absolute;
   right: 0.6rem;
@@ -374,6 +362,7 @@ body, button, input, select, textarea, div, span {
   color: #fff;
 }
 
+/* 카드 제목 */
 .card-title {
   width: 95% !important;        
   margin: 12px auto 0 !important; 
@@ -388,6 +377,7 @@ body, button, input, select, textarea, div, span {
   text-overflow: ellipsis;
 }
 
+/* 카드 메타 정보 */
 .card-meta {
   width: 95%;
   margin: 0.4rem auto 0;
@@ -401,6 +391,7 @@ body, button, input, select, textarea, div, span {
 
 .card-meta span:last-child { color: #888; }
 
+/* 카드 추가 정보/설명 */
 .card-info {
   width: 95% !important;       
   margin: 4px auto 1rem !important; 
@@ -410,11 +401,9 @@ body, button, input, select, textarea, div, span {
 }
 
 /* ===========================================================
-   SHORTS MODE
+   SHORTS MODE (세로형 콘텐츠 모드)
 =========================================================== */
-/* style.css */
-
-/* 1. 숏츠 그리드: 1440px 공간 내에서 무조건 6개 배열되도록 수치 낮춤 */
+/* 1. 숏츠 그리드 */
 .card-container.vertical-mode {
     display: grid !important;
     grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)) !important; 
@@ -422,7 +411,7 @@ body, button, input, select, textarea, div, span {
     padding: 0 16px !important;
 }
 
-/* 2. 썸네일 박스: 상하를 자르기 위해 세로를 깎은 9:14 비율 */
+/* 2. 썸네일 박스: 9:14 비율로 설정 */
 .card-container.vertical-mode .thumb-wrap {
     width: 100% !important;
     aspect-ratio: 9 / 14 !important; 
@@ -431,7 +420,7 @@ body, button, input, select, textarea, div, span {
     background: #000;
 }
 
-/* 3. 이미지 설정: 박스보다 이미지를 20% 더 크게 늘려 여백을 덮어버림 */
+/* 3. 이미지 설정: 박스보다 이미지를 20% 더 크게 늘려 여백을 덮음 */
 .card-container.vertical-mode .thumb-wrap img {
     position: absolute !important;
     top: 50% !important;
@@ -440,11 +429,7 @@ body, button, input, select, textarea, div, span {
     width: 120% !important; 
     height: auto !important;
     min-height: 120% !important; 
-    
-    /* 비율 유지하며 빈틈없이 쑤셔넣기 */
     object-fit: cover !important; 
-    
-    /* 브라우저의 이미지 축소 로직을 강제로 무시 */
     max-width: none !important;
     display: block !important;
 }
@@ -458,20 +443,21 @@ body, button, input, select, textarea, div, span {
     }
 }
 
-
+/* TWITTER MODE (트위터/X 게시물 삽입 모드) */
 .card-container.twitter-mode {
   display: flex !important;
   flex-direction: column !important;
-  align-items: center !important; /* 자식 요소들을 가로축 중앙으로 */
+  align-items: center !important; 
   width: 100%;
 }
 
+/* 트윗 카드 (임베드 영역) */
 .tweet-card {
   width: 100%;
   max-width: 550px;
   min-height: 450px;
-  margin: 1.5rem auto !important; /* 상하 간격, 좌우 자동(중앙) */
-  display: flex !important;      /* 내부 로딩 메시지 정렬을 위해 flex 사용 */
+  margin: 1.5rem auto !important; 
+  display: flex !important;      
   align-items: center;
   justify-content: center;
   position: relative;
@@ -483,19 +469,20 @@ body, button, input, select, textarea, div, span {
   font-size: 14px;
   color: #000;
   position: absolute;
-  z-index: 1; /* 트윗이 로드되면 아래에 깔리게 함 */
+  z-index: 1; 
 }
 
-/* 트윗 로드가 완료되면 글자가 안 보이도록 (트윗 박스가 위를 덮음) */
+/* 로드된 트윗 iframe */
 .tweet-card iframe {
   position: relative;
   z-index: 2;
-  background: white; /* 로드된 후 글자가 안 비치게 배경색 지정 */
+  background: white; 
 }
 
 /* ===========================================================
-   FOOTER / BUTTONS
+   FOOTER / BUTTONS (하단 버튼 및 스크롤 버튼)
 =========================================================== */
+/* 하단 영역 (더 보기 버튼 등) */
 .footer {
   margin-top: 2rem;
   display: flex;
@@ -503,6 +490,7 @@ body, button, input, select, textarea, div, span {
   gap: 1.5rem;
 }
 
+/* 더 보기 버튼 (.more-btn) 및 상단 이동 버튼 (.top-btn) 공통 스타일 */
 .more-btn,
 .top-btn {
   width: clamp(2.4rem, 5vw, 2.8rem) !important;
@@ -522,6 +510,7 @@ body, button, input, select, textarea, div, span {
   height: 1.2rem !important;
 }
 
+/* 스크롤 상단 이동 버튼 (#scrollTopBtn) 고정 위치 */
 #scrollTopBtn {
   position: fixed;
   bottom: 2rem;
@@ -531,33 +520,33 @@ body, button, input, select, textarea, div, span {
 
 
 /* ===========================================================
-   HOMEPAGE STYLES (새로 추가)
+   HOMEPAGE STYLES (홈페이지/소개 페이지 스타일)
 =========================================================== */
 .hidden {
   display: none !important;
 }
 
+/* 홈 페이지 컨테이너 */
 #mainHomePage {
   max-width: 640px;
-  margin: 0 auto;
   padding: 0 20px; 
-  padding-top: calc(6.4rem + env(safe-area-inset-top)) !important;
   text-align: center;
 }
 
+/* 메인 제목 */
 .main-title {
   font-size: clamp(1.4rem, 2.8vw, 1.8rem);
   font-weight: 700;
-  margin-top: 1.5rem; 
-  margin-bottom: 4rem; /* 현재 설정된 하단 여백 */
+  padding-top: 2rem;
   color: #333; 
   letter-spacing: -0.05rem; 
 }
 
+/* 영상 임베드 박스 (16:9 비율 유지) */
 .mv-embed-box {
   position: relative;
   width: 100%;
-  padding-bottom: 56.25%; /* 16:9 비율 유지 (정상 작동 가정) */
+  padding-bottom: 56.25%; 
   height: 0;
   overflow: hidden;
   border-radius: var(--radius-large);
@@ -574,6 +563,7 @@ body, button, input, select, textarea, div, span {
   height: 100%;
 }
 
+/* 소개/안내 텍스트 박스 */
 .intro-text-box {
   background: #f8f8f8; 
   border-radius: var(--radius-med);
@@ -590,9 +580,9 @@ body, button, input, select, textarea, div, span {
   margin-bottom: 0.75rem;
 }
 
+/* 연락처 텍스트 */
 .contact-text {
   font-weight: 500;
-  /* ★ 수정: 연락처 색상을 부드러운 회색으로 변경 */
   color: #777; 
   margin-top: 0.8rem;
   font-size: var(--fs-small);
@@ -602,20 +592,15 @@ body, button, input, select, textarea, div, span {
    MOBILE OPTIMIZATION
 =========================== */
 @media (max-width: 767px) {
-
-
-/* 1. 카테고리 드롭다운 내 리스트 항목 간격 축소 */
 .category-dropdown .cat-item {
     padding: 0.3rem 0.75rem !important; 
 }
 
 #filterMenu .filter-item {
-    /* 필터 리스트의 상하 간격을 강제로 최소화 */
-    padding: 0.3rem 0.75rem !important; /* 상하 패딩 강제 축소 */
-    margin: 0.1rem 0 !important;       /* 상하 마진 강제 축소 */
+    padding: 0.3rem 0.75rem !important; 
+    margin: 0.1rem 0 !important;      
 }
 
-    /* ★★★ 모바일에서 inner 컨테이너 너비를 100%로 설정 ★★★ */
     .fixed-inner {
         width: 100% !important; 
         padding: 0.5rem 0; 
@@ -627,7 +612,6 @@ body, button, input, select, textarea, div, span {
         align-items: center;
     }
 
-    /* 상단바 전체 (.header-bar): 한 줄 유지 및 정렬 보정 */
     .header-bar {
         gap: 0.4rem !important; 
         padding: 0 10px; 
@@ -640,7 +624,6 @@ body, button, input, select, textarea, div, span {
         height: 2.3rem;
     }
        
-    /* 모바일 검색창: 내부 요소가 버튼 길이에 따라 유연하게 반응 */
     .searchbox {
         flex: 1; 
         min-width: 0;
@@ -675,11 +658,10 @@ body, button, input, select, textarea, div, span {
     }
     
 #searchBtn {
-        position: relative; /* z-index가 작동하도록 설정 */
-        z-index: 10000;    /* 매우 높은 z-index로 어떤 요소보다도 위에 배치 */
+        position: relative; 
+        z-index: 10000;    
     }
 
-    /* 카테고리 버튼: 글자 길이에 맞춰 자동으로 늘어나며 1줄 유지 */
     .category-btn.in-search {
         flex: 0 0 auto !important;
         white-space: nowrap !important;
@@ -692,22 +674,7 @@ body, button, input, select, textarea, div, span {
         align-items: center;
         max-width: 45%;
     }
-    
-    .category-btn .arrow {
-        width: 0.7rem;
-        height: 0.7rem;
-        margin-left: 2px !important;
-    }
 
-   
-    /* 모바일 카테고리 버튼 공통 설정 */
-    .category-btn {
-        width: auto !important; 
-        min-width: auto !important;
-        max-width: auto !important;
-    }
-
-    /* 필터 버튼 (Filter Bar) */
     .filter-bar {
         justify-content: center;
         padding-left: 10px;        
@@ -723,43 +690,32 @@ body, button, input, select, textarea, div, span {
     }
 
     .filter-bar #dateRangeIconBtn {
-        /* 텍스트 버튼의 패딩(0.7rem)을 줄여 공간 절약 */
         padding: 0 0.4rem !important; 
-        
-        /* 최소 너비를 높이와 비슷하게 맞추어 정사각형 형태로 만듦 */
         min-width: 2.1rem !important; 
-        
-        /* 폰트 크기를 키워 아이콘이 잘 보이게 함 */
         font-size: 1.1rem !important; 
-        
-        /* flex 설정을 통해 아이콘이 중앙에 위치하도록 보장 */
         display: flex !important;
         justify-content: center;
         align-items: center;
-        
-        /* 버튼 자체의 크기 및 높이 설정 유지 (기존 filterBtn 상속) */
         height: 2.1rem !important; 
-        flex-shrink: 0; /* 공간이 부족해도 아이콘이 축소되지 않게 방지 */
+        flex-shrink: 0; 
     }
 
     .filterBtn {
-        font-size: 0.9rem !important; /* 글씨 크기 키움 */
+        font-size: 0.9rem !important; 
         height: 2.1rem !important;
         padding: 0 0.7rem !important;
     }
 
     .filter-bar .filterBtn {
-        /* 공간이 부족할 때 버튼이 유연하게 줄어들도록 설정 */
         flex-shrink: 1; 
         flex-grow: 0;   
         white-space: nowrap; 
     }
     
     #dateRangeIconBtn {
-        /* 아이콘 전용이므로 크기를 최소화하고 축소 방지 */
         min-width: 30px; 
         padding: 0 0.5rem !important;
-        flex-shrink: 0; /* 이 버튼은 줄어들지 않도록 고정 */
+        flex-shrink: 0; 
     }
 
     .video-count-row {
@@ -772,8 +728,6 @@ body, button, input, select, textarea, div, span {
     /* 본문 레이아웃 */
     .container {
         width: 100%;
-        padding-left: 0;
-        padding-right: 0; 
         padding-top: calc(6.4rem + env(safe-area-inset-top)) !important; 
     }
 
@@ -789,7 +743,6 @@ body, button, input, select, textarea, div, span {
         border-radius: 0 !important;
     }
 
-    /* 카드 제목/정보 글씨 크기 축소 */
     .card-title {
         font-size: 0.95rem !important;
         line-height: 1.3rem;
@@ -801,18 +754,14 @@ body, button, input, select, textarea, div, span {
         margin: 2px auto 0.5rem !important;
     }
 
-    /* 트위터 카드 */
     .tweet-card {
         max-width: 100%;
     }
 
-    /* 하이라이트 방지 */
     .filterBtn, .cat-item {
         -webkit-tap-highlight-color: transparent; 
     }
 
-/* 모바일 최적화 */
-@media (max-width: 767px) {
   #mainHomePage {
     padding: 0 10px;
     padding-top: 5.5rem !important;
@@ -835,14 +784,12 @@ body, button, input, select, textarea, div, span {
     height: 3.0rem !important;
   }
 
-  /* 버튼 내부 이미지(.more-btn img, .top-btn img)의 크기 조절 */
   .more-btn img,
   .top-btn img {
     width: 1.4rem !important;
     height: 1.4rem !important;
   }
 
-  /* 스크롤 상단 버튼(#scrollTopBtn)의 위치 조정 */
   #scrollTopBtn {
     bottom: 2.3rem;
     right: 2.3rem;
