@@ -35,12 +35,6 @@ body, button, input, select, textarea, div, span {
   font-family: 'Roboto', 'Arial', sans-serif !important;
   -webkit-font-smoothing: antialiased;
 }
-body.home-no-scroll {
-    overflow-y: hidden;
-    /* iOS에서 vh를 사용할 경우 viewport 높이가 잘못 계산되는 것을 방지 */
-    height: 100%; 
-    overflow: hidden; 
-}
 
 /* ===========================================================
    FIXED TOP BAR
@@ -547,7 +541,7 @@ body.home-no-scroll {
   max-width: 640px;
   margin: 0 auto;
   padding: 0 20px; 
-  padding-top: 5rem; 
+  padding-top: calc(6.4rem + env(safe-area-inset-top)) !important;
   text-align: center;
 }
 
