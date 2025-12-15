@@ -410,6 +410,10 @@ function applySearch() {
    카테고리 변경 (메인 로직)
 ============================================================ */
 function changeCategory(categoryName, updateURL = true) {
+  
+  // ★★★ 스크롤 초기화 로직을 맨 앞으로 이동 (가장 먼저 실행) ★★★
+  applyIosScrollTrick(); 
+    
   // 1. 상태 및 UI 업데이트
   currentCategory.textContent = categoryName;
 
@@ -446,11 +450,7 @@ function changeCategory(categoryName, updateURL = true) {
     
     history.pushState({ category: categorySlug }, "", url);
   }
-  
-  // 8. 스크롤 위치 초기화
-  applyIosScrollTrick();
 }
-
 
 /* ============================================================
    이벤트 핸들러 함수
