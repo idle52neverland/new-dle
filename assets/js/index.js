@@ -183,7 +183,6 @@ function applyIosScrollTrick() {
    화면 전환 및 UI 제어 (Refactoring: 함수 분리)
 ============================================================ */
 function toggleMainView(showCards) {
-  // ★★★ FIX 3: 초기 화면 겹침/깜빡임 방지 로직 (index.html에도 hidden 클래스가 필요할 수 있습니다.)
   if (showCards) {
     // 카드 뷰 보이기
     mainHomePage.classList.add("hidden");
@@ -191,7 +190,8 @@ function toggleMainView(showCards) {
     videoCountRow.classList.remove("hidden");
     allCardsContainer.classList.remove("hidden");
     footer.classList.remove("hidden");
-    // scrollTopBtn은 scroll 이벤트에서 제어되므로 여기서 명시적으로 제어하지 않음
+    // ★★★ 스크롤 잠금 해제: 카드 뷰에서는 스크롤이 필요하므로 클래스 제거
+    document.body.classList.remove("home-no-scroll");
   } else {
     // 메인 페이지 보이기 (홈)
     mainHomePage.classList.remove("hidden");
@@ -200,6 +200,8 @@ function toggleMainView(showCards) {
     allCardsContainer.classList.add("hidden");
     footer.classList.add("hidden");
     scrollTopBtn.classList.add("hidden"); 
+    // ★★★ 스크롤 잠금: 홈 화면에서는 스크롤이 발생하지 않도록 클래스 추가
+    document.body.classList.add("home-no-scroll");
   }
 }
 
