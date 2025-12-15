@@ -102,9 +102,9 @@
 
 <div class="intro-text-box">
   <p class="intro-text">
-    가끔 옛날 영상이 문득 보고 싶은데 뭐가 있었는지 기억이 안 나고<br>
-    8년의 영상 기록이 너무 방대해서 찾아보기 편하게 정리한 사이트입니다.<br>
-    혹시 제가 정리하다 놓친 영상이 있다면, 제보해 주시면 추가하겠습니다!
+    가끔 옛날 영상이 문득 보고 싶은데 <br>
+    영상이 너무 방대해서 찾아보기 편하게 모아놨어요.<br>
+    혹시 제가 놓친 영상이 있다면, 제보해주세요!
   </p>
   <p class="contact-text">
     영상제보: idleogosa@gmail.com
@@ -112,36 +112,38 @@
 </div>
     </section>
 
-  <div class="container">
+    <main id="mainContent">
+      <div class="container">
 
-    <div class="filter-bar">
-      <button id="yearFilter" class="filterBtn">연도</button>
-      <button id="monthFilter" class="filterBtn">월</button>
-      <button id="subTagFilter" class="filterBtn">서브필터</button>
-      <button id="toggleSortBtn" class="filterBtn">최신순</button>
-      <button class="filterBtn" id="dateRangeIconBtn">🗓️</button>
-    </div>
+        <div class="filter-bar">
+          <button id="yearFilter" class="filterBtn">연도</button>
+          <button id="monthFilter" class="filterBtn">월</button>
+          <button id="subTagFilter" class="filterBtn">서브필터</button>
+          <button id="toggleSortBtn" class="filterBtn">최신순</button>
+          <button class="filterBtn" id="dateRangeIconBtn">🗓️</button>
+        </div>
 
-    <div id="filterMenu" class="hidden"></div>
+        <div id="filterMenu" class="hidden"></div>
 
-    <div class="video-count-row">
-      <span id="cardCount">총 0건</span>
-    </div>
+        <div class="video-count-row">
+          <span id="cardCount">총 0건</span>
+        </div>
 
-    <section id="allCards" class="card-container"></section>
+        <section id="allCards" class="card-container"></section>
 
-    <footer class="footer">
-      <button id="loadMoreBtn" class="more-btn">
-        <img src="images/more.svg" alt="more">
-      </button>
+        <footer class="footer">
+          <button id="loadMoreBtn" class="more-btn hidden">
+            <img src="images/more.svg" alt="more">
+          </button>
 
-      <button id="scrollTopBtn" class="top-btn">
-        <img src="images/up.svg" alt="top">
-      </button>
-    </footer>
+          <button id="scrollTopBtn" class="top-btn hidden">
+            <img src="images/up.svg" alt="top">
+          </button>
+        </footer>
 
-  </div>
-<div id="categoryBtnDummy" style="position:absolute; visibility:hidden; white-space:nowrap;"></div>
+      </div>
+    </main>
+    <div id="categoryBtnDummy" style="position:absolute; visibility:hidden; white-space:nowrap;"></div>
 
 
 </body>

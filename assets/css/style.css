@@ -196,13 +196,18 @@ body, button, input, select, textarea, div, span {
 /* ---------------------------------------------------- */
 .cat-item {
     font-size: 0.9rem !important; 
-    padding: 0.6rem 1rem !important; 
+    padding: 0.45rem 1rem !important; /* 필터 항목과 동일하게 수정 */
     cursor: pointer;
     border-radius: var(--radius-small);
+    
+    /* ★★★ 추가/수정: 필터 항목과 동일한 스타일 적용 ★★★ */
+    margin: 0.25rem 0 !important; /* 상하 간격 추가 */
+    background: #fafafa; /* 배경색 */
+    border: 1px solid #eee; /* 테두리 */
 }
 
 .cat-item:hover {
-    background: #f2f2f2;
+    background: #f1f1f1; /* 호버 색상을 필터 항목과 동일하게 수정 */
 }
 
 /* ---------------------------------------------------- */
@@ -524,6 +529,7 @@ body, button, input, select, textarea, div, span {
   z-index: 1000;
 }
 
+
 /* ===========================================================
    HOMEPAGE STYLES (새로 추가)
 =========================================================== */
@@ -557,6 +563,7 @@ body, button, input, select, textarea, div, span {
   border-radius: var(--radius-large);
   box-shadow: 0 5px 20px rgba(0,0,0,0.1);
   margin-bottom: 4rem;
+  margin-top: 2rem;
 }
 
 .mv-embed-box iframe {
@@ -568,14 +575,12 @@ body, button, input, select, textarea, div, span {
 }
 
 .intro-text-box {
-  /* ★ 추가: 배경에 아주 연한 회색 추가 */
   background: #f8f8f8; 
   border-radius: var(--radius-med);
   padding: 1.2rem;
   margin-bottom: 2rem;
   line-height: 1.5;
   text-align: center;
-  /* ★ 추가: 은은한 테두리 추가 */
   border: 1px solid #eee; 
 }
 
