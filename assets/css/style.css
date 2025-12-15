@@ -674,6 +674,11 @@ body, button, input, select, textarea, div, span {
         margin-right: 0.2rem; 
     }
     
+#searchBtn {
+        position: relative; /* z-index가 작동하도록 설정 */
+        z-index: 10000;    /* 매우 높은 z-index로 어떤 요소보다도 위에 배치 */
+    }
+
     /* 카테고리 버튼: 글자 길이에 맞춰 자동으로 늘어나며 1줄 유지 */
     .category-btn.in-search {
         flex: 0 0 auto !important;

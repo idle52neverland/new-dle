@@ -42,52 +42,28 @@ const SLUG_MAP = Object.fromEntries(
 
 
 /* ============================================================
-   전역 변수
+   전역 변수 & DOM 캐시 (Refactoring: 한 곳에 모음)
 ============================================================ */
 let allCards = [];
 let filteredCards = [];
 let visibleCount = 0;
-
-function getCardsPerLoad() {
-  const width = window.innerWidth;
-  const isMobile = width < 768;
-  const container = document.getElementById("allCards");
-  const isVertical = container.classList.contains("vertical-mode");
-
-  if (isMobile) {
-    return 40; 
-  } else {
-    const containerWidth = Math.min(width, 1284);
-    
-    if (isVertical) {
-      const cardsPerRow = Math.floor(containerWidth / 192);
-      return cardsPerRow * 15; 
-    } else {
-      const cardsPerRow = Math.floor(containerWidth / 276);
-      return cardsPerRow * 15; 
-    }
-  }
-}
-
 let sortOrder = "newest";
 
 let activeFilters = {
   year: null,
   month: null,
   subtag: null,
-  // 기간 설정 필터 변수
   startDate: null, 
   endDate: null
 };
 
-/* DOM */
+// DOM Elements Caching
 const searchInput = document.getElementById("searchInput");
 const searchBtn   = document.getElementById("searchBtn");
 
 const yearFilter  = document.getElementById("yearFilter");
 const monthFilter = document.getElementById("monthFilter");
 const subTagFilter = document.getElementById("subTagFilter");
-// 기간 설정 버튼 DOM 변수
 const dateRangeIconBtn = document.getElementById("dateRangeIconBtn"); 
 
 const toggleSortBtn = document.getElementById("toggleSortBtn");
@@ -103,17 +79,37 @@ const currentCategory     = document.getElementById("currentCategory");
 const filterMenu     = document.getElementById("filterMenu");
 const allCardsContainer = document.getElementById("allCards");
 
-// 화면 전환용
 const mainHomePage = document.getElementById("mainHomePage");
 const filterBar = document.querySelector(".filter-bar");
 const videoCountRow = document.querySelector(".video-count-row");
 const footer = document.querySelector(".footer");
 const homeBtn = document.getElementById("homeBtn");
 
-
 /* ============================================================
-   카테고리 → 데이터변수 매핑
+   유틸리티 함수
 ============================================================ */
+function getCardsPerLoad() {
+  const width = window.innerWidth;
+  const isMobile = width < 768;
+  const isVertical = allCardsContainer.classList.contains("vertical-mode");
+
+  // 모바일 환경은 고정 개수, PC 환경은 화면 너비에 따라 계산
+  if (isMobile) {
+    return 40; 
+  } else {
+    const containerWidth = Math.min(width, 1284);
+    
+    // 세로형 (Shorts) 모드 처리
+    if (isVertical) {
+      const cardsPerRow = Math.floor(containerWidth / 192);
+      return cardsPerRow * 15; 
+    } else {
+      const cardsPerRow = Math.floor(containerWidth / 276);
+      return cardsPerRow * 15; 
+    }
+  }
+}
+
 function categoryToVarName(category) {
   const raw = category.trim();
 
@@ -122,9 +118,7 @@ function categoryToVarName(category) {
   const hasHangul = /[가-힣]/.test(raw);
 
   if (hasHangul) {
-    return raw
-      .replace(/[^가-힣a-zA-Z0-9]/g, "") 
-      + "Cards";
+    return raw.replace(/[^가-힣a-zA-Z0-9]/g, "") + "Cards";
   } else {
     return (
       raw
@@ -137,12 +131,6 @@ function categoryToVarName(category) {
   }
 }
 
-
-
-/* ============================================================
-   All Videos = 모든 카테고리를 합친 배열 생성
-   (ShortsCards, xTwitterCards 제외됨)
-============================================================ */
 function buildAllVideos() {
   const vars = [
     "발매곡Cards", "OST참여곡Cards", "음악방송시상식Cards", "공연축제Cards",
@@ -159,9 +147,6 @@ function buildAllVideos() {
   return arr;
 }
 
-/* ============================================================
-   카드 정렬
-============================================================ */
 function sortCards(list) {
   return list.sort((a, b) => {
     const da = new Date(a.date);
@@ -170,33 +155,128 @@ function sortCards(list) {
   });
 }
 
+function applyIosScrollTrick() {
+    // iOS 스크롤 복원 방지 및 최상단 이동 로직 통합
+    if ('scrollRestoration' in history) {
+        history.scrollRestoration = 'manual';
+    }
+    
+    const fixedHeader = document.querySelector('.fixed-top-wrapper'); 
+
+    if (fixedHeader) {
+        fixedHeader.style.transform = 'translate3d(0, 0, 0.1px)'; 
+    }
+
+    window.scrollTo({ top: 0, behavior: "instant" });
+    
+    setTimeout(() => {
+        if (fixedHeader) {
+            fixedHeader.style.transform = ''; 
+        }
+        window.scrollTo(0, 1); 
+        window.scrollTo(0, 0); 
+    }, 10);
+}
+
+
 /* ============================================================
-   카드 렌더링
+   화면 전환 및 UI 제어 (Refactoring: 함수 분리)
+============================================================ */
+function toggleMainView(showCards) {
+  // ★★★ FIX 3: 초기 화면 겹침/깜빡임 방지 로직 (index.html에도 hidden 클래스가 필요할 수 있습니다.)
+  if (showCards) {
+    // 카드 뷰 보이기
+    mainHomePage.classList.add("hidden");
+    filterBar.classList.remove("hidden");
+    videoCountRow.classList.remove("hidden");
+    allCardsContainer.classList.remove("hidden");
+    footer.classList.remove("hidden");
+    // scrollTopBtn은 scroll 이벤트에서 제어되므로 여기서 명시적으로 제어하지 않음
+  } else {
+    // 메인 페이지 보이기 (홈)
+    mainHomePage.classList.remove("hidden");
+    filterBar.classList.add("hidden");
+    videoCountRow.classList.add("hidden");
+    allCardsContainer.classList.add("hidden");
+    footer.classList.add("hidden");
+    scrollTopBtn.classList.add("hidden"); 
+  }
+}
+
+function updateCardContainerMode(categoryName) {
+    const container = allCardsContainer; 
+    
+    container.classList.remove("vertical-mode");
+    container.classList.remove("twitter-mode");
+    
+    if (categoryName === "Shorts") {
+        container.classList.add("vertical-mode");
+    } else if (categoryName === "X(Twitter)") {
+        container.classList.add("twitter-mode");
+    }
+}
+
+function resetFilters() {
+    // 필터 데이터 초기화
+    activeFilters = { 
+        year: null, 
+        month: null, 
+        subtag: null, 
+        startDate: null, 
+        endDate: null 
+    };
+    // 필터 UI 텍스트 초기화
+    yearFilter.textContent = "연도";
+    monthFilter.textContent = "월";
+    subTagFilter.textContent = "서브필터";
+    
+    // 기간 설정 버튼 UI 초기화
+    if (dateRangeIconBtn) {
+        dateRangeIconBtn.textContent = "🗓️"; 
+        dateRangeIconBtn.classList.remove('active');
+    }
+
+    // 정렬 초기화
+    sortOrder = "newest";
+    toggleSortBtn.textContent = "최신순";
+    
+    // 검색창 초기화
+    searchInput.value = "";
+}
+
+function closeDropdownsAndMenus() {
+    categoryDropdown.classList.add("hidden");
+    filterMenu.classList.add("hidden");
+}
+
+
+/* ============================================================
+   카드 렌더링 (핵심)
 ============================================================ */
 function renderCards(reset = false) {
+  const cat = currentCategory.textContent.trim(); 
+
   if (reset) {
     allCardsContainer.innerHTML = "";
     visibleCount = 0;
   }
-
-  const cat = currentCategory.textContent.trim(); 
-
+  
   const cardsPerLoad = getCardsPerLoad();
   const slice = filteredCards.slice(visibleCount, visibleCount + cardsPerLoad);
 
   slice.forEach(item => {
-  const card = document.createElement("div");
+    const card = document.createElement("div");
 
-  if (cat === "X(Twitter)") {
-    card.className = "tweet-card";
-    
-    const compatUrl = item.url.replace("https://x.com", "https://twitter.com");
+    if (cat === "X(Twitter)") {
+      card.className = "tweet-card";
+      
+      const compatUrl = item.url.replace("https://x.com", "https://twitter.com");
 
-    card.innerHTML = `
-      <blockquote class="twitter-tweet" data-lang="ko" data-dnt="true">
-        <a href="${compatUrl}"></a> </blockquote>
-    `;
-  }
+      card.innerHTML = `
+        <blockquote class="twitter-tweet" data-lang="ko" data-dnt="true">
+          <a href="${compatUrl}"></a> </blockquote>
+      `;
+    }
     else {
       card.className = "card";
       const displayThumb = item.thumbnail || "";
@@ -231,317 +311,75 @@ function renderCards(reset = false) {
     }
   }); 
 
-if (cat === "X(Twitter)") {
+  // 트위터 위젯 로드
+  if (cat === "X(Twitter)") {
     setTimeout(() => {
         if (window.twttr && window.twttr.widgets) {
             window.twttr.widgets.load(allCardsContainer);
         }
     }, 50); 
-}
+  }
 
   visibleCount += slice.length;
   cardCount.textContent = `총 ${filteredCards.length}건`;
-  loadMoreBtn.style.display = (visibleCount >= filteredCards.length) ? "none" : "block";
-}
-
-/* ============================================================
-   ★ 메인 페이지 / 카드 뷰 전환 함수 
-============================================================ */
-function toggleMainView(showCards) {
-  if (showCards) {
-    // 카드 뷰 보이기: 메인 페이지 숨김, 카드 관련 요소 보임
-    mainHomePage.classList.add("hidden");
-    filterBar.classList.remove("hidden");
-    videoCountRow.classList.remove("hidden");
-    allCardsContainer.classList.remove("hidden");
-    footer.classList.remove("hidden");
-    scrollTopBtn.classList.remove("hidden");
-  } else {
-    // 메인 페이지 보이기: 메인 페이지 보임, 카드 관련 요소 숨김
-    mainHomePage.classList.remove("hidden");
-    filterBar.classList.add("hidden");
-    videoCountRow.classList.add("hidden");
-    allCardsContainer.classList.add("hidden");
-    footer.classList.add("hidden");
-    scrollTopBtn.classList.add("hidden");
-  }
-}
-
-/* ============================================================
-   카테고리 변경 
-============================================================ */
-function changeCategory(categoryName, updateURL = true) {
-  currentCategory.textContent = categoryName;
-
-  // 1. 카드 데이터 로드
-  if (categoryName === "All Videos") {
-    // buildAllVideos 함수에서 이미 Shorts와 X(Twitter)를 제외하도록 수정했음.
-    allCards = buildAllVideos();
-  } else {
-    const varName = categoryToVarName(categoryName);
-    allCards = Array.isArray(window[varName]) ? [...window[varName]] : [];
-  }
-
-  // 2. 화면 전환 
-  toggleMainView(true);
-
-  // 3. 카드 컨테이너 모드 설정 
-  const container = document.getElementById("allCards"); 
   
-  if (categoryName === "Shorts") {
-    container.classList.add("vertical-mode");
-    container.classList.remove("twitter-mode");
-  } else if (categoryName === "X(Twitter)") {
-    container.classList.add("twitter-mode");
-    container.classList.remove("vertical-mode");
-  } else {
-    container.classList.remove("vertical-mode");
-    container.classList.remove("twitter-mode");
+  // ★★★ FIX 2: 더보기 버튼 가시성 로직 수정 (클래스 제어) ★★★
+  if (loadMoreBtn) {
+      if (visibleCount >= filteredCards.length) {
+          // 렌더링된 카드가 전체 카드 수보다 많거나 같으면 버튼 숨김
+          loadMoreBtn.classList.add("hidden");
+      } else {
+          // 아직 더 로드할 카드가 남아있다면 버튼 표시
+          loadMoreBtn.classList.remove("hidden");
+      }
   }
-
-  // 4. 필터 초기화 (기간 필터 포함)
-  activeFilters = { 
-    year: null, 
-    month: null, 
-    subtag: null, 
-    startDate: null, // 기간 필터 초기화
-    endDate: null 
-  };
-  yearFilter.textContent = "연도";
-  monthFilter.textContent = "월";
-  subTagFilter.textContent = "서브필터";
-  
-  // 달력 버튼 UI 초기화 및 비활성 스타일 제거
-  if (dateRangeIconBtn) {
-    dateRangeIconBtn.textContent = "🗓️"; 
-    dateRangeIconBtn.classList.remove('active');
-  }
-
-
-  // 5. 카드 필터링 및 정렬
-  filteredCards = sortCards([...allCards]);
-
-  // 6. 카드 렌더링
-  renderCards(true);
-
-  // 7. URL 업데이트
-  if (updateURL) {
-    const categorySlug = CATEGORY_MAP[categoryName] || categoryName;
-    
-    const params = new URLSearchParams(location.search);
-    const query = params.get("q"); 
-    
-    let url = `?category=${categorySlug}`;
-    if (query) {
-      url += `&q=${encodeURIComponent(query)}`;
-    }
-    
-    history.pushState({ category: categorySlug }, "", url);
-  }
-
-  // 카테고리 변경 후 스크롤을 최상단으로 이동
-  applyIosScrollTrick();
-}
-
-
-/* ============================================================
-   기간 직접 설정 로직 (HTML 메뉴 UI)
-============================================================ */
-function openDateRangeMenu(btn) {
-    filterMenu.innerHTML = "";
-    filterMenu.classList.remove("hidden");
-
-    // HTML 구조 생성
-    const menuContent = document.createElement("div");
-    menuContent.className = "date-range-menu";
-    menuContent.style.padding = "10px";
-    
-    // 시작일 입력
-    const startInput = document.createElement("input");
-    startInput.type = "date";
-    startInput.value = activeFilters.startDate || "";
-    startInput.id = "dateStartInput";
-    startInput.style.marginBottom = "5px";
-    startInput.style.color = "#000"; 
-
-    // 종료일 입력
-    const endInput = document.createElement("input");
-    endInput.type = "date";
-    endInput.value = activeFilters.endDate || "";
-    endInput.id = "dateEndInput";
-    endInput.style.marginBottom = "10px";
-    endInput.style.color = "#000"; 
-
-    // 적용 버튼
-    const applyBtn = document.createElement("button");
-    applyBtn.textContent = "기간 적용";
-    applyBtn.style.marginRight = "8px";
-    applyBtn.style.backgroundColor = "#ff0000"; 
-    applyBtn.style.color = "#fff"; 
-
-    // 초기화 버튼
-    const resetBtn = document.createElement("button");
-    resetBtn.textContent = "초기화";
-    resetBtn.style.backgroundColor = "#ccc"; 
-    resetBtn.style.color = "#000"; 
-    
-    // UI 구성
-    menuContent.appendChild(startInput);
-    
-    const wave = document.createElement("div");
-    wave.textContent = "~";
-    wave.style.textAlign = "center";
-    wave.style.marginBottom = "5px";
-    menuContent.appendChild(wave);
-    
-    menuContent.appendChild(endInput);
-    
-    // UI 개선: 버튼을 감싸는 컨테이너 추가
-    const buttonContainer = document.createElement("div");
-    buttonContainer.style.display = "flex";
-    buttonContainer.style.justifyContent = "center";
-    buttonContainer.style.gap = "8px"; 
-    buttonContainer.appendChild(applyBtn);
-    buttonContainer.appendChild(resetBtn);
-    menuContent.appendChild(buttonContainer);
-
-
-    filterMenu.appendChild(menuContent);
-
-
-    // ====== 버튼 아래로 정확히 위치시키기 ======
-    const rect = btn.getBoundingClientRect();
-    filterMenu.style.position = "absolute";
-    filterMenu.style.right = (window.innerWidth - rect.right) + "px";
-    filterMenu.style.left = "auto";
-    filterMenu.style.top  = window.scrollY + rect.bottom + 4 + "px";
-    filterMenu.style.width = "auto"; 
-
-
-    // ====== 이벤트 리스너 ======
-    applyBtn.addEventListener("click", () => {
-        const start = startInput.value;
-        const end = endInput.value;
-
-        if (!start || !end) {
-            alert("시작일과 종료일을 모두 선택해 주세요.");
-            return;
-        }
-
-        const startDate = new Date(start);
-        const endDate = new Date(end);
-
-        // Date 객체를 사용한 유효성 검사
-        if (isNaN(startDate) || isNaN(endDate) || startDate > endDate) {
-            alert("유효하지 않은 날짜 형식이거나 시작일이 종료일보다 늦습니다.");
-            return;
-        }
-
-        applyDateRangeFilter(start, end);
-        filterMenu.classList.add("hidden");
-    });
-    
-    resetBtn.addEventListener("click", () => {
-        // 기간 필터만 초기화하고 UI 업데이트 후 검색 적용
-        activeFilters.startDate = null;
-        activeFilters.endDate = null;
-        
-        // UI를 아이콘과 비활성 상태로 초기화
-        dateRangeIconBtn.textContent = "🗓️"; 
-        dateRangeIconBtn.classList.remove('active');
-        
-        applySearch();
-        filterMenu.classList.add("hidden");
-    });
-}
-
-function applyDateRangeFilter(start, end) {
-    // 1. 기존 연도/월 필터 초기화 (가장 중요)
-    activeFilters.year = null;
-    activeFilters.month = null;
-    yearFilter.textContent = "연도";
-    monthFilter.textContent = "월";
-    
-    // 2. 새로운 기간 필터 적용
-    activeFilters.startDate = start;
-    activeFilters.endDate = end;
-
-    // 3. 필터 바 UI 업데이트 (모바일 레이아웃 유지를 위해 텍스트는 🗓️로 고정)
-    dateRangeIconBtn.textContent = `🗓️`; 
-    // 활성 상태 표시용 CSS 클래스 추가
-    dateRangeIconBtn.classList.add('active'); 
-
-    // 4. 검색/필터 적용
-    applySearch();
 }
 
 /* ============================================================
-   검색/필터 적용
+   검색/필터 적용 (메인 로직)
 ============================================================ */
 function applySearch() {
-  if ((searchInput.value || "").trim() !== "") {
-    toggleMainView(true);
-  }
-
   const kw = (searchInput.value || "").toLowerCase();
 
-  // 검색/필터 로직...
+  // 1. 필터링
   filteredCards = allCards.filter(c => {
     let ok = true;
 
     // 기간 직접 설정 필터
     if (activeFilters.startDate && activeFilters.endDate) {
-        
-        // 1. 카드 날짜 (시간대 문제 해결을 위해 날짜 문자열에 T00:00:00를 붙여 Date 객체 생성)
         const cardDateStr = c.date.split('T')[0];
         const cardDate = new Date(cardDateStr + 'T00:00:00');
-        
-        // 2. 시작일 
         const start = new Date(activeFilters.startDate + 'T00:00:00');
-        
-        // 3. 종료일 (종료일 다음 날의 00:00:00을 계산하여 경계 포함)
         const endDay = new Date(activeFilters.endDate + 'T00:00:00');
         endDay.setDate(endDay.getDate() + 1);
         
-        // [Start <= Card Date < Next Day of End] 로 비교
         if (cardDate < start || cardDate >= endDay) return false;
         
     } else {
-        // 기간 설정이 없을 때만 기존 연도/월 필터 작동
-
-        // ========== 연도 필터 ==========
+        // 기존 연도/월 필터
         if (activeFilters.year !== null) {
-
             if (activeFilters.year === "predebut") {
-
                 const itemDate = new Date(c.date);
                 const debutDate = new Date("2018-04-25T00:00:00");
-
                 if (!(itemDate < debutDate)) return false;
-
             } else {
                 const y = new Date(c.date).getFullYear();
                 if (y !== activeFilters.year) return false;
             }
         }
-
-
-        // ========== 월 필터 ==========
         if (activeFilters.month !== null) {
             const m = new Date(c.date).getMonth() + 1;
             if (m !== activeFilters.month) return false;
         }
     }
 
-
-    // ========== 서브필터 ==========
+    // 서브필터
     if (activeFilters.subtag !== null) {
         const sub = String(c.subtag || c.note || "").toLowerCase();
         if (!sub.includes(String(activeFilters.subtag).toLowerCase())) return false;
     }
 
-
-    // ====== 단어 AND 검색 ======
+    // 단어 AND 검색
     if (kw !== "") {
         const words = kw.split(/\s+/).filter(w => w.length > 0);
 
@@ -560,19 +398,98 @@ function applySearch() {
     return ok;
   });
 
+  // 2. 정렬 및 렌더링
   filteredCards = sortCards(filteredCards);
   renderCards(true);
   
-  // 필터링/검색 완료 후 스크롤을 최상단으로 이동
+  // 3. 스크롤 위치 초기화
   applyIosScrollTrick();
 }
 
 /* ============================================================
-   필터 선택 (기간 필터 초기화 연동)
+   카테고리 변경 (메인 로직)
 ============================================================ */
+function changeCategory(categoryName, updateURL = true) {
+  // 1. 상태 및 UI 업데이트
+  currentCategory.textContent = categoryName;
+
+  // 2. 카드 데이터 로드
+  if (categoryName === "All Videos") {
+    allCards = buildAllVideos();
+  } else {
+    const varName = categoryToVarName(categoryName);
+    allCards = Array.isArray(window[varName]) ? [...window[varName]] : [];
+  }
+
+  // 3. 화면 전환
+  toggleMainView(true);
+
+  // 4. 카드 컨테이너 모드 설정
+  updateCardContainerMode(categoryName);
+
+  // 5. 필터 초기화 (resetFilters는 검색창도 초기화함)
+  resetFilters();
+  
+  // 6. 검색 적용 (필터링 및 정렬 후 렌더링)
+  applySearch();
+
+  // 7. URL 업데이트
+  if (updateURL) {
+    const categorySlug = CATEGORY_MAP[categoryName] || categoryName;
+    const params = new URLSearchParams(location.search);
+    const query = params.get("q"); 
+    
+    let url = `?category=${categorySlug}`;
+    if (query) {
+      url += `&q=${encodeURIComponent(query)}`;
+    }
+    
+    history.pushState({ category: categorySlug }, "", url);
+  }
+  
+  // 8. 스크롤 위치 초기화
+  applyIosScrollTrick();
+}
+
+
+/* ============================================================
+   이벤트 핸들러 함수
+============================================================ */
+// ★★★ FIX 1: 모바일 검색 버튼 이슈 해결을 위해 로직 단순화 ★★★
+function handleSearchAction(e) { 
+  if (e) {
+    e.preventDefault();     
+    e.stopPropagation(); 
+  }
+  searchInput.blur(); // 키보드 닫기
+  
+  const kw = (searchInput.value || "").trim(); // ★★★ 사용자가 입력한 검색어(kw)를 저장
+
+  // 현재 카테고리가 '카테고리 선택' (첫 화면)이고, 검색어가 있다면
+  if (currentCategory.textContent === "카테고리 선택" && kw.length > 0) {
+    const categorySlug = CATEGORY_MAP["All Videos"];
+    const url = `?category=${categorySlug}&q=${encodeURIComponent(kw)}`;
+    
+    history.pushState({ category: categorySlug, query: kw }, "", url);
+    
+    // 1. All Videos로 카테고리 전환 (이 과정에서 resetFilters 호출로 검색어가 지워짐)
+    changeCategory("All Videos", false); 
+    
+    // 2. ★★★ 핵심 수정: 전환 후, 지워진 검색어를 다시 입력 필드에 복원
+    searchInput.value = kw;
+    
+    // 3. 복원된 검색어를 기준으로 검색 로직을 다시 실행하여 필터링
+    applySearch(); 
+  } 
+  else {
+    // 이미 카테고리가 선택된 상태이거나 검색어가 없는 경우
+    applySearch(); 
+  }
+}
+
+// 필터 선택 로직
 function applyFilterSelection(type, label, value) {
     
-    // 연도 또는 월 필터를 선택하면 기간 필터를 초기화
     if (type === "year" || type === "month") {
         activeFilters.startDate = null;
         activeFilters.endDate = null;
@@ -591,10 +508,8 @@ function applyFilterSelection(type, label, value) {
     applySearch();
 }
 
-/* ============================================================
-   필터 메뉴 띄우기
-============================================================ */
 function openFilterMenu(type, btn) {
+  closeDropdownsAndMenus(); 
   filterMenu.innerHTML = "";
   filterMenu.classList.remove("hidden");
   
@@ -614,7 +529,8 @@ function openFilterMenu(type, btn) {
 
     return div;
   }
-
+  
+  // 연도, 월, 서브필터 메뉴 항목 생성 로직 (이전 코드 유지)
   if (type === "year") {
     const years = ["전체","2026","2025","2024","2023","2022","2021","2020","2019","2018","Pre-debut"];
     years.forEach(y => {
@@ -665,170 +581,265 @@ function openFilterMenu(type, btn) {
   }
 
 
-  // ====== 버튼 아래로 정확히 위치시키기 ======
+  // 위치 설정
   const rect = btn.getBoundingClientRect();
   filterMenu.style.position = "absolute";
   filterMenu.style.left = rect.left + "px";
   filterMenu.style.top  = window.scrollY + rect.bottom + 4 + "px";
 }
 
-/* ============================================================
-   ★ iOS 스크롤 복원 방지 및 상단 초기화 트릭 
-============================================================ */
-if ('scrollRestoration' in history) {
-    history.scrollRestoration = 'manual';
-}
+function openDateRangeMenu(btn) {
+    closeDropdownsAndMenus(); 
+    filterMenu.innerHTML = "";
+    filterMenu.classList.remove("hidden");
 
-function applyIosScrollTrick() {
-    const fixedHeader = document.querySelector('.fixed-top-wrapper'); 
-
-    if (fixedHeader) {
-        fixedHeader.style.transform = 'translate3d(0, 0, 0.1px)'; 
-    }
-
-    window.scrollTo({ top: 0, behavior: "instant" });
+    // HTML 구조 생성
+    const menuContent = document.createElement("div");
+    menuContent.className = "date-range-menu";
+    menuContent.style.padding = "10px";
     
-    setTimeout(() => {
-        if (fixedHeader) {
-            fixedHeader.style.transform = ''; 
+    const startInput = document.createElement("input");
+    startInput.type = "date";
+    startInput.value = activeFilters.startDate || "";
+    startInput.id = "dateStartInput";
+    startInput.style.marginBottom = "5px";
+    startInput.style.color = "#000"; 
+
+    const endInput = document.createElement("input");
+    endInput.type = "date";
+    endInput.value = activeFilters.endDate || "";
+    endInput.id = "dateEndInput";
+    endInput.style.marginBottom = "10px";
+    endInput.style.color = "#000"; 
+
+    const applyBtn = document.createElement("button");
+    applyBtn.textContent = "기간 적용";
+    applyBtn.style.marginRight = "8px";
+    applyBtn.style.backgroundColor = "#ff0000"; 
+    applyBtn.style.color = "#fff"; 
+
+    const resetBtn = document.createElement("button");
+    resetBtn.textContent = "초기화";
+    resetBtn.style.backgroundColor = "#ccc"; 
+    resetBtn.style.color = "#000"; 
+    
+    menuContent.appendChild(startInput);
+    
+    const wave = document.createElement("div");
+    wave.textContent = "~";
+    wave.style.textAlign = "center";
+    wave.style.marginBottom = "5px";
+    menuContent.appendChild(wave);
+    
+    menuContent.appendChild(endInput);
+    
+    const buttonContainer = document.createElement("div");
+    buttonContainer.style.display = "flex";
+    buttonContainer.style.justifyContent = "center";
+    buttonContainer.style.gap = "8px"; 
+    buttonContainer.appendChild(applyBtn);
+    buttonContainer.appendChild(resetBtn);
+    menuContent.appendChild(buttonContainer);
+
+
+    filterMenu.appendChild(menuContent);
+
+
+    // 위치 설정
+    const rect = btn.getBoundingClientRect();
+    filterMenu.style.position = "absolute";
+    filterMenu.style.right = (window.innerWidth - rect.right) + "px";
+    filterMenu.style.left = "auto";
+    filterMenu.style.top  = window.scrollY + rect.bottom + 4 + "px";
+    filterMenu.style.width = "auto"; 
+
+
+    // 이벤트 리스너
+    applyBtn.addEventListener("click", () => {
+        const start = startInput.value;
+        const end = endInput.value;
+
+        if (!start || !end) {
+            alert("시작일과 종료일을 모두 선택해 주세요.");
+            return;
         }
-    }, 10);
+
+        const startDate = new Date(start);
+        const endDate = new Date(end);
+
+        if (isNaN(startDate) || isNaN(endDate) || startDate > endDate) {
+            alert("유효하지 않은 날짜 형식이거나 시작일이 종료일보다 늦습니다.");
+            return;
+        }
+
+        applyDateRangeFilter(start, end);
+        filterMenu.classList.add("hidden");
+    });
     
-    setTimeout(() => {
-        window.scrollTo(0, 1); 
-        window.scrollTo(0, 0); 
-    }, 50); 
+    resetBtn.addEventListener("click", () => {
+        activeFilters.startDate = null;
+        activeFilters.endDate = null;
+        
+        dateRangeIconBtn.textContent = "🗓️"; 
+        dateRangeIconBtn.classList.remove('active');
+        
+        applySearch();
+        filterMenu.classList.add("hidden");
+    });
+}
+
+function applyDateRangeFilter(start, end) {
+    activeFilters.year = null;
+    activeFilters.month = null;
+    yearFilter.textContent = "연도";
+    monthFilter.textContent = "월";
     
-    setTimeout(() => {
-        window.scrollTo(0, 0);
-    }, 100);
+    activeFilters.startDate = start;
+    activeFilters.endDate = end;
+
+    dateRangeIconBtn.textContent = `🗓️`; 
+    dateRangeIconBtn.classList.add('active'); 
+
+    applySearch();
+}
+
+
+function positionCategoryDropdown() {
+  const rect = categoryDropdownBtn.getBoundingClientRect();
+  
+  categoryDropdown.style.position = "fixed";   
+  categoryDropdown.style.right = (window.innerWidth - rect.right) + "px";
+  categoryDropdown.style.left = "auto"; 
+  categoryDropdown.style.top  = (rect.bottom + 4) + "px";
 }
 
 /* ============================================================
-   이벤트 연결 (돋보기 버튼 작동 로직 최종 수정)
+   초기화 및 이벤트 리스너 설정 (Refactoring: 함수 분리)
 ============================================================ */
-
-function handleSearchAction(e) { 
-  if (e) {
-    e.preventDefault();     
-    // ★ FIX 1: 이벤트 버블링 및 캡처링 중단 (아이콘이 클릭을 가로채는 문제 해결)
-    e.stopPropagation(); 
-  }
-
-  // 검색 버튼 클릭 시 입력 필드의 포커스를 강제로 해제
-  searchInput.blur(); 
-  
-  const kw = (searchInput.value || "").trim();
-  
-  if (currentCategory.textContent === "카테고리 선택" && kw.length > 0) {
+function initializeEventListeners() {
     
-    const categorySlug = CATEGORY_MAP["All Videos"];
-    const url = `?category=${categorySlug}&q=${encodeURIComponent(kw)}`;
+    // 1. 검색 버튼 및 입력 (모바일 클릭 문제 최종 해결)
+
+// ★★★ 돋보기 버튼 클릭 리스너 재정의: 터치 간섭을 막고 검색을 강제 실행
+searchBtn.addEventListener("click", e => {
+    e.preventDefault();     // 클릭 시 기본 동작 방지
+    e.stopPropagation(); // 이벤트 전파 방지 (다른 요소 간섭 차단)
+    searchInput.blur(); // 모바일 키보드 강제 종료
     
-    history.pushState({ category: categorySlug, query: kw }, "", url);
-    
-    changeCategory("All Videos", false); 
-    
-    applySearch(); 
-  } 
-  else {
-    applySearch(); 
-  }
-}
+    handleSearchAction(e); 
+});
 
-// =======================================================
-// ★ 최종 FIX 2: 돋보기 버튼에 대한 이벤트 처리 (stopPropagation과 Passive: false 적용)
-// =======================================================
-
-// PC 클릭 및 모바일 탭 환경 대응
-searchBtn.addEventListener("click", handleSearchAction);
-
-// 모바일 터치 환경 대응 (touchstart 사용, passive: false로 preventDefault() 보장)
-searchBtn.addEventListener("touchstart", function(e) {
-    // 1. 이벤트의 기본 동작(스크롤, 확대 등)을 즉시 막습니다.
-    e.preventDefault(); 
-    // 2. 버블링을 막아 아이콘 등 내부 요소의 간섭을 차단합니다.
-    e.stopPropagation();
-    // 3. 검색 액션을 실행합니다.
-    handleSearchAction(); 
-    // 모바일 터치에서 click 이벤트가 또 발생하는 것을 막기 위한 return
-    return false;
-}, { passive: false }); // passive: false로 설정하여 e.preventDefault()가 확실히 작동하도록 함.
-
-
+// 검색창 입력 이벤트는 기존과 동일하게 유지
 searchInput.addEventListener("keyup", e => {
   if (e.key === "Enter") {
     handleSearchAction(e); 
   }
 });
 
-
-yearFilter.addEventListener("click", e => openFilterMenu("year", e.target));
-monthFilter.addEventListener("click", e => openFilterMenu("month", e.target));
-subTagFilter.addEventListener("click", e => openFilterMenu("subtag", e.target));
-
-// 기간 설정 버튼 이벤트 연결
-if (dateRangeIconBtn) {
-    dateRangeIconBtn.addEventListener("click", e => openDateRangeMenu(e.target));
-}
-
-toggleSortBtn.addEventListener("click", () => {
-  sortOrder = (sortOrder === "newest" ? "oldest" : "newest");
-  toggleSortBtn.textContent = (sortOrder === "newest" ? "최신순" : "오래된순");
-  filteredCards = sortCards(filteredCards);
-  renderCards(true);
-});
-
-loadMoreBtn.addEventListener("click", () => renderCards(false));
-
-scrollTopBtn.addEventListener("click", () =>
-  window.scrollTo({ top: 0, behavior: "auto" })
-);
-
-categoryDropdownBtn.addEventListener("click", () => {
-  categoryDropdown.classList.toggle("hidden");
-
-  if (!categoryDropdown.classList.contains("hidden")) {
-    positionCategoryDropdown(); 
-  }
-});
-
-
-categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
-  item.addEventListener("click", () => {
-    categoryDropdown.classList.add("hidden");
-
-    // 필터 초기화
-    searchInput.value = "";
-    activeFilters = { 
-        year: null, 
-        month: null, 
-        subtag: null, 
-        startDate: null,
-        endDate: null 
-    };
-    yearFilter.textContent = "연도";
-    monthFilter.textContent = "월";
-    subTagFilter.textContent = "서브필터";
-    
+    // 2. 필터 버튼
+    yearFilter.addEventListener("click", e => openFilterMenu("year", e.target));
+    monthFilter.addEventListener("click", e => openFilterMenu("month", e.target));
+    subTagFilter.addEventListener("click", e => openFilterMenu("subtag", e.target));
     if (dateRangeIconBtn) {
-        dateRangeIconBtn.textContent = "🗓️"; // 달력 초기화
-        dateRangeIconBtn.classList.remove('active'); // CSS 클래스 제거
+        dateRangeIconBtn.addEventListener("click", e => openDateRangeMenu(e.target));
     }
 
-    sortOrder = "newest";
-    toggleSortBtn.textContent = "최신순";
+    // 3. 정렬 버튼
+    toggleSortBtn.addEventListener("click", () => {
+      sortOrder = (sortOrder === "newest" ? "oldest" : "newest");
+      toggleSortBtn.textContent = (sortOrder === "newest" ? "최신순" : "오래된순");
+      filteredCards = sortCards(filteredCards);
+      renderCards(true);
+    });
 
-    changeCategory(item.textContent.trim(), true);
+    // 4. 더보기 버튼
+    loadMoreBtn.addEventListener("click", () => renderCards(false));
 
-    applyIosScrollTrick();
-  });
-});
+    // 5. 스크롤 상단 버튼
+    scrollTopBtn.addEventListener("click", () =>
+      window.scrollTo({ top: 0, behavior: "auto" })
+    );
+
+    // 6. 카테고리 드롭다운 토글 버튼
+    categoryDropdownBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      categoryDropdown.classList.toggle("hidden");
+      filterMenu.classList.add("hidden"); // 필터 메뉴 닫기
+
+      if (!categoryDropdown.classList.contains("hidden")) {
+        positionCategoryDropdown(); 
+      }
+    });
+
+    // 7. 카테고리 항목 클릭
+    categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
+      item.addEventListener("click", (e) => {
+        e.stopPropagation();
+        closeDropdownsAndMenus();
+        
+        resetFilters(); 
+
+        changeCategory(item.textContent.trim(), true);
+      });
+    });
+    
+    // 8. 홈 버튼
+    if (homeBtn) {
+      homeBtn.addEventListener("click", () => {
+        resetFilters();
+        history.pushState(null, "", location.pathname); 
+        currentCategory.textContent = "카테고리 선택"; 
+        toggleMainView(false); 
+        applyIosScrollTrick();
+      });
+    }
+
+    // 9. 외부 클릭 메뉴 닫기 (이전 로직 유지)
+    document.addEventListener("click", (e) => {
+      // 필터 메뉴 닫기
+      if (!filterMenu.classList.contains("hidden")) {
+        const isFilterBtn = 
+            yearFilter.contains(e.target) ||
+            monthFilter.contains(e.target) ||
+            subTagFilter.contains(e.target) ||
+            (dateRangeIconBtn && dateRangeIconBtn.contains(e.target)); 
+            
+        if (
+          !filterMenu.contains(e.target) && !isFilterBtn
+        ) {
+          filterMenu.classList.add("hidden");
+        }
+      }
+      
+      // 카테고리 드롭다운 닫기
+      if (!categoryDropdown.classList.contains("hidden")) {
+        if (
+          !categoryDropdown.contains(e.target) &&
+          !categoryDropdownBtn.contains(e.target)
+        ) {
+          categoryDropdown.classList.add("hidden");
+        }
+      }
+    });
+    
+    // 10. 스크롤 이벤트 (스크롤 버튼 제어)
+    window.addEventListener("scroll", function() {
+        if (window.scrollY > 300) {
+            scrollTopBtn.classList.remove("hidden");
+        } else {
+            scrollTopBtn.classList.add("hidden");
+        }
+    });
+}
+
 
 /* ============================================================
-   최초 로딩 
+   최초 로딩 (Refactoring: 초기 상태 제어)
 ============================================================ */
 window.addEventListener("DOMContentLoaded", () => {
+  
+  initializeEventListeners();
+    
   const params = new URLSearchParams(location.search);
   const slug = params.get("category"); 
   const query = params.get("q");      
@@ -837,27 +848,24 @@ window.addEventListener("DOMContentLoaded", () => {
     searchInput.value = decodeURIComponent(query);
   }
   
+  // ★★★ FIX 3: 초기 화면 깜빡임/겹침 방지 로직 강화 ★★★
+  toggleMainView(false); // 모든 콘텐츠를 일단 숨기고 시작
+  
   if (!slug) {
     if (query) {
       changeCategory("All Videos", false); 
-      applySearch(); 
     } else {
-      toggleMainView(false); 
       currentCategory.textContent = "카테고리 선택"; 
     }
   } else {
-    const cat = slug ? (SLUG_MAP[slug] || "All Videos") : "All Videos";
-
-    toggleMainView(true); 
-    changeCategory(cat, false);
-    
-    if (query) {
-        applySearch();
-    }
+    const cat = SLUG_MAP[slug] || "All Videos";
+    changeCategory(cat, false); 
   }
 
+  // 4. 스크롤 초기화 (모든 로직 후)
   applyIosScrollTrick();
 });
+
 
 /* ============================================================
    popstate (뒤로가기)
@@ -868,7 +876,8 @@ window.addEventListener("popstate", () => {
 
   if (!slug) {
     toggleMainView(false); 
-    currentCategory.textContent = "All Videos"; 
+    currentCategory.textContent = "카테고리 선택"; 
+    resetFilters();
   } else {
     const cat = SLUG_MAP[slug] || "All Videos";
     changeCategory(cat, false); 
@@ -878,77 +887,7 @@ window.addEventListener("popstate", () => {
 });
 
 /* ============================================================
-   홈버튼 → 초기화
-============================================================ */
-if (homeBtn) {
-  homeBtn.addEventListener("click", () => {
-    // 필터 초기화
-    searchInput.value = "";
-    activeFilters = { 
-        year: null, 
-        month: null, 
-        subtag: null,
-        startDate: null, // 기간 필터 초기화
-        endDate: null 
-    };
-    yearFilter.textContent = "연도";
-    monthFilter.textContent = "월";
-    subTagFilter.textContent = "서브필터";
-    
-    if (dateRangeIconBtn) {
-        dateRangeIconBtn.textContent = "🗓️"; // 달력 초기화
-        dateRangeIconBtn.classList.remove('active'); 
-    }
-
-    sortOrder = "newest";
-    toggleSortBtn.textContent = "최신순";
-
-    history.pushState(null, "", location.pathname); 
-
-    currentCategory.textContent = "카테고리 선택"; 
-    toggleMainView(false); 
-
-    applyIosScrollTrick();
-  });
-}
-
-/* ============================================================
-   필터 메뉴(filterMenu) 외부 클릭 자동 닫힘
-============================================================ */
-document.addEventListener("click", (e) => {
-  if (!filterMenu.classList.contains("hidden")) {
-    
-    const isFilterBtn = 
-        yearFilter.contains(e.target) ||
-        monthFilter.contains(e.target) ||
-        subTagFilter.contains(e.target) ||
-        (dateRangeIconBtn && dateRangeIconBtn.contains(e.target)); // 달력 버튼 추가
-        
-    if (
-      !filterMenu.contains(e.target) && !isFilterBtn
-    ) {
-      filterMenu.classList.add("hidden");
-    }
-  }
-});
-
-
-/* ============================================================
-   카테고리 드롭다운(categoryDropdown) 외부 클릭 자동 닫힘
-============================================================ */
-document.addEventListener("click", (e) => {
-  if (!categoryDropdown.classList.contains("hidden")) {
-    if (
-      !categoryDropdown.contains(e.target) &&
-      !categoryDropdownBtn.contains(e.target)
-    ) {
-      categoryDropdown.classList.add("hidden");
-    }
-  }
-});
-
-/* ============================================================
-   이미지 복사 / 드래그 / 우클릭 방지
+   이미지 복사 / 드래그 / 우클릭 방지 (기존 로직 유지)
 ============================================================ */
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -968,15 +907,3 @@ document.addEventListener("contextmenu", (e) => {
     e.preventDefault();
   }
 });
-
-function positionCategoryDropdown() {
-  const rect = categoryDropdownBtn.getBoundingClientRect();
-  
-  categoryDropdown.style.position = "fixed";   
-
-  categoryDropdown.style.right = (window.innerWidth - rect.right) + "px";
-  
-  categoryDropdown.style.left = "auto"; 
-  
-  categoryDropdown.style.top  = (rect.bottom + 4) + "px";
-}
