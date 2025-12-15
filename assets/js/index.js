@@ -411,9 +411,6 @@ function applySearch() {
 ============================================================ */
 function changeCategory(categoryName, updateURL = true) {
   
-  // ★★★ 스크롤 초기화 로직을 맨 앞으로 이동 (가장 먼저 실행) ★★★
-  applyIosScrollTrick(); 
-    
   // 1. 상태 및 UI 업데이트
   currentCategory.textContent = categoryName;
 
@@ -425,9 +422,12 @@ function changeCategory(categoryName, updateURL = true) {
     allCards = Array.isArray(window[varName]) ? [...window[varName]] : [];
   }
 
-  // 3. 화면 전환
+  // 3. 화면 전환 (이 시점에서 mainHomePage가 hidden이 되고 mainContent가 표시됩니다.)
   toggleMainView(true);
 
+  // ★★★ FIX: 화면 전환 직후, 브라우저가 스크롤을 복원하기 전에 초기화합니다.
+  applyIosScrollTrick(); 
+  
   // 4. 카드 컨테이너 모드 설정
   updateCardContainerMode(categoryName);
 
