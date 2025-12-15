@@ -437,20 +437,20 @@ function changeCategory(categoryName, updateURL = true) {
   // 6. 검색 적용 (필터링 및 정렬 후 렌더링)
   applySearch();
 
-  // 7. URL 업데이트
-  if (updateURL) {
-    const categorySlug = CATEGORY_MAP[categoryName] || categoryName;
-    const params = new URLSearchParams(location.search);
-    const query = params.get("q"); 
+// 7. 카테고리 항목 클릭
+categoryDropdown.querySelectorAll(".cat-item").forEach(item => {
+  item.addEventListener("click", (e) => {
+    e.stopPropagation();
+    closeDropdownsAndMenus();
     
-    let url = `?category=${categorySlug}`;
-    if (query) {
-      url += `&q=${encodeURIComponent(query)}`;
-    }
+    applyIosScrollTrick(); 
     
-    history.pushState({ category: categorySlug }, "", url);
-  }
-}
+    resetFilters(); 
+
+    // 카테고리 변경 로직 실행
+    changeCategory(item.textContent.trim(), true);
+  });
+});
 
 /* ============================================================
    이벤트 핸들러 함수
