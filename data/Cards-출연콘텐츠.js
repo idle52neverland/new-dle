@@ -3458,11 +3458,22 @@ const 출연콘텐츠Cards = [
   "link": "https://youtu.be/3XIEZAOlEuk",
   "category": "출연콘텐츠",
   "member": "소연",
-  "date": "2020-08-22T18:00:00",
+  "date": "2020-08-22T15:00:01",
   "duration": "00:02:24",
   "thumbnail": "https://i.ytimg.com/vi/3XIEZAOlEuk/sddefault.jpg",
   "alt": "[나는 MBTI에 미쳤다] 머릿속에 딱 꽂히는 전소연(Jeon Soyeon)의 MBTI 강의💡 장르만 코미디(justcomedy) 8회",
   "title": "[나는 MBTI에 미쳤다] 머릿속에 딱 꽂히는 전소연(Jeon Soyeon)의 MBTI 강의💡 장르만 코미디(justcomedy) 8회"
+},
+
+{
+  "link": "https://youtu.be/uXolTl0H6mc",
+  "category": "출연콘텐츠",
+  "member": "소연",
+  "date": "2020-11-18T15:00:02",
+  "duration": "00:10:55",
+  "thumbnail": "https://i.ytimg.com/vi/uXolTl0H6mc/maxresdefault.jpg",
+  "alt": "[골라봐야지] MBTI 덕후들 여기 여기 모여라~! 귀에 쏙쏙 박히는 MBTI 분석★ (feat.ESTP) ｜ 장르만 코미디",
+  "title": "[골라봐야지] MBTI 덕후들 여기 여기 모여라~! 귀에 쏙쏙 박히는 MBTI 분석★ (feat.ESTP) ｜ 장르만 코미디"
 },
 
 {

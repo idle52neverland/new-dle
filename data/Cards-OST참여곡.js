@@ -1074,8 +1074,8 @@ const OST참여곡Cards = [
   "date": "2025-10-09T18:00:00",
   "duration": "00:03:41",
   "thumbnail": "https://i.ytimg.com/vi/qm9C5GTB5VA/maxresdefault.jpg",
-  "alt": "《回魂計》 | 宣傳曲：i-dle MINNIE/SHUHUA〈Burn Me Into The Light〉 | 音樂錄影帶 | Netflix",
-  "title": "《回魂計》 | 宣傳曲：i-dle MINNIE/SHUHUA〈Burn Me Into The Light〉 | 音樂錄影帶 | Netflix"
+  "alt": "《回魂計》 | 宣傳曲：i-dle MINNIE/SHUHUA〈Burn Me Into The Light〉 | 音樂錄影帶 | Netflix #회혼계",
+  "title": "《回魂計》 | 宣傳曲：i-dle MINNIE/SHUHUA〈Burn Me Into The Light〉 | 音樂錄影帶 | Netflix #회혼계"
 },
 
 {

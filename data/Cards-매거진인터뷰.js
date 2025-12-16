@@ -1629,6 +1629,17 @@ const 매거진인터뷰Cards = [
 },
 
 {
+  "link": "https://youtu.be/X1VCOZsHKH4",
+  "category": "매거진인터뷰",
+  "member": "슈화",
+  "date": "2025-07-30T18:00:00",
+  "duration": "00:22:08",
+  "thumbnail": "https://i.ytimg.com/vi/X1VCOZsHKH4/maxresdefault.jpg",
+  "alt": "網路綜藝《鑑定師》全球版開拍 舒華獨挑大樑擔綱主持",
+  "title": "網路綜藝《鑑定師》全球版開拍 舒華獨挑大樑擔綱主持"
+},
+
+{
   "link": "https://youtu.be/Uxkw8z9nfFw",
   "category": "매거진인터뷰",
   "member": "민니",
@@ -2058,6 +2069,38 @@ const 매거진인터뷰Cards = [
 },
 
 {
+  "link": "https://youtu.be/qW_fLQ5nwjw",
+  "category": "매거진인터뷰",
+  "member": "민니",
+  "date": "2025-06-20T18:00:00",
+  "duration": "00:06:19",
+  "thumbnail": "https://i.ytimg.com/vi/qW_fLQ5nwjw/maxresdefault.jpg",
+  "alt": "Up close with MINNIE of i-dle! 近距离靠近 i-dle MINNIE！#justswipelah",
+  "title": "Up close with MINNIE of i-dle! 近距离靠近 i-dle MINNIE！#justswipelah"
+},
+
+{
+  "link": "https://youtu.be/fxlRemfrFsA",
+  "category": "매거진인터뷰",
+  "member": "슈화",
+  "date": "2025-07-02T18:00:00",
+  "duration": "01:24:41",
+  "thumbnail": "https://i.ytimg.com/vi/fxlRemfrFsA/maxresdefault.jpg",
+  "alt": "陳柏霖、黃宣攜手主持《出去一下 What A Trip》 葉舒華、桂綸鎂現場共談挑戰體驗",
+  "title": "陳柏霖、黃宣攜手主持《出去一下 What A Trip》 葉舒華、桂綸鎂現場共談挑戰體驗"
+},
+{
+  "link": "https://youtu.be/F1Y4YcjAslA",
+  "category": "매거진인터뷰",
+  "member": "민니",
+  "date": "2025-08-13T18:00:00",
+  "duration": "00:09:30",
+  "thumbnail": "https://i.ytimg.com/vi/F1Y4YcjAslA/maxresdefault.jpg",
+  "alt": "📍 Live สัมภาษณ์ มินนี่ ปลื้มภาพยนตร์เรื่องแรกประกบ 'ณเดชน์' เตรียมเปิดกล้องตุลานี้แน่นอน",
+  "title": "📍 Live สัมภาษณ์ มินนี่ ปลื้มภาพยนตร์เรื่องแรกประกบ 'ณเดชน์' เตรียมเปิดกล้องตุลานี้แน่นอน"
+},
+
+{
   "link": "https://youtu.be/WXyVf150quQ",
   "category": "매거진인터뷰",
   "member": "민니",
@@ -2267,6 +2310,17 @@ const 매거진인터뷰Cards = [
 },
 
 {
+  "link": "https://youtu.be/Kv-M_Tzl1aU",
+  "category": "매거진인터뷰",
+  "member": "슈화",
+  "date": "2025-04-23T18:00:00",
+  "duration": "00:04:22",
+  "thumbnail": "https://i.ytimg.com/vi/Kv-M_Tzl1aU/maxresdefault.jpg",
+  "alt": "[ENG] SHUHUA X 势界PowerCircles Interview",
+  "title": "[ENG] SHUHUA X 势界PowerCircles Interview"
+},
+
+{
   "link": "https://youtu.be/aZHONUXxpk8",
   "category": "매거진인터뷰",
   "member": "미연",
@@ -2316,7 +2370,19 @@ const 매거진인터뷰Cards = [
   "thumbnail": "https://i.ytimg.com/vi/5C7vT7_eso4/maxresdefault.jpg",
   "alt": "[EN/JP/CN/쇼미유어백] MIYEON 자랑할게 너무 많은 아이들 미연🤗 가방 속 신박템+애정템 대공개👜💗",
   "title": "[EN/JP/CN/쇼미유어백] MIYEON 자랑할게 너무 많은 아이들 미연🤗 가방 속 신박템+애정템 대공개👜💗"
+},
+
+{
+  "link": "https://youtu.be/VYrm_elglkM",
+  "category": "매거진인터뷰",
+  "member": "슈화",
+  "date": "2025-10-10T18:00:00",
+  "duration": "00:03:06",
+  "thumbnail": "https://i.ytimg.com/vi/VYrm_elglkM/maxresdefault.jpg",
+  "alt": "舒華回家了！現身 Netflix《回魂計》首映會　「獻飛吻」向粉絲暖喊：記得吃飯",
+  "title": "舒華回家了！現身 Netflix《回魂計》首映會　「獻飛吻」向粉絲暖喊：記得吃飯"
 }
+
 
 ];
 window.매거진인터뷰Cards = 매거진인터뷰Cards;

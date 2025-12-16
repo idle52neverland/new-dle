@@ -1165,7 +1165,16 @@ const 공연축제Cards = [
   "alt": "(Japanese ver.) 라쿠텐 걸즈 어워드 | 楽天ガールズアワード 2019 | Rakuten Girls Award 2019 A/W",
   "title": "(Japanese ver.) 라쿠텐 걸즈 어워드 | 楽天ガールズアワード 2019 | Rakuten Girls Award 2019 A/W"
 },
-
+{
+  "link": "https://youtu.be/0lxAoJZvSEo",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-07-05T18:00:00",
+  "duration": "02:11:48",
+  "thumbnail": "https://i.ytimg.com/vi/0lxAoJZvSEo/maxresdefault.jpg",
+  "alt": "(G)I-DLE Online Concert 'I-Land : Who Am I'",
+  "title": "(G)I-DLE Online Concert 'I-Land : Who Am I'"
+},
 {
   "link": "https://youtu.be/Z_PTvR25eUE",
   "category": "공연축제",
@@ -1561,7 +1570,26 @@ const 공연축제Cards = [
   "alt": "[COVER] (Full Cam) '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG",
   "title": "[COVER] (Full Cam) '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG"
 },
-
+{
+  "link": "https://youtu.be/S4pOeur6JzE",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2023-07-27T18:00:00",
+  "duration": "00:07:39",
+  "thumbnail": "https://i.ytimg.com/vi/S4pOeur6JzE/maxresdefault.jpg",
+  "alt": "팀 K리그 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈",
+  "title": "팀 K리그 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈"
+},
+{
+  "link": "https://youtu.be/gwbDsWLCy8g",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2023-07-30T18:00:00",
+  "duration": "00:06:25",
+  "thumbnail": "https://i.ytimg.com/vi/gwbDsWLCy8g/maxresdefault.jpg",
+  "alt": "맨시티 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈",
+  "title": "맨시티 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈"
+},
 {
   "link": "https://youtu.be/pGoMB9Yd_aY",
   "category": "공연축제",
@@ -1615,6 +1643,17 @@ const 공연축제Cards = [
   "thumbnail": "https://i.ytimg.com/vi/aRUb-zKJ4rg/maxresdefault.jpg",
   "alt": "(Japanese ver.) Tung Tung @(G)I-DLE WORLD TOUR [I am FREE-TY] In TOKYO",
   "title": "(Japanese ver.) Tung Tung @(G)I-DLE WORLD TOUR [I am FREE-TY] In TOKYO"
+},
+
+{
+  "link": "https://youtu.be/IplUrYoa0kI",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-11-21T18:00:00",
+  "duration": "00:02:55",
+  "thumbnail": "https://i.ytimg.com/vi/IplUrYoa0kI/maxresdefault.jpg",
+  "alt": "宋雨琦 YUQI ╳ MAYDAY 五月天 'Radio (Dum-Dum)'  - 5525版 Official Stage Video",
+  "title": "宋雨琦 YUQI ╳ MAYDAY 五月天 'Radio (Dum-Dum)'  - 5525版 Official Stage Video"
 },
 
 {
@@ -1803,7 +1842,16 @@ const 공연축제Cards = [
   "alt": "[건국대 축제] (G)I-DLE, ♬ Super Lady+MY BAG+Queencard+TOMBOY+나는 아픈 건 딱 질색이니까+Allergy",
   "title": "[건국대 축제] (G)I-DLE, ♬ Super Lady+MY BAG+Queencard+TOMBOY+나는 아픈 건 딱 질색이니까+Allergy"
 },
-
+{
+  "link": "https://youtu.be/9GVY-rdNhnc",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2024-05-26T18:00:00",
+  "duration": "00:42:10",
+  "thumbnail": "https://i.ytimg.com/vi/9GVY-rdNhnc/sddefault.jpg",
+  "alt": "[YUQI] 雨琦杭州草莓音乐节全场饭拍 | YUQI Hangzhou Strawberry Music Festival full-stage Fancam",
+  "title": "[YUQI] 雨琦杭州草莓音乐节全场饭拍 | YUQI Hangzhou Strawberry Music Festival full-stage Fancam"
+},
 {
   "link": "https://youtu.be/uUH9qpcujNI",
   "category": "공연축제",
@@ -2003,15 +2051,261 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/3MyvGg3tcEQ",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-08-14T18:00:00",
+  "duration": "00:03:04",
+  "thumbnail": "https://i.ytimg.com/vi/3MyvGg3tcEQ/maxresdefault.jpg",
+  "alt": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | Freak (Live Stage)",
+  "title": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | Freak (Live Stage)"
+},
+
+{
   "link": "https://youtu.be/bg9lH0oc090",
   "category": "공연축제",
   "member": "아이들",
   "date": "2024-03-21T18:00:00",
   "duration": "00:10:06",
   "thumbnail": "https://i.ytimg.com/vi/bg9lH0oc090/sddefault.jpg",
-  "alt": "(G)I-DLE (여자)아이들 메이저리그 MLB Seoul Series 축하공연",
-  "title": "(G)I-DLE (여자)아이들 메이저리그 MLB Seoul Series 축하공연"
+  "alt": "(여자)아이들 메이저리그 MLB Seoul Series 축하공연 | 쿠팡플레이",
+  "title": "(여자)아이들 메이저리그 MLB Seoul Series 축하공연 | 쿠팡플레이"
 },
+{
+  "link": "https://youtu.be/iWC1kDW8Cpc",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-06-02T18:00:00",
+  "duration": "00:04:17",
+  "thumbnail": "https://i.ytimg.com/vi/iWC1kDW8Cpc/maxresdefault.jpg",
+  "alt": "【宋雨琦/YUQI】雨琦惊喜cover《绿光》｜永远22！bilibili毕业歌会(250602)",
+  "title": "【宋雨琦/YUQI】雨琦惊喜cover《绿光》｜永远22！bilibili毕业歌会(250602)"
+},
+{
+  "link": "https://youtu.be/E8gYVCxQ07A",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-06-15T18:00:00",
+  "duration": "00:03:04",
+  "thumbnail": "https://i.ytimg.com/vi/E8gYVCxQ07A/maxresdefault.jpg",
+  "alt": "林俊傑 JJ Lin /  宋雨琦 YUQI《FREAK》 - JJ20 FINAL LAP 首爾現場版 Live in Seoul",
+  "title": "林俊傑 JJ Lin /  宋雨琦 YUQI《FREAK》 - JJ20 FINAL LAP 首爾現場版 Live in Seoul"
+},
+{
+  "link": "https://youtu.be/5ktHEKUrFkM",
+  "category": "공연축제",
+  "member": "민니",
+  "date": "2025-07-20T19:00:01",
+  "duration": "00:03:16",
+  "thumbnail": "https://i.ytimg.com/vi/5ktHEKUrFkM/maxresdefault.jpg",
+  "alt": "[TAIWAN CPBL All Star Game] 민니 시구 ",
+  "title": "[TAIWAN CPBL All Star Game] 민니 시구 "
+},
+{
+  "link": "https://youtu.be/2dOTVb1ra3s",
+  "category": "공연축제",
+  "member": "민니",
+  "date": "2025-07-20T19:00:02",
+  "duration": "00:22:13",
+  "thumbnail": "https://i.ytimg.com/vi/2dOTVb1ra3s/maxresdefault.jpg",
+  "alt": "[TAIWAN CPBL All Star Game] Full Performance - Blind Eyes Red + HER + Cherry Sky + Obsession +Queencard",
+  "title": "[TAIWAN CPBL All Star Game] Full Performance - Blind Eyes Red + HER + Cherry Sky + Obsession +Queencard"
+},
+{
+  "link": "https://youtu.be/g50hLD5yp_g",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2025-08-17T18:01:00",
+  "duration": "00:03:16",
+  "thumbnail": "https://i.ytimg.com/vi/g50hLD5yp_g/maxresdefault.jpg",
+  "alt": "[fancam] 아이들 - TOMBOY | 2025 SUMMER SONIC OSAKA",
+  "title": "[fancam] 아이들 - TOMBOY | 2025 SUMMER SONIC OSAKA"
+},
+
+{
+  "link": "https://youtu.be/sTHrSIW5k7s",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2025-08-17T18:02:00",
+  "duration": "00:02:44",
+  "thumbnail": "https://i.ytimg.com/vi/sTHrSIW5k7s/maxresdefault.jpg",
+  "alt": "[fancam] 아이들 - 나는 아픈 건 딱 질색이니까 (ver. Japanese) | 2025 SUMMER SONIC OSAKA",
+  "title": "[fancam] 아이들 - 나는 아픈 건 딱 질색이니까 (ver. Japanese) | 2025 SUMMER SONIC OSAKA"
+},
+
+{
+  "link": "https://youtu.be/CS4byOJX83g",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2025-08-17T18:03:00",
+  "duration": "00:02:01",
+  "thumbnail": "https://i.ytimg.com/vi/CS4byOJX83g/maxresdefault.jpg",
+  "alt": "[fancam] 아이들 - WIPE | 2025 SUMMER SONIC OSAKA",
+  "title": "[fancam] 아이들 - WIPE | 2025 SUMMER SONIC OSAKA"
+},
+
+{
+  "link": "https://youtu.be/SwfkSNFa-Sc",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2025-08-17T18:04:00",
+  "duration": "00:03:47",
+  "thumbnail": "https://i.ytimg.com/vi/SwfkSNFa-Sc/maxresdefault.jpg",
+  "alt": "[fancam] 아이들 - LATATA | 2025 SUMMER SONIC OSAKA",
+  "title": "[fancam] 아이들 - LATATA | 2025 SUMMER SONIC OSAKA"
+},
+{
+  "link": "https://youtu.be/UCUIOMZ9PDs",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:01",
+  "duration": "00:05:26",
+  "thumbnail": "https://i.ytimg.com/vi/UCUIOMZ9PDs/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 1 Bonnie & Clyde + 2  Beggin'",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 1 Bonnie & Clyde + 2  Beggin'"
+},
+
+{
+  "link": "https://youtu.be/x9lFwuzf6QY",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:02",
+  "duration": "00:03:10",
+  "thumbnail": "https://i.ytimg.com/vi/x9lFwuzf6QY/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 8  Always Remember Us This Way",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 8  Always Remember Us This Way"
+},
+
+{
+  "link": "https://youtu.be/26t0QpRpfnc",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:03",
+  "duration": "00:04:15",
+  "thumbnail": "https://i.ytimg.com/vi/26t0QpRpfnc/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 7  背對背擁抱",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 7  背對背擁抱"
+},
+
+{
+  "link": "https://youtu.be/g2UG0pXc4C8",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:04",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/g2UG0pXc4C8/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 4  All Night + Love Tease",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 4  All Night + Love Tease"
+},
+
+{
+  "link": "https://youtu.be/8dWDEnsDwaE",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:05",
+  "duration": "00:02:17",
+  "thumbnail": "https://i.ytimg.com/vi/8dWDEnsDwaE/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 5  Don't Start Now",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 5  Don't Start Now"
+},
+
+{
+  "link": "https://youtu.be/xIcNrM0XVK4",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:06",
+  "duration": "00:04:10",
+  "thumbnail": "https://i.ytimg.com/vi/xIcNrM0XVK4/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 9. Motivation",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 9. Motivation"
+},
+
+{
+  "link": "https://youtu.be/f836vcjubZI",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:07",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/f836vcjubZI/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 6  Giant",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 6  Giant"
+},
+
+{
+  "link": "https://youtu.be/btFyI6b9qmw",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:08",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/btFyI6b9qmw/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 11. Radio",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 11. Radio"
+},
+
+{
+  "link": "https://youtu.be/orSCWgvy7Ls",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:09",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/orSCWgvy7Ls/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 3 Red Rover (Incomplete)",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 3 Red Rover (Incomplete)"
+},
+
+{
+  "link": "https://youtu.be/iKIGBu7vJrw",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:10",
+  "duration": "00:02:18",
+  "thumbnail": "https://i.ytimg.com/vi/iKIGBu7vJrw/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 10. On Clap",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 10. On Clap"
+},
+
+{
+  "link": "https://youtu.be/PTimYNyLyxU",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:11",
+  "duration": "00:03:24",
+  "thumbnail": "https://i.ytimg.com/vi/PTimYNyLyxU/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 12. Freak",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 12. Freak"
+},
+
+{
+  "link": "https://youtu.be/eBFMgro9YFc",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-09-27T12:00:12",
+  "duration": "00:02:55",
+  "thumbnail": "https://i.ytimg.com/vi/eBFMgro9YFc/maxresdefault.jpg",
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 13. Happy Space",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 13. Happy Space"
+},
+{
+  "link": "https://youtu.be/-pbexaJ6Zh8",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2025-10-15T18:00:00",
+  "duration": "00:12:33",
+  "thumbnail": "https://i.ytimg.com/vi/-pbexaJ6Zh8/maxresdefault.jpg",
+  "alt": "‘LOVE YOUR W 2025’ Full Performance (Good Thing, Tomboy, Queencard, Fate) ",
+  "title": "‘LOVE YOUR W 2025’ Full Performance (Good Thing, Tomboy, Queencard, Fate) "
+},
+{
+  "link": "https://youtu.be/nZIXS5SQ9PA",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-10-24T18:00:00",
+  "duration": "00:54:38",
+  "thumbnail": "https://i.ytimg.com/vi/nZIXS5SQ9PA/maxresdefault.jpg",
+  "alt": "[29:36~] Jackson Wang vs YUQI — pure LIVE power, pure passion 😍🔥 | 2025 Stage Clash EP01",
+  "title": "[29:36~] Jackson Wang vs YUQI — pure LIVE power, pure passion 😍🔥 | 2025 Stage Clash EP01"
+},
+
 {
   "link": "https://youtu.be/wsTTmBXDbc0",
   "category": "공연축제",
@@ -2156,26 +2450,39 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/ADMiO34NlUo",
+  "link": "https://youtu.be/pPKSlcRdI9k",
   "category": "공연축제",
   "member": "우기",
-  "date": "2025-12-06T20:00:01",
-  "duration": "00:03:45",
-  "thumbnail": "https://i.ytimg.com/vi/ADMiO34NlUo/maxresdefault.jpg",
-  "alt": "YUQI performs 'COPDD' at the CrossFire Mobile 10 years anniversary event",
-  "title": "YUQI performs 'COPDD' at the CrossFire Mobile 10 years anniversary event"
+  "date": "2025-12-06T15:00:01",
+  "duration": "00:03:38",
+  "thumbnail": "https://i.ytimg.com/vi/pPKSlcRdI9k/maxresdefault.jpg",
+  "alt": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | COPDD (Live Stage)",
+  "title": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | COPDD (Live Stage)"
 },
 
 {
-  "link": "https://youtu.be/p9GPRxFrXZs",
+  "link": "https://youtu.be/3RaBx9_ij4k",
   "category": "공연축제",
   "member": "우기",
-  "date": "2025-12-06T20:00:02",
-  "duration": "00:03:02",
-  "thumbnail": "https://i.ytimg.com/vi/p9GPRxFrXZs/maxresdefault.jpg",
-  "alt": "YUQI performs 'M.O' at CrossFire Mobile 10 years anniversary event",
-  "title": "YUQI performs 'M.O' at CrossFire Mobile 10 years anniversary event"
+  "date": "2025-12-06T15:00:02",
+  "duration": "00:03:19",
+  "thumbnail": "https://i.ytimg.com/vi/3RaBx9_ij4k/maxresdefault.jpg",
+  "alt": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | M.O (Live Stage)",
+  "title": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | M.O (Live Stage)"
 }
+
+
+{
+  "link": "https://youtu.be/upOf66c3JzA",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-12-16T18:00:00",
+  "duration": "00:05:21",
+  "thumbnail": "https://i.ytimg.com/vi/upOf66c3JzA/maxresdefault.jpg",
+  "alt": "汪苏泷 Silence Wang ［像晴天像雨天］十万伏特2.0 Official Stage Video",
+  "title": "汪苏泷 Silence Wang ［像晴天像雨天］十万伏特2.0 Official Stage Video"
+}
+
 
 
 ];

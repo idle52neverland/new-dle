@@ -17751,7 +17751,19 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/zMcotme7OSE/maxresdefault.jpg",
   "alt": "ʏᴇꜱ ɪ ᴄᴀɴ!!☕️🧙🏻",
   "title": "ʏᴇꜱ ɪ ᴄᴀɴ!!☕️🧙🏻"
+},
+
+{
+  "link": "https://youtu.be/5yop4k8HlGY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-16T18:00:00",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/5yop4k8HlGY/maxresdefault.jpg",
+  "alt": "면토끼 개인기 보고가세요~ᕱ⑅ᕱ",
+  "title": "면토끼 개인기 보고가세요~ᕱ⑅ᕱ"
 }
+
 
 
 

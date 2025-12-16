@@ -1102,6 +1102,17 @@ const 광고Cards = [
 },
 
 {
+  "link": "https://youtu.be/lDxT7LSbm8U",
+  "category": "광고",
+  "member": "우기",
+  "date": "2025-06-16T18:00:00",
+  "duration": "00:04:39",
+  "thumbnail": "https://i.ytimg.com/vi/lDxT7LSbm8U/maxresdefault.jpg",
+  "alt": "[雨琦/YUQI] 2025毕业歌《我们都很棒》｜bilibili×宋雨琦",
+  "title": "[雨琦/YUQI] 2025毕业歌《我们都很棒》｜bilibili×宋雨琦"
+},
+
+{
   "link": "https://youtu.be/j-Yf2Z7l6UE",
   "category": "광고",
   "member": "아이들",

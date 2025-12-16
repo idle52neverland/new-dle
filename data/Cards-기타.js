@@ -898,8 +898,8 @@ const 기타Cards = [
   "date": "2025-10-23T18:00:01",
   "duration": "00:02:22",
   "thumbnail": "https://i.ytimg.com/vi/BSU02XjrBBA/maxresdefault.jpg",
-  "alt": "[제16회 대한민국 대중문화 예술상] 시상식 레드카펫",
-  "title": "[제16회 대한민국 대중문화 예술상] 시상식 레드카펫"
+  "alt": "[제16회 대한민국 대중문화예술상] 시상식 레드카펫",
+  "title": "[제16회 대한민국 대중문화예술상] 시상식 레드카펫"
 },
 
 {

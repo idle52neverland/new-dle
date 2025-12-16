@@ -3059,17 +3059,6 @@ const 노래클립Cards = [
 },
 
 {
-  "link": "https://youtu.be/E8gYVCxQ07A",
-  "category": "노래클립",
-  "member": "우기",
-  "date": "2025-07-31T18:00:00",
-  "duration": "00:03:04",
-  "thumbnail": "https://i.ytimg.com/vi/E8gYVCxQ07A/maxresdefault.jpg",
-  "alt": "林俊傑 JJ Lin /  宋雨琦 YUQI《FREAK》 - JJ20 FINAL LAP 首爾現場版 Live in Seoul",
-  "title": "林俊傑 JJ Lin /  宋雨琦 YUQI《FREAK》 - JJ20 FINAL LAP 首爾現場版 Live in Seoul"
-},
-
-{
   "link": "https://youtu.be/7dkl-uKbfvs",
   "category": "노래클립",
   "member": "미연",

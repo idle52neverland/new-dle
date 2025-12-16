@@ -2048,6 +2048,17 @@ const 라이브방송Cards = [
 },
 
 {
+  "link": "https://youtu.be/JO70MsFGHqA",
+  "category": "라이브방송",
+  "member": "미연, 우기",
+  "date": "2020-11-13T18:00:00",
+  "duration": "00:18:11",
+  "thumbnail": "https://i.ytimg.com/vi/JO70MsFGHqA/maxresdefault.jpg",
+  "alt": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official",
+  "title": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official"
+},
+
+{
   "link": "https://weverse.io/i-dle/live/1-111439051",
   "category": "라이브방송",
   "member": "미연",

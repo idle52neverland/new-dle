@@ -4590,6 +4590,26 @@ const 음악방송시상식Cards = [
 },
 
 {
+  "link": "https://youtu.be/IJc1J1UhIGg",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2021-01-14T18:00:20",
+  "duration": "00:09:36",
+  "thumbnail": "https://i.ytimg.com/vi/IJc1J1UhIGg/maxresdefault.jpg",
+  "alt": "[엠카운트다운] (여자)아이들 화(火花) 무대 backstage | MCOUNTDOWN",
+  "title": "[엠카운트다운] (여자)아이들 화(火花) 무대 backstage | MCOUNTDOWN"
+},
+{
+  "link": "https://youtu.be/hwjgVdGiuvk",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2021-01-14T18:00:21",
+  "duration": "00:01:31",
+  "thumbnail": "https://i.ytimg.com/vi/hwjgVdGiuvk/maxresdefault.jpg",
+  "alt": "[당신의 2021 신년 운세는? with 트레저, 빅톤, (여자)아이들] KPOP TV Show | M COUNTDOWN EP.694 | Mnet 210114 방송",
+  "title": "[당신의 2021 신년 운세는? with 트레저, 빅톤, (여자)아이들] KPOP TV Show | M COUNTDOWN EP.694 | Mnet 210114 방송"
+},
+{
   "link": "https://youtu.be/HVb4c8k-Yhw",
   "category": "음악방송시상식",
   "member": "아이들",
@@ -4824,7 +4844,7 @@ const 음악방송시상식Cards = [
   "link": "https://youtu.be/jJ5ML_CQSFY",
   "category": "음악방송시상식",
   "member": "아이들",
-  "date": "2021-01-20T18:00:00",
+  "date": "2021-01-20T18:00:10",
   "duration": "00:02:30",
   "thumbnail": "https://i.ytimg.com/vi/jJ5ML_CQSFY/maxresdefault.jpg",
   "alt": "[쇼챔피언] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381",
@@ -4835,13 +4855,55 @@ const 음악방송시상식Cards = [
   "link": "https://youtu.be/xGx2yb-uLf4",
   "category": "음악방송시상식",
   "member": "아이들",
-  "date": "2021-01-20T18:00:00",
+  "date": "2021-01-20T18:00:11",
   "duration": "00:03:53",
   "thumbnail": "https://i.ytimg.com/vi/xGx2yb-uLf4/maxresdefault.jpg",
   "alt": "[쇼챔피언] [COMEBACK] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.381",
   "title": "[쇼챔피언] [COMEBACK] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l EP.381"
 },
+{
+  "link": "https://youtu.be/VSUVEXibpxc",
+  "category": "음악방송시상식",
+  "member": "민니",
+  "date": "2021-01-20T18:00:12",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/VSUVEXibpxc/maxresdefault.jpg",
+  "alt": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 민니 - 화(火花) ((G)I-DLE MINNIE - HWAA) l #EP.381",
+  "title": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 민니 - 화(火花) ((G)I-DLE MINNIE - HWAA) l #EP.381"
+},
 
+{
+  "link": "https://youtu.be/qk7wQ-_cLfo",
+  "category": "음악방송시상식",
+  "member": "슈화",
+  "date": "2021-01-20T18:00:13",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/qk7wQ-_cLfo/maxresdefault.jpg",
+  "alt": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 슈화 - 화(火花) ((G)I-DLE SHUHUA - HWAA) l #EP.381",
+  "title": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 슈화 - 화(火花) ((G)I-DLE SHUHUA - HWAA) l #EP.381"
+},
+
+{
+  "link": "https://youtu.be/GmY24rSHiOg",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-01-20T18:00:14",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/GmY24rSHiOg/maxresdefault.jpg",
+  "alt": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 미연 - 화(火花) ((G)I-DLE MIYEON - HWAA) l #EP.381",
+  "title": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 미연 - 화(火花) ((G)I-DLE MIYEON - HWAA) l #EP.381"
+},
+
+{
+  "link": "https://youtu.be/9FUIy9UBDPU",
+  "category": "음악방송시상식",
+  "member": "소연",
+  "date": "2021-01-20T18:00:15",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/9FUIy9UBDPU/maxresdefault.jpg",
+  "alt": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 소연 - 화(火花) ((G)I-DLE SOYEON - HWAA) l #EP.381",
+  "title": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 소연 - 화(火花) ((G)I-DLE SOYEON - HWAA) l #EP.381"
+},
 {
   "link": "https://youtu.be/jnKLC58AtM0",
   "category": "음악방송시상식",
@@ -4931,60 +4993,25 @@ const 음악방송시상식Cards = [
 },
 
 {
-  "link": "https://youtu.be/VSUVEXibpxc",
-  "category": "음악방송시상식",
-  "member": "민니",
-  "date": "2021-01-22T18:00:00",
-  "duration": "00:03:18",
-  "thumbnail": "https://i.ytimg.com/vi/VSUVEXibpxc/maxresdefault.jpg",
-  "alt": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 민니 - 화(火花) ((G)I-DLE MINNIE - HWAA) l #EP.381",
-  "title": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 민니 - 화(火花) ((G)I-DLE MINNIE - HWAA) l #EP.381"
-},
-
-{
-  "link": "https://youtu.be/qk7wQ-_cLfo",
-  "category": "음악방송시상식",
-  "member": "슈화",
-  "date": "2021-01-22T18:00:00",
-  "duration": "00:03:18",
-  "thumbnail": "https://i.ytimg.com/vi/qk7wQ-_cLfo/maxresdefault.jpg",
-  "alt": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 슈화 - 화(火花) ((G)I-DLE SHUHUA - HWAA) l #EP.381",
-  "title": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 슈화 - 화(火花) ((G)I-DLE SHUHUA - HWAA) l #EP.381"
-},
-
-{
-  "link": "https://youtu.be/GmY24rSHiOg",
-  "category": "음악방송시상식",
-  "member": "미연",
-  "date": "2021-01-22T18:00:00",
-  "duration": "00:03:18",
-  "thumbnail": "https://i.ytimg.com/vi/GmY24rSHiOg/maxresdefault.jpg",
-  "alt": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 미연 - 화(火花) ((G)I-DLE MIYEON - HWAA) l #EP.381",
-  "title": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 미연 - 화(火花) ((G)I-DLE MIYEON - HWAA) l #EP.381"
-},
-
-{
-  "link": "https://youtu.be/9FUIy9UBDPU",
-  "category": "음악방송시상식",
-  "member": "소연",
-  "date": "2021-01-22T18:00:00",
-  "duration": "00:03:18",
-  "thumbnail": "https://i.ytimg.com/vi/9FUIy9UBDPU/maxresdefault.jpg",
-  "alt": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 소연 - 화(火花) ((G)I-DLE SOYEON - HWAA) l #EP.381",
-  "title": "[쇼챔피언] [쇼챔직캠 4K] (여자)아이들 소연 - 화(火花) ((G)I-DLE SOYEON - HWAA) l #EP.381"
-},
-
-{
   "link": "https://youtu.be/6ObmMNNW8jo",
   "category": "음악방송시상식",
   "member": "아이들",
-  "date": "2021-01-22T18:00:00",
+  "date": "2021-01-22T19:00:01",
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/6ObmMNNW8jo/maxresdefault.jpg",
-  "alt": "[뮤직뱅크] 화(火花)(HWAA) - (여자)아이들((G)I-DLE) [/]",
-  "title": "[뮤직뱅크] 화(火花)(HWAA) - (여자)아이들((G)I-DLE) [/]"
+  "alt": "[뮤직뱅크] 화(火花)(HWAA) - (여자)아이들((G)I-DLE)",
+  "title": "[뮤직뱅크] 화(火花)(HWAA) - (여자)아이들((G)I-DLE)"
 },
-
+{
+  "link": "https://youtu.be/cKnPL6R6O60",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2021-01-22T19:00:02",
+  "duration": "00:04:49",
+  "thumbnail": "https://i.ytimg.com/vi/cKnPL6R6O60/maxresdefault.jpg",
+  "alt": "[뮤직뱅크][4K] (여자)아이들 - '화(火花)(HWAA)' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank 210122",
+  "title": "[뮤직뱅크][4K] (여자)아이들 - '화(火花)(HWAA)' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank 210122"
+},
 {
   "link": "https://youtu.be/FB-73cFYFWQ",
   "category": "음악방송시상식",
@@ -5457,7 +5484,16 @@ const 음악방송시상식Cards = [
   "alt": "[엠카운트다운] [(G)I-DLE X IZ*ONE X Weki Meki - Into The New World] STORAGE M Stage",
   "title": "[엠카운트다운] [(G)I-DLE X IZ*ONE X Weki Meki - Into The New World] STORAGE M Stage"
 },
-
+{
+  "link": "https://youtu.be/3Q4BSXviTlo",
+  "category": "음악방송시상식",
+  "member": "미연, 민니, 우기",
+  "date": "2021-03-04T18:00:00",
+  "duration": "00:05:36",
+  "thumbnail": "https://i.ytimg.com/vi/3Q4BSXviTlo/maxresdefault.jpg",
+  "alt": "[ENG]☆700회 기념☆ ‘1대 엠.잘.알’ 선발 〈엠카 능력 고사〉 |#엠카운트다운 | M COUNTDOWN EP.700 | Mnet 210304",
+  "title": "[ENG]☆700회 기념☆ ‘1대 엠.잘.알’ 선발 〈엠카 능력 고사〉 |#엠카운트다운 | M COUNTDOWN EP.700 | Mnet 210304"
+},
 {
   "link": "https://youtu.be/O5_gGdOuHOc",
   "category": "음악방송시상식",
@@ -9587,7 +9623,7 @@ const 음악방송시상식Cards = [
   "link": "https://youtu.be/TXEwyCmEb_g",
   "category": "음악방송시상식",
   "member": "아이들",
-  "date": "2023-12-31T18:00:00",
+  "date": "2023-12-31T18:00:01",
   "duration": "00:03:38",
   "thumbnail": "https://i.ytimg.com/vi/TXEwyCmEb_g/maxresdefault.jpg",
   "alt": "(여자)아이들×이국주×신기루의 어디서도 볼 수 없는 축하무대 ＜퀸카♬＞ #SBS연예대상 #enter",
@@ -9598,7 +9634,7 @@ const 음악방송시상식Cards = [
   "link": "https://youtu.be/XJqQzfniLYE",
   "category": "음악방송시상식",
   "member": "미연",
-  "date": "2023-12-31T18:00:00",
+  "date": "2023-12-31T18:00:02",
   "duration": "00:03:41",
   "thumbnail": "https://i.ytimg.com/vi/XJqQzfniLYE/maxresdefault.jpg",
   "alt": "[2023 가요대제전] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White)",
@@ -9609,13 +9645,22 @@ const 음악방송시상식Cards = [
   "link": "https://youtu.be/pLIlAzpDduA",
   "category": "음악방송시상식",
   "member": "소연",
-  "date": "2023-12-31T18:00:00",
+  "date": "2023-12-31T18:00:03",
   "duration": "00:02:47",
   "thumbnail": "https://i.ytimg.com/vi/pLIlAzpDduA/maxresdefault.jpg",
   "alt": "[2023 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)",
   "title": "[2023 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)"
 },
-
+{
+  "link": "https://youtu.be/Ud0mcVwXJ0k",
+  "category": "음악방송시상식",
+  "member": "소연",
+  "date": "2023-12-31T18:00:04",
+  "duration": "00:03:05",
+  "thumbnail": "https://i.ytimg.com/vi/Ud0mcVwXJ0k/maxresdefault.jpg",
+  "alt": "[2023 가요대제전] [FanCam] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)",
+  "title": "[2023 가요대제전] [FanCam] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)"
+},
 {
   "link": "https://youtu.be/cuG4UGCNCKQ",
   "category": "음악방송시상식",
@@ -11707,21 +11752,43 @@ const 음악방송시상식Cards = [
 },
 
 {
-  "link": "https://youtu.be/LQ0CBrt4vhI",
+  "link": "https://youtu.be/kinjl3ipvfs",
   "category": "음악방송시상식",
   "member": "아이들",
   "date": "2025-05-29T18:00:02",
-  "duration": "00:03:41",
-  "thumbnail": "https://i.ytimg.com/vi/LQ0CBrt4vhI/maxresdefault.jpg",
-  "alt": "[ASEA 2025] i-dle 아이들 - RECORD OF THE YEAR 수상소감",
-  "title": "[ASEA 2025] i-dle 아이들 - RECORD OF THE YEAR 수상소감"
+  "duration": "00:03:34",
+  "thumbnail": "https://i.ytimg.com/vi/kinjl3ipvfs/maxresdefault.jpg",
+  "alt": "[ASEA2025] 아이들(idle) ASEA RECORD OF THE YEAR 수상소감 | 아시아 스타 엔터테이너 어워즈⭐️ 25.5.29",
+  "title": "[ASEA2025] 아이들(idle) ASEA RECORD OF THE YEAR 수상소감 | 아시아 스타 엔터테이너 어워즈⭐️ 25.5.29"
+},
+
+{
+  "link": "https://youtu.be/q97BfzyQUGk",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2025-05-29T18:00:03",
+  "duration": "00:01:12",
+  "thumbnail": "https://i.ytimg.com/vi/q97BfzyQUGk/maxresdefault.jpg",
+  "alt": "[ASEA2025] 아이들(idle) ASEA GLOBAL K-POP LEADER 수상소감 | 아시아 스타 엔터테이너 어워즈⭐️ 25.5.29",
+  "title": "[ASEA2025] 아이들(idle) ASEA GLOBAL K-POP LEADER 수상소감 | 아시아 스타 엔터테이너 어워즈⭐️ 25.5.29"
+},
+
+{
+  "link": "https://youtu.be/foukFsngt1k",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2025-05-29T18:00:04",
+  "duration": "00:01:18",
+  "thumbnail": "https://i.ytimg.com/vi/foukFsngt1k/maxresdefault.jpg",
+  "alt": "[ASEA2025] 아이들(idle) ASEA THE PLATINUM 수상소감 | 아시아 스타 엔터테이너 어워즈⭐️ 25.5.29",
+  "title": "[ASEA2025] 아이들(idle) ASEA THE PLATINUM 수상소감 | 아시아 스타 엔터테이너 어워즈⭐️ 25.5.29"
 },
 
 {
   "link": "https://youtu.be/x7j0frire9U",
   "category": "음악방송시상식",
   "member": "아이들",
-  "date": "2025-05-29T18:00:03",
+  "date": "2025-05-29T18:00:05",
   "duration": "00:02:58",
   "thumbnail": "https://i.ytimg.com/vi/x7j0frire9U/maxresdefault.jpg",
   "alt": "[ASEA 2025] i-dle 아이들 - 나는 아픈 건 딱 질색이니까 앵콜무대 (ENCORE)",
@@ -12575,7 +12642,7 @@ const 음악방송시상식Cards = [
   "link": "https://youtu.be/1_SDxOQp3Sw",
   "category": "음악방송시상식",
   "member": "슈화",
-  "date": "2025-12-06T18:00:02",
+  "date": "2025-12-06T18:00:03",
   "duration": "00:01:31",
   "thumbnail": "https://i.ytimg.com/vi/1_SDxOQp3Sw/maxresdefault.jpg",
   "alt": "[#AAA2025] SHUHUA won 'AAA BEST CHOICE' at Asia Artist Awards 2025 in Kaohsiung",
@@ -12586,7 +12653,7 @@ const 음악방송시상식Cards = [
   "link": "https://youtu.be/5J4I7J8xtbk",
   "category": "음악방송시상식",
   "member": "슈화",
-  "date": "2025-12-06T18:00:00",
+  "date": "2025-12-06T18:00:04",
   "duration": "00:06:47",
   "thumbnail": "https://i.ytimg.com/vi/5J4I7J8xtbk/maxresdefault.jpg",
   "alt": "[#AAA2025] SHUHUA Cut at Asia Artist Awards AAA 2025 (ft. YUQI, IU & HMLYCP)",
@@ -12597,7 +12664,7 @@ const 음악방송시상식Cards = [
   "link": "https://youtu.be/JMIwFtsqmQY",
   "category": "음악방송시상식",
   "member": "슈화",
-  "date": "2025-12-07T18:00:00",
+  "date": "2025-12-07T18:00:05",
   "duration": "00:10:04",
   "thumbnail": "https://i.ytimg.com/vi/JMIwFtsqmQY/maxresdefault.jpg",
   "alt": "[#AAA2025] MC SHUHUA Cut at ACON 2025 in Kaohsiung",
@@ -12613,8 +12680,58 @@ const 음악방송시상식Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ke1ILVKuGbs/maxresdefault.jpg",
   "alt": "[#2025MAMA] WINNERS’ ALL-TIME STAGE 🏆 i-dle",
   "title": "[#2025MAMA] WINNERS’ ALL-TIME STAGE 🏆 i-dle"
-}
+},
+{
+  "link": "https://youtu.be/b9RgKixCLlo",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-10-27T18:00:00",
+  "duration": "00:24:00",
+  "thumbnail": "https://i.ytimg.com/vi/b9RgKixCLlo/maxresdefault.jpg",
+  "alt": "★수능응원특집★ 2022학년도 엠카능력고사 | NMIXX, TREASURE, DKZ, AB6IX, (여자)아이들",
+  "title": "★수능응원특집★ 2022학년도 엠카능력고사 | NMIXX, TREASURE, DKZ, AB6IX, (여자)아이들"
+},
 
+{
+  "link": "https://youtu.be/dmK8FPKuvqU",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-03-22T18:00:00",
+  "duration": "00:01:01",
+  "thumbnail": "https://i.ytimg.com/vi/dmK8FPKuvqU/maxresdefault.jpg",
+  "alt": "[EN/JP] (여자)아이들이 알려주는 이번 주 엠카운트다운 라인업은? #엠카운트다운 EP.745",
+  "title": "[EN/JP] (여자)아이들이 알려주는 이번 주 엠카운트다운 라인업은? #엠카운트다운 EP.745"
+},
+{
+  "link": "https://youtu.be/sTWhnAzXzKI",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2023-02-15T18:00:00",
+  "duration": "00:05:18",
+  "thumbnail": "https://i.ytimg.com/vi/sTWhnAzXzKI/maxresdefault.jpg",
+  "alt": "[EN/JP] [엠카운트다운] 닉네임 정하다가 애교 부리는 MC 미연 & 주헌 어떤데? (너무 됴아💗)",
+  "title": "[EN/JP] [엠카운트다운] 닉네임 정하다가 애교 부리는 MC 미연 & 주헌 어떤데? (너무 됴아💗)"
+},
+{
+  "link": "https://youtu.be/zyjob3NTYQQ",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2023-06-08T18:00:00",
+  "duration": "00:19:28",
+  "thumbnail": "https://i.ytimg.com/vi/zyjob3NTYQQ/maxresdefault.jpg",
+  "alt": "[#엠카운트다운] 800회 특집❣️ 주헌 X 미연🐝🐰 💛허니 여니 6월 2주 MC 컷 모음💚 @M COUNTDOWN 230608",
+  "title": "[#엠카운트다운] 800회 특집❣️ 주헌 X 미연🐝🐰 💛허니 여니 6월 2주 MC 컷 모음💚 @M COUNTDOWN 230608"
+},
+{
+  "link": "https://youtu.be/yDVnlX6gWug",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2023-10-14T18:00:00",
+  "duration": "00:12:29",
+  "thumbnail": "https://i.ytimg.com/vi/yDVnlX6gWug/maxresdefault.jpg",
+  "alt": "미연🐰 X 한빈🐹 10월 2주 MC 컷 모음❣️ #엠카운트다운 #MCOUNTDOWN",
+  "title": "미연🐰 X 한빈🐹 10월 2주 MC 컷 모음❣️ #엠카운트다운 #MCOUNTDOWN"
+}
 
 ];
 window.음악방송시상식Cards = 음악방송시상식Cards;
