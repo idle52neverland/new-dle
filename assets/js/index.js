@@ -223,9 +223,6 @@ function resetFilters() {
         sortOrder = "newest";
         if(toggleSortBtn) toggleSortBtn.textContent = "최신순";
     }
-    
-    // 검색창 초기화는 어느 페이지에서든 수행
-    if (searchInput) searchInput.value = "";
 }
 
 function closeDropdownsAndMenus() {
@@ -327,7 +324,8 @@ function renderCards(reset = false) {
 function applySearch() {
   if (!IS_VIDEO_PAGE) return; // video.html이 아니면 실행 중지
   
-  const kw = (searchInput.value || "").toLowerCase();
+  // 검색어는 searchInput.value를 사용합니다.
+  let kw = (searchInput.value || "").toLowerCase(); 
 
   // 1. 필터링
   filteredCards = allCards.filter(c => {
@@ -367,7 +365,7 @@ function applySearch() {
         if (!sub.includes(String(activeFilters.subtag).toLowerCase())) return false;
     }
 
-    // 단어 AND 검색
+    // 단어 AND 검색 (최종 검색 필터링)
     if (kw !== "") {
         const words = kw.split(/\s+/).filter(w => w.length > 0);
 
@@ -415,24 +413,25 @@ function changeCategory(categoryName, updateURL = true) {
   // 3. 카드 컨테이너 모드 설정
   updateCardContainerMode(categoryName);
 
-  // 4. 필터 초기화 (resetFilters는 검색창도 초기화함)
+  // 4. 필터 초기화
   resetFilters();
   
-  // 5. 검색 적용 (필터링 및 정렬 후 렌더링)
+  // ★★★ [수정] 카테고리 이동 시 (changeCategory 호출 시), 검색창을 무조건 비웁니다. ★★★
+  if (searchInput) searchInput.value = ""; 
+  
+
+  // 5. 검색 적용 (검색창이 비워진 상태에서 applySearch가 실행됨)
   applySearch();
 
   // 6. URL 업데이트 (video.html에서만 실행)
   if (updateURL) {
     const categorySlug = CATEGORY_MAP[categoryName] || categoryName;
-    const params = new URLSearchParams(location.search);
-    const query = params.get("q"); 
     
+    // 카테고리 이동 시, 검색어는 비워졌으므로 URL에 q= 파라미터를 남기지 않습니다.
     let url = `?category=${categorySlug}`;
-    if (query) {
-      url += `&q=${encodeURIComponent(query)}`;
-    }
     
-    history.pushState({ category: categorySlug }, "", url);
+    // State에도 비어있는 검색어('')를 저장하여 뒤로가기 시 이 상태로 돌아오도록 합니다.
+    history.pushState({ category: categorySlug, q: "" }, "", url);
   }
   
   // 7. 스크롤 초기화
@@ -454,6 +453,7 @@ function navigateToVideoPage(categorySlug, query = "") {
     if (categorySlug) {
         params.push(`category=${categorySlug}`);
     }
+    // ★★★ [수정] 홈 검색 예외 처리를 위해 검색어가 있다면 q를 URL에 붙여서 video.html로 전달합니다. ★★★
     if (query) {
         params.push(`q=${encodeURIComponent(query)}`);
     }
@@ -468,7 +468,7 @@ function navigateToVideoPage(categorySlug, query = "") {
 /* ============================================================
    이벤트 핸들러 함수
 ============================================================ */
-// ★★★ 이벤트 핸들러 로직 대폭 수정: 페이지 이동 로직 추가 ★★★
+// index.html에서 검색 시, 'All Videos'로 이동하도록 보장
 function handleSearchAction(e) { 
   if (e) {
     e.preventDefault();     
@@ -481,10 +481,29 @@ function handleSearchAction(e) {
   if (IS_VIDEO_PAGE) {
     // video.html에서는 검색 로직 실행
     applySearch();
+    
+    // 검색 실행 후 URL 업데이트: q 파라미터는 제거하고 state에만 저장 (URL은 category만 남깁니다)
+    const params = new URLSearchParams(location.search);
+    const slug = params.get("category");
+    
+    let url = location.pathname;
+    const newParams = [];
+    if (slug) newParams.push(`category=${slug}`);
+    
+    if (newParams.length > 0) {
+        url += `?${newParams.join("&")}`;
+    } else {
+        // 현재 카테고리 정보가 없는 경우
+        url += `?category=${CATEGORY_MAP[currentCategory.textContent] || CATEGORY_MAP["All Videos"]}`; 
+    }
+
+    // history.pushState에는 검색어(kw)를 저장하여 검색창의 값을 유지 (뒤로가기 시 복원)
+    history.pushState({ category: slug, q: kw }, "", url);
+    
   } else {
-    // index.html에서는 video.html로 이동
-    const categorySlug = CATEGORY_MAP["All Videos"];
-    navigateToVideoPage(categorySlug, kw);
+    // ★★★ index.html에서는 video.html로 이동 (홈 검색 예외 처리) ★★★
+    const categorySlug = CATEGORY_MAP["All Videos"]; 
+    navigateToVideoPage(categorySlug, kw); 
   }
 }
 
@@ -800,8 +819,17 @@ function initializeEventListeners() {
         if (IS_VIDEO_PAGE) {
             // video.html에서는 카테고리 변경
             currentCategory.textContent = categoryName; 
+            
+            // ★★★ 카테고리 변경 시, changeCategory 호출 전에 이미 검색창을 비우게 됩니다.
+            // changeCategory(categoryName, true)에서 다시 한 번 비우는 로직이 있지만, 이중으로 확실히 처리됩니다.
+            if (searchInput) {
+                searchInput.value = ""; 
+            }
+            
             resetFilters();
-            changeCategory(categoryName, true);
+            
+            // 카테고리 변경 시 URL 업데이트 (검색어는 URL/State에 남기지 않음)
+            changeCategory(categoryName, true); 
         } else {
             // index.html에서는 video.html로 이동
             navigateToVideoPage(categorySlug);
@@ -872,25 +900,40 @@ window.addEventListener("DOMContentLoaded", () => {
     
   const params = new URLSearchParams(location.search);
   const slug = params.get("category"); 
-  const query = params.get("q");      
-
-  if (query && searchInput) {
-    searchInput.value = decodeURIComponent(query);
-  }
+  let queryFromUrl = params.get("q"); // URL에 임시로 존재하는 검색어
   
   // video.html 초기 로딩 로직
   if (IS_VIDEO_PAGE) {
-    if (!slug) {
-        // category 파라미터가 없으면 All Videos로 시작
-        changeCategory("All Videos", false); 
+    
+    let initialCategory = SLUG_MAP[slug] || "All Videos";
+    
+    // 1. 초기 검색창 값 설정
+    if (searchInput && queryFromUrl) {
+        // ★★★ 홈 검색 예외 처리 (검색어 유지) ★★★
+        searchInput.value = decodeURIComponent(queryFromUrl);
+        currentCategory.textContent = "All Videos"; // 카테고리를 'All Videos'로 설정
+        allCards = buildAllVideos();              // All Videos 데이터 로드
+        resetFilters();                           // 필터 초기화
+        applySearch();                            // 검색어에 따른 검색 실행 (검색 결과 나옴)
+        
+        // 검색 적용 후 URL에서 q 파라미터 제거 (State에는 검색어 유지)
+        const newParams = new URLSearchParams(location.search);
+        newParams.delete('q');
+        let newUrl = location.pathname;
+        if (newParams.toString()) {
+            newUrl += `?${newParams.toString()}`;
+        }
+        // history.replaceState를 사용하여 주소창의 URL을 깨끗하게 대체
+        history.replaceState({ category: slug, q: queryFromUrl }, "", newUrl); 
+
     } else {
-        const cat = SLUG_MAP[slug] || "All Videos";
-        changeCategory(cat, false); 
+        // ★★★ 일반 로딩 (카테고리 이동, 직접 접속 등) ★★★
+        // 검색어가 없으므로 changeCategory 호출하여 검색어를 비우고 로딩 시작
+        changeCategory(initialCategory, false);
     }
   } else {
     // index.html 초기 로딩 로직
     currentCategory.textContent = "카테고리 선택"; 
-    // index.html에서는 필터/검색어 초기화만 수행
     resetFilters();
   }
 
@@ -903,7 +946,7 @@ window.addEventListener("DOMContentLoaded", () => {
    popstate (뒤로가기)
    -> video.html에서만 작동하도록 조건부 로직 추가
 ============================================================ */
-window.addEventListener("popstate", () => {
+window.addEventListener("popstate", (e) => {
   if (!IS_VIDEO_PAGE) {
       // index.html에서는 popstate로직 없음 (실행되지 않음)
       applyIosScrollTrick();
@@ -912,25 +955,44 @@ window.addEventListener("popstate", () => {
     
   const params = new URLSearchParams(location.search);
   const slug = params.get("category"); 
-  const query = params.get("q");
-
-  // 뒤로가기로 쿼리가 없는 상태로 돌아가면 All Videos로 설정
-  if (!slug && !query) {
-    // history.replaceState(null, "", location.pathname); // 무한 루프 방지 (제거)
-    changeCategory("All Videos", true); // All Videos로 전환 (popstate에서 URL 업데이트 방지 위해 false로 변경)
-    
-  } else if (!slug) {
-      // 검색어만 남은 경우 (이런 케이스는 흔치 않음)
-      changeCategory("All Videos", false);
-  } else {
-    // 카테고리가 있는 경우
-    const cat = SLUG_MAP[slug] || "All Videos";
-    changeCategory(cat, false); 
-  }
-
-  // 검색어 복원 (이전 상태에서 복원)
-  if (searchInput) searchInput.value = query ? decodeURIComponent(query) : "";
   
+  // State에서 저장된 검색어를 복원합니다.
+  // URL에 q 파라미터가 없더라도, State에 q 값이 남아있으면 복원됩니다.
+  const queryToRestore = e.state && e.state.q ? e.state.q : "";
+  
+  // changeCategory 호출 전에 검색창에 값을 미리 복원하여 changeCategory 내부의 applySearch가 올바른 검색어로 필터링하도록 합니다.
+  if (searchInput) searchInput.value = queryToRestore ? decodeURIComponent(queryToRestore) : "";
+
+
+  const cat = SLUG_MAP[slug] || "All Videos";
+  
+  // changeCategory 함수가 검색어(복원된 값)와 필터를 새로 적용하게 됩니다. 
+  // changeCategory는 내부적으로 검색창을 초기화하는 로직이 있으나, popstate에서는 이미 searchInput에 복원된 값이 들어있고,
+  // changeCategory 내의 applySearch가 실행되어 검색 결과가 올바르게 표시됩니다.
+  // **잠깐**: changeCategory는 무조건 searchInput.value를 비우므로, popstate에서 검색어가 남는 문제가 발생합니다.
+  
+  // ★★★ [수정] popstate 시에는 changeCategory 대신 수동으로 검색 적용을 해야 합니다. ★★★
+
+  // 1. 카테고리 업데이트
+  currentCategory.textContent = cat; 
+  
+  // 2. 카드 데이터 로드
+  if (cat === "All Videos") {
+    allCards = buildAllVideos();
+  } else {
+    const varName = categoryToVarName(cat);
+    allCards = Array.isArray(window[varName]) ? [...window[varName]] : [];
+  }
+  
+  // 3. 필터 초기화
+  resetFilters();
+  
+  // 4. 검색 적용 (searchInput.value에 이미 복원된 검색어가 들어있음)
+  applySearch();
+  
+  // 5. 컨테이너 모드 업데이트
+  updateCardContainerMode(cat);
+
   applyIosScrollTrick();
 });
 
@@ -955,3 +1017,28 @@ document.addEventListener("contextmenu", (e) => {
     e.preventDefault();
   }
 });
+
+// 모달 로직 (기존 코드 유지)
+function toggleModal(modalId) {
+    const modal = document.getElementById(modalId);
+    if (modal) {
+        modal.classList.toggle('active');
+        document.body.classList.toggle('no-scroll');
+    }
+}
+
+function openModal(modalId) {
+    const modal = document.getElementById(modalId);
+    if (modal) {
+        modal.classList.add('active');
+        document.body.classList.add('no-scroll');
+    }
+}
+
+function closeModal(modalId) {
+    const modal = document.getElementById(modalId);
+    if (modal) {
+        modal.classList.remove('active');
+        document.body.classList.remove('no-scroll');
+    }
+}
