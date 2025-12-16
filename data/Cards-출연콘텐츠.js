@@ -15211,7 +15211,40 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/W7HIKNpWAdY/maxresdefault.jpg",
   "alt": "[12:18~] Collaboration | I-KNOW.zip #4",
   "title": "[12:18~] Collaboration | I-KNOW.zip #4"
+},
+{
+  "link": "https://youtu.be/COIl2oGYVv4",
+  "category": "출연콘텐츠",
+  "member": "미연",
+  "date": "2025-11-27T18:00:00",
+  "duration": "00:04:55",
+  "thumbnail": "https://i.ytimg.com/vi/COIl2oGYVv4/maxresdefault.jpg",
+  "alt": "소연 & 우기 vs 민니 & 슈화?! 😱 미연은 과연 누구 편을 들까?🔥 미연의 MLB 밸런스 게임 도전! [MLB Korea]",
+  "title": "소연 & 우기 vs 민니 & 슈화?! 😱 미연은 과연 누구 편을 들까?🔥 미연의 MLB 밸런스 게임 도전! [MLB Korea]"
+},
+
+{
+  "link": "https://youtu.be/4pyk37Z668Q",
+  "category": "출연콘텐츠",
+  "member": "미연",
+  "date": "2025-12-06T18:00:00",
+  "duration": "00:10:30",
+  "thumbnail": "https://i.ytimg.com/vi/4pyk37Z668Q/maxresdefault.jpg",
+  "alt": "미연, MLB 선수 15명 맞히기 도전! 과연 성공할까?! ⚾️🤣 [MLB Korea]",
+  "title": "미연, MLB 선수 15명 맞히기 도전! 과연 성공할까?! ⚾️🤣 [MLB Korea]"
+},
+
+{
+  "link": "https://youtu.be/OEm6lsFZ2FY",
+  "category": "출연콘텐츠",
+  "member": "민니, 소연",
+  "date": "2025-12-13T18:00:00",
+  "duration": "00:17:07",
+  "thumbnail": "https://i.ytimg.com/vi/OEm6lsFZ2FY/sddefault.jpg",
+  "alt": "아이들 소연·민니, MLB 퀴즈 맞히기 대결!⚾ 과연 누가 승?! feat. 김병현 & 니퍼트 [MLB Korea]",
+  "title": "아이들 소연·민니, MLB 퀴즈 맞히기 대결!⚾ 과연 누가 승?! feat. 김병현 & 니퍼트 [MLB Korea]"
 }
+
 
 
 ];

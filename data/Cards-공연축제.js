@@ -2011,7 +2011,172 @@ const 공연축제Cards = [
   "thumbnail": "https://i.ytimg.com/vi/bg9lH0oc090/sddefault.jpg",
   "alt": "(G)I-DLE (여자)아이들 메이저리그 MLB Seoul Series 축하공연",
   "title": "(G)I-DLE (여자)아이들 메이저리그 MLB Seoul Series 축하공연"
+},
+{
+  "link": "https://youtu.be/wsTTmBXDbc0",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-09T18:01:00",
+  "duration": "01:10:03",
+  "thumbnail": "https://i.ytimg.com/vi/wsTTmBXDbc0/maxresdefault.jpg",
+  "alt": "2025 인천공항 SKY FESTIVAL [20:36~27:48], [34:22~35:18], [1:09:48~1:09:51]",
+  "title": "2025 인천공항 SKY FESTIVAL [20:36~27:48], [34:22~35:18], [1:09:48~1:09:51]"
+},
+
+{
+  "link": "https://youtu.be/Qikrw2WPdv4",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-09T18:02:00",
+  "duration": "00:20:17",
+  "thumbnail": "https://i.ytimg.com/vi/Qikrw2WPdv4/maxresdefault.jpg",
+  "alt": "[2025 인천공항 스카이 페스티벌] 미연 - Say My Name + F.F.L.Y + Reno + Drive | Incheon Airport SKY FESTIVAL",
+  "title": "[2025 인천공항 스카이 페스티벌] 미연 - Say My Name + F.F.L.Y + Reno + Drive | Incheon Airport SKY FESTIVAL"
+},
+
+{
+  "link": "https://youtu.be/85m4pBseDyg",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-22T19:00:01",
+  "duration": "00:02:42",
+  "thumbnail": "https://i.ytimg.com/vi/85m4pBseDyg/sddefault.jpg",
+  "alt": "[FAN CAM] 미연 - “Say My Name” [DREAM CONCERT ABU DHABI UAE]",
+  "title": "[FAN CAM] 미연 - “Say My Name” [DREAM CONCERT ABU DHABI UAE]"
+},
+
+{
+  "link": "https://youtu.be/QJXAkf-hUiA",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-22T19:00:02",
+  "duration": "00:02:25",
+  "thumbnail": "https://i.ytimg.com/vi/QJXAkf-hUiA/sddefault.jpg",
+  "alt": "[FAN CAM] 미연 - “F.F.L.Y” [DREAM CONCERT ABU DHABI UAE]",
+  "title": "[FAN CAM] 미연 - “F.F.L.Y” [DREAM CONCERT ABU DHABI UAE]"
+},
+
+{
+  "link": "https://youtu.be/sFSeNkBuUiI",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-22T19:00:03",
+  "duration": "00:02:53",
+  "thumbnail": "https://i.ytimg.com/vi/sFSeNkBuUiI/sddefault.jpg",
+  "alt": "[FAN CAM] 미연 - “Reno (Ft. Colde)” [DREAM CONCERT ABU DHABI UAE]",
+  "title": "[FAN CAM] 미연 - “Reno (Ft. Colde)” [DREAM CONCERT ABU DHABI UAE]"
+},
+
+{
+  "link": "https://youtu.be/yh88OcdtP24",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-22T19:00:04",
+  "duration": "00:02:05",
+  "thumbnail": "https://i.ytimg.com/vi/yh88OcdtP24/sddefault.jpg",
+  "alt": "[FAN CAM] 미연 - “Stage Talk” [DREAM CONCERT ABU DHABI UAE]",
+  "title": "[FAN CAM] 미연 - “Stage Talk” [DREAM CONCERT ABU DHABI UAE]"
+},
+
+{
+  "link": "https://youtu.be/hUAsCRatT9o",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-22T19:00:05",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/hUAsCRatT9o/maxresdefault.jpg",
+  "alt": "[FAN CAM] 미연 - “Show” [DREAM CONCERT ABU DHABI UAE]",
+  "title": "[FAN CAM] 미연 - “Show” [DREAM CONCERT ABU DHABI UAE]"
+},
+
+{
+  "link": "https://youtu.be/oXxR1l_mdkk",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-22T19:00:06",
+  "duration": "00:03:00",
+  "thumbnail": "https://i.ytimg.com/vi/oXxR1l_mdkk/sddefault.jpg",
+  "alt": "[FAN CAM] 미연 - “Petal Shower” [DREAM CONCERT ABU DHABI UAE]",
+  "title": "[FAN CAM] 미연 - “Petal Shower” [DREAM CONCERT ABU DHABI UAE]"
+},
+
+{
+  "link": "https://youtu.be/UelZptYalCg",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-22T19:00:07",
+  "duration": "00:04:11",
+  "thumbnail": "https://i.ytimg.com/vi/UelZptYalCg/sddefault.jpg",
+  "alt": "[FAN CAM] 미연 - “TE AMO” [DREAM CONCERT ABU DHABI UAE]",
+  "title": "[FAN CAM] 미연 - “TE AMO” [DREAM CONCERT ABU DHABI UAE]"
+},
+
+{
+  "link": "https://youtu.be/_vcakxRNhR4",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-22T19:00:08",
+  "duration": "00:01:32",
+  "thumbnail": "https://i.ytimg.com/vi/_vcakxRNhR4/sddefault.jpg",
+  "alt": "[FAN CAM] 미연 - “Stage Talk” [DREAM CONCERT ABU DHABI UAE]",
+  "title": "[FAN CAM] 미연 - “Stage Talk” [DREAM CONCERT ABU DHABI UAE]"
+},
+
+{
+  "link": "https://youtu.be/kZUYhdCYHB0",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-22T19:00:09",
+  "duration": "00:02:49",
+  "thumbnail": "https://i.ytimg.com/vi/kZUYhdCYHB0/sddefault.jpg",
+  "alt": "[FAN CAM] 미연 - “Fate” [DREAM CONCERT ABU DHABI UAE]",
+  "title": "[FAN CAM] 미연 - “Fate” [DREAM CONCERT ABU DHABI UAE]"
+},
+
+{
+  "link": "https://youtu.be/ytwXMX1Oe1g",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-22T19:00:10",
+  "duration": "00:04:01",
+  "thumbnail": "https://i.ytimg.com/vi/ytwXMX1Oe1g/maxresdefault.jpg",
+  "alt": "[FAN CAM] 미연 - “Sky Walking” [DREAM CONCERT ABU DHABI UAE]",
+  "title": "[FAN CAM] 미연 - “Sky Walking” [DREAM CONCERT ABU DHABI UAE]"
+},
+
+{
+  "link": "https://youtu.be/6vN1v5QndA0",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2025-11-22T19:00:11",
+  "duration": "00:03:28",
+  "thumbnail": "https://i.ytimg.com/vi/6vN1v5QndA0/sddefault.jpg",
+  "alt": "[FAN CAM] 미연 - “Drive” [DREAM CONCERT ABU DHABI UAE]",
+  "title": "[FAN CAM] 미연 - “Drive” [DREAM CONCERT ABU DHABI UAE]"
+},
+
+{
+  "link": "https://youtu.be/ADMiO34NlUo",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-12-06T20:00:01",
+  "duration": "00:03:45",
+  "thumbnail": "https://i.ytimg.com/vi/ADMiO34NlUo/maxresdefault.jpg",
+  "alt": "YUQI performs 'COPDD' at the CrossFire Mobile 10 years anniversary event",
+  "title": "YUQI performs 'COPDD' at the CrossFire Mobile 10 years anniversary event"
+},
+
+{
+  "link": "https://youtu.be/p9GPRxFrXZs",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-12-06T20:00:02",
+  "duration": "00:03:02",
+  "thumbnail": "https://i.ytimg.com/vi/p9GPRxFrXZs/maxresdefault.jpg",
+  "alt": "YUQI performs 'M.O' at CrossFire Mobile 10 years anniversary event",
+  "title": "YUQI performs 'M.O' at CrossFire Mobile 10 years anniversary event"
 }
+
 
 ];
 window.공연축제Cards = 공연축제Cards;

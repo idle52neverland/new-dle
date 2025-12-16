@@ -408,6 +408,17 @@ const 음악방송시상식Cards = [
 },
 
 {
+  "link": "https://youtu.be/3NNpqPgreec",
+  "category": "음악방송시상식",
+  "member": "우기",
+  "date": "2018-06-01T18:00:33",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/3NNpqPgreec/maxresdefault.jpg",
+  "alt": "[Simply K-Pop] [Fancam/직캠] YUQI(우기) _ (G)I-DLE((여자)아이들) _ LATATA _ Ep.314",
+  "title": "[Simply K-Pop] [Fancam/직캠] YUQI(우기) _ (G)I-DLE((여자)아이들) _ LATATA _ Ep.314"
+},
+
+{
   "link": "https://youtu.be/fpSPVlVESWw",
   "category": "음악방송시상식",
   "member": "아이들",
@@ -418,16 +429,7 @@ const 음악방송시상식Cards = [
   "title": "[엠카운트다운] [MPD직캠] (여자)아이들 직캠 'LATATA' ((G)I-DLE FanCam) | @MCOUNTDOWN_2018.6.7"
 },
 
-{
-  "link": "https://youtu.be/3NNpqPgreec",
-  "category": "음악방송시상식",
-  "member": "우기",
-  "date": "2018-06-01T18:00:33",
-  "duration": "00:03:22",
-  "thumbnail": "https://i.ytimg.com/vi/3NNpqPgreec/maxresdefault.jpg",
-  "alt": "[Simply K-Pop] [Fancam/직캠] YUQI(우기) _ (G)I-DLE((여자)아이들) _ LATATA _ Ep.314",
-  "title": "[Simply K-Pop] [Fancam/직캠] YUQI(우기) _ (G)I-DLE((여자)아이들) _ LATATA _ Ep.314"
-},
+
 
 {
   "link": "https://youtu.be/z8UAOIM-Jz4",
@@ -3402,7 +3404,7 @@ const 음악방송시상식Cards = [
 {
   "link": "https://youtu.be/LnADzRp1PHk",
   "category": "음악방송시상식",
-  "member": "아이들",
+  "member": "",
   "date": "2020-08-06T18:00:16",
   "duration": "00:03:50",
   "thumbnail": "https://i.ytimg.com/vi/LnADzRp1PHk/maxresdefault.jpg",
@@ -12524,7 +12526,95 @@ const 음악방송시상식Cards = [
   "thumbnail": "https://i.ytimg.com/vi/nhH8a6Y9F0I/maxresdefault.jpg",
   "alt": "[인기가요] [페이스캠4K] 미연 'Say My Name' (MIYEON FaceCam)",
   "title": "[인기가요] [페이스캠4K] 미연 'Say My Name' (MIYEON FaceCam)"
+},
+{
+  "link": "https://youtu.be/deLly6KW97A",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2025-11-28T18:00:10",
+  "duration": "00:05:24",
+  "thumbnail": "https://i.ytimg.com/vi/deLly6KW97A/maxresdefault.jpg",
+  "alt": "[#2025MAMA] i-dle (아이들) - Good Thing (MAMA ver.) | Mnet 251128 방송",
+  "title": "[#2025MAMA] i-dle (아이들) - Good Thing (MAMA ver.) | Mnet 251128 방송"
+},
+
+{
+  "link": "https://youtu.be/VU8_48iGiKA",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2025-11-28T18:00:11",
+  "duration": "00:02:54",
+  "thumbnail": "https://i.ytimg.com/vi/VU8_48iGiKA/maxresdefault.jpg",
+  "alt": "[#2025MAMA] FAN'S CHOICE FEMALE TOP10 수상소감",
+  "title": "[#2025MAMA] FAN'S CHOICE FEMALE TOP10 수상소감"
+},
+
+{
+  "link": "https://youtu.be/uXH_A9l2qDE",
+  "category": "음악방송시상식",
+  "member": "슈화",
+  "date": "2025-12-06T18:00:01",
+  "duration": "00:01:36",
+  "thumbnail": "https://i.ytimg.com/vi/uXH_A9l2qDE/maxresdefault.jpg",
+  "alt": "[#AAA2025]  SHUHUA Redcarpet | 슈화 레드카펫",
+  "title": "[#AAA2025]  SHUHUA Redcarpet | 슈화 레드카펫"
+},
+
+{
+  "link": "https://youtu.be/73sfbJBgKyg",
+  "category": "음악방송시상식",
+  "member": "슈화",
+  "date": "2025-12-06T18:00:02",
+  "duration": "00:00:59",
+  "thumbnail": "https://i.ytimg.com/vi/73sfbJBgKyg/maxresdefault.jpg",
+  "alt": "[#AAA2025] 🏆AAA 베스트 초이스 슈화 (AAA Best Choice | SHUHUA)🏆",
+  "title": "[#AAA2025] 🏆AAA 베스트 초이스 슈화 (AAA Best Choice | SHUHUA)🏆"
+},
+
+{
+  "link": "https://youtu.be/1_SDxOQp3Sw",
+  "category": "음악방송시상식",
+  "member": "슈화",
+  "date": "2025-12-06T18:00:02",
+  "duration": "00:01:31",
+  "thumbnail": "https://i.ytimg.com/vi/1_SDxOQp3Sw/maxresdefault.jpg",
+  "alt": "[#AAA2025] SHUHUA won 'AAA BEST CHOICE' at Asia Artist Awards 2025 in Kaohsiung",
+  "title": "[#AAA2025] SHUHUA won 'AAA BEST CHOICE' at Asia Artist Awards 2025 in Kaohsiung"
+},
+
+{
+  "link": "https://youtu.be/5J4I7J8xtbk",
+  "category": "음악방송시상식",
+  "member": "슈화",
+  "date": "2025-12-06T18:00:00",
+  "duration": "00:06:47",
+  "thumbnail": "https://i.ytimg.com/vi/5J4I7J8xtbk/maxresdefault.jpg",
+  "alt": "[#AAA2025] SHUHUA Cut at Asia Artist Awards AAA 2025 (ft. YUQI, IU & HMLYCP)",
+  "title": "[#AAA2025] SHUHUA Cut at Asia Artist Awards AAA 2025 (ft. YUQI, IU & HMLYCP)"
+},
+
+{
+  "link": "https://youtu.be/JMIwFtsqmQY",
+  "category": "음악방송시상식",
+  "member": "슈화",
+  "date": "2025-12-07T18:00:00",
+  "duration": "00:10:04",
+  "thumbnail": "https://i.ytimg.com/vi/JMIwFtsqmQY/maxresdefault.jpg",
+  "alt": "[#AAA2025] MC SHUHUA Cut at ACON 2025 in Kaohsiung",
+  "title": "[#AAA2025] MC SHUHUA Cut at ACON 2025 in Kaohsiung"
+},
+
+{
+  "link": "https://youtu.be/ke1ILVKuGbs",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2025-12-11T18:00:00",
+  "duration": "00:24:04",
+  "thumbnail": "https://i.ytimg.com/vi/ke1ILVKuGbs/maxresdefault.jpg",
+  "alt": "[#2025MAMA] WINNERS’ ALL-TIME STAGE 🏆 i-dle",
+  "title": "[#2025MAMA] WINNERS’ ALL-TIME STAGE 🏆 i-dle"
 }
+
 
 ];
 window.음악방송시상식Cards = 음악방송시상식Cards;

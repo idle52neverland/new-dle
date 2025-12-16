@@ -922,7 +922,51 @@ const 기타Cards = [
   "thumbnail": "https://i.ytimg.com/vi/a4V60KV4ghQ/maxresdefault.jpg",
   "alt": "[You And No One Else - 미연 공동작사가] 사랑의 시작을 썼는데 이별로 돌아온 나의 가사 이야기(with 학동고인물들💗)",
   "title": "[You And No One Else - 미연 공동작사가] 사랑의 시작을 썼는데 이별로 돌아온 나의 가사 이야기(with 학동고인물들💗)"
+},
+{
+  "link": "https://youtu.be/AoPQlytLSow",
+  "category": "기타",
+  "member": "우기",
+  "date": "2025-11-22T18:00:00",
+  "duration": "00:06:49",
+  "thumbnail": "https://i.ytimg.com/vi/AoPQlytLSow/maxresdefault.jpg",
+  "alt": "폴킴 & 우기 (YUQI) 'Have A Good Time' MV Behind The Scenes",
+  "title": "폴킴 & 우기 (YUQI) 'Have A Good Time' MV Behind The Scenes"
+},
+
+{
+  "link": "https://youtu.be/_-BJ67IQVrw",
+  "category": "기타",
+  "member": "미연",
+  "date": "2025-12-02T18:00:00",
+  "duration": "00:19:11",
+  "thumbnail": "https://i.ytimg.com/vi/_-BJ67IQVrw/maxresdefault.jpg",
+  "alt": "[04:55~05:36] AHOF(아홉) '피노키오는 거짓말을 싫어해' Music Show Behind #3 | AHOF The Record EP.37",
+  "title": "[04:55~05:36] AHOF(아홉) '피노키오는 거짓말을 싫어해' Music Show Behind #3 | AHOF The Record EP.37"
+},
+
+{
+  "link": "https://youtu.be/tfxL_ZY3inQ",
+  "category": "기타",
+  "member": "미연",
+  "date": "2025-12-05T18:00:00",
+  "duration": "00:25:54",
+  "thumbnail": "https://i.ytimg.com/vi/tfxL_ZY3inQ/maxresdefault.jpg",
+  "alt": "[21:34~24:18] 🔊 기다리시던 챌린지 모두 공개 합니다 🔊 | LE PLAY",
+  "title": "[21:34~24:18] 🔊 기다리시던 챌린지 모두 공개 합니다 🔊 | LE PLAY"
+},
+
+{
+  "link": "https://youtu.be/M8MoJWmTYZs",
+  "category": "기타",
+  "member": "미연",
+  "date": "2025-12-12T18:00:00",
+  "duration": "00:14:05",
+  "thumbnail": "https://i.ytimg.com/vi/M8MoJWmTYZs/maxresdefault.jpg",
+  "alt": "[05:56~07:22] ITZY \"TUNNEL VISION\" Challenge BEHIND | #TNVSChallenge",
+  "title": "[05:56~07:22] ITZY \"TUNNEL VISION\" Challenge BEHIND | #TNVSChallenge"
 }
+
 
 ];
 window.기타Cards = 기타Cards;

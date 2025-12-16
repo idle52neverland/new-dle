@@ -17355,8 +17355,403 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/oxYB938wzmM/maxresdefault.jpg",
   "alt": "#MINNIE ’s Body Language #UKNOW #유노윤호 #아이들 #idle #민니 #BodyLanguage #IKNOW #TVXQ! #동방신기",
   "title": "#MINNIE ’s Body Language #UKNOW #유노윤호 #아이들 #idle #민니 #BodyLanguage #IKNOW #TVXQ! #동방신기"
-}
+},
 
+{
+  "link": "https://youtu.be/4oNrXrVVQo8",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-21T18:10:00",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/4oNrXrVVQo8/maxresdefault.jpg",
+  "alt": "Present ୨୧ 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #아이엔아이 #INI #쇼고 #SHOGO 처럼 🎁 @INI_official",
+  "title": "Present ୨୧ 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #아이엔아이 #INI #쇼고 #SHOGO 처럼 🎁 @INI_official"
+},
+
+{
+  "link": "https://youtu.be/WFMsZ5LjYvI",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-11-21T18:11:00",
+  "duration": "00:00:07",
+  "thumbnail": "https://i.ytimg.com/vi/WFMsZ5LjYvI/maxresdefault.jpg",
+  "alt": "I like to eat 🍎🥕🍅🌽🥬🥒",
+  "title": "I like to eat 🍎🥕🍅🌽🥬🥒"
+},
+
+{
+  "link": "https://youtu.be/oBKUWD9zyWc",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-21T18:12:00",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/oBKUWD9zyWc/maxresdefault.jpg",
+  "alt": "🧺 Fresh & Bright [i-dle & Soil Co.] 🥬🤍",
+  "title": "🧺 Fresh & Bright [i-dle & Soil Co.] 🥬🤍"
+},
+
+{
+  "link": "https://youtu.be/xQgPE3s17aY",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-11-21T18:13:00",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/xQgPE3s17aY/maxresdefault.jpg",
+  "alt": "🧺 Fresh & Bright [i-dle & Soil Co.] 🌽🤍",
+  "title": "🧺 Fresh & Bright [i-dle & Soil Co.] 🌽🤍"
+},
+
+{
+  "link": "https://youtu.be/grxOcicKT6M",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-11-21T18:14:00",
+  "duration": "00:00:30",
+  "thumbnail": "https://i.ytimg.com/vi/grxOcicKT6M/maxresdefault.jpg",
+  "alt": "🧺 Fresh & Bright [i-dle & Soil Co.] 🍎🤍",
+  "title": "🧺 Fresh & Bright [i-dle & Soil Co.] 🍎🤍"
+},
+
+{
+  "link": "https://youtu.be/nDqOZZA8t30",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-11-21T18:15:00",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/nDqOZZA8t30/maxresdefault.jpg",
+  "alt": "🧺 Fresh & Bright [i-dle & Soil Co.] 🥕🤍",
+  "title": "🧺 Fresh & Bright [i-dle & Soil Co.] 🥕🤍"
+},
+
+{
+  "link": "https://youtu.be/lHPDITYTbx8",
+  "category": "Shorts",
+  "member": "슈화",
+  "date": "2025-11-21T18:16:00",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/lHPDITYTbx8/maxresdefault.jpg",
+  "alt": "🧺 Fresh & Bright [i-dle & Soil Co.] 🍅🤍",
+  "title": "🧺 Fresh & Bright [i-dle & Soil Co.] 🍅🤍"
+},
+
+{
+  "link": "https://youtu.be/I97brny2WRo",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-22T18:00:00",
+  "duration": "00:00:43",
+  "thumbnail": "https://i.ytimg.com/vi/I97brny2WRo/maxresdefault.jpg",
+  "alt": "Life, answer me🎤 With 미연",
+  "title": "Life, answer me🎤 With 미연"
+},
+
+{
+  "link": "https://youtu.be/q6QKOUqdNQ8",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-23T18:00:00",
+  "duration": "00:00:11",
+  "thumbnail": "https://i.ytimg.com/vi/q6QKOUqdNQ8/maxresdefault.jpg",
+  "alt": "ᕱ⑅ᕱ₊°⊹♡ ⋆˚✿˖°",
+  "title": "ᕱ⑅ᕱ₊°⊹♡ ⋆˚✿˖°"
+},
+
+{
+  "link": "https://youtu.be/4kS9r9z2JMw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-23T18:00:00",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/4kS9r9z2JMw/maxresdefault.jpg",
+  "alt": "#INI | プレゼントチャレンジ🎁 with #idle #MIYEON #아이들 #미연 #아이엔아이 #SHOGO #쇼고 #INI_THE_WINTER_MAGIC #INI_Present",
+  "title": "#INI | プレゼントチャレンジ🎁 with #idle #MIYEON #아이들 #미연 #아이엔아이 #SHOGO #쇼고 #INI_THE_WINTER_MAGIC #INI_Present"
+},
+
+{
+  "link": "https://youtu.be/hg9diJxzKz4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-25T18:00:00",
+  "duration": "00:00:10",
+  "thumbnail": "https://i.ytimg.com/vi/hg9diJxzKz4/maxresdefault.jpg",
+  "alt": "｡ﾟ•┈🧸🥱😘💛┈•ﾟ｡",
+  "title": "｡ﾟ•┈🧸🥱😘💛┈•ﾟ｡"
+},
+
+{
+  "link": "https://youtu.be/hvMUptuLyA0",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-27T18:00:00",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/hvMUptuLyA0/maxresdefault.jpg",
+  "alt": "#HomeRUN ⚾ in #최강야구 with #아이들 #idle #미연 #MIYEON | #NOWZ #나우즈 #현빈 #HYEONBIN #윤 #YOON #연우 #YEONWOO",
+  "title": "#HomeRUN ⚾ in #최강야구 with #아이들 #idle #미연 #MIYEON | #NOWZ #나우즈 #현빈 #HYEONBIN #윤 #YOON #연우 #YEONWOO"
+},
+
+{
+  "link": "https://youtu.be/QzeSkQYJv1I",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-11-27T18:00:00",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/QzeSkQYJv1I/maxresdefault.jpg",
+  "alt": "#HomeRUN ⚾ with #아이들 #idle #우기 #YUQI | #NOWZ #나우즈 #연우 #YEONWOO #진혁 #JINHYUK #PlayBall #나우즈_HomeRUN",
+  "title": "#HomeRUN ⚾ with #아이들 #idle #우기 #YUQI | #NOWZ #나우즈 #연우 #YEONWOO #진혁 #JINHYUK #PlayBall #나우즈_HomeRUN"
+},
+
+{
+  "link": "https://youtu.be/eVH0Nxp2jUI",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-11-29T18:00:00",
+  "duration": "00:00:56",
+  "thumbnail": "https://i.ytimg.com/vi/eVH0Nxp2jUI/maxresdefault.jpg",
+  "alt": "[#2025MAMA] Good Thing (MAMA ver.)💿",
+  "title": "[#2025MAMA] Good Thing (MAMA ver.)💿"
+},
+
+{
+  "link": "https://youtu.be/B02SVlhk4U8",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-02T18:00:00",
+  "duration": "00:00:36",
+  "thumbnail": "https://i.ytimg.com/vi/B02SVlhk4U8/maxresdefault.jpg",
+  "alt": "온 세상이 하얗게❄️ with #아이들 #미연",
+  "title": "온 세상이 하얗게❄️ with #아이들 #미연"
+},
+
+{
+  "link": "https://youtu.be/zndFGjGioy4",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-12-02T18:00:00",
+  "duration": "00:00:09",
+  "thumbnail": "https://i.ytimg.com/vi/zndFGjGioy4/maxresdefault.jpg",
+  "alt": "surpriseeeee 👀 coming your way 12 december #SORN #MINNIE @official_i_dle",
+  "title": "surpriseeeee 👀 coming your way 12 december #SORN #MINNIE @official_i_dle"
+},
+
+{
+  "link": "https://youtu.be/BCnTtonaG1c",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-03T18:00:00",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/BCnTtonaG1c/maxresdefault.jpg",
+  "alt": "⸜(˶˃ ᵕ ˂˶)⸝ ꫂ ၴႅၴ ˳✧･ﾟ♡",
+  "title": "⸜(˶˃ ᵕ ˂˶)⸝ ꫂ ၴႅၴ ˳✧･ﾟ♡"
+},
+
+{
+  "link": "https://youtu.be/yTvZlCxmuPE",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-04T18:00:00",
+  "duration": "00:00:07",
+  "thumbnail": "https://i.ytimg.com/vi/yTvZlCxmuPE/maxresdefault.jpg",
+  "alt": ". ˚  ꒷ 🐭 . 𖦹˙—˙ ₊ ᵎᵎ",
+  "title": ". ˚  ꒷ 🐭 . 𖦹˙—˙ ₊ ᵎᵎ"
+},
+
+{
+  "link": "https://youtu.be/3SL4-suJkyc",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-12-04T18:00:00",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/3SL4-suJkyc/maxresdefault.jpg",
+  "alt": "두 베프가 드디어 스튜디오에 함께 왔어요 🫶🏼🇹🇭✨ #예약 #12월12일 #미니 #아이들",
+  "title": "두 베프가 드디어 스튜디오에 함께 왔어요 🫶🏼🇹🇭✨ #예약 #12월12일 #미니 #아이들"
+},
+
+{
+  "link": "https://youtu.be/Qm2w4OT63n4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-05T18:00:00",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/Qm2w4OT63n4/maxresdefault.jpg",
+  "alt": "✋🤫🐰😺",
+  "title": "✋🤫🐰😺"
+},
+
+{
+  "link": "https://youtu.be/vHTt2-x4Knk",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-05T18:00:00",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/vHTt2-x4Knk/maxresdefault.jpg",
+  "alt": "공주 돈 벌어올게 네버랜드~💕",
+  "title": "공주 돈 벌어올게 네버랜드~💕"
+},
+
+{
+  "link": "https://youtu.be/0wqrNla2OLI",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-06T18:00:00",
+  "duration": "00:00:11",
+  "thumbnail": "https://i.ytimg.com/vi/0wqrNla2OLI/maxresdefault.jpg",
+  "alt": "네버버 아니면 안 된다구!!",
+  "title": "네버버 아니면 안 된다구!!"
+},
+
+{
+  "link": "https://youtu.be/mXNaoBFIaaM",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-06T18:00:00",
+  "duration": "00:00:07",
+  "thumbnail": "https://i.ytimg.com/vi/mXNaoBFIaaM/maxresdefault.jpg",
+  "alt": "귀여움 잠정 중단하겠습니다",
+  "title": "귀여움 잠정 중단하겠습니다"
+},
+
+{
+  "link": "https://youtu.be/J7mAMuDuL4U",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-18T18:00:00",
+  "duration": "00:00:45",
+  "thumbnail": "https://i.ytimg.com/vi/J7mAMuDuL4U/maxresdefault.jpg",
+  "alt": "음색마저 예쁨 한가득💘",
+  "title": "음색마저 예쁨 한가득💘"
+},
+
+{
+  "link": "https://youtu.be/DrByHx2TMII",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-25T18:00:00",
+  "duration": "00:00:57",
+  "thumbnail": "https://i.ytimg.com/vi/DrByHx2TMII/maxresdefault.jpg",
+  "alt": "미연의 아련한 음색에 2000년대 시간 여행 완료💕",
+  "title": "미연의 아련한 음색에 2000년대 시간 여행 완료💕"
+},
+
+{
+  "link": "https://youtu.be/SCqwvzmUkzs",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-25T18:00:00",
+  "duration": "00:00:50",
+  "thumbnail": "https://i.ytimg.com/vi/SCqwvzmUkzs/maxresdefault.jpg",
+  "alt": "듣는 순간 추억의 성으로 빠지게 되는 두 사람의 듀엣💖",
+  "title": "듣는 순간 추억의 성으로 빠지게 되는 두 사람의 듀엣💖"
+},
+
+{
+  "link": "https://youtu.be/FZJgYmrVmc0",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-02T18:00:00",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/FZJgYmrVmc0/maxresdefault.jpg",
+  "alt": "미연X홍이삭도 빠져버린 그 편지✉️",
+  "title": "미연X홍이삭도 빠져버린 그 편지✉️"
+},
+
+{
+  "link": "https://youtu.be/pqhGP4wJpLw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-02T18:00:00",
+  "duration": "00:00:56",
+  "thumbnail": "https://i.ytimg.com/vi/pqhGP4wJpLw/maxresdefault.jpg",
+  "alt": "미연 음색과 이별 노래가 만나면😭",
+  "title": "미연 음색과 이별 노래가 만나면😭"
+},
+
+{
+  "link": "https://youtu.be/nsgEMmJNO7U",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-09T18:00:00",
+  "duration": "00:00:32",
+  "thumbnail": "https://i.ytimg.com/vi/nsgEMmJNO7U/maxresdefault.jpg",
+  "alt": "로맨스 드라마를 왜 봐 홍이삭X미연이 듀엣을 말아주는데",
+  "title": "로맨스 드라마를 왜 봐 홍이삭X미연이 듀엣을 말아주는데"
+},
+
+{
+  "link": "https://youtu.be/4nbABOnQWc4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-09T18:00:00",
+  "duration": "00:00:35",
+  "thumbnail": "https://i.ytimg.com/vi/4nbABOnQWc4/maxresdefault.jpg",
+  "alt": "(편-안) 집에서 듣는 빗소리만큼 좋은 셋의 조합😌",
+  "title": "(편-안) 집에서 듣는 빗소리만큼 좋은 셋의 조합😌"
+},
+
+{
+  "link": "https://youtu.be/1yA3bSHtny8",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-09T18:00:00",
+  "duration": "00:00:09",
+  "thumbnail": "https://i.ytimg.com/vi/1yA3bSHtny8/maxresdefault.jpg",
+  "alt": "𝓞𝓱 𝓶𝔂 𝓰𝓸𝓭 ૮ ྀིᴗ͈ . ᴗ͈ ྀིა",
+  "title": "𝓞𝓱 𝓶𝔂 𝓰𝓸𝓭 ૮ ྀིᴗ͈ . ᴗ͈ ྀིა"
+},
+
+{
+  "link": "https://youtu.be/LEjr0356QGU",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-12-11T18:00:00",
+  "duration": "00:01:07",
+  "thumbnail": "https://i.ytimg.com/vi/LEjr0356QGU/maxresdefault.jpg",
+  "alt": "[#2025MAMA] WINNERS’ ALL-TIME STAGE #idle",
+  "title": "[#2025MAMA] WINNERS’ ALL-TIME STAGE #idle"
+},
+
+{
+  "link": "https://youtu.be/CklmCAk6jHM",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-12T18:00:00",
+  "duration": "00:00:45",
+  "thumbnail": "https://i.ytimg.com/vi/CklmCAk6jHM/maxresdefault.jpg",
+  "alt": "네버버~ 면이 또 왔Geee",
+  "title": "네버버~ 면이 또 왔Geee"
+},
+
+{
+  "link": "https://youtu.be/7OzD8dlAY5M",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-12-12T18:00:00",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/7OzD8dlAY5M/maxresdefault.jpg",
+  "alt": "두 자매가 만났을 때 👯‍♀️🇹🇭🎶자정까지 카운트다운… #예약 #미니 #아이들",
+  "title": "두 자매가 만났을 때 👯‍♀️🇹🇭🎶자정까지 카운트다운… #예약 #미니 #아이들"
+},
+
+{
+  "link": "https://youtu.be/N0wDVmOg9sI",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-12-13T18:00:00",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/N0wDVmOg9sI/maxresdefault.jpg",
+  "alt": "이게 바로 천천히 가는 거라고 하는 건가요? @official_i_dle의 Minnie가 피처링한 'Reservations'를 스트리밍하세요 💌",
+  "title": "이게 바로 천천히 가는 거라고 하는 건가요? @official_i_dle의 Minnie가 피처링한 'Reservations'를 스트리밍하세요 💌"
+},
+
+{
+  "link": "https://youtu.be/zMcotme7OSE",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-12-15T18:00:00",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/zMcotme7OSE/maxresdefault.jpg",
+  "alt": "ʏᴇꜱ ɪ ᴄᴀɴ!!☕️🧙🏻",
+  "title": "ʏᴇꜱ ɪ ᴄᴀɴ!!☕️🧙🏻"
+}
 
 
 

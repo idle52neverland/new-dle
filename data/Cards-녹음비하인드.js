@@ -669,6 +669,27 @@ const 녹음비하인드Cards = [
   "thumbnail": "https://i.ytimg.com/vi/NhboiNo_SMA/maxresdefault.jpg",
   "alt": "[MAKING] 민니 (MINNIE) - Devil's Angel :: 친애하는 X(Dear. X) OST Part.3",
   "title": "[MAKING] 민니 (MINNIE) - Devil's Angel :: 친애하는 X(Dear. X) OST Part.3"
+},
+{
+  "link": "https://youtu.be/AOSYpBGD4eA",
+  "category": "녹음비하인드",
+  "member": "미연",
+  "date": "2025-11-23T18:00:00",
+  "duration": "00:23:20",
+  "thumbnail": "https://i.ytimg.com/vi/AOSYpBGD4eA/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 2nd Mini Album [MY, Lover] 수록곡 Recording Behind #1ㅣSUB",
+  "title": "미연 (MIYEON) 2nd Mini Album [MY, Lover] 수록곡 Recording Behind #1ㅣSUB"
+},
+
+{
+  "link": "https://youtu.be/KklkJGkvTmc",
+  "category": "녹음비하인드",
+  "member": "미연",
+  "date": "2025-12-04T18:00:00",
+  "duration": "00:22:41",
+  "thumbnail": "https://i.ytimg.com/vi/KklkJGkvTmc/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 2nd Mini Album [MY, Lover] 수록곡 Recording Behind #2ㅣSUB",
+  "title": "미연 (MIYEON) 2nd Mini Album [MY, Lover] 수록곡 Recording Behind #2ㅣSUB"
 }
 
 

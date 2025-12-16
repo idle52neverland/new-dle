@@ -679,7 +679,7 @@ body, button, input, select, textarea, div, span {
 
     .filter-bar {
         justify-content: center;
-        padding-left: 10px;        
+        padding-left: 0;        
         overflow-x: auto;
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;

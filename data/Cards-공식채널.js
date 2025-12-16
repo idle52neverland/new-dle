@@ -10522,7 +10522,115 @@ const 공식채널Cards = [
   "alt": "'F.F.L.Y' SPECIAL CLIP 촬영 비하인드 [MY, Talk] #5 | 미연 (MIYEON)ㅣSUB",
   "title": "'F.F.L.Y' SPECIAL CLIP 촬영 비하인드 [MY, Talk] #5 | 미연 (MIYEON)ㅣSUB",
   "subtag": "SOLO TALK"
+},
+{
+  "link": "https://youtu.be/PVxMADjE0H8",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2025-11-21T18:00:00",
+  "duration": "00:16:46",
+  "thumbnail": "https://i.ytimg.com/vi/PVxMADjE0H8/maxresdefault.jpg",
+  "alt": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.3 | i-dle (아이들)ㅣSUB",
+  "title": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.3 | i-dle (아이들)ㅣSUB",
+  "subtag": "TOUR BEHIND"
+},
+
+{
+  "link": "https://youtu.be/df43xVUh_I8",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2025-11-25T18:00:00",
+  "duration": "00:08:01",
+  "thumbnail": "https://i.ytimg.com/vi/df43xVUh_I8/maxresdefault.jpg",
+  "alt": "SUMMER SONIC 2025 비하인드 [i-talk] #228 | i-dle (아이들)ㅣSUB",
+  "title": "SUMMER SONIC 2025 비하인드 [i-talk] #228 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+
+{
+  "link": "https://youtu.be/DzdYTAjlwjU",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2025-11-26T18:00:00",
+  "duration": "00:13:59",
+  "thumbnail": "https://i.ytimg.com/vi/DzdYTAjlwjU/maxresdefault.jpg",
+  "alt": "'Say My Name' 음악방송 비하인드 PART 1 [MY, Talk] #6 | 미연 (MIYEON)ㅣSUB",
+  "title": "'Say My Name' 음악방송 비하인드 PART 1 [MY, Talk] #6 | 미연 (MIYEON)ㅣSUB",
+  "subtag": "SOLO TALK"
+},
+
+{
+  "link": "https://youtu.be/5FeQADYl2w8",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2025-11-28T18:00:00",
+  "duration": "00:08:13",
+  "thumbnail": "https://i.ytimg.com/vi/5FeQADYl2w8/maxresdefault.jpg",
+  "alt": "우기의 WATERBOMB MACAO 2025 비하인드 [i-talk] #229 | i-dle (아이들)ㅣSUB",
+  "title": "우기의 WATERBOMB MACAO 2025 비하인드 [i-talk] #229 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+
+{
+  "link": "https://youtu.be/KA2cqiOfrn0",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2025-11-29T18:00:00",
+  "duration": "00:09:55",
+  "thumbnail": "https://i.ytimg.com/vi/KA2cqiOfrn0/maxresdefault.jpg",
+  "alt": "미연의 사토 타케루 'TENBLANK from \"Glass Heart\" FAN MEETING' & 2025 SKF 비하인드 [i-talk] #230 | i-dle (아이들)ㅣSUB",
+  "title": "미연의 사토 타케루 'TENBLANK from \"Glass Heart\" FAN MEETING' & 2025 SKF 비하인드 [i-talk] #230 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+
+{
+  "link": "https://youtu.be/ELPPo4EwIbg",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2025-12-02T18:00:00",
+  "duration": "00:05:03",
+  "thumbnail": "https://i.ytimg.com/vi/ELPPo4EwIbg/maxresdefault.jpg",
+  "alt": "면프로디테의 KNIGHT 화보 촬영 현장 👑💗 [#HASHTALK] EP.44ㅣi-dle (아이들)ㅣSUB",
+  "title": "면프로디테의 KNIGHT 화보 촬영 현장 👑💗 [#HASHTALK] EP.44ㅣi-dle (아이들)ㅣSUB",
+  "subtag": "HASHTALK"
+},
+
+{
+  "link": "https://youtu.be/diqPSNczuDo",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2025-12-03T18:00:00",
+  "duration": "00:19:23",
+  "thumbnail": "https://i.ytimg.com/vi/diqPSNczuDo/maxresdefault.jpg",
+  "alt": "'Say My Name' 음악방송 비하인드 PART 2 [MY, Talk] #7 | 미연 (MIYEON)ㅣSUB",
+  "title": "'Say My Name' 음악방송 비하인드 PART 2 [MY, Talk] #7 | 미연 (MIYEON)ㅣSUB",
+  "subtag": "SOLO TALK"
+},
+
+{
+  "link": "https://youtu.be/U-_6zPm_gHI",
+  "category": "공식채널",
+  "member": "소연",
+  "date": "2025-12-05T18:00:00",
+  "duration": "00:10:44",
+  "thumbnail": "https://i.ytimg.com/vi/U-_6zPm_gHI/maxresdefault.jpg",
+  "alt": "소연의 Coach Spring 2026 Show 비하인드 [i-talk] #231 | i-dle (아이들)ㅣSUB",
+  "title": "소연의 Coach Spring 2026 Show 비하인드 [i-talk] #231 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+
+{
+  "link": "https://youtu.be/FTjFNBP0AMs",
+  "category": "공식채널",
+  "member": "슈화",
+  "date": "2025-12-08T18:00:00",
+  "duration": "00:04:50",
+  "thumbnail": "https://i.ytimg.com/vi/FTjFNBP0AMs/maxresdefault.jpg",
+  "alt": "슈슈의 COS 25AW 비하인드 현장 🤎 [#HASHTALK] EP.45ㅣi-dle (아이들)ㅣSUB",
+  "title": "슈슈의 COS 25AW 비하인드 현장 🤎 [#HASHTALK] EP.45ㅣi-dle (아이들)ㅣSUB",
+  "subtag": "HASHTALK"
 }
+
 
 
 ];

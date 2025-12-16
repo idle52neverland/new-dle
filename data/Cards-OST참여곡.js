@@ -1109,6 +1109,16 @@ const OST참여곡Cards = [
   "thumbnail": "https://i.ytimg.com/vi/sLTPwHI_uXk/maxresdefault.jpg",
   "alt": "[OFFICIAL AUDIO] 민니 (MINNIE) - Devil's Angel :: 친애하는 X(Dear. X) OST Part.3",
   "title": "[OFFICIAL AUDIO] 민니 (MINNIE) - Devil's Angel :: 친애하는 X(Dear. X) OST Part.3"
+},
+{
+  "link": "https://youtu.be/yhtaMiavRIY",
+  "category": "OST참여곡",
+  "member": "민니",
+  "date": "2025-12-12T18:00:00",
+  "duration": "00:02:36",
+  "thumbnail": "https://i.ytimg.com/vi/yhtaMiavRIY/maxresdefault.jpg",
+  "alt": "SORN - Reservations (ft. MINNIE)",
+  "title": "SORN - Reservations (ft. MINNIE)"
 }
 
 

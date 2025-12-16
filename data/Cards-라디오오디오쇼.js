@@ -1813,7 +1813,51 @@ const 라디오오디오쇼Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ZJgPvbO06ZQ/maxresdefault.jpg",
   "alt": "[FULL] 우리 면프로디테가 광기를 낉여왔잖아💜 SAY MY ✨미연✨ 이즈 뷰티풀,, 별밤 초대석에서 확인 가능✅ | 김이나의 별이 빛나는 밤에 | MBC 251112 방송",
   "title": "[FULL] 우리 면프로디테가 광기를 낉여왔잖아💜 SAY MY ✨미연✨ 이즈 뷰티풀,, 별밤 초대석에서 확인 가능✅ | 김이나의 별이 빛나는 밤에 | MBC 251112 방송"
+},
+{
+  "link": "https://youtu.be/7qWrT0zbEGU",
+  "category": "라디오오디오쇼",
+  "member": "미연",
+  "date": "2025-12-08T18:00:00",
+  "duration": "01:59:00",
+  "thumbnail": "https://i.ytimg.com/vi/7qWrT0zbEGU/maxresdefault.jpg",
+  "alt": "[FULL] 이번 친친 스페셜 DJ는 면디 💚미연💚과 함께합니다✨ 월요일 터줏대감 장준도 빠질 수 없음⭐️ | Holiday in 친한친구 | MBC 251208 방송",
+  "title": "[FULL] 이번 친친 스페셜 DJ는 면디 💚미연💚과 함께합니다✨ 월요일 터줏대감 장준도 빠질 수 없음⭐️ | Holiday in 친한친구 | MBC 251208 방송"
+},
+
+{
+  "link": "https://youtu.be/tv3obXB5zs8",
+  "category": "라디오오디오쇼",
+  "member": "미연",
+  "date": "2025-12-09T18:00:00",
+  "duration": "01:59:15",
+  "thumbnail": "https://i.ytimg.com/vi/tv3obXB5zs8/maxresdefault.jpg",
+  "alt": "[FULL] 계속 피어날 ✨베리베리✨와 ✨아이들 미연✨과 함께 친친에서 한없이 놀아봅시다🔥 | Holiday in 친한친구 | MBC 251209 방송",
+  "title": "[FULL] 계속 피어날 ✨베리베리✨와 ✨아이들 미연✨과 함께 친친에서 한없이 놀아봅시다🔥 | Holiday in 친한친구 | MBC 251209 방송"
+},
+
+{
+  "link": "https://youtu.be/1OCrRAC530Y",
+  "category": "라디오오디오쇼",
+  "member": "미연",
+  "date": "2025-12-11T18:00:00",
+  "duration": "01:59:11",
+  "thumbnail": "https://i.ytimg.com/vi/1OCrRAC530Y/maxresdefault.jpg",
+  "alt": "[FULL] 쿼카의 절대자, 비주얼의 지배자 스페셜 DJ 면디 ✨미연✨이와 네버버 오붓한 시간 보내기💚 | Holiday in 친한친구 | MBC 251211 방송",
+  "title": "[FULL] 쿼카의 절대자, 비주얼의 지배자 스페셜 DJ 면디 ✨미연✨이와 네버버 오붓한 시간 보내기💚 | Holiday in 친한친구 | MBC 251211 방송"
+},
+
+{
+  "link": "https://youtu.be/v4gWC3H4S1Q",
+  "category": "라디오오디오쇼",
+  "member": "미연",
+  "date": "2025-12-12T18:00:00",
+  "duration": "01:59:20",
+  "thumbnail": "https://i.ytimg.com/vi/v4gWC3H4S1Q/maxresdefault.jpg",
+  "alt": "[FULL] 망설임 따윈 Not 우리 style💥✨아이들 미연&키라스✨와 함께 하는 금요일 밤🩷 | Holiday in 친한친구 | MBC 251212 방송",
+  "title": "[FULL] 망설임 따윈 Not 우리 style💥✨아이들 미연&키라스✨와 함께 하는 금요일 밤🩷 | Holiday in 친한친구 | MBC 251212 방송"
 }
+
 
   ];
 window.라디오오디오쇼Cards = 라디오오디오쇼Cards;

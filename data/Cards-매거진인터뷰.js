@@ -2306,6 +2306,16 @@ const 매거진인터뷰Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pySD0POVCVA/maxresdefault.jpg",
   "alt": "중앙일보 창간 60주년 글로벌 미디어 컨퍼런스 스피치 소연",
   "title": "중앙일보 창간 60주년 글로벌 미디어 컨퍼런스 스피치 소연"
+},
+{
+  "link": "https://youtu.be/5C7vT7_eso4",
+  "category": "매거진인터뷰",
+  "member": "미연",
+  "date": "2025-11-22T18:00:00",
+  "duration": "00:07:28",
+  "thumbnail": "https://i.ytimg.com/vi/5C7vT7_eso4/maxresdefault.jpg",
+  "alt": "[EN/JP/CN/쇼미유어백] MIYEON 자랑할게 너무 많은 아이들 미연🤗 가방 속 신박템+애정템 대공개👜💗",
+  "title": "[EN/JP/CN/쇼미유어백] MIYEON 자랑할게 너무 많은 아이들 미연🤗 가방 속 신박템+애정템 대공개👜💗"
 }
 
 ];

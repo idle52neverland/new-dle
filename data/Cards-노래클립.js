@@ -3551,6 +3551,60 @@ const 노래클립Cards = [
   "thumbnail": "https://i.ytimg.com/vi/BMvrqbKgL6o/maxresdefault.jpg",
   "alt": "쌀쌀한 계절에 찰떡💕 벅차오르는 청춘 드라마가 떠오르는 미연(MIYEON)의 신곡 - 'Say My Name'♬｜비긴어게인 오픈마이크",
   "title": "쌀쌀한 계절에 찰떡💕 벅차오르는 청춘 드라마가 떠오르는 미연(MIYEON)의 신곡 - 'Say My Name'♬｜비긴어게인 오픈마이크"
+},
+{
+  "link": "https://youtu.be/fvmyRl5tmfA",
+  "category": "노래클립",
+  "member": "미연",
+  "date": "2025-11-24T18:01:00",
+  "duration": "00:05:35",
+  "thumbnail": "https://i.ytimg.com/vi/fvmyRl5tmfA/maxresdefault.jpg",
+  "alt": "미연(MIYEON)의 애절한 음색으로 말하는 가슴 아픈 이별..💧 '그런 일은'♬｜비긴어게인 오픈마이크",
+  "title": "미연(MIYEON)의 애절한 음색으로 말하는 가슴 아픈 이별..💧 '그런 일은'♬｜비긴어게인 오픈마이크"
+},
+
+{
+  "link": "https://youtu.be/YKkdo7h6vZ0",
+  "category": "노래클립",
+  "member": "미연",
+  "date": "2025-11-24T18:02:00",
+  "duration": "00:06:06",
+  "thumbnail": "https://i.ytimg.com/vi/YKkdo7h6vZ0/maxresdefault.jpg",
+  "alt": "듣는 순간 동화 속으로 빠져드는 마법💫 마음이 깨끗해지는 김광진(Kim Kwang Jin)·미연(MIYEON)의 '마법의 성'♬｜비긴어게인 오픈마이크",
+  "title": "듣는 순간 동화 속으로 빠져드는 마법💫 마음이 깨끗해지는 김광진(Kim Kwang Jin)·미연(MIYEON)의 '마법의 성'♬｜비긴어게인 오픈마이크"
+},
+
+{
+  "link": "https://youtu.be/pfDHS0cKgo4",
+  "category": "노래클립",
+  "member": "미연",
+  "date": "2025-12-01T18:03:00",
+  "duration": "00:04:14",
+  "thumbnail": "https://i.ytimg.com/vi/pfDHS0cKgo4/maxresdefault.jpg",
+  "alt": "쓸쓸한 가사와 따뜻한 미성이 어우러진 미연(MIYEON)의 솔로 앨범 수록곡! 'F.F.L.Y'♬｜비긴어게인 오픈마이크",
+  "title": "쓸쓸한 가사와 따뜻한 미성이 어우러진 미연(MIYEON)의 솔로 앨범 수록곡! 'F.F.L.Y'♬｜비긴어게인 오픈마이크"
+},
+
+{
+  "link": "https://youtu.be/A2ljYYNmVj0",
+  "category": "노래클립",
+  "member": "미연",
+  "date": "2025-12-08T18:00:00",
+  "duration": "00:04:07",
+  "thumbnail": "https://i.ytimg.com/vi/A2ljYYNmVj0/maxresdefault.jpg",
+  "alt": "홍이삭(Isaac Hong)&미연(MIYEON)의 목소리로 전하는 달달 로맨스💞 '사랑인가 봐'♬｜비긴어게인 오픈마이크",
+  "title": "홍이삭(Isaac Hong)&미연(MIYEON)의 목소리로 전하는 달달 로맨스💞 '사랑인가 봐'♬｜비긴어게인 오픈마이크"
+},
+
+{
+  "link": "https://youtu.be/x5XvD5VgjSE",
+  "category": "노래클립",
+  "member": "미연",
+  "date": "2025-12-08T18:00:00",
+  "duration": "00:06:59",
+  "thumbnail": "https://i.ytimg.com/vi/x5XvD5VgjSE/maxresdefault.jpg",
+  "alt": "촉촉한 감성에 빠져들 시간☂️ 김광진(Kim Kwang Jin)·홍이삭(Isaac Hong)·미연(MIYEON)의 '여우야'♬｜비긴어게인 오픈마이크",
+  "title": "촉촉한 감성에 빠져들 시간☂️ 김광진(Kim Kwang Jin)·홍이삭(Isaac Hong)·미연(MIYEON)의 '여우야'♬｜비긴어게인 오픈마이크"
 }
 
 ];
