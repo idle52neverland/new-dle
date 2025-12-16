@@ -579,8 +579,8 @@ const 공연축제Cards = [
   "date": "2019-05-18T18:00:00",
   "duration": "00:03:42",
   "thumbnail": "https://i.ytimg.com/vi/KLfU9Wdwobc/sddefault.jpg",
-  "alt": "드림콘서트2019 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼",
-  "title": "드림콘서트2019 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼"
+  "alt": "[드림콘서트2019] 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼 | Dream Concert 2019",
+  "title": "[드림콘서트2019] 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼 | Dream Concert 2019"
 },
 
 {
@@ -590,8 +590,8 @@ const 공연축제Cards = [
   "date": "2019-05-21T18:00:00",
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/KL_mKVw2uHY/maxresdefault.jpg",
-  "alt": "드림콘서트2019 (G)I-DLE, Senorita [Dream Concert 2019, Fancam",
-  "title": "드림콘서트2019 (G)I-DLE, Senorita [Dream Concert 2019, Fancam"
+  "alt": "[드림콘서트2019] (G)I-DLE, Senorita  Fancam | Dream Concert 2019",
+  "title": "[드림콘서트2019] (G)I-DLE, Senorita  Fancam | Dream Concert 2019"
 },
 
 {
@@ -2469,7 +2469,7 @@ const 공연축제Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3RaBx9_ij4k/maxresdefault.jpg",
   "alt": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | M.O (Live Stage)",
   "title": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | M.O (Live Stage)"
-}
+},
 
 
 {
