@@ -17762,6 +17762,36 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/5yop4k8HlGY/maxresdefault.jpg",
   "alt": "면토끼 개인기 보고가세요~ᕱ⑅ᕱ",
   "title": "면토끼 개인기 보고가세요~ᕱ⑅ᕱ"
+},
+{
+  "link": "https://youtu.be/m_ZuuKj2a1Y",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2023-05-25T18:00:00",
+  "duration": "00:00:54",
+  "thumbnail": "https://i.ytimg.com/vi/m_ZuuKj2a1Y/sddefault.jpg",
+  "alt": "[쇼! 음악중심] 암어 퀸~카 암어암어암어 퀸~카♩♬♪└(^o^ ))┐┌(( ^o^)┘♩♬♪ #여자아이들 #GIDLE #퀸카 #Queencard #Shorts",
+  "title": "[쇼! 음악중심] 암어 퀸~카 암어암어암어 퀸~카♩♬♪└(^o^ ))┐┌(( ^o^)┘♩♬♪ #여자아이들 #GIDLE #퀸카 #Queencard #Shorts"
+},
+{
+  "link": "https://youtu.be/eql5fVKWiZw",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2023-05-25T18:00:00",
+  "duration": "00:00:56",
+  "thumbnail": "https://i.ytimg.com/vi/eql5fVKWiZw/sddefault.jpg",
+  "alt": "[직캠 보고서🔍] ~퀸카의 조건~ 기들 퀸카와 함께 트월킹으로 입장하기👑💖 #GIDLE #퀸카 #Shorts",
+  "title": "[직캠 보고서🔍] ~퀸카의 조건~ 기들 퀸카와 함께 트월킹으로 입장하기👑💖 #GIDLE #퀸카 #Shorts"
+},
+{
+  "link": "https://youtu.be/-_mBU0inx0g",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2023-06-02T18:00:00",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/-_mBU0inx0g/sddefault.jpg",
+  "alt": "[직캠 보고서🔍] 네버랜드 '퀸'받게 하는 아이들 모음.ZIP👑 #여자아이들 #퀸카 #Queencard #Shorts",
+  "title": "[직캠 보고서🔍] 네버랜드 '퀸'받게 하는 아이들 모음.ZIP👑 #여자아이들 #퀸카 #Queencard #Shorts"
 }
 
 

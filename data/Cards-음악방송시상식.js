@@ -1711,7 +1711,7 @@ const 음악방송시상식Cards = [
   "link": "https://youtu.be/Yu-YqJVQrPI",
   "category": "음악방송시상식",
   "member": "아이들",
-  "date": "2019-07-02T18:00:00",
+  "date": "2019-07-02T18:00:03",
   "duration": "00:03:40",
   "thumbnail": "https://i.ytimg.com/vi/Yu-YqJVQrPI/maxresdefault.jpg",
   "alt": "[더쇼] (여자)아이들 Uh-Oh, THE SHOW CHOICE! 1위 앵콜 무대",
@@ -1722,7 +1722,7 @@ const 음악방송시상식Cards = [
   "link": "https://youtu.be/WG2VJgSmKTk",
   "category": "음악방송시상식",
   "member": "아이들",
-  "date": "2019-07-02T18:00:00",
+  "date": "2019-07-02T18:00:01",
   "duration": "00:03:50",
   "thumbnail": "https://i.ytimg.com/vi/WG2VJgSmKTk/maxresdefault.jpg",
   "alt": "[더쇼] (G)I-DLE - Uh-Oh",
@@ -1733,13 +1733,22 @@ const 음악방송시상식Cards = [
   "link": "https://youtu.be/c6x_H9emwoo",
   "category": "음악방송시상식",
   "member": "아이들",
-  "date": "2019-07-02T18:00:00",
+  "date": "2019-07-02T18:00:02",
   "duration": "00:03:41",
   "thumbnail": "https://i.ytimg.com/vi/c6x_H9emwoo/maxresdefault.jpg",
   "alt": "[쇼챔피언] [덕질캡쳐용♥CLEAN ver.] (여자)아이들 - Uh-Oh ((G)I-DLE - Uh-Oh)",
   "title": "[쇼챔피언] [덕질캡쳐용♥CLEAN ver.] (여자)아이들 - Uh-Oh ((G)I-DLE - Uh-Oh)"
 },
-
+{
+  "link": "https://youtu.be/Jw9eWqScvWc",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2019-07-02T18:00:04",
+  "duration": "00:01:36",
+  "thumbnail": "https://i.ytimg.com/vi/Jw9eWqScvWc/sddefault.jpg",
+  "alt": "[ENG sub] (여자)아이들((G)I-DLE) 'Uh-Oh' M COUNTDOWN 사전녹화 비하인드",
+  "title": "[ENG sub] (여자)아이들((G)I-DLE) 'Uh-Oh' M COUNTDOWN 사전녹화 비하인드"
+},
 {
   "link": "https://youtu.be/Q6UJ7eBgnk8",
   "category": "음악방송시상식",
@@ -2212,7 +2221,16 @@ const 음악방송시상식Cards = [
   "alt": "[엠카운트다운] (G)I-DLE - HANN(Alone) MCD School Special EP.659",
   "title": "[엠카운트다운] (G)I-DLE - HANN(Alone) MCD School Special EP.659"
 },
-
+{
+  "link": "https://youtu.be/FO8lvO0lfyk",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-04-09T17:00:00",
+  "duration": "00:02:42",
+  "thumbnail": "https://i.ytimg.com/vi/FO8lvO0lfyk/sddefault.jpg",
+  "alt": "[엠카운트다운] K-POP 타임머신 ＜엠카 뮤비＞ (여자)아이들이 재해석하는 'Super Star' | M COUNTDOWN EP.660",
+  "title": "[엠카운트다운] K-POP 타임머신 ＜엠카 뮤비＞ (여자)아이들이 재해석하는 'Super Star' | M COUNTDOWN EP.660"
+},
 {
   "link": "https://youtu.be/Fpw2-dsxJUE",
   "category": "음악방송시상식",
@@ -2530,6 +2548,16 @@ const 음악방송시상식Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ASfuZ6-WLzk/maxresdefault.jpg",
   "alt": "[엠카운트다운] [입덕직캠] (여자)아이들 미연 직캠 4K 'Oh my god’ ((G)I-DLE MIYEON FanCam)",
   "title": "[엠카운트다운] [입덕직캠] (여자)아이들 미연 직캠 4K 'Oh my god’ ((G)I-DLE MIYEON FanCam)"
+},
+{
+  "link": "https://youtu.be/rILeC4E7ct4",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-04-16T18:00:00",
+  "duration": "00:01:29",
+  "thumbnail": "https://i.ytimg.com/vi/rILeC4E7ct4/sddefault.jpg",
+  "alt": "[엠카운트다운] [ENG] ['Today's MCD' 엠카 스쿨 방과 후 특별 활동(with.(여자)아이들)] After School Life Special | M COUNTDOWN",
+  "title": "[엠카운트다운] [ENG] ['Today's MCD' 엠카 스쿨 방과 후 특별 활동(with.(여자)아이들)] After School Life Special | M COUNTDOWN"
 },
 
 {
@@ -11785,16 +11813,25 @@ const 음악방송시상식Cards = [
 },
 
 {
-  "link": "https://youtu.be/x7j0frire9U",
+  "link": "https://youtu.be/x7j0frire9U", 
   "category": "음악방송시상식",
   "member": "아이들",
   "date": "2025-05-29T18:00:05",
   "duration": "00:02:58",
-  "thumbnail": "https://i.ytimg.com/vi/x7j0frire9U/maxresdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/x7j0frire9U/maxresdefau lt.jpg",
   "alt": "[ASEA 2025] i-dle 아이들 - 나는 아픈 건 딱 질색이니까 앵콜무대 (ENCORE)",
   "title": "[ASEA 2025] i-dle 아이들 - 나는 아픈 건 딱 질색이니까 앵콜무대 (ENCORE)"
 },
-
+{
+  "link": "https://youtu.be/yKGJ4skMico",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2025-05-29T18:00:06",
+  "duration": "00:02:57",
+  "thumbnail": "https://i.ytimg.com/vi/yKGJ4skMico/maxresdefault.jpg",
+  "alt": "[ASEA 2025] 아이들 아티스트석 리액션 모음 🎬 | idle Artist Seat Reactions at Asia Star Entertainer Awards 2025",
+  "title": "[ASEA 2025] 아이들 아티스트석 리액션 모음 🎬 | idle Artist Seat Reactions at Asia Star Entertainer Awards 2025"
+},
 {
   "link": "https://youtu.be/kfWSiV1nO9M",
   "category": "음악방송시상식",
@@ -12731,7 +12768,867 @@ const 음악방송시상식Cards = [
   "thumbnail": "https://i.ytimg.com/vi/yDVnlX6gWug/maxresdefault.jpg",
   "alt": "미연🐰 X 한빈🐹 10월 2주 MC 컷 모음❣️ #엠카운트다운 #MCOUNTDOWN",
   "title": "미연🐰 X 한빈🐹 10월 2주 MC 컷 모음❣️ #엠카운트다운 #MCOUNTDOWN"
+},
+{
+  "link": "https://youtu.be/x9uDEYGxVnk",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-01-04T18:00:00",
+  "duration": "00:03:57",
+  "thumbnail": "https://i.ytimg.com/vi/x9uDEYGxVnk/sddefault.jpg",
+  "alt": "[쇼챔비하인드.zip] (여자)아이들 'Uh-Oh' 백스테이지 Full l (G)I-DLE",
+  "title": "[쇼챔비하인드.zip] (여자)아이들 'Uh-Oh' 백스테이지 Full l (G)I-DLE"
+},
+{
+  "link": "https://youtu.be/SzHrw9BKVwM",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-01-04T18:00:00",
+  "duration": "00:14:28",
+  "thumbnail": "https://i.ytimg.com/vi/SzHrw9BKVwM/sddefault.jpg",
+  "alt": "[쇼챔비하인드.zip] (여자)아이들 'LATATA' 백스테이지 Full l (G)I-DLE",
+  "title": "[쇼챔비하인드.zip] (여자)아이들 'LATATA' 백스테이지 Full l (G)I-DLE"
+},
+{
+  "link": "https://youtu.be/HFr8bpWn0es",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-01-04T18:00:00",
+  "duration": "00:12:41",
+  "thumbnail": "https://i.ytimg.com/vi/HFr8bpWn0es/sddefault.jpg",
+  "alt": "[쇼챔비하인드.zip] (여자)아이들 'Senorita' 백스테이지 Full l (G)I-DLE",
+  "title": "[쇼챔비하인드.zip] (여자)아이들 'Senorita' 백스테이지 Full l (G)I-DLE"
+},
+{
+  "link": "https://youtu.be/Hc01-xYBSNE",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-04-17T18:00:00",
+  "duration": "00:18:37",
+  "thumbnail": "https://i.ytimg.com/vi/Hc01-xYBSNE/sddefault.jpg",
+  "alt": "[ENG] [엠카뮤비 메이킹] ✨큐티빠띠뽀띠✨ (여자)아이들 'Superstar' 엠카 뮤비 비하인드",
+  "title": "[ENG] [엠카뮤비 메이킹] ✨큐티빠띠뽀띠✨ (여자)아이들 'Superstar' 엠카 뮤비 비하인드"
+},
+
+{
+  "link": "https://youtu.be/GZn5bjML7bE",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-02-19T18:00:00",
+  "duration": "00:06:53",
+  "thumbnail": "https://i.ytimg.com/vi/GZn5bjML7bE/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/S4GvoOSNPo8",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-02-19T18:00:00",
+  "duration": "00:02:40",
+  "thumbnail": "https://i.ytimg.com/vi/S4GvoOSNPo8/sddefault.jpg",
+  "alt": "[ENG] 🎤깜짝 인터뷰 ⭐️엠카운트다운 새로운 MC를 소개합니다⭐️ 배우 남윤수 & (여자)아이들 미연",
+  "title": "[ENG] 🎤깜짝 인터뷰 ⭐️엠카운트다운 새로운 MC를 소개합니다⭐️ 배우 남윤수 & (여자)아이들 미연"
+},
+
+{
+  "link": "https://youtu.be/QFwPd8fxJqw",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-03-02T18:00:00",
+  "duration": "00:05:35",
+  "thumbnail": "https://i.ytimg.com/vi/QFwPd8fxJqw/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/2dyp01uoz8I",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-03-09T18:00:00",
+  "duration": "00:05:55",
+  "thumbnail": "https://i.ytimg.com/vi/2dyp01uoz8I/sddefault.jpg",
+  "alt": "[엠카운트다운] (미모 머선129… 시상식 온 줄) 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] (미모 머선129… 시상식 온 줄) 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/KUBVWpaspsY",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-03-12T18:00:00",
+  "duration": "00:05:55",
+  "thumbnail": "https://i.ytimg.com/vi/KUBVWpaspsY/sddefault.jpg",
+  "alt": "[엠카운트다운] 봄 기운 폴폴~🌱🌼 윤수X미연 MC CUT | M COUNTDOWN",
+  "title": "[엠카운트다운] 봄 기운 폴폴~🌱🌼 윤수X미연 MC CUT | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/zQ7-Z1XOmSo",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-03-22T18:00:00",
+  "duration": "00:06:22",
+  "thumbnail": "https://i.ytimg.com/vi/zQ7-Z1XOmSo/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/2q0g0Bqatt8",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-03-29T18:00:00",
+  "duration": "00:04:05",
+  "thumbnail": "https://i.ytimg.com/vi/2q0g0Bqatt8/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/vi8OQdCV3Jg",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-04-13T18:00:00",
+  "duration": "00:04:28",
+  "thumbnail": "https://i.ytimg.com/vi/vi8OQdCV3Jg/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/6Shdxp0f5NE",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-04-16T18:00:00",
+  "duration": "00:04:57",
+  "thumbnail": "https://i.ytimg.com/vi/6Shdxp0f5NE/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/WkLneX_D7-8",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-05-10T18:00:00",
+  "duration": "00:04:57",
+  "thumbnail": "https://i.ytimg.com/vi/WkLneX_D7-8/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/h0WFTsXuYhA",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-05-14T18:00:00",
+  "duration": "00:05:34",
+  "thumbnail": "https://i.ytimg.com/vi/h0WFTsXuYhA/sddefault.jpg",
+  "alt": "[엠카운트다운] MC 미연 & SPECIAL MC 신원&키노 MC CUT | M COUNTDOWN",
+  "title": "[엠카운트다운] MC 미연 & SPECIAL MC 신원&키노 MC CUT | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/p6ibpJ6wKDA",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-05-26T18:00:00",
+  "duration": "00:05:20",
+  "thumbnail": "https://i.ytimg.com/vi/p6ibpJ6wKDA/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/g6wWK_EdwFc",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-05-27T18:00:00",
+  "duration": "00:01:46",
+  "thumbnail": "https://i.ytimg.com/vi/g6wWK_EdwFc/sddefault.jpg",
+  "alt": "[엠카] (여자)아이들 미연+남윤수 MC컷",
+  "title": "[엠카] (여자)아이들 미연+남윤수 MC컷"
+},
+
+{
+  "link": "https://youtu.be/jESkr_TH2oU",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-05-31T18:00:00",
+  "duration": "00:05:54",
+  "thumbnail": "https://i.ytimg.com/vi/jESkr_TH2oU/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/m1lltqmC3ao",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-06-02T18:00:00",
+  "duration": "00:02:39",
+  "thumbnail": "https://i.ytimg.com/vi/m1lltqmC3ao/sddefault.jpg",
+  "alt": "[엠카 댄스 챌린지 풀버전] 윤수&미연(YOONSU&MIYEON) - 살짝 설렜어(Nonstop) ♬",
+  "title": "[엠카 댄스 챌린지 풀버전] 윤수&미연(YOONSU&MIYEON) - 살짝 설렜어(Nonstop) ♬"
+},
+
+{
+  "link": "https://youtu.be/yJOdYmax32k",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-06-07T18:00:00",
+  "duration": "00:05:49",
+  "thumbnail": "https://i.ytimg.com/vi/yJOdYmax32k/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/s6ZJKLoDKvU",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-06-14T18:00:00",
+  "duration": "00:05:02",
+  "thumbnail": "https://i.ytimg.com/vi/s6ZJKLoDKvU/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/JCyKhZaBSU4",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-06-23T18:00:00",
+  "duration": "00:04:13",
+  "thumbnail": "https://i.ytimg.com/vi/JCyKhZaBSU4/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/ffVVKi1DMfU",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-07-05T18:00:00",
+  "duration": "00:04:20",
+  "thumbnail": "https://i.ytimg.com/vi/ffVVKi1DMfU/sddefault.jpg",
+  "alt": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN",
+  "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/VO3emDZQbPU",
+  "category": "음악방송시상식",
+  "member": "소연, 미연",
+  "date": "2021-07-26T18:00:00",
+  "duration": "00:01:01",
+  "thumbnail": "https://i.ytimg.com/vi/VO3emDZQbPU/sddefault.jpg",
+  "alt": "[ENG] 전소연&미연이 알려주는 이번 주 엠카운트다운 라인업은? #엠카운트다운 EP.719",
+  "title": "[ENG] 전소연&미연이 알려주는 이번 주 엠카운트다운 라인업은? #엠카운트다운 EP.719"
+},
+
+{
+  "link": "https://youtu.be/BOVn3btc3YA",
+  "category": "음악방송시상식",
+  "member": "소연",
+  "date": "2021-08-02T18:00:00",
+  "duration": "00:04:44",
+  "thumbnail": "https://i.ytimg.com/vi/BOVn3btc3YA/sddefault.jpg",
+  "alt": "[ENG] 7월 마지막 주 1위 '전소연'의 '삠삠(BEAM BEAM)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.719",
+  "title": "[ENG] 7월 마지막 주 1위 '전소연'의 '삠삠(BEAM BEAM)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.719"
+},
+
+{
+  "link": "https://youtu.be/_zquu-8e_wA",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2022-05-06T18:00:00",
+  "duration": "00:34:26",
+  "thumbnail": "https://i.ytimg.com/vi/_zquu-8e_wA/sddefault.jpg",
+  "alt": "어린이날 맞이🧒 웃음과 비명이 난무하는 엠카 GAME ZONE🕹️ 근데 이제 극딜을 곁들인.. | MC 윤수&미연, DKZ, IVE, VICTON(빅톤), 드림캐쳐, CRAVITY",
+  "title": "어린이날 맞이🧒 웃음과 비명이 난무하는 엠카 GAME ZONE🕹️ 근데 이제 극딜을 곁들인.. | MC 윤수&미연, DKZ, IVE, VICTON(빅톤), 드림캐쳐, CRAVITY"
+},
+
+{
+  "link": "https://youtu.be/1-91Dfmfa0g",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2022-10-14T18:00:00",
+  "duration": "00:22:48",
+  "thumbnail": "https://i.ytimg.com/vi/1-91Dfmfa0g/sddefault.jpg",
+  "alt": "[엠카운트다운] 〈다시 만난 세계〉 엠카 보컬 챌린지 비하인드 | 뉴진스(NewJeans), STAYC(스테이씨), 최예나, (여자)아이들 미연, 우주소녀 연정, VIVIZ 은하",
+  "title": "[엠카운트다운] 〈다시 만난 세계〉 엠카 보컬 챌린지 비하인드 | 뉴진스(NewJeans), STAYC(스테이씨), 최예나, (여자)아이들 미연, 우주소녀 연정, VIVIZ 은하"
+},
+
+{
+  "link": "https://youtu.be/1jyJCP4325E",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2023-06-10T18:00:00",
+  "duration": "00:36:04",
+  "thumbnail": "https://i.ytimg.com/vi/1jyJCP4325E/sddefault.jpg",
+  "alt": "✨엠카 800회 기념✨ 엠카 백일장 📝 | 주헌 (몬스타엑스), (여자)아이들, AB6IX(에이비식스), Xdinary Heroes, LE SSERAFIM, xikers(싸이커스)",
+  "title": "✨엠카 800회 기념✨ 엠카 백일장 📝 | 주헌 (몬스타엑스), (여자)아이들, AB6IX(에이비식스), Xdinary Heroes, LE SSERAFIM, xikers(싸이커스)"
+},
+
+{
+  "link": "https://youtu.be/wcyYkKNEnGA",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2023-06-11T18:00:00",
+  "duration": "00:02:36",
+  "thumbnail": "https://i.ytimg.com/vi/wcyYkKNEnGA/sddefault.jpg",
+  "alt": "(미연)- ✨엠카 800회 기념✨ ⏰ 엠카 800 챌린지 ✦ 특별판 ✦ MC 허니여니 편",
+  "title": "(미연)- ✨엠카 800회 기념✨ ⏰ 엠카 800 챌린지 ✦ 특별판 ✦ MC 허니여니 편"
+},
+
+{
+  "link": "https://youtu.be/lHOdneHI9n4",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2023-06-11T18:00:00",
+  "duration": "00:02:36",
+  "thumbnail": "https://i.ytimg.com/vi/lHOdneHI9n4/sddefault.jpg",
+  "alt": "(ENG) [쇼챔직캠미방] 🚨네버랜드 참고🚨 (여자)아이들 콘서트 드레스 코드👑 l #GIDLE l #쇼챔피언",
+  "title": "(ENG) [쇼챔직캠미방] 🚨네버랜드 참고🚨 (여자)아이들 콘서트 드레스 코드👑 l #GIDLE l #쇼챔피언"
+},
+
+{
+  "link": "https://youtu.be/lIiKTLz0igo",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2024-02-01T18:00:00",
+  "duration": "00:08:29",
+  "thumbnail": "https://i.ytimg.com/vi/lIiKTLz0igo/sddefault.jpg",
+  "alt": "[EN/JP] '미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) #엠카운트다운 EP.827 | Mnet 방송",
+  "title": "[EN/JP] '미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) #엠카운트다운 EP.827 | Mnet 방송"
+},
+
+{
+  "link": "https://youtu.be/k426nSKvkuc",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2024-07-11T18:00:00",
+  "duration": "00:06:20",
+  "thumbnail": "https://i.ytimg.com/vi/k426nSKvkuc/sddefault.jpg",
+  "alt": "'미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) #엠카운트다운 EP.852 | Mnet 방송",
+  "title": "'미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) #엠카운트다운 EP.852 | Mnet 방송"
+},
+{
+  "link": "https://youtu.be/4DUG8wAZNNc",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-04-28T18:00:00",
+  "duration": "00:02:35",
+  "thumbnail": "https://i.ytimg.com/vi/4DUG8wAZNNc/sddefault.jpg",
+  "alt": "[쇼챔피언] 왕 크니까 왕 귀여운 송우기 초근접 CAM♥ l #쇼챔피언비하인드 l EP.160",
+  "title": "[쇼챔피언] 왕 크니까 왕 귀여운 송우기 초근접 CAM♥ l #쇼챔피언비하인드 l EP.160"
+},
+
+{
+  "link": "https://youtu.be/g1STXl8lHtM",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-04-28T18:00:00",
+  "duration": "00:01:52",
+  "thumbnail": "https://i.ytimg.com/vi/g1STXl8lHtM/sddefault.jpg",
+  "alt": "[쇼챔피언] '(여자)아이들'만의 S/S 패션 TIP #리액션#장인 l #쇼챔피언비하인드 l EP.160",
+  "title": "[쇼챔피언] '(여자)아이들'만의 S/S 패션 TIP #리액션#장인 l #쇼챔피언비하인드 l EP.160"
+},
+
+{
+  "link": "https://youtu.be/1ISy8dR-a2Q",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-04-28T18:00:00",
+  "duration": "00:02:21",
+  "thumbnail": "https://i.ytimg.com/vi/1ISy8dR-a2Q/sddefault.jpg",
+  "alt": "[쇼챔피언] 'Oh my god'으로 돌아온 몽환돌 (여자)아이들 l #쇼챔피언비하인드 l EP.160",
+  "title": "[쇼챔피언] 'Oh my god'으로 돌아온 몽환돌 (여자)아이들 l #쇼챔피언비하인드 l EP.160"
+},
+
+{
+  "link": "https://youtu.be/bwO046TMRXQ",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-04-29T18:00:00",
+  "duration": "00:01:57",
+  "thumbnail": "https://i.ytimg.com/vi/bwO046TMRXQ/sddefault.jpg",
+  "alt": "[쇼챔피언] [줍줍 TIME] 차고 넘친 (여자)아이들 매력 능력치 Max♥ l EP.351",
+  "title": "[쇼챔피언] [줍줍 TIME] 차고 넘친 (여자)아이들 매력 능력치 Max♥ l EP.351"
+},
+
+{
+  "link": "https://youtu.be/L9p-4UaEf2I",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-04-29T18:00:00",
+  "duration": "00:04:04",
+  "thumbnail": "https://i.ytimg.com/vi/L9p-4UaEf2I/sddefault.jpg",
+  "alt": "[더쇼] 퇴근을 너무 '사랑해♥'버린 아이들의 퇴근길은 Oh my god! [퇴근길 LIVE]",
+  "title": "[더쇼] 퇴근을 너무 '사랑해♥'버린 아이들의 퇴근길은 Oh my god! [퇴근길 LIVE]"
+},
+
+{
+  "link": "https://youtu.be/d6lmphiZ3ds",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-05-03T18:00:00",
+  "duration": "00:05:52",
+  "thumbnail": "https://i.ytimg.com/vi/d6lmphiZ3ds/sddefault.jpg",
+  "alt": "[더쇼] 에이핑크, (여자)아이들 페이스티켓 [비하인드 더 쇼 ]",
+  "title": "[더쇼] 에이핑크, (여자)아이들 페이스티켓 [비하인드 더 쇼 ]"
+},
+
+{
+  "link": "https://youtu.be/N_b7oFlmG3w",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-05-05T18:00:00",
+  "duration": "00:02:16",
+  "thumbnail": "https://i.ytimg.com/vi/N_b7oFlmG3w/sddefault.jpg",
+  "alt": "[쇼챔피언] 천재만 보는 나비가 있대.. 그래서 전소연만 볼 수 있대.. l #쇼챔피언비하인드 l EP.161",
+  "title": "[쇼챔피언] 천재만 보는 나비가 있대.. 그래서 전소연만 볼 수 있대.. l #쇼챔피언비하인드 l EP.161"
+},
+
+{
+  "link": "https://youtu.be/7yUBBqIthwI",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-09-04T18:00:00",
+  "duration": "00:04:18",
+  "thumbnail": "https://i.ytimg.com/vi/7yUBBqIthwI/sddefault.jpg",
+  "alt": "[더쇼] (여자)아이들((G)I-DLE) 페이스티켓 [비하인드 더 쇼 ]",
+  "title": "[더쇼] (여자)아이들((G)I-DLE) 페이스티켓 [비하인드 더 쇼 ]"
+},
+
+{
+  "link": "https://youtu.be/GMUVwyWrWrA",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2021-02-05T18:00:00",
+  "duration": "00:05:54",
+  "thumbnail": "https://i.ytimg.com/vi/GMUVwyWrWrA/sddefault.jpg",
+  "alt": "[더쇼] (여자)아이들((G)I-DLE), 크래비티(CRAVITY) 컨택 비하인드 [비하인드 더 쇼 ]",
+  "title": "[더쇼] (여자)아이들((G)I-DLE), 크래비티(CRAVITY) 컨택 비하인드 [비하인드 더 쇼 ]"
+},
+
+{
+  "link": "https://youtu.be/mfXQVeOiUwU",
+  "category": "음악방송시상식",
+  "member": "소연",
+  "date": "2021-07-24T18:00:00",
+  "duration": "00:08:14",
+  "thumbnail": "https://i.ytimg.com/vi/mfXQVeOiUwU/sddefault.jpg",
+  "alt": "[더쇼] 에스에프나인(SF9), 전소연(JEON SOYEON) 백스테이지 [비하인드 더 쇼 ]",
+  "title": "[더쇼] 에스에프나인(SF9), 전소연(JEON SOYEON) 백스테이지 [비하인드 더 쇼 ]"
+},
+
+{
+  "link": "https://youtu.be/sqaVw0bFbVk",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-11-23T18:00:00",
+  "duration": "00:09:21",
+  "thumbnail": "https://i.ytimg.com/vi/sqaVw0bFbVk/sddefault.jpg",
+  "alt": "[더쇼] 엔플라잉 (N.Flying), (여자)아이들 ((G)I-DLE), Play List, 백스테이지 [비하인드 더쇼 ]",
+  "title": "[더쇼] 엔플라잉 (N.Flying), (여자)아이들 ((G)I-DLE), Play List, 백스테이지 [비하인드 더쇼 ]"
+},
+{
+  "link": "https://youtu.be/vzB4D1wqqLg",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-05-30T18:00:00",
+  "duration": "00:14:39",
+  "thumbnail": "https://i.ytimg.com/vi/vzB4D1wqqLg/sddefault.jpg",
+  "alt": "[쇼챔피언] [쇼챔비하인드 FULL] 몽환×카리스마로 네버랜드들 정신 다 뺏어가는 아이들..☆ l (여자)아이들((G)I-DLE) 'Oh my god' behind",
+  "title": "[쇼챔피언] [쇼챔비하인드 FULL] 몽환×카리스마로 네버랜드들 정신 다 뺏어가는 아이들..☆ l (여자)아이들((G)I-DLE) 'Oh my god' behind"
+},
+{
+  "link": "https://youtu.be/ILo5Q6FnpG8",
+  "category": "음악방송시상식",
+  "member": "소연",
+  "date": "2020-08-12T18:00:00",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/ILo5Q6FnpG8/sddefault.jpg",
+  "alt": "[쇼챔피언] [음.소.거♪] 천재 아이돌 갓소연의 '덤디덤디' 작업기! l EP.366  [Show Champion] ",
+  "title": "[쇼챔피언] [음.소.거♪] 천재 아이돌 갓소연의 '덤디덤디' 작업기! l EP.366  [Show Champion] "
+},
+{
+  "link": "https://youtu.be/yKIVAQmi-Qk",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-08-18T18:00:00",
+  "duration": "00:01:07",
+  "thumbnail": "https://i.ytimg.com/vi/yKIVAQmi-Qk/sddefault.jpg",
+  "alt": "[쇼챔피언] 컴백과 동시에 '첫 1위'한 (여자)아이들! l #쇼챔피언비하인드 l EP.175",
+  "title": "[쇼챔피언] 컴백과 동시에 '첫 1위'한 (여자)아이들! l #쇼챔피언비하인드 l EP.175"
+},
+{
+  "link": "https://youtu.be/Ee5JkpEWQRA",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-08-18T18:00:00",
+  "duration": "00:01:54",
+  "thumbnail": "https://i.ytimg.com/vi/Ee5JkpEWQRA/sddefault.jpg",
+  "alt": "[쇼챔피언] (여자)아이들의 가방 속 필수템 소개 TIME l #쇼챔피언비하인드 l EP.175",
+  "title": "[쇼챔피언] (여자)아이들의 가방 속 필수템 소개 TIME l #쇼챔피언비하인드 l EP.175"
+},
+{
+  "link": "https://youtu.be/t0fYdXYLmVE",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-08-18T18:00:00",
+  "duration": "00:02:01",
+  "thumbnail": "https://i.ytimg.com/vi/t0fYdXYLmVE/sddefault.jpg",
+  "alt": "[쇼챔피언] 강렬하고 시원한 (여자)아이들 '덤디덤디'♪ 컴백 l #쇼챔피언비하인드 l EP.175",
+  "title": "[쇼챔피언] 강렬하고 시원한 (여자)아이들 '덤디덤디'♪ 컴백 l #쇼챔피언비하인드 l EP.175"
+},
+{
+  "link": "https://youtu.be/u1sEy9RAqjI",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-08-25T18:00:00",
+  "duration": "00:03:08",
+  "thumbnail": "https://i.ytimg.com/vi/u1sEy9RAqjI/sddefault.jpg",
+  "alt": "[쇼챔피언] 네버랜드를 향한 사랑 가득 담은 아이들 그립톡♥ l #쇼챔피언비하인드 l EP.176",
+  "title": "[쇼챔피언] 네버랜드를 향한 사랑 가득 담은 아이들 그립톡♥ l #쇼챔피언비하인드 l EP.176"
+},
+{
+  "link": "https://youtu.be/L40hFFNoRN4",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-10-20T18:00:00",
+  "duration": "00:12:52",
+  "thumbnail": "https://i.ytimg.com/vi/L40hFFNoRN4/sddefault.jpg",
+  "alt": "[쇼챔피언][쇼챔비하인드 FULL] 태양처럼 ?강렬한? 한여름의 축제! l (여자)아이들((G)I-DLE) 'DUMDi DUMDi' behind",
+  "title": "[쇼챔피언][쇼챔비하인드 FULL] 태양처럼 ?강렬한? 한여름의 축제! l (여자)아이들((G)I-DLE) 'DUMDi DUMDi' behind"
+},
+{
+  "link": "https://youtu.be/kJbbMBkbAgs",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2021-01-26T18:00:00",
+  "duration": "00:01:26",
+  "thumbnail": "https://i.ytimg.com/vi/kJbbMBkbAgs/sddefault.jpg",
+  "alt": "[쇼챔피언][챔피언송] (여자)아이들의 화(火花) 첫 1위! l #쇼챔피언비하인드 l EP.189",
+  "title": "[쇼챔피언][챔피언송] (여자)아이들의 화(火花) 첫 1위! l #쇼챔피언비하인드 l EP.189"
+},
+{
+  "link": "https://youtu.be/ldPkhD8WJU8",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2021-01-26T18:00:00",
+  "duration": "00:02:30",
+  "thumbnail": "https://i.ytimg.com/vi/ldPkhD8WJU8/sddefault.jpg",
+  "alt": "[쇼챔피언] 네버랜드 맘에 불을 지핀♨ 아이들 불꽃♥ l #쇼챔피언비하인드 l EP.189",
+  "title": "[쇼챔피언] 네버랜드 맘에 불을 지핀♨ 아이들 불꽃♥ l #쇼챔피언비하인드 l EP.189"
+},
+{
+  "link": "https://youtu.be/IAVpVNEt9bs",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2021-01-26T18:00:00",
+  "duration": "00:03:17",
+  "thumbnail": "https://i.ytimg.com/vi/IAVpVNEt9bs/sddefault.jpg",
+  "alt": "[쇼챔피언][멀티캠] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l #쇼챔피언비하인드 l EP.189",
+  "title": "[쇼챔피언][멀티캠] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l #쇼챔피언비하인드 l EP.189"
+},
+{
+  "link": "https://youtu.be/tQarRFapPeA",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2021-01-26T18:00:00",
+  "duration": "00:02:19",
+  "thumbnail": "https://i.ytimg.com/vi/tQarRFapPeA/sddefault.jpg",
+  "alt": "[쇼챔피언] 화려하게 꽃피운 (여자)아이들의 '화(火花)'♪ 컴백 l #쇼챔피언비하인드 l EP.189",
+  "title": "[쇼챔피언] 화려하게 꽃피운 (여자)아이들의 '화(火花)'♪ 컴백 l #쇼챔피언비하인드 l EP.189"
+},
+{
+  "link": "https://youtu.be/ezQB9ycyvz8",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-03-31T18:00:00",
+  "duration": "00:06:03",
+  "thumbnail": "https://i.ytimg.com/vi/ezQB9ycyvz8/sddefault.jpg",
+  "alt": "[쇼챔피언][쇼챔 백스테이지] 민니 어머니까지 취향저격‼ 갓띵곡 TOMBOY로 쇼챔까지 찢은 기들..★ l #쇼챔피언비하인드 l EP.229",
+  "title": "[쇼챔피언][쇼챔 백스테이지] 민니 어머니까지 취향저격‼ 갓띵곡 TOMBOY로 쇼챔까지 찢은 기들..★ l #쇼챔피언비하인드 l EP.229"
+},
+{
+  "link": "https://youtu.be/8-9adUyfnjg",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2022-05-12T18:00:00",
+  "duration": "00:25:47",
+  "thumbnail": "https://i.ytimg.com/vi/8-9adUyfnjg/sddefault.jpg",
+  "alt": "[쇼챔피언][쇼챔 백스테이지] 나는 너무 걱정돼..너네가 쇼챔 오면 천국은 누가 지켜..천사가 지상에 있어도 되는 건가...★ (유나이트/미연/문별/베리베리)│쇼챔피언 비하인드 EP.234",
+  "title": "[쇼챔피언][쇼챔 백스테이지] 나는 너무 걱정돼..너네가 쇼챔 오면 천국은 누가 지켜..천사가 지상에 있어도 되는 건가...★ (유나이트/미연/문별/베리베리)│쇼챔피언 비하인드 EP.234"
+},
+{
+  "link": "https://youtu.be/c4Vo2Z37BpI",
+  "category": "음악방송시상식",
+  "member": "우기",
+  "date": "2022-05-19T18:00:00",
+  "duration": "00:19:17",
+  "thumbnail": "https://i.ytimg.com/vi/c4Vo2Z37BpI/sddefault.jpg",
+  "alt": "[쇼챔피언][쇼챔 백스테이지] 쇼챔보고 공짜 개안하고 나의 성공시대 시작됐다...★ (우기/우즈/르세라핌/클라씨/딴콩민) l #쇼챔피언비하인드 l EP.235",
+  "title": "[쇼챔피언][쇼챔 백스테이지] 쇼챔보고 공짜 개안하고 나의 성공시대 시작됐다...★ (우기/우즈/르세라핌/클라씨/딴콩민) l #쇼챔피언비하인드 l EP.235"
+},
+{
+  "link": "https://youtu.be/w3iVpRjSn1c",
+  "category": "음악방송시상식",
+  "member": "미연, 우기",
+  "date": "2022-05-29T18:00:00",
+  "duration": "00:23:38",
+  "thumbnail": "https://i.ytimg.com/vi/w3iVpRjSn1c/sddefault.jpg",
+  "alt": "[쇼챔피언][쇼챔비하인드.zip] 혼자서도 무대 꽉 채우는 여자 솔로 가수 비하인드 모음zip l 우기, 미연, 예나, 유주, 권은비, 문별",
+  "title": "[쇼챔피언][쇼챔비하인드.zip] 혼자서도 무대 꽉 채우는 여자 솔로 가수 비하인드 모음zip l 우기, 미연, 예나, 유주, 권은비, 문별"
+},
+{
+  "link": "https://youtu.be/VMipbAS5764",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2021-06-04T18:00:00",
+  "duration": "00:06:39",
+  "thumbnail": "https://i.ytimg.com/vi/VMipbAS5764/sddefault.jpg",
+  "alt": "[엠카운트다운] [ENG] [엠피타이저] Ep. M COUNTDOWNㅣ\"MC윤수 X MC미연(여자)아이들) 백일 기념 독점(?) 인터뷰\"",
+  "title": "[엠카운트다운] [ENG] [엠피타이저] Ep. M COUNTDOWNㅣ\"MC윤수 X MC미연(여자)아이들) 백일 기념 독점(?) 인터뷰\""
+},
+
+{
+  "link": "https://youtu.be/SPgnFHmur9w",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-03-28T18:00:00",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/SPgnFHmur9w/sddefault.jpg",
+  "alt": "[더쇼] [퇴근길 LIVE 4K] JUST I-DLE 이것이 아이들의 퇴근길 애티튜드!",
+  "title": "[더쇼] [퇴근길 LIVE 4K] JUST I-DLE 이것이 아이들의 퇴근길 애티튜드!"
+},
+
+{
+  "link": "https://youtu.be/yLKfgucdctY",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2022-04-29T18:00:00",
+  "duration": "00:01:33",
+  "thumbnail": "https://i.ytimg.com/vi/yLKfgucdctY/sddefault.jpg",
+  "alt": "[뮤직뱅크] (ENG)[MusicBank Interview Cam] 윤지성 & 미연 (YOON JI SUNG & MIYEON Interview)l @MusicBank KBS",
+  "title": "[뮤직뱅크] (ENG)[MusicBank Interview Cam] 윤지성 & 미연 (YOON JI SUNG & MIYEON Interview)l @MusicBank KBS"
+},
+
+{
+  "link": "https://youtu.be/-1P80jG4_rQ",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-11-12T18:00:00",
+  "duration": "00:09:14",
+  "thumbnail": "https://i.ytimg.com/vi/-1P80jG4_rQ/sddefault.jpg",
+  "alt": "[인기가요대신가드림] 인기가요 무대에 야유하는 팬들이 있다? 아이들 사녹 비하인드🎥🎬",
+  "title": "[인기가요대신가드림] 인기가요 무대에 야유하는 팬들이 있다? 아이들 사녹 비하인드🎥🎬"
+},
+
+{
+  "link": "https://youtu.be/ZtJWPKTiLhg",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-11-14T18:00:00",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/ZtJWPKTiLhg/sddefault.jpg",
+  "alt": "(여자)아이들(I-DLE) \"멋진 상 주신 네버랜드에게 보답할게요\" | (G)I-DLE Top Ten Awards China 1st place",
+  "title": "(여자)아이들(I-DLE) \"멋진 상 주신 네버랜드에게 보답할게요\" | (G)I-DLE Top Ten Awards China 1st place"
+},
+
+{
+  "link": "https://youtu.be/Fndha4cwgjQ",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-11-18T18:00:00",
+  "duration": "00:00:53",
+  "thumbnail": "https://i.ytimg.com/vi/Fndha4cwgjQ/sddefault.jpg",
+  "alt": "2022 GMA | 지니뮤직어워드 백스테이지 인터뷰🎤 | #아이들 편",
+  "title": "2022 GMA | 지니뮤직어워드 백스테이지 인터뷰🎤 | #아이들 편"
+},
+
+{
+  "link": "https://youtu.be/y8mrMkCVHpE",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-11-21T18:00:00",
+  "duration": "00:06:24",
+  "thumbnail": "https://i.ytimg.com/vi/y8mrMkCVHpE/sddefault.jpg",
+  "alt": "[2022 MAMA] STAR COUNTDOWN D-8 by (G)I-DLE",
+  "title": "[2022 MAMA] STAR COUNTDOWN D-8 by (G)I-DLE"
+},
+
+{
+  "link": "https://youtu.be/Sk2XQvGQVFo",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-12-17T18:00:00",
+  "duration": "00:33:09",
+  "thumbnail": "https://i.ytimg.com/vi/Sk2XQvGQVFo/sddefault.jpg",
+  "alt": "[MMA X 1theK] 지금 무슨 노래 듣고 계세요? in MMA | 너의 플리가 들려 | what's in your playlist | @MMA2022",
+  "title": "[MMA X 1theK] 지금 무슨 노래 듣고 계세요? in MMA | 너의 플리가 들려 | what's in your playlist | @MMA2022"
+},
+
+{
+  "link": "https://youtu.be/0lNIW_a4QP4",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-12-20T18:00:00",
+  "duration": "00:03:49",
+  "thumbnail": "https://i.ytimg.com/vi/0lNIW_a4QP4/sddefault.jpg",
+  "alt": "[2022 MAMA BEHIND] 자우림 X (G)I-DLE 의 스페셜 컬래버! | Mnet 방송",
+  "title": "[2022 MAMA BEHIND] 자우림 X (G)I-DLE 의 스페셜 컬래버! | Mnet 방송"
+},
+
+{
+  "link": "https://youtu.be/lpWiDKZLsHc",
+  "category": "음악방송시상식",
+  "member": "소연",
+  "date": "2022-12-20T18:00:00",
+  "duration": "00:01:03",
+  "thumbnail": "https://i.ytimg.com/vi/lpWiDKZLsHc/sddefault.jpg",
+  "alt": "[2022 MAMA BEHIND] 지코 X (G)I-DLE 소연 의 스페셜 컬래버! | Mnet 방송",
+  "title": "[2022 MAMA BEHIND] 지코 X (G)I-DLE 소연 의 스페셜 컬래버! | Mnet 방송"
+},
+
+{
+  "link": "https://youtu.be/B5CHZK7_lbM",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-12-22T18:00:00",
+  "duration": "00:06:20",
+  "thumbnail": "https://i.ytimg.com/vi/B5CHZK7_lbM/sddefault.jpg",
+  "alt": "[2022 SBS 가요대전] 아이들이 스포하는 #2022가요대전 은?!🎁 #Dive_into_Kpop_in_Korea",
+  "title": "[2022 SBS 가요대전] 아이들이 스포하는 #2022가요대전 은?!🎁 #Dive_into_Kpop_in_Korea"
+},
+
+{
+  "link": "https://youtu.be/ChNYXVtUwjo",
+  "category": "음악방송시상식",
+  "member": "우기",
+  "date": "2023-01-20T18:00:00",
+  "duration": "00:01:25",
+  "thumbnail": "https://i.ytimg.com/vi/ChNYXVtUwjo/sddefault.jpg",
+  "alt": "[The 32nd SMA BACKSTAGE] (여자)아이들 우기의 오페라 데뷔? (G)I-DLE Yuqi's Opera Debut?",
+  "title": "[The 32nd SMA BACKSTAGE] (여자)아이들 우기의 오페라 데뷔? (G)I-DLE Yuqi's Opera Debut?"
+},
+
+{
+  "link": "https://youtu.be/B-SynolBfVs",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2023-01-23T18:00:00",
+  "duration": "00:01:05",
+  "thumbnail": "https://i.ytimg.com/vi/B-SynolBfVs/sddefault.jpg",
+  "alt": "[The 32nd SMA BACKSTAGE] 민니, 우기 화보 촬영(??)현장 Minnie, Yuqi Photoshoot scene(??)",
+  "title": "[The 32nd SMA BACKSTAGE] 민니, 우기 화보 촬영(??)현장 Minnie, Yuqi Photoshoot scene(??)"
+},
+
+{
+  "link": "https://youtu.be/i590uREMrf8",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2023-01-25T18:00:00",
+  "duration": "00:01:12",
+  "thumbnail": "https://i.ytimg.com/vi/i590uREMrf8/sddefault.jpg",
+  "alt": "[제32회 서울가요대상 SMA 백스테이지 인터뷰] (여자)아이들((G)I-DLE)",
+  "title": "[제32회 서울가요대상 SMA 백스테이지 인터뷰] (여자)아이들((G)I-DLE)"
+},
+
+{
+  "link": "https://youtu.be/FeNFC7pDFCE",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2023-02-28T18:00:00",
+  "duration": "00:00:36",
+  "thumbnail": "https://i.ytimg.com/vi/FeNFC7pDFCE/sddefault.jpg",
+  "alt": "(여자)아이들 미연 ((G)I-DLE Mi-yeon) Backstage Quiz Show I 써클차트 뮤직 어워즈 2022",
+  "title": "(여자)아이들 미연 ((G)I-DLE Mi-yeon) Backstage Quiz Show I 써클차트 뮤직 어워즈 2022"
+},
+
+{
+  "link": "https://youtu.be/v0vqrTzBQCw",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2023-02-28T18:00:00",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/v0vqrTzBQCw/sddefault.jpg",
+  "alt": "DREAM STAGE🌟 | (G)I-DLE ((여자)아이들) | KCON 2023 THAILAND",
+  "title": "DREAM STAGE🌟 | (G)I-DLE ((여자)아이들) | KCON 2023 THAILAND"
+},
+
+{
+  "link": "https://youtu.be/KXYwuWsg_DU",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-03-18T18:00:00",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/KXYwuWsg_DU/sddefault.jpg",
+  "alt": "[뮤직뱅크] (ENG)[MusicBank Interview Cam] 위아이 & (여자)아이들 (WEi & (G)I-DLE Interview)l @MusicBank KBS",
+  "title": "[뮤직뱅크] (ENG)[MusicBank Interview Cam] 위아이 & (여자)아이들 (WEi & (G)I-DLE Interview)l @MusicBank KBS"
+},
+
+{
+  "link": "https://youtu.be/WYmBh5tE6iU",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2023-05-26T18:00:00",
+  "duration": "00:03:23",
+  "thumbnail": "https://i.ytimg.com/vi/WYmBh5tE6iU/sddefault.jpg",
+  "alt": "[뮤직뱅크] (ENG)[MusicBank Interview Cam](여자)아이들 ((G)I-DLE Interview)l @MusicBank KBS",
+  "title": "[뮤직뱅크] (ENG)[MusicBank Interview Cam](여자)아이들 ((G)I-DLE Interview)l @MusicBank KBS"
+},
+
+{
+  "link": "https://youtu.be/rM-ebS7aHZ0",
+  "category": "음악방송시상식",
+  "member": "미연",
+  "date": "2023-11-25T18:00:00",
+  "duration": "00:04:36",
+  "thumbnail": "https://i.ytimg.com/vi/rM-ebS7aHZ0/sddefault.jpg",
+  "alt": "[엠카운트다운] 💚 사랑과 눈물💧이 넘쳐나는 MC 미연 〈마음이 닿는 법〉 사전 녹화 비하인드 | M COUNTDOWN",
+  "title": "[엠카운트다운] 💚 사랑과 눈물💧이 넘쳐나는 MC 미연 〈마음이 닿는 법〉 사전 녹화 비하인드 | M COUNTDOWN"
+},
+
+{
+  "link": "https://youtu.be/IBh1IEbqpjo",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2023-12-08T18:00:00",
+  "duration": "00:04:33",
+  "thumbnail": "https://i.ytimg.com/vi/IBh1IEbqpjo/sddefault.jpg",
+  "alt": "[#2023MAMA] (G)I-DLE ((여자)아이들) REACTION CAM ♬MAMA SUPER STAGE",
+  "title": "[#2023MAMA] (G)I-DLE ((여자)아이들) REACTION CAM ♬MAMA SUPER STAGE"
+},
+
+{
+  "link": "https://youtu.be/Xsdfgg8aEQQ",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2025-06-08T18:00:00",
+  "duration": "00:07:36",
+  "thumbnail": "https://i.ytimg.com/vi/Xsdfgg8aEQQ/sddefault.jpg",
+  "alt": "[쇼!음악중심] [#직캠보고서🔍] #아이들 #idle 네버랜드랑 아이들이랑 무슨 사이야~💜 음중 사전녹화 비하인드⏯️ (ENG/JPN sub)",
+  "title": "[쇼!음악중심] [#직캠보고서🔍] #아이들 #idle 네버랜드랑 아이들이랑 무슨 사이야~💜 음중 사전녹화 비하인드⏯️ (ENG/JPN sub)"
+},
+
+{
+  "link": "https://youtu.be/tboMXNav340",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2025-08-19T18:00:00",
+  "duration": "00:12:13",
+  "thumbnail": "https://i.ytimg.com/vi/tboMXNav340/maxresdefault.jpg",
+  "alt": "[쇼!음악중심 IN JAPAN 미방분] i-dle (아이들) PLAYFUL DANCE FULL ver.",
+  "title": "[쇼!음악중심 IN JAPAN 미방분] i-dle (아이들) PLAYFUL DANCE FULL ver."
 }
+
 
 ];
 window.음악방송시상식Cards = 음악방송시상식Cards;
