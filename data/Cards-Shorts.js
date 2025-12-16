@@ -17792,6 +17792,106 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/-_mBU0inx0g/sddefault.jpg",
   "alt": "[직캠 보고서🔍] 네버랜드 '퀸'받게 하는 아이들 모음.ZIP👑 #여자아이들 #퀸카 #Queencard #Shorts",
   "title": "[직캠 보고서🔍] 네버랜드 '퀸'받게 하는 아이들 모음.ZIP👑 #여자아이들 #퀸카 #Queencard #Shorts"
+},
+{
+  "link": "https://youtu.be/TdSE-HDQ4BU",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2024-07-08T18:00:00",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/TdSE-HDQ4BU/maxresdefault.jpg",
+  "alt": "Super Lady🩶 VS 클락션🚘 (여자)아이들의 선택은? | #멜론 #멜런스게임 #GIDLE",
+  "title": "Super Lady🩶 VS 클락션🚘 (여자)아이들의 선택은? | #멜론 #멜런스게임 #GIDLE"
+},
+{
+  "link": "https://youtu.be/1QwRnpTX5vo",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-05-27T18:00:00",
+  "duration": "00:00:46",
+  "thumbnail": "https://i.ytimg.com/vi/1QwRnpTX5vo/sddefault.jpg",
+  "alt": "분위기 레전드(+) 아이들 썸네일 모음집📸 | 릴레이댄스 비하인드",
+  "title": "분위기 레전드(+) 아이들 썸네일 모음집📸 | 릴레이댄스 비하인드"
+},
+{
+  "link": "https://youtu.be/k8But4uOCDI",
+  "category": "Shorts",
+  "member": "우기, 슈화",
+  "date": "2024-02-09T18:00:00",
+  "duration": "00:00:32",
+  "thumbnail": "https://i.ytimg.com/vi/k8But4uOCDI/sddefault.jpg",
+  "alt": "(여자)아이들 전소연 막내 VS 언니 차별 이슈 | #Gotcha37 #GIDLE #shorts",
+  "title": "(여자)아이들 전소연 막내 VS 언니 차별 이슈 | #Gotcha37 #GIDLE #shorts"
+},
+{
+  "link": "https://youtu.be/6NWpalFqdvo",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2023-05-23T18:00:00",
+  "duration": "00:00:48",
+  "thumbnail": "https://i.ytimg.com/vi/6NWpalFqdvo/sddefault.jpg",
+  "alt": "[릴레이 의리 게임] 번갯불에 퀸카 홍보하기 #릴레이의리게임 #여자아이들 #퀸카",
+  "title": "[릴레이 의리 게임] 번갯불에 퀸카 홍보하기 #릴레이의리게임 #여자아이들 #퀸카"
+},
+{
+  "link": "https://youtu.be/21vEBIsrsTM",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2023-01-18T18:00:00",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/21vEBIsrsTM/sddefault.jpg",
+  "alt": "리그 오브 레전드 플레이어 여러분에게 전하는 메시지 💞 (Feat. 소연 (여자)아이들)",
+  "title": "리그 오브 레전드 플레이어 여러분에게 전하는 메시지 💞 (Feat. 소연 (여자)아이들)"
+},
+{
+  "link": "https://youtu.be/eo8FBwE_uok",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2022-11-18T18:00:00",
+  "duration": "00:00:52",
+  "thumbnail": "https://i.ytimg.com/vi/eo8FBwE_uok/sddefault.jpg",
+  "alt": "민니의 태국 최애 음식?🤔 민니 태국여행 밸런스게임🇹🇭❤️ #태국갈때여기어때 #shorts",
+  "title": "민니의 태국 최애 음식?🤔 민니 태국여행 밸런스게임🇹🇭❤️ #태국갈때여기어때 #shorts"
+},
+{
+  "link": "https://youtu.be/rHkbLVrNoFg",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2021-11-02T18:00:00",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/rHkbLVrNoFg/sddefault.jpg",
+  "alt": "[딜리버리] 대본리딩 현장! 오늘도 짧아요🥺딜송🙏 #shorts",
+  "title": "[딜리버리] 대본리딩 현장! 오늘도 짧아요🥺딜송🙏 #shorts"
+},
+{
+  "link": "https://youtu.be/jSl2ORt5fI4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2021-11-03T18:00:00",
+  "duration": "00:00:50",
+  "thumbnail": "https://i.ytimg.com/vi/jSl2ORt5fI4/sddefault.jpg",
+  "alt": "[딜리버리] 믓찌다믓찌다 우리배우들😍 태빈/지플랫/미연 #shorts",
+  "title": "[딜리버리] 믓찌다믓찌다 우리배우들😍 태빈/지플랫/미연 #shorts"
+},
+{
+  "link": "https://youtu.be/kuylxZ9jqf8",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2022-05-06T18:00:00",
+  "duration": "00:00:47",
+  "thumbnail": "https://i.ytimg.com/vi/kuylxZ9jqf8/sddefault.jpg",
+  "alt": "미연이 고른 이모지는? 네버랜드🏰 VS 에버랜드🎢 | #이모지오 #shorts",
+  "title": "미연이 고른 이모지는? 네버랜드🏰 VS 에버랜드🎢 | #이모지오 #shorts"
+},
+{
+  "link": "https://youtu.be/fMNU8sFfT18",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2022-08-10T18:00:00",
+  "duration": "00:00:30",
+  "thumbnail": "https://i.ytimg.com/vi/fMNU8sFfT18/sddefault.jpg",
+  "alt": "버스를 탔는데.. 어떤 여자가 글쎄 혼자 막춤을...｜[좋광고2]｜ 미연 ｜ (여자)아이들 ｜ 양세형",
+  "title": "[좋광고2] 버스를 탔는데.. 어떤 여자가 글쎄 혼자 막춤을...｜｜ 미연 ｜ (여자)아이들 ｜ 양세형"
 }
 
 

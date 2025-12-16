@@ -1632,11 +1632,21 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/4-hj0AyLz3k",
   "category": "라디오오디오쇼",
   "member": "미연, 우기",
-  "date": "2025-05-21T18:00:00",
+  "date": "2025-05-21T18:00:50",
   "duration": "00:57:21",
   "thumbnail": "https://i.ytimg.com/vi/4-hj0AyLz3k/sddefault.jpg",
   "alt": "[FULL] 모든 G는 처단한다❌ 오롯이 'idle'이라는 이름으로 빛날 분금치✨아이들 미연&우기✨와 함께하는 브카☕️💜 | 이석훈의 브런치 카페 | MBC 방송",
   "title": "[FULL] 모든 G는 처단한다❌ 오롯이 'idle'이라는 이름으로 빛날 분금치✨아이들 미연&우기✨와 함께하는 브카☕️💜 | 이석훈의 브런치 카페 | MBC 방송"
+},
+{
+  "link": "https://youtu.be/cXmG6eKtP_4",
+  "category": "출연콘텐츠",
+  "member": "미연, 우기",
+  "date": "2025-05-21T18:00:51",
+  "duration": "00:02:11",
+  "thumbnail": "https://i.ytimg.com/vi/cXmG6eKtP_4/sddefault.jpg",
+  "alt": "[4K] 공듀님 둘의 케미는 왕크게 봐야 좋으니까 💗왕크왕캠💗 아이들 미연&우기💜 | 이석훈의 브런치 카페",
+  "title": "[4K] 공듀님 둘의 케미는 왕크게 봐야 좋으니까 💗왕크왕캠💗 아이들 미연&우기💜 | 이석훈의 브런치 카페"
 },
 
 {

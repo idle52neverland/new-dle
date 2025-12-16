@@ -13627,6 +13627,26 @@ const 음악방송시상식Cards = [
   "thumbnail": "https://i.ytimg.com/vi/tboMXNav340/maxresdefault.jpg",
   "alt": "[쇼!음악중심 IN JAPAN 미방분] i-dle (아이들) PLAYFUL DANCE FULL ver.",
   "title": "[쇼!음악중심 IN JAPAN 미방분] i-dle (아이들) PLAYFUL DANCE FULL ver."
+},
+{
+  "link": "https://youtu.be/X-h-wsY4uwI",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2020-08-14T18:00:00",
+  "duration": "00:03:44",
+  "thumbnail": "https://i.ytimg.com/vi/X-h-wsY4uwI/sddefault.jpg",
+  "alt": "[더쇼] [퇴근길 LIVE] 여름night 더위를 날려줄 아이들의 퇴근길 두구 둥! 네버랜드 심장 Dumdi Dumdi 할 준비 됐어?!",
+  "title": "[더쇼] [퇴근길 LIVE] 여름night 더위를 날려줄 아이들의 퇴근길 두구 둥! 네버랜드 심장 Dumdi Dumdi 할 준비 됐어?!"
+},
+{
+  "link": "https://youtu.be/Ury7kAczq20",
+  "category": "음악방송시상식",
+  "member": "아이들",
+  "date": "2022-11-07T18:00:00",
+  "duration": "00:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/Ury7kAczq20/sddefault.jpg",
+  "alt": "[더쇼] [퇴근길 LIVE 4K] 아이들(GIDLE)이 보여주는 퇴근의 본모습! 다따랏따라와💨",
+  "title": "[더쇼] [퇴근길 LIVE 4K] 아이들(GIDLE)이 보여주는 퇴근의 본모습! 다따랏따라와💨"
 }
 
 

@@ -576,7 +576,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/KLfU9Wdwobc",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-05-18T18:00:00",
+  "date": "2019-05-18T18:00:30",
   "duration": "00:03:42",
   "thumbnail": "https://i.ytimg.com/vi/KLfU9Wdwobc/sddefault.jpg",
   "alt": "[드림콘서트2019] 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼 | Dream Concert 2019",
@@ -587,13 +587,34 @@ const 공연축제Cards = [
   "link": "https://youtu.be/KL_mKVw2uHY",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-05-21T18:00:00",
+  "date": "2019-05-18T18:00:31",
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/KL_mKVw2uHY/maxresdefault.jpg",
   "alt": "[드림콘서트2019] (G)I-DLE, Senorita  Fancam | Dream Concert 2019",
   "title": "[드림콘서트2019] (G)I-DLE, Senorita  Fancam | Dream Concert 2019"
 },
+{
+  "link": "https://youtu.be/dFoXDP1E_Mo",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-05-18T18:00:32",
+  "duration": "00:01:29",
+  "thumbnail": "https://i.ytimg.com/vi/dFoXDP1E_Mo/sddefault.jpg",
+  "alt": "[드림콘서트2019 비하인드] (여자)아이들, 인싸대결 5탄 | Dream Concert 2019",
+  "title": "[드림콘서트2019 비하인드] (여자)아이들, 인싸대결 5탄 | Dream Concert 2019"
+},
 
+
+{
+  "link": "https://youtu.be/rBnlxgfGGTI",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-05-18T18:00:33",
+  "duration": "00:04:20",
+  "thumbnail": "https://i.ytimg.com/vi/rBnlxgfGGTI/sddefault.jpg",
+  "alt": "[드림콘서트2019 비하인드] (여자)아이들, 너무 감미로워서 고막이 녹아버린 아이들의 큐브 패밀리 메들리! | Dream Concert 2019",
+  "title": "[드림콘서트2019 비하인드] (여자)아이들, 너무 감미로워서 고막이 녹아버린 아이들의 큐브 패밀리 메들리! | Dream Concert 2019"
+},
 {
   "link": "https://youtu.be/K9FLUx3LtVQ",
   "category": "공연축제",
@@ -2335,8 +2356,8 @@ const 공연축제Cards = [
   "date": "2025-11-22T19:00:01",
   "duration": "00:02:42",
   "thumbnail": "https://i.ytimg.com/vi/85m4pBseDyg/sddefault.jpg",
-  "alt": "[FAN CAM] 미연 - “Say My Name” [DREAM CONCERT ABU DHABI UAE]",
-  "title": "[FAN CAM] 미연 - “Say My Name” [DREAM CONCERT ABU DHABI UAE]"
+  "alt": "[드림콘서트2025] 미연 - “Say My Name” | DREAM CONCERT ABU DHABI 2025",
+  "title": "[드림콘서트2025] 미연 - “Say My Name” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -2346,8 +2367,8 @@ const 공연축제Cards = [
   "date": "2025-11-22T19:00:02",
   "duration": "00:02:25",
   "thumbnail": "https://i.ytimg.com/vi/QJXAkf-hUiA/sddefault.jpg",
-  "alt": "[FAN CAM] 미연 - “F.F.L.Y” [DREAM CONCERT ABU DHABI UAE]",
-  "title": "[FAN CAM] 미연 - “F.F.L.Y” [DREAM CONCERT ABU DHABI UAE]"
+  "alt": "[드림콘서트2025] 미연 - “F.F.L.Y” | DREAM CONCERT ABU DHABI 2025",
+  "title": "[드림콘서트2025] 미연 - “F.F.L.Y” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -2357,8 +2378,8 @@ const 공연축제Cards = [
   "date": "2025-11-22T19:00:03",
   "duration": "00:02:53",
   "thumbnail": "https://i.ytimg.com/vi/sFSeNkBuUiI/sddefault.jpg",
-  "alt": "[FAN CAM] 미연 - “Reno (Ft. Colde)” [DREAM CONCERT ABU DHABI UAE]",
-  "title": "[FAN CAM] 미연 - “Reno (Ft. Colde)” [DREAM CONCERT ABU DHABI UAE]"
+  "alt": "[드림콘서트2025] 미연 - “Reno (Ft. Colde)” | DREAM CONCERT ABU DHABI 2025",
+  "title": "[드림콘서트2025] 미연 - “Reno (Ft. Colde)” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -2368,8 +2389,8 @@ const 공연축제Cards = [
   "date": "2025-11-22T19:00:04",
   "duration": "00:02:05",
   "thumbnail": "https://i.ytimg.com/vi/yh88OcdtP24/sddefault.jpg",
-  "alt": "[FAN CAM] 미연 - “Stage Talk” [DREAM CONCERT ABU DHABI UAE]",
-  "title": "[FAN CAM] 미연 - “Stage Talk” [DREAM CONCERT ABU DHABI UAE]"
+  "alt": "[드림콘서트2025] 미연 - “Stage Talk” | DREAM CONCERT ABU DHABI 2025",
+  "title": "[드림콘서트2025] 미연 - “Stage Talk” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -2379,8 +2400,8 @@ const 공연축제Cards = [
   "date": "2025-11-22T19:00:05",
   "duration": "00:03:01",
   "thumbnail": "https://i.ytimg.com/vi/hUAsCRatT9o/maxresdefault.jpg",
-  "alt": "[FAN CAM] 미연 - “Show” [DREAM CONCERT ABU DHABI UAE]",
-  "title": "[FAN CAM] 미연 - “Show” [DREAM CONCERT ABU DHABI UAE]"
+  "alt": "[드림콘서트2025] 미연 - “Show” | DREAM CONCERT ABU DHABI 2025",
+  "title": "[드림콘서트2025] 미연 - “Show” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -2390,8 +2411,8 @@ const 공연축제Cards = [
   "date": "2025-11-22T19:00:06",
   "duration": "00:03:00",
   "thumbnail": "https://i.ytimg.com/vi/oXxR1l_mdkk/sddefault.jpg",
-  "alt": "[FAN CAM] 미연 - “Petal Shower” [DREAM CONCERT ABU DHABI UAE]",
-  "title": "[FAN CAM] 미연 - “Petal Shower” [DREAM CONCERT ABU DHABI UAE]"
+  "alt": "[드림콘서트2025] 미연 - “Petal Shower” | DREAM CONCERT ABU DHABI 2025",
+  "title": "[드림콘서트2025] 미연 - “Petal Shower” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -2401,8 +2422,8 @@ const 공연축제Cards = [
   "date": "2025-11-22T19:00:07",
   "duration": "00:04:11",
   "thumbnail": "https://i.ytimg.com/vi/UelZptYalCg/sddefault.jpg",
-  "alt": "[FAN CAM] 미연 - “TE AMO” [DREAM CONCERT ABU DHABI UAE]",
-  "title": "[FAN CAM] 미연 - “TE AMO” [DREAM CONCERT ABU DHABI UAE]"
+  "alt": "[드림콘서트2025] 미연 - “TE AMO” | DREAM CONCERT ABU DHABI 2025",
+  "title": "[드림콘서트2025] 미연 - “TE AMO” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -2412,8 +2433,8 @@ const 공연축제Cards = [
   "date": "2025-11-22T19:00:08",
   "duration": "00:01:32",
   "thumbnail": "https://i.ytimg.com/vi/_vcakxRNhR4/sddefault.jpg",
-  "alt": "[FAN CAM] 미연 - “Stage Talk” [DREAM CONCERT ABU DHABI UAE]",
-  "title": "[FAN CAM] 미연 - “Stage Talk” [DREAM CONCERT ABU DHABI UAE]"
+  "alt": "[드림콘서트2025] 미연 - “Stage Talk” | DREAM CONCERT ABU DHABI 2025",
+  "title": "[드림콘서트2025] 미연 - “Stage Talk” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -2423,8 +2444,8 @@ const 공연축제Cards = [
   "date": "2025-11-22T19:00:09",
   "duration": "00:02:49",
   "thumbnail": "https://i.ytimg.com/vi/kZUYhdCYHB0/sddefault.jpg",
-  "alt": "[FAN CAM] 미연 - “Fate” [DREAM CONCERT ABU DHABI UAE]",
-  "title": "[FAN CAM] 미연 - “Fate” [DREAM CONCERT ABU DHABI UAE]"
+  "alt": "[드림콘서트2025] 미연 - “Fate” | DREAM CONCERT ABU DHABI 2025",
+  "title": "[드림콘서트2025] 미연 - “Fate” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -2434,8 +2455,8 @@ const 공연축제Cards = [
   "date": "2025-11-22T19:00:10",
   "duration": "00:04:01",
   "thumbnail": "https://i.ytimg.com/vi/ytwXMX1Oe1g/maxresdefault.jpg",
-  "alt": "[FAN CAM] 미연 - “Sky Walking” [DREAM CONCERT ABU DHABI UAE]",
-  "title": "[FAN CAM] 미연 - “Sky Walking” [DREAM CONCERT ABU DHABI UAE]"
+  "alt": "[드림콘서트2025] 미연 - “Sky Walking” | DREAM CONCERT ABU DHABI 2025",
+  "title": "[드림콘서트2025] 미연 - “Sky Walking” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -2445,8 +2466,8 @@ const 공연축제Cards = [
   "date": "2025-11-22T19:00:11",
   "duration": "00:03:28",
   "thumbnail": "https://i.ytimg.com/vi/6vN1v5QndA0/sddefault.jpg",
-  "alt": "[FAN CAM] 미연 - “Drive” [DREAM CONCERT ABU DHABI UAE]",
-  "title": "[FAN CAM] 미연 - “Drive” [DREAM CONCERT ABU DHABI UAE]"
+  "alt": "[드림콘서트2025] 미연 - “Drive”  | DREAM CONCERT ABU DHABI 2025",
+  "title": "[드림콘서트2025] 미연 - “Drive” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -2481,6 +2502,57 @@ const 공연축제Cards = [
   "thumbnail": "https://i.ytimg.com/vi/upOf66c3JzA/maxresdefault.jpg",
   "alt": "汪苏泷 Silence Wang ［像晴天像雨天］十万伏特2.0 Official Stage Video",
   "title": "汪苏泷 Silence Wang ［像晴天像雨天］十万伏特2.0 Official Stage Video"
+},
+{
+  "link": "https://youtu.be/BkDW8RmTK4A",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-01-28T18:00:00",
+  "duration": "00:10:56",
+  "thumbnail": "https://i.ytimg.com/vi/BkDW8RmTK4A/sddefault.jpg",
+  "alt": "[2025春晚等着你]白鹿 程潇 宋雨琦即兴舞蹈 眼神巨有戏！ | CCTV春晚",
+  "title": "[2025春晚等着你]白鹿 程潇 宋雨琦即兴舞蹈 眼神巨有戏！ | CCTV春晚"
+},
+{
+  "link": "https://youtu.be/vgNtfaWSEUs",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-12-11T18:00:00",
+  "duration": "00:04:00",
+  "thumbnail": "https://i.ytimg.com/vi/vgNtfaWSEUs/sddefault.jpg",
+  "alt": "[2018MAMA x M2] (여자)아이들((G)I-DLE) at 땡큐스테이지(Thank You Stage) in KOREA",
+  "title": "[2018MAMA x M2] (여자)아이들((G)I-DLE) at 땡큐스테이지(Thank You Stage) in KOREA"
+},
+{
+  "link": "https://youtu.be/mxlqvIAmDRY",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-10-11T18:00:00",
+  "duration": "00:01:48",
+  "thumbnail": "https://i.ytimg.com/vi/mxlqvIAmDRY/sddefault.jpg",
+  "alt": "[KCON2018TH x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera",
+  "title": "[KCON2018TH x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera"
+},
+
+{
+  "link": "https://youtu.be/MYrW_IToCDk",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-12-10T18:00:00",
+  "duration": "00:00:53",
+  "thumbnail": "https://i.ytimg.com/vi/MYrW_IToCDk/maxresdefault.jpg",
+  "alt": "[MMA X 1theK] Thank you for cheering (G)I-DLE! ((여자)아이들을 응원해줘서 고마워!)",
+  "title": "[MMA X 1theK] Thank you for cheering (G)I-DLE! ((여자)아이들을 응원해줘서 고마워!)"
+},
+{
+  "link": "https://youtu.be/mDiZFM97uUo",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-12-24T18:00:00",
+  "duration": "00:09:24",
+  "thumbnail": "https://i.ytimg.com/vi/mDiZFM97uUo/sddefault.jpg",
+  "alt": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB)",
+  "title": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB)"
 }
 
 

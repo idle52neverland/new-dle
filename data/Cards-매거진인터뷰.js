@@ -2381,6 +2381,66 @@ const 매거진인터뷰Cards = [
   "thumbnail": "https://i.ytimg.com/vi/VYrm_elglkM/maxresdefault.jpg",
   "alt": "舒華回家了！現身 Netflix《回魂計》首映會　「獻飛吻」向粉絲暖喊：記得吃飯",
   "title": "舒華回家了！現身 Netflix《回魂計》首映會　「獻飛吻」向粉絲暖喊：記得吃飯"
+},
+{
+  "link": "https://youtu.be/fLpeynhjyWI",
+  "category": "매거진인터뷰",
+  "member": "민니",
+  "date": "2022-04-01T18:00:00",
+  "duration": "01:05:38",
+  "thumbnail": "https://i.ytimg.com/vi/c8780vEbx1k/hqdefault.jpg",
+  "alt": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8",
+  "title": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8"
+},
+{
+  "link": "https://youtu.be/T6cEScV0z-Q",
+  "category": "매거진인터뷰",
+  "member": "소연",
+  "date": "2022-07-29T18:00:00",
+  "duration": "01:26:36",
+  "thumbnail": "https://i.ytimg.com/vi/srJWnrV_6bw/hqdefault.jpg",
+  "alt": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8",
+  "title": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8"
+},
+{
+  "link": "https://youtu.be/vg2xNxje4C0",
+  "category": "매거진인터뷰",
+  "member": "슈화",
+  "date": "2023-04-14T18:00:00",
+  "duration": "00:42:51",
+  "thumbnail": "https://i.ytimg.com/vi/ipoZi84MvCM/hqdefault.jpg",
+  "alt": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6",
+  "title": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6"
+},
+{
+  "link": "https://youtu.be/Z0MJKiXBujE",
+  "category": "매거진인터뷰",
+  "member": "우기",
+  "date": "2024-03-15T18:00:00",
+  "duration": "01:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/FcaH7yrYWgY/hqdefault.jpg",
+  "alt": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6",
+  "title": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6"
+},
+{
+  "link": "https://youtu.be/l2s7HlW-q50",
+  "category": "매거진인터뷰",
+  "member": "미연",
+  "date": "2024-09-02T18:00:00",
+  "duration": "00:53:10",
+  "thumbnail": "https://i.ytimg.com/vi/O2QV5HM8SYw/hqdefault.jpg",
+  "alt": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6",
+  "title": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6"
+},
+{
+  "link": "https://youtu.be/EamWkFcq0lc",
+  "category": "매거진인터뷰",
+  "member": "아이들",
+  "date": "2024-01-30T18:00:00",
+  "duration": "00:02:24",
+  "thumbnail": "https://i.ytimg.com/vi/EamWkFcq0lc/maxresdefault.jpg",
+  "alt": "Super Lady: 가수가 됐으면 노래방에서 발라드 불러야지!! 🎤 #멜론 #멜런스게임 #GIDLE",
+  "title": "Super Lady: 가수가 됐으면 노래방에서 발라드 불러야지!! 🎤 #멜론 #멜런스게임 #GIDLE"
 }
 
 
