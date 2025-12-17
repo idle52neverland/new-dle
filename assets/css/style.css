@@ -93,94 +93,72 @@ body, button, input, select, textarea, div, span {
 }
 
 /* ===========================================================
-   SEARCHBOX (검색 입력 영역)
+   SEARCHBOX - 정렬 및 깨짐 수정 완료 버전
 =========================================================== */
 .searchbox {
-  display: flex; 
-  align-items: center;
-  background: #fff;
-  border: 1px solid #ccc;
-  border-radius: 2rem;
-  padding: 0 0.5rem; 
-  height: 3rem;
-  width: 40rem;
-  min-width: 18rem;
-  max-width: 50rem;
-  margin-left: 0;
-  position: relative; 
+    display: flex; 
+    align-items: center;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 2rem;
+    padding: 0 1rem; /* 내부 전체 여백 */
+    height: 3.2rem;
+    width: 100%;
+    max-width: 50rem;
+    box-sizing: border-box;
 }
 
-/* 검색 입력창 (input) */
-.searchbox input {
-  font-size: 20px !important;
-  transform: scale(0.8);
-  transform-origin: left center; 
-  flex: 1 1 0% !important; 
-  min-width: 0; 
-  border: none;
-  background: transparent;
-  font-family: inherit; 
-  font-size: var(--fs-normal); 
-  outline: none;
-  color: #0f0f0f; 
-  padding: 0 4rem 0 1rem; /* 오른쪽 패딩(4rem)은 돋보기 아이콘 공간 확보 */
-}
-
-/* 돋보기 아이콘 (검색창 내부) */
-.searchbox .icon-right {
-  width: 1.6rem;
-  height: 1.6rem;
-  flex-shrink: 0;
-  cursor: pointer;
-  margin-left: -4rem; /* 입력창의 오른쪽 패딩 영역으로 아이콘을 이동시켜 겹치게 함 */
-}
-
-/* 세로 구분선 (검색창 내부 요소 분리) */
-.searchbox .separator {
-  width: 1px;
-  height: 60%; 
-  background-color: #ccc;
-  flex-shrink: 0;
-  margin-right: 0.5rem; 
-}
-
-/* 카테고리 버튼의 기본 설정 (다른 영역에서 사용되는 경우) */
-.category-btn {
-    font-size: 1.0rem; 
-    padding: 0 0.8rem;
-    height: 2.1rem; 
-    font-weight: 500;
-    color: #0f0f0f;
-    text-decoration: none;
-}
-
-/* 카테고리 버튼 (검색창 내부, '.category-btn.in-search') */
+/* 1. 카테고리 버튼 */
 .category-btn.in-search {
-  /* in-search 고유 스타일 */
-  height: 100%; 
-  background: transparent; 
-  border: none; 
-  position: static; 
-  transform: none;
-  display: flex;            
-  align-items: center;      
-  justify-content: space-between; 
-  border-radius: 0 2rem 2rem 0; 
-  margin-right: -0.5rem; 
-  font-size: 0.9rem !important;
-  height: 2.1rem !important; 
-  padding: 0 0.8rem !important;
+    display: flex;             
+    align-items: center;      
+    background: transparent; 
+    border: none; 
+    height: 100%;
+    padding: 0 0.5rem !important;
+    font-size: 0.9rem !important;
+    cursor: pointer;
+    flex-shrink: 0;
+    margin: 0 !important; /* 마진 초기화 */
 }
 
-.category-btn.in-search:hover {
-  background: #f0f0f0; 
-}
-
-/* 카테고리 버튼 내부의 드롭다운 화살표 */
+/* 화살표 아이콘 (깨짐 방지) */
 .category-btn.in-search .arrow {
-    width: 0.9rem;
-    height: 0.9rem;
-    margin-left: 0.2rem;
+    width: 0.8rem;
+    height: 0.8rem;
+    margin-left: 0.4rem;
+    flex-shrink: 0;
+}
+
+/* 2. 세로 구분선 */
+.searchbox .separator {
+    width: 1px;
+    height: 1.2rem;
+    background-color: #ddd;
+    margin: 0 0.8rem;
+    flex-shrink: 0;
+}
+
+/* 3. 입력창 (가운데) */
+.searchbox input {
+    flex: 1; /* ★ 남은 공간을 모두 차지하여 돋보기를 오른쪽으로 밀어냄 */
+    border: none !important;
+    outline: none !important;
+    background: transparent;
+    font-size: 1rem !important;
+    color: #0f0f0f;
+    padding: 0 0.5rem !important; /* 내부 여백 */
+    margin: 0 !important;
+    transform: none !important; /* 글자 왜곡 방지 */
+}
+
+/* 4. 돋보기 아이콘 (오른쪽 끝) */
+.searchbox .icon-right {
+    width: 1.5rem;
+    height: 1.5rem;
+    cursor: pointer;
+    flex-shrink: 0;
+    margin-left: 0.5rem !important; /* ★ 마이너스 마진(-4rem)을 지우면 오른쪽 끝으로 갑니다 */
 }
 
 /* ===========================================================
@@ -594,6 +572,10 @@ body, button, input, select, textarea, div, span {
    MOBILE OPTIMIZATION
 =========================== */
 @media (max-width: 767px) {
+.category-dropdown {
+        left: 40px !important; 
+        transform: none !important; 
+}
 .category-dropdown .cat-item {
     padding: 0.3rem 0.75rem !important; 
 }

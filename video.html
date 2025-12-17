@@ -46,21 +46,17 @@
       <img src="images/home.svg" class="icon-left" id="homeBtn">
 
       <div class="searchbox">
-        <input 
-            type="text"
-            id="searchInput"
-            autocomplete="off"
-        >
-        
-        <img src="images/search.svg" class="icon-right" id="searchBtn">
-        
-        <div class="separator"></div>
-        
-        <button id="categoryDropdownBtn" class="category-btn in-search">
-            <span id="currentCategory">카테고리 선택</span>
+    <button id="categoryDropdownBtn" class="category-btn in-search">
+        <span id="currentCategory">카테고리 선택</span>
             <img src="images/arrow_down.svg" class="arrow"> 
-        </button>
-      </div>
+    </button>
+
+    <div class="separator"></div>
+
+    <input type="text" id="searchInput" autocomplete="off" placeholder="">
+    
+    <img src="images/search.svg" class="icon-right" id="searchBtn">
+</div>
 
       <div id="categoryDropdown" class="category-dropdown hidden">
         <div class="cat-item">All Videos</div>
