@@ -265,25 +265,25 @@ const OST참여곡Cards = [
 },
 
 {
-  "link": "https://youtu.be/X1hkKjV_e90",
+  "link": "https://youtu.be/FzXo9B8E3fU",
   "category": "OST참여곡",
   "member": "미연",
   "date": "2021-02-19T18:00:00",
   "duration": "00:03:40",
-  "thumbnail": "https://i.ytimg.com/vi/X1hkKjV_e90/mqdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/FzXo9B8E3fU/maxresdefault.jpg",
   "alt": "미연 - Dreaming about you (웹드라마 리플레이 OST)",
   "title": "미연 - Dreaming about you (웹드라마 리플레이 OST)"
 },
 
 {
-  "link": "https://youtu.be/8JFGldmdZKA",
+  "link": "https://youtu.be/US3N1g15CZI",
   "category": "OST참여곡",
   "member": "미연",
   "date": "2021-02-26T18:00:00",
   "duration": "00:03:22",
-  "thumbnail": "https://i.ytimg.com/vi/8JFGldmdZKA/mqdefault.jpg",
-  "alt": "미연 - 마음이 닿는 법 ㅣ웹드라마 리플레이 OST",
-  "title": "미연 - 마음이 닿는 법 ㅣ웹드라마 리플레이 OST"
+  "thumbnail": "https://i.ytimg.com/vi/US3N1g15CZI/maxresdefault.jpg",
+  "alt": "미연 - 마음이 닿는 법 (웹드라마 리플레이 OST)",
+  "title": "미연 - 마음이 닿는 법 (웹드라마 리플레이 OST)"
 },
 
 {

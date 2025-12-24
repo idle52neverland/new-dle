@@ -593,6 +593,7 @@ const 공연축제Cards = [
   "alt": "[드림콘서트2019] (G)I-DLE, Senorita  Fancam | Dream Concert 2019",
   "title": "[드림콘서트2019] (G)I-DLE, Senorita  Fancam | Dream Concert 2019"
 },
+
 {
   "link": "https://youtu.be/dFoXDP1E_Mo",
   "category": "공연축제",
@@ -604,7 +605,6 @@ const 공연축제Cards = [
   "title": "[드림콘서트2019 비하인드] (여자)아이들, 인싸대결 5탄 | Dream Concert 2019"
 },
 
-
 {
   "link": "https://youtu.be/rBnlxgfGGTI",
   "category": "공연축제",
@@ -615,6 +615,7 @@ const 공연축제Cards = [
   "alt": "[드림콘서트2019 비하인드] (여자)아이들, 너무 감미로워서 고막이 녹아버린 아이들의 큐브 패밀리 메들리! | Dream Concert 2019",
   "title": "[드림콘서트2019 비하인드] (여자)아이들, 너무 감미로워서 고막이 녹아버린 아이들의 큐브 패밀리 메들리! | Dream Concert 2019"
 },
+
 {
   "link": "https://youtu.be/K9FLUx3LtVQ",
   "category": "공연축제",
@@ -1186,6 +1187,7 @@ const 공연축제Cards = [
   "alt": "(Japanese ver.) 라쿠텐 걸즈 어워드 | 楽天ガールズアワード 2019 | Rakuten Girls Award 2019 A/W",
   "title": "(Japanese ver.) 라쿠텐 걸즈 어워드 | 楽天ガールズアワード 2019 | Rakuten Girls Award 2019 A/W"
 },
+
 {
   "link": "https://youtu.be/0lxAoJZvSEo",
   "category": "공연축제",
@@ -1196,6 +1198,7 @@ const 공연축제Cards = [
   "alt": "(G)I-DLE Online Concert 'I-Land : Who Am I'",
   "title": "(G)I-DLE Online Concert 'I-Land : Who Am I'"
 },
+
 {
   "link": "https://youtu.be/Z_PTvR25eUE",
   "category": "공연축제",
@@ -1272,7 +1275,16 @@ const 공연축제Cards = [
   "alt": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI)",
   "title": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI)"
 },
-
+{
+  "link": "https://youtu.be/pnW2Lexomds",
+  "category": "공연축제",
+  "member": "민니",
+  "date": "2021-10-03T18:00:00",
+  "duration": "00:04:11",
+  "thumbnail": "https://i.ytimg.com/vi/pnW2Lexomds/maxresdefault.jpg",
+  "alt": "MONEY HONEY - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) | T-POP STAGE SHOW",
+  "title": "MONEY HONEY - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) | T-POP STAGE SHOW"
+},
 {
   "link": "https://youtu.be/JBlGL3KkUAM",
   "category": "공연축제",
@@ -1393,6 +1405,7 @@ const 공연축제Cards = [
   "alt": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE",
   "title": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE"
 },
+
 {
   "link": "https://youtu.be/BNwOea2PiPc",
   "category": "공연축제",
@@ -1590,6 +1603,7 @@ const 공연축제Cards = [
   "alt": "[COVER] (Full Cam) '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG",
   "title": "[COVER] (Full Cam) '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG"
 },
+
 {
   "link": "https://youtu.be/S4pOeur6JzE",
   "category": "공연축제",
@@ -1600,6 +1614,7 @@ const 공연축제Cards = [
   "alt": "팀 K리그 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈",
   "title": "팀 K리그 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈"
 },
+
 {
   "link": "https://youtu.be/gwbDsWLCy8g",
   "category": "공연축제",
@@ -1610,6 +1625,7 @@ const 공연축제Cards = [
   "alt": "맨시티 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈",
   "title": "맨시티 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈"
 },
+
 {
   "link": "https://youtu.be/pGoMB9Yd_aY",
   "category": "공연축제",
@@ -1862,6 +1878,7 @@ const 공연축제Cards = [
   "alt": "[건국대 축제] (G)I-DLE, ♬ Super Lady+MY BAG+Queencard+TOMBOY+나는 아픈 건 딱 질색이니까+Allergy",
   "title": "[건국대 축제] (G)I-DLE, ♬ Super Lady+MY BAG+Queencard+TOMBOY+나는 아픈 건 딱 질색이니까+Allergy"
 },
+
 {
   "link": "https://youtu.be/9GVY-rdNhnc",
   "category": "공연축제",
@@ -1872,6 +1889,7 @@ const 공연축제Cards = [
   "alt": "[YUQI] 雨琦杭州草莓音乐节全场饭拍 | YUQI Hangzhou Strawberry Music Festival full-stage Fancam",
   "title": "[YUQI] 雨琦杭州草莓音乐节全场饭拍 | YUQI Hangzhou Strawberry Music Festival full-stage Fancam"
 },
+
 {
   "link": "https://youtu.be/uUH9qpcujNI",
   "category": "공연축제",
@@ -2091,6 +2109,7 @@ const 공연축제Cards = [
   "alt": "(여자)아이들 메이저리그 MLB Seoul Series 축하공연 | 쿠팡플레이",
   "title": "(여자)아이들 메이저리그 MLB Seoul Series 축하공연 | 쿠팡플레이"
 },
+
 {
   "link": "https://youtu.be/iWC1kDW8Cpc",
   "category": "공연축제",
@@ -2101,6 +2120,7 @@ const 공연축제Cards = [
   "alt": "【宋雨琦/YUQI】雨琦惊喜cover《绿光》｜永远22！bilibili毕业歌会(250602)",
   "title": "【宋雨琦/YUQI】雨琦惊喜cover《绿光》｜永远22！bilibili毕业歌会(250602)"
 },
+
 {
   "link": "https://youtu.be/E8gYVCxQ07A",
   "category": "공연축제",
@@ -2111,6 +2131,7 @@ const 공연축제Cards = [
   "alt": "林俊傑 JJ Lin /  宋雨琦 YUQI《FREAK》 - JJ20 FINAL LAP 首爾現場版 Live in Seoul",
   "title": "林俊傑 JJ Lin /  宋雨琦 YUQI《FREAK》 - JJ20 FINAL LAP 首爾現場版 Live in Seoul"
 },
+
 {
   "link": "https://youtu.be/5ktHEKUrFkM",
   "category": "공연축제",
@@ -2121,6 +2142,7 @@ const 공연축제Cards = [
   "alt": "[TAIWAN CPBL All Star Game] 민니 시구 ",
   "title": "[TAIWAN CPBL All Star Game] 민니 시구 "
 },
+
 {
   "link": "https://youtu.be/2dOTVb1ra3s",
   "category": "공연축제",
@@ -2131,6 +2153,7 @@ const 공연축제Cards = [
   "alt": "[TAIWAN CPBL All Star Game] Full Performance - Blind Eyes Red + HER + Cherry Sky + Obsession +Queencard",
   "title": "[TAIWAN CPBL All Star Game] Full Performance - Blind Eyes Red + HER + Cherry Sky + Obsession +Queencard"
 },
+
 {
   "link": "https://youtu.be/g50hLD5yp_g",
   "category": "공연축제",
@@ -2174,6 +2197,7 @@ const 공연축제Cards = [
   "alt": "[fancam] 아이들 - LATATA | 2025 SUMMER SONIC OSAKA",
   "title": "[fancam] 아이들 - LATATA | 2025 SUMMER SONIC OSAKA"
 },
+
 {
   "link": "https://youtu.be/UCUIOMZ9PDs",
   "category": "공연축제",
@@ -2305,6 +2329,7 @@ const 공연축제Cards = [
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 13. Happy Space",
   "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 13. Happy Space"
 },
+
 {
   "link": "https://youtu.be/-pbexaJ6Zh8",
   "category": "공연축제",
@@ -2315,6 +2340,7 @@ const 공연축제Cards = [
   "alt": "‘LOVE YOUR W 2025’ Full Performance (Good Thing, Tomboy, Queencard, Fate) ",
   "title": "‘LOVE YOUR W 2025’ Full Performance (Good Thing, Tomboy, Queencard, Fate) "
 },
+
 {
   "link": "https://youtu.be/nZIXS5SQ9PA",
   "category": "공연축제",
@@ -2491,7 +2517,6 @@ const 공연축제Cards = [
   "title": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | M.O (Live Stage)"
 },
 
-
 {
   "link": "https://youtu.be/upOf66c3JzA",
   "category": "공연축제",
@@ -2502,6 +2527,7 @@ const 공연축제Cards = [
   "alt": "汪苏泷 Silence Wang ［像晴天像雨天］十万伏特2.0 Official Stage Video",
   "title": "汪苏泷 Silence Wang ［像晴天像雨天］十万伏特2.0 Official Stage Video"
 },
+
 {
   "link": "https://youtu.be/BkDW8RmTK4A",
   "category": "공연축제",
@@ -2512,6 +2538,7 @@ const 공연축제Cards = [
   "alt": "[2025春晚等着你]白鹿 程潇 宋雨琦即兴舞蹈 眼神巨有戏！ | CCTV春晚",
   "title": "[2025春晚等着你]白鹿 程潇 宋雨琦即兴舞蹈 眼神巨有戏！ | CCTV春晚"
 },
+
 {
   "link": "https://youtu.be/vgNtfaWSEUs",
   "category": "공연축제",
@@ -2522,6 +2549,7 @@ const 공연축제Cards = [
   "alt": "[2018MAMA x M2] (여자)아이들((G)I-DLE) at 땡큐스테이지(Thank You Stage) in KOREA",
   "title": "[2018MAMA x M2] (여자)아이들((G)I-DLE) at 땡큐스테이지(Thank You Stage) in KOREA"
 },
+
 {
   "link": "https://youtu.be/mxlqvIAmDRY",
   "category": "공연축제",
@@ -2543,6 +2571,7 @@ const 공연축제Cards = [
   "alt": "[MMA X 1theK] Thank you for cheering (G)I-DLE! ((여자)아이들을 응원해줘서 고마워!)",
   "title": "[MMA X 1theK] Thank you for cheering (G)I-DLE! ((여자)아이들을 응원해줘서 고마워!)"
 },
+
 {
   "link": "https://youtu.be/mDiZFM97uUo",
   "category": "공연축제",
@@ -2553,9 +2582,10 @@ const 공연축제Cards = [
   "alt": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB)",
   "title": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB)"
 },
+
 {
   "link": "https://youtu.be/0Ckkwip13mc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-07-18T18:00:00",
   "duration": "00:03:20",
@@ -2563,9 +2593,10 @@ const 공연축제Cards = [
   "alt": "[KCON 2018 Taipei] (여자)아이들 - Maze",
   "title": "[KCON 2018 Taipei] (여자)아이들 - Maze"
 },
+
 {
   "link": "https://youtu.be/OHIobUitIOg",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-10-11T18:00:00",
   "duration": "00:02:10",
@@ -2576,7 +2607,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/VwsHCcpP9j8",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-10-11T18:00:00",
   "duration": "00:03:30",
@@ -2584,9 +2615,10 @@ const 공연축제Cards = [
   "alt": "[KCON 2018 THAILAND] (G)I-DLE - HANNㅣKCON 2018 THAILAND x M COUNTDOWN",
   "title": "[KCON 2018 THAILAND] (G)I-DLE - HANNㅣKCON 2018 THAILAND x M COUNTDOWN"
 },
+
 {
   "link": "https://youtu.be/HwwUTemjpK0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-10-31T18:00:00",
   "duration": "00:03:40",
@@ -2594,9 +2626,10 @@ const 공연축제Cards = [
   "alt": "[2018 MUSICBANK IN BERLIN] (G)-IDLE ((여자)아이들) - 한(HANN,一)",
   "title": "[2018 MUSICBANK IN BERLIN] (G)-IDLE ((여자)아이들) - 한(HANN,一)"
 },
+
 {
   "link": "https://youtu.be/p9oDlvOV3qs",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연, 소연",
   "date": "2018-11-03T18:00:00",
   "duration": "00:03:52",
@@ -2607,7 +2640,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/vSBqBJgSEgA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-11-06T18:00:00",
   "duration": "00:04:13",
@@ -2618,7 +2651,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/80Fm2EMNH0M",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-11-06T18:00:00",
   "duration": "00:02:45",
@@ -2629,7 +2662,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/6i7PeKkAIaA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-12-01T18:00:04",
   "duration": "00:02:59",
@@ -2640,7 +2673,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/QGNTS-3uf2k",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-12-01T18:00:05",
   "duration": "00:07:16",
@@ -2651,7 +2684,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/y2s7C-m62MA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-12-01T18:00:06",
   "duration": "00:06:48",
@@ -2662,7 +2695,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/5JlQVPT8wSw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-12-01T18:00:07",
   "duration": "00:03:08",
@@ -2673,7 +2706,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/gj8gSfYBPPc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2018-12-10T18:00:00",
   "duration": "00:02:17",
@@ -2684,7 +2717,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/aYUbYL2cDS0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-12-10T18:00:00",
   "duration": "00:05:37",
@@ -2695,7 +2728,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/prrhe5sIG3A",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-12-10T18:00:10",
   "duration": "00:08:00",
@@ -2706,7 +2739,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/n2kbQXfwCAU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-12-12T18:00:00",
   "duration": "00:01:40",
@@ -2714,9 +2747,10 @@ const 공연축제Cards = [
   "alt": "[2018 MAMA x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera in KOREA (2018-12-10)",
   "title": "[2018 MAMA x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera in KOREA (2018-12-10)"
 },
+
 {
   "link": "https://youtu.be/iESof_jwfRo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-12-27T18:00:00",
   "duration": "00:02:01",
@@ -2724,9 +2758,10 @@ const 공연축제Cards = [
   "alt": "[2018 가요대전] 여자아이들, 러블리한 무대 ‘LATATA’",
   "title": "[2018 가요대전] 여자아이들, 러블리한 무대 ‘LATATA’"
 },
+
 {
   "link": "https://youtu.be/CX9hz18ZPco",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2018-12-28T18:00:00",
   "duration": "00:03:44",
@@ -2737,7 +2772,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/yJGW0Xay0z0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2019-01-23T18:00:00",
   "duration": "00:06:04",
@@ -2745,9 +2780,10 @@ const 공연축제Cards = [
   "alt": "[가온차트뮤직어워즈] (여자)아이들 신인상 수상소감 & LATATA",
   "title": "[가온차트뮤직어워즈] (여자)아이들 신인상 수상소감 & LATATA"
 },
+
 {
   "link": "https://youtu.be/VHpCo5vzkkw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2019-07-07T18:00:00",
   "duration": "00:11:48",
@@ -2755,9 +2791,10 @@ const 공연축제Cards = [
   "alt": "[KCON 2019 NY] 여자아이들  Uh Oh + HANN + LATATA + Senorita",
   "title": "[KCON 2019 NY] 여자아이들  Uh Oh + HANN + LATATA + Senorita"
 },
+
 {
   "link": "https://youtu.be/JY-Ai-MnhMk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2019-07-25T18:00:00",
   "duration": "00:03:55",
@@ -2765,9 +2802,10 @@ const 공연축제Cards = [
   "alt": "[KCON 2019 NY] (G)I-DLE - Uh-OhㅣKCON 2019 NY × M COUNTDOWN",
   "title": "[KCON 2019 NY] (G)I-DLE - Uh-OhㅣKCON 2019 NY × M COUNTDOWN"
 },
+
 {
   "link": "https://youtu.be/7ywDxAFq9gw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2019-10-17T18:00:40",
   "duration": "00:00:39",
@@ -2778,7 +2816,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/NC_7gUfJJIw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2019-10-17T18:00:41",
   "duration": "00:04:01",
@@ -2786,9 +2824,10 @@ const 공연축제Cards = [
   "alt": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN",
   "title": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN"
 },
+
 {
   "link": "https://youtu.be/Th2NdWZDPKE",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2019-12-31T18:00:00",
   "duration": "00:03:01",
@@ -2799,7 +2838,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/8O-3rWafjMk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2019-12-31T18:00:00",
   "duration": "00:04:07",
@@ -2810,7 +2849,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/EMxUmV3ls8w",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-01-06T18:00:00",
   "duration": "00:04:59",
@@ -2821,7 +2860,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/nUrnuqb7N0w",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-01-15T18:00:00",
   "duration": "00:07:17",
@@ -2829,9 +2868,10 @@ const 공연축제Cards = [
   "alt": "[2019 AAA in Vietnam] 여자아이들 - Intro + Uh-Oh + Senorita",
   "title": "[2019 AAA in Vietnam] 여자아이들 - Intro + Uh-Oh + Senorita"
 },
+
 {
   "link": "https://youtu.be/ZbslugCz81U",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-06-27T18:00:00",
   "duration": "00:05:44",
@@ -2839,9 +2879,10 @@ const 공연축제Cards = [
   "alt": "[KCON:TACT 2020 SUMMER] WE are all here TOGETHER: To you | 그대에게 | 케이콘택트 | 200827 방송",
   "title": "[KCON:TACT 2020 SUMMER] WE are all here TOGETHER: To you | 그대에게 | 케이콘택트 | 200827 방송"
 },
+
 {
   "link": "https://youtu.be/T29KPZ7No4Q",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-06T18:00:00",
   "duration": "00:02:01",
@@ -2852,7 +2893,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/9qOHLrYYASI",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-06T18:00:00",
   "duration": "00:04:11",
@@ -2860,9 +2901,10 @@ const 공연축제Cards = [
   "alt": "[2020 MAMA] (G)I-DLE_DUMDi DUMDi",
   "title": "[2020 MAMA] (G)I-DLE_DUMDi DUMDi"
 },
+
 {
   "link": "https://youtu.be/fhgIbuy_OQQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-04T18:00:00",
   "duration": "00:03:27",
@@ -2873,7 +2915,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/PMqRQYjFvF0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-07T18:00:00",
   "duration": "00:06:56",
@@ -2884,7 +2926,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/XGdztIcD65E",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-18T18:00:00",
   "duration": "00:04:35",
@@ -2895,7 +2937,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/kvbzh9Iu4YI",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-18T18:00:00",
   "duration": "00:04:46",
@@ -2906,7 +2948,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/qnREMXKlPLU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-18T18:00:00",
   "duration": "00:03:31",
@@ -2917,7 +2959,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/mZvwhZYBLBk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-18T18:00:00",
   "duration": "00:03:24",
@@ -2928,7 +2970,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/xuH4YbWQBug",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2020-12-18T18:00:00",
   "duration": "00:03:35",
@@ -2939,7 +2981,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/ch5iMs9mWwk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2020-12-18T18:00:00",
   "duration": "00:03:34",
@@ -2950,7 +2992,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/qn1dxhm2IX4",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2020-12-18T18:00:00",
   "duration": "00:04:22",
@@ -2961,7 +3003,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/N8-xQHCt0Kc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2020-12-18T18:00:00",
   "duration": "00:04:22",
@@ -2972,7 +3014,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/2pWebxYmj5Q",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2020-12-18T18:00:00",
   "duration": "00:04:22",
@@ -2983,7 +3025,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/ctBgVEhgva4",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2020-12-18T18:00:00",
   "duration": "00:04:22",
@@ -2994,7 +3036,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/vDnhKLZXA70",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-18T18:00:00",
   "duration": "00:04:22",
@@ -3005,7 +3047,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/t8vJzVgegfc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-19T18:00:00",
   "duration": "00:05:12",
@@ -3016,7 +3058,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/4XdcoZuzAnc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연, 우기",
   "date": "2020-12-25T18:00:00",
   "duration": "00:01:57",
@@ -3027,7 +3069,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Mr5ddZQMC4E",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-25T18:00:00",
   "duration": "00:04:03",
@@ -3038,7 +3080,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/D67AqGE4rRU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연, 우기",
   "date": "2020-12-25T18:00:00",
   "duration": "00:02:12",
@@ -3049,7 +3091,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/P8ey4vF9Kvw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연, 우기",
   "date": "2020-12-25T18:00:00",
   "duration": "00:02:14",
@@ -3060,7 +3102,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/SCu2WNw2joo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2020-12-31T18:00:00",
   "duration": "00:02:44",
@@ -3071,7 +3113,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/mQftiLy7hsI",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2020-12-31T18:00:00",
   "duration": "00:04:16",
@@ -3082,7 +3124,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/jPrah1CDOo0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2020-12-31T18:00:00",
   "duration": "00:03:09",
@@ -3093,7 +3135,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Fpx1xuzWE0M",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2020-12-31T18:00:00",
   "duration": "00:01:18",
@@ -3104,7 +3146,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/0eZpPPVRMHE",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2021-01-10T18:00:00",
   "duration": "00:03:46",
@@ -3112,9 +3154,10 @@ const 공연축제Cards = [
   "alt": "[제35회 골든디스크] (여자)아이들 - 'INTRO' + 'Oh my god'♪ | Golden Disc Awards",
   "title": "[제35회 골든디스크] (여자)아이들 - 'INTRO' + 'Oh my god'♪ | Golden Disc Awards"
 },
+
 {
   "link": "https://youtu.be/O5_gGdOuHOc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2021-05-26T18:00:00",
   "duration": "00:14:02",
@@ -3122,9 +3165,10 @@ const 공연축제Cards = [
   "alt": "[KCON:TACT 2020 SUMMER] [All Stage🎁] (G)I-DLE ((여자)아이들) | 케이콘택트 | 200827 방송",
   "title": "[KCON:TACT 2020 SUMMER] [All Stage🎁] (G)I-DLE ((여자)아이들) | 케이콘택트 | 200827 방송"
 },
+
 {
   "link": "https://youtu.be/tDqT9xgMi4k",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2021-08-01T18:00:00",
   "duration": "00:02:51",
@@ -3135,7 +3179,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/-ZgQPLsfvqQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2021-08-01T18:00:00",
   "duration": "00:02:50",
@@ -3143,9 +3187,10 @@ const 공연축제Cards = [
   "alt": "JEON SOYEON (전소연) - Weather (웨더) 2021 Together Again, K-POP Concert (2021 다시함께 K-POP 콘서트)",
   "title": "JEON SOYEON (전소연) - Weather (웨더) 2021 Together Again, K-POP Concert (2021 다시함께 K-POP 콘서트)"
 },
+
 {
   "link": "https://youtu.be/gW8bekyLUS0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2021-08-04T18:00:00",
   "duration": "00:03:37",
@@ -3156,7 +3201,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/gqZQGP_psKA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2021-08-04T18:00:00",
   "duration": "00:03:46",
@@ -3167,7 +3212,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/qG6PL66yKVM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2021-08-04T18:00:00",
   "duration": "00:03:38",
@@ -3178,7 +3223,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/gGXGYhWquOU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2021-08-04T18:00:00",
   "duration": "00:03:48",
@@ -3186,9 +3231,10 @@ const 공연축제Cards = [
   "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - Luv U (사랑해) | 케이콘택트 | 200827 방송",
   "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - Luv U (사랑해) | 케이콘택트 | 200827 방송"
 },
+
 {
   "link": "https://youtu.be/cfJVQrrOanc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2021-12-25T18:00:00",
   "duration": "00:04:03",
@@ -3199,7 +3245,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/jQNEiHzIcX4",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2021-12-25T18:00:00",
   "duration": "00:03:23",
@@ -3210,7 +3256,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/0e4Nwr3zHf0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2021-12-26T18:00:00",
   "duration": "00:04:37",
@@ -3221,7 +3267,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/BwvvnMrGyqY",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2021-12-29T18:00:00",
   "duration": "00:02:50",
@@ -3232,7 +3278,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/e-X9VOOPw7s",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2021-12-31T18:00:00",
   "duration": "00:03:30",
@@ -3243,7 +3289,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/_PvXndBg2Tc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2021-12-31T18:00:00",
   "duration": "00:03:32",
@@ -3254,7 +3300,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Ir2AM4xwMUg",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2021-12-31T18:00:00",
   "duration": "00:03:29",
@@ -3265,7 +3311,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/PDFSaNnhABo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2021-12-31T18:00:00",
   "duration": "00:03:24",
@@ -3276,7 +3322,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Gdl2YoK1FaU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2021-12-31T18:00:00",
   "duration": "00:02:27",
@@ -3287,7 +3333,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/CLk5WobfLpQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2022-01-03T18:00:00",
   "duration": "00:03:50",
@@ -3298,7 +3344,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/FkRNUYFFZLc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2022-01-07T18:00:00",
   "duration": "00:03:37",
@@ -3306,9 +3352,10 @@ const 공연축제Cards = [
   "alt": "[2021 가요대제전] [4K직캠] 아이키 X 전소연 X 방과후 설렘 'Same Same Different' (Aiki X Jeon Soyeon X Teenage Girls FanCam)",
   "title": "[2021 가요대제전] [4K직캠] 아이키 X 전소연 X 방과후 설렘 'Same Same Different' (Aiki X Jeon Soyeon X Teenage Girls FanCam)"
 },
+
 {
   "link": "https://youtu.be/TCkWCKyDczQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-03-05T18:00:00",
   "duration": "00:04:27",
@@ -3316,9 +3363,10 @@ const 공연축제Cards = [
   "alt": "[제30회 서울가요대상 SMA 직캠] (여자)아이들((G)I-DLE) - Intro+화 '베스트퍼포먼스상 무대'",
   "title": "[제30회 서울가요대상 SMA 직캠] (여자)아이들((G)I-DLE) - Intro+화 '베스트퍼포먼스상 무대'"
 },
+
 {
   "link": "https://youtu.be/muDw_XnnnZQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-09-05T18:00:00",
   "duration": "00:02:59",
@@ -3329,7 +3377,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/73N5V3Rdi1Y",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-10-08T18:00:00",
   "duration": "00:03:52",
@@ -3340,7 +3388,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/PsX5B6TTEdw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2022-10-15T18:00:00",
   "duration": "00:03:28",
@@ -3348,9 +3396,10 @@ const 공연축제Cards = [
   "alt": "[최초공개] Lauv (라우브) X 민니 ((G)I-DLE) - All 4 Nothing l JTBC K-909",
   "title": "[최초공개] Lauv (라우브) X 민니 ((G)I-DLE) - All 4 Nothing l JTBC K-909"
 },
+
 {
   "link": "https://youtu.be/pjtt2pcwHBY",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
   "duration": "00:03:02",
@@ -3358,9 +3407,10 @@ const 공연축제Cards = [
   "alt": "(여자)아이들 ((G)I-DLE) - TOMBOY l JTBC K-909",
   "title": "(여자)아이들 ((G)I-DLE) - TOMBOY l JTBC K-909"
 },
+
 {
   "link": "https://youtu.be/AU99e2vCRpU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2022-10-29T18:00:00",
   "duration": "00:03:05",
@@ -3371,7 +3421,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/RPMys8LvqiM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2022-10-29T18:00:00",
   "duration": "00:03:07",
@@ -3382,7 +3432,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/dCo0mFUThKQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2022-10-29T18:00:00",
   "duration": "00:03:04",
@@ -3393,7 +3443,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/P_yYiE6Vk0A",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
   "duration": "00:03:04",
@@ -3404,7 +3454,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/nJFaIBP8LDU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2022-10-29T18:00:00",
   "duration": "00:03:07",
@@ -3415,7 +3465,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/0pj3VAHUZVI",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2022-10-29T18:00:00",
   "duration": "00:03:02",
@@ -3426,7 +3476,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/6wIf_70Cs-0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
   "duration": "00:03:02",
@@ -3434,9 +3484,10 @@ const 공연축제Cards = [
   "alt": "[909 직캠 4K] (여자)아이들 풀캠 'TOMBOY' ((G)I-DLE FullCam) JTBC K-909",
   "title": "[909 직캠 4K] (여자)아이들 풀캠 'TOMBOY' ((G)I-DLE FullCam) JTBC K-909"
 },
+
 {
   "link": "https://youtu.be/KTlsmt5Q2IQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-26T18:00:00",
   "duration": "00:12:27",
@@ -3447,7 +3498,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/uPB_kHJnzDo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-26T18:00:00",
   "duration": "00:12:24",
@@ -3458,7 +3509,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/KdryynyDPc8",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-27T18:00:00",
   "duration": "00:01:12",
@@ -3469,7 +3520,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/pFnu1BjAuME",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-27T18:00:00",
   "duration": "00:01:25",
@@ -3480,7 +3531,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/KWCmFH77HF8",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-27T18:00:00",
   "duration": "00:03:02",
@@ -3491,7 +3542,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/ABZYhlFir1s",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-28T18:00:00",
   "duration": "00:05:32",
@@ -3502,7 +3553,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Tu9ujQbwxc0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2022-11-30T18:00:00",
   "duration": "00:04:21",
@@ -3513,7 +3564,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/4hjmez-vII0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-30T18:00:00",
   "duration": "00:03:50",
@@ -3524,7 +3575,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/DBvpYum2zeg",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-30T18:00:00",
   "duration": "00:02:55",
@@ -3535,7 +3586,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/C_ezCY2jXCM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-30T18:00:00",
   "duration": "00:04:16",
@@ -3546,7 +3597,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/RdNf0vugCa0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-12-02T18:00:00",
   "duration": "00:22:54",
@@ -3557,7 +3608,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/0MFZpkoAzwc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2022-12-16T18:00:00",
   "duration": "00:01:41",
@@ -3568,7 +3619,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/XkdQ5VeQKDw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-12-16T18:00:00",
   "duration": "00:03:42",
@@ -3579,7 +3630,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/R8ay15Tf0Yw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-12-16T18:00:00",
   "duration": "00:03:42",
@@ -3590,7 +3641,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/yz5zd4o_2YI",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2022-12-16T18:00:00",
   "duration": "00:03:37",
@@ -3601,7 +3652,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/SMqbGqTyyKs",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-12-24T18:00:00",
   "duration": "00:03:01",
@@ -3612,7 +3663,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/ckta2UBmpDo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-12-24T18:00:00",
   "duration": "00:03:12",
@@ -3623,7 +3674,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/N4lLadNnZWc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니, 우기",
   "date": "2022-12-24T18:00:00",
   "duration": "00:03:46",
@@ -3634,7 +3685,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/yrkSpFg6Mek",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-12-25T18:00:00",
   "duration": "00:06:32",
@@ -3645,7 +3696,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/dpSAwFXMHSg",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-12-26T18:00:00",
   "duration": "00:10:52",
@@ -3653,9 +3704,10 @@ const 공연축제Cards = [
   "alt": "[#2022MAMA] (G)I-DLE((여자)아이들) MAMA PERFORMANCE COMPILATION (2022 MAMA 수상자 역대 마마 무대 모아보기)",
   "title": "[#2022MAMA] (G)I-DLE((여자)아이들) MAMA PERFORMANCE COMPILATION (2022 MAMA 수상자 역대 마마 무대 모아보기)"
 },
+
 {
   "link": "https://youtu.be/Dk89OHRhcP0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2022-12-31T18:00:00",
   "duration": "00:03:23",
@@ -3666,7 +3718,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/7HkS3JiCJC4",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2022-12-31T18:00:00",
   "duration": "00:03:58",
@@ -3677,7 +3729,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/OHS1PYKoGuQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2023-01-01T18:00:00",
   "duration": "00:03:19",
@@ -3688,7 +3740,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/fRrUCoE-NCM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-01-02T18:00:00",
   "duration": "00:05:36",
@@ -3699,7 +3751,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/dI8GzxGKehM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2023-01-02T18:00:00",
   "duration": "00:03:42",
@@ -3710,7 +3762,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/6OnDlsmEIXw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-01-07T18:00:00",
   "duration": "00:06:57",
@@ -3721,7 +3773,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Njr105AHYbQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2023-01-07T18:00:00",
   "duration": "00:02:59",
@@ -3732,7 +3784,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Ejcj1JrpnDA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-01-22T18:00:00",
   "duration": "00:09:23",
@@ -3740,9 +3792,10 @@ const 공연축제Cards = [
   "alt": "大勢女團(G)I-DLE唱跳破億神曲<Nxde>,<MY BAG>,<TOMBOY>, 全場沸騰震撼小巨蛋| 2023 초급거성홍백예능대상",
   "title": "大勢女團(G)I-DLE唱跳破億神曲<Nxde>,<MY BAG>,<TOMBOY>, 全場沸騰震撼小巨蛋| 2023 초급거성홍백예능대상"
 },
+
 {
   "link": "https://youtu.be/dEjueKqb_II",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-03-23T18:00:00",
   "duration": "00:02:57",
@@ -3753,7 +3806,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/cXkw8DqJO4c",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2023-04-06T18:00:00",
   "duration": "00:03:00",
@@ -3764,7 +3817,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/KZdRmh62Gsc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-04-10T18:00:00",
   "duration": "00:01:14",
@@ -3772,9 +3825,10 @@ const 공연축제Cards = [
   "alt": "[KCON 2023 THAILAND] [PREVIEW] (G)I-DLE ((여자)아이들) | KCON BEHIND 🎬",
   "title": "[KCON 2023 THAILAND] [PREVIEW] (G)I-DLE ((여자)아이들) | KCON BEHIND 🎬"
 },
+
 {
   "link": "https://youtu.be/SYUu0BF7aAk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-08-22T18:00:00",
   "duration": "00:01:43",
@@ -3785,7 +3839,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/M4-ufJ_iYOg",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-09-28T18:00:00",
   "duration": "00:03:26",
@@ -3793,9 +3847,10 @@ const 공연축제Cards = [
   "alt": "[KCON LA 2023] X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard)",
   "title": "[KCON LA 2023] X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard)"
 },
+
 {
   "link": "https://youtu.be/yv8LV7DuPDc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-11-29T18:00:00",
   "duration": "00:05:11",
@@ -3806,7 +3861,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/lXBrJoBLOQ4",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2023-11-29T18:00:00",
   "duration": "00:10:52",
@@ -3817,7 +3872,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/g86KlTLYmgs",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-11-29T18:00:00",
   "duration": "00:02:50",
@@ -3828,7 +3883,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/HosFszmvrs0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2023-11-29T18:00:00",
   "duration": "00:03:53",
@@ -3839,7 +3894,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/tMhhle6rI6Y",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-11-29T18:00:00",
   "duration": "00:01:57",
@@ -3850,7 +3905,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/bdNc_az976Y",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2023-12-30T18:00:00",
   "duration": "00:04:03",
@@ -3861,7 +3916,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/TXEwyCmEb_g",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-12-31T18:00:01",
   "duration": "00:03:38",
@@ -3872,7 +3927,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/XJqQzfniLYE",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2023-12-31T18:00:02",
   "duration": "00:03:41",
@@ -3883,7 +3938,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/pLIlAzpDduA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2023-12-31T18:00:03",
   "duration": "00:02:47",
@@ -3891,9 +3946,10 @@ const 공연축제Cards = [
   "alt": "[2023 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)",
   "title": "[2023 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)"
 },
+
 {
   "link": "https://youtu.be/Ud0mcVwXJ0k",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2023-12-31T18:00:04",
   "duration": "00:03:05",
@@ -3901,9 +3957,10 @@ const 공연축제Cards = [
   "alt": "[2023 가요대제전] [FanCam] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)",
   "title": "[2023 가요대제전] [FanCam] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)"
 },
+
 {
   "link": "https://youtu.be/cuG4UGCNCKQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-01-06T18:00:00",
   "duration": "00:21:06",
@@ -3911,9 +3968,10 @@ const 공연축제Cards = [
   "alt": "[골든디스크] Every Performance of (G)I-DLE at Golden Disc Awards 2019-2023😎",
   "title": "[골든디스크] Every Performance of (G)I-DLE at Golden Disc Awards 2019-2023😎"
 },
+
 {
   "link": "https://youtu.be/zbzrXX9_bpk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-03-24T18:00:00",
   "duration": "00:01:53",
@@ -3921,9 +3979,10 @@ const 공연축제Cards = [
   "alt": "Stage EP8： MINNIE 'Queencard' 【CHUANG ASIA】",
   "title": "Stage EP8： MINNIE 'Queencard' 【CHUANG ASIA】"
 },
+
 {
   "link": "https://youtu.be/fS_-J96XGIs",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-05-04T18:00:00",
   "duration": "00:02:51",
@@ -3934,7 +3993,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/r--p1Vu6rfM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-05-04T18:00:00",
   "duration": "00:02:58",
@@ -3945,7 +4004,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/zTtV88p9bqw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-05-04T18:00:00",
   "duration": "00:02:43",
@@ -3956,7 +4015,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/RSemP8bshH4",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-05-04T18:00:00",
   "duration": "00:03:44",
@@ -3964,9 +4023,10 @@ const 공연축제Cards = [
   "alt": "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'Super Lady' ♪ [골든웨이브/Golden Wave]",
   "title": "[골든 웨이브] (G)I-DLE ((여자)아이들) - 'Super Lady' ♪ [골든웨이브/Golden Wave]"
 },
+
 {
   "link": "https://youtu.be/OjruidYuwIQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-07-19T18:00:00",
   "duration": "00:05:50",
@@ -3977,7 +4037,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/czuJRCzUv6M",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2024-07-19T18:00:00",
   "duration": "00:03:50",
@@ -3985,9 +4045,10 @@ const 공연축제Cards = [
   "alt": "티르티르 인기 스타상 - 덱스·미연·최우식·박지윤  [제3회 청룡시리즈어워즈] | KBS 240719 방송",
   "title": "티르티르 인기 스타상 - 덱스·미연·최우식·박지윤  [제3회 청룡시리즈어워즈] | KBS 240719 방송"
 },
+
 {
   "link": "https://youtu.be/L0WjkSE2ZLo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2024-07-27T18:00:00",
   "duration": "00:04:04",
@@ -3998,7 +4059,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/0ASkMl8TMsw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2024-07-27T18:00:00",
   "duration": "00:04:47",
@@ -4009,7 +4070,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/tUcGzcB9IH8",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2024-07-27T18:00:00",
   "duration": "00:04:41",
@@ -4020,7 +4081,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/UA-XrQCgYP0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2024-07-27T18:00:00",
   "duration": "00:03:50",
@@ -4031,7 +4092,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/MYY9TUouRcQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2024-07-27T18:00:00",
   "duration": "00:04:05",
@@ -4042,7 +4103,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/CvjLpI69rTI",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-07-27T18:00:00",
   "duration": "00:03:52",
@@ -4053,7 +4114,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/rtE35QR9Vqk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-07-27T18:00:00",
   "duration": "00:05:43",
@@ -4064,7 +4125,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/bUg14UaHSkQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연, 민니",
   "date": "2024-07-27T18:00:00",
   "duration": "00:04:52",
@@ -4075,7 +4136,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/IAxqNtwkLsk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2024-10-31T18:00:00",
   "duration": "00:04:21",
@@ -4086,7 +4147,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Xgh5zvTuF3k",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-11-16T18:00:00",
   "duration": "00:05:17",
@@ -4097,7 +4158,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/H0WnO1Hq2xk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-11-23T18:00:00",
   "duration": "00:07:19",
@@ -4108,7 +4169,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/fdTi3NLNY30",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-11-23T18:00:00",
   "duration": "00:02:49",
@@ -4119,7 +4180,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/mUoARcX89So",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-11-23T18:00:00",
   "duration": "00:04:17",
@@ -4130,7 +4191,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/zzw38aFTQPE",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-11-30T18:00:01",
   "duration": "00:02:34",
@@ -4141,7 +4202,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Y7n_qO6fhuU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-11-30T18:00:02",
   "duration": "00:01:41",
@@ -4152,7 +4213,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/6iIA3p3DjvM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-11-30T18:00:05",
   "duration": "00:10:19",
@@ -4163,7 +4224,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Wz1NVIqTrJA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-11-30T18:00:07",
   "duration": "00:04:29",
@@ -4174,7 +4235,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/E-yNYbu1ZZs",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-11-30T18:00:08",
   "duration": "00:03:56",
@@ -4185,7 +4246,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/S_X4x6DjF9c",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-12-07T18:00:00",
   "duration": "00:19:01",
@@ -4196,7 +4257,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/H8o--SaykEo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-12-11T18:00:06",
   "duration": "00:03:35",
@@ -4207,7 +4268,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/fndkyhCZDmI",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2024-12-20T18:00:00",
   "duration": "00:04:28",
@@ -4218,7 +4279,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/NRgDdxbkv8M",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2024-12-21T18:00:00",
   "duration": "00:03:57",
@@ -4229,7 +4290,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/j4pNzxqVcQw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2024-12-21T18:00:00",
   "duration": "00:03:28",
@@ -4240,7 +4301,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/EAr4_8CNUtA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2024-12-21T18:00:00",
   "duration": "00:03:28",
@@ -4251,7 +4312,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/HInxguywc-A",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2024-12-21T18:00:00",
   "duration": "00:03:28",
@@ -4262,7 +4323,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/5FtFg0tYOcA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2024-12-21T18:00:00",
   "duration": "00:03:28",
@@ -4273,7 +4334,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Ga6REJA05Ks",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2024-12-21T18:00:00",
   "duration": "00:03:28",
@@ -4284,7 +4345,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Ev548nA0f1k",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-12-21T18:00:00",
   "duration": "00:04:57",
@@ -4295,7 +4356,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/1ernZvy8wCM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-12-21T18:00:00",
   "duration": "00:04:42",
@@ -4306,7 +4367,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/VReN0nfs1jM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-12-21T18:00:00",
   "duration": "00:04:08",
@@ -4317,7 +4378,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/4LJs9fSjMA0",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-12-25T18:00:00",
   "duration": "00:05:35",
@@ -4328,7 +4389,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/IOdpH50s1Wo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2024-12-26T18:00:00",
   "duration": "00:05:41",
@@ -4339,7 +4400,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/dEBPXEcYQAw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-01-06T18:00:00",
   "duration": "00:16:56",
@@ -4350,7 +4411,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/yOQVKhBEHI4",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-01-06T18:00:00",
   "duration": "00:07:19",
@@ -4361,7 +4422,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/HXB9512fq6Y",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-01-07T18:00:00",
   "duration": "00:07:19",
@@ -4372,7 +4433,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/lxchJGvOT48",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2025-01-07T18:00:00",
   "duration": "00:04:37",
@@ -4380,9 +4441,10 @@ const 공연축제Cards = [
   "alt": "[제39회 골든디스크] 우기 (YUQI) - 'Intro + FREAK + Radio (Dum-Dum)' ♪ [골든디스크어워즈/Golden Disc Awards]",
   "title": "[제39회 골든디스크] 우기 (YUQI) - 'Intro + FREAK + Radio (Dum-Dum)' ♪ [골든디스크어워즈/Golden Disc Awards]"
 },
+
 {
   "link": "https://youtu.be/cJFIsWwKDME",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2025-01-29T18:00:00",
   "duration": "00:03:03",
@@ -4393,7 +4455,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/j7N-VOV4gFg",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2025-01-29T18:00:00",
   "duration": "00:03:36",
@@ -4404,7 +4466,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/7oDFUj0QClM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2025-01-29T18:00:00",
   "duration": "00:02:28",
@@ -4415,7 +4477,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/J78pcWY_dWQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-01-29T18:00:00",
   "duration": "00:01:24",
@@ -4426,7 +4488,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/-3Qlchg9OqA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2025-01-29T18:00:00",
   "duration": "00:03:05",
@@ -4437,7 +4499,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/72fFqUBKdQw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2025-01-29T18:00:00",
   "duration": "00:03:04",
@@ -4448,7 +4510,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/UGT7Wb71LpU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2025-01-29T18:00:00",
   "duration": "00:03:03",
@@ -4459,7 +4521,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/kqbHhJiwMn8",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2025-01-29T18:00:00",
   "duration": "00:03:29",
@@ -4470,7 +4532,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/BbcXb-b1Teo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2025-01-29T18:00:00",
   "duration": "00:03:08",
@@ -4481,7 +4543,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/tZbOKNyTMtk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-01-29T18:00:00",
   "duration": "00:01:40",
@@ -4492,7 +4554,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/EhQNBNPLyiw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-01-30T18:00:00",
   "duration": "00:05:59",
@@ -4503,7 +4565,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/wa4_wFNu1jo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2025-01-30T18:00:00",
   "duration": "00:05:40",
@@ -4514,7 +4576,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/lb4ZTu2bLBI",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2025-01-30T18:00:00",
   "duration": "00:06:19",
@@ -4525,7 +4587,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/GOhtXDiJNh8",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2025-01-30T18:00:00",
   "duration": "00:05:41",
@@ -4536,7 +4598,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/4NOzDr5w98A",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2025-01-30T18:00:00",
   "duration": "00:05:54",
@@ -4547,7 +4609,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/X2eUrWADmGI",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2025-01-30T18:00:00",
   "duration": "00:06:17",
@@ -4558,7 +4620,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/-sW4e_DK_Eo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-01-30T18:00:00",
   "duration": "00:05:53",
@@ -4569,7 +4631,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/GPsj_HSAEdM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2025-01-31T18:00:00",
   "duration": "00:06:12",
@@ -4580,7 +4642,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/qHmUaM8tb5g",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2025-01-31T18:00:00",
   "duration": "00:06:05",
@@ -4591,7 +4653,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/F_4ihQ7CcFQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2025-01-31T18:00:00",
   "duration": "00:05:46",
@@ -4599,9 +4661,10 @@ const 공연축제Cards = [
   "alt": "[#최애직캠] (여자)아이들 미연 ((G)I-DLE MIYEON) – Super Lady + Neverland 2024 [가요대제전/GayoDaejejeon]",
   "title": "[#최애직캠] (여자)아이들 미연 ((G)I-DLE MIYEON) – Super Lady + Neverland 2024 [가요대제전/GayoDaejejeon]"
 },
+
 {
   "link": "https://youtu.be/3xZ5IeDFC4o",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2025-02-18T18:00:00",
   "duration": "00:02:59",
@@ -4612,7 +4675,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/BH2cf2hllm4",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2025-02-18T18:00:00",
   "duration": "00:03:35",
@@ -4623,7 +4686,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/GHCfSsJzbjQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-03-29T18:00:00",
   "duration": "00:29:31",
@@ -4634,7 +4697,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/dnRuOkY3y3k",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2025-04-06T18:00:00",
   "duration": "00:02:56",
@@ -4645,7 +4708,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/QFjNF3dvXpg",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2025-04-06T18:00:00",
   "duration": "00:02:41",
@@ -4656,7 +4719,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/H-UhOQRmzJE",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2025-04-06T18:00:00",
   "duration": "00:04:16",
@@ -4664,9 +4727,10 @@ const 공연축제Cards = [
   "alt": "[골든 웨이브] MINNIE (민니) - 'INTRO + Blind Eyes Red' ♪ [골든웨이브/Golden Wave]",
   "title": "[골든 웨이브] MINNIE (민니) - 'INTRO + Blind Eyes Red' ♪ [골든웨이브/Golden Wave]"
 },
+
 {
   "link": "https://youtu.be/1KwijomIOyA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-05-29T18:00:01",
   "duration": "00:09:28",
@@ -4677,7 +4741,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/kinjl3ipvfs",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-05-29T18:00:02",
   "duration": "00:03:34",
@@ -4688,7 +4752,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/q97BfzyQUGk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-05-29T18:00:03",
   "duration": "00:01:12",
@@ -4699,7 +4763,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/foukFsngt1k",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-05-29T18:00:04",
   "duration": "00:01:18",
@@ -4709,28 +4773,30 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/x7j0frire9U", 
-  "category": "음악방송시상식",
-  "member": "아이들",
-  "date": "2025-05-29T18:00:05",
-  "duration": "00:02:58",
-  "thumbnail": "https://i.ytimg.com/vi/x7j0frire9U/maxresdefau lt.jpg",
-  "alt": "[ASEA 2025] i-dle 아이들 - 나는 아픈 건 딱 질색이니까 앵콜무대 (ENCORE)",
-  "title": "[ASEA 2025] i-dle 아이들 - 나는 아픈 건 딱 질색이니까 앵콜무대 (ENCORE)"
-},
-{
-  "link": "https://youtu.be/yKGJ4skMico",
-  "category": "음악방송시상식",
+  "link": "https://youtu.be/x7j0frire9U",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-05-29T18:00:06",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/x7j0frire9U/maxresdefault.jpg",
+  "alt": "[ASEA 2025] i-dle 아이들 수상 후 앵콜무대 - 나는 아픈 건 딱 질색이니까 (ENCORE)",
+  "title": "[ASEA 2025] i-dle 아이들 수상 후 앵콜무대 - 나는 아픈 건 딱 질색이니까 (ENCORE)"
+},
+
+{
+  "link": "https://youtu.be/yKGJ4skMico",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2025-05-29T18:00:05",
   "duration": "00:02:57",
   "thumbnail": "https://i.ytimg.com/vi/yKGJ4skMico/maxresdefault.jpg",
   "alt": "[ASEA 2025] 아이들 아티스트석 리액션 모음 🎬 | idle Artist Seat Reactions at Asia Star Entertainer Awards 2025",
   "title": "[ASEA 2025] 아이들 아티스트석 리액션 모음 🎬 | idle Artist Seat Reactions at Asia Star Entertainer Awards 2025"
 },
+
 {
   "link": "https://tv.naver.com/v/78893639",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-06-21T18:00:01",
   "thumbnail": "https://phinf.pstatic.net/tvcast/20250622_225/wCXRr_1750581224622YKgdT_PNG/image.png",
@@ -4740,7 +4806,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://naver.me/xKtDDC20",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2025-06-21T18:00:02",
   "thumbnail": "https://phinf.pstatic.net/tvcast/20250622_5/HaA1U_1750553660094riWKn_PNG/image.png?type=f1109_624",
@@ -4750,7 +4816,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/fH7CzOWHhQs",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-06-21T18:00:03",
   "duration": "00:07:07",
@@ -4761,7 +4827,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://tv.naver.com/v/78863618",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-06-21T18:00:04",
   "thumbnail": "https://phinf.pstatic.net/tvcast/20250621_58/3F8Ve_1750516922781FIjd3_JPEG/zqGQMoch63_05.jpg?type=now720b",
@@ -4771,7 +4837,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/5VTc7J7IEFU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2025-08-04T18:00:00",
   "duration": "00:03:59",
@@ -4782,7 +4848,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/UGNlFuk5Uas",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-08-05T18:00:00",
   "duration": "00:01:49",
@@ -4793,7 +4859,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/4mRweikdrQA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2025-08-10T18:00:00",
   "duration": "00:02:07",
@@ -4804,7 +4870,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/T8VdJVp6BoE",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2025-08-10T18:00:00",
   "duration": "00:02:07",
@@ -4815,7 +4881,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/ay_TBZHLrIk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-08-10T18:00:00",
   "duration": "00:04:12",
@@ -4826,7 +4892,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/SA2td_iBmfY",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-08-10T18:00:00",
   "duration": "00:04:22",
@@ -4837,7 +4903,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/GL7Xy-BIpLc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2025-08-10T18:00:00",
   "duration": "00:03:21",
@@ -4848,7 +4914,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/r_fTrvplAYw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "민니",
   "date": "2025-08-10T18:00:00",
   "duration": "00:03:31",
@@ -4859,7 +4925,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/lCnucIBbc1I",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2025-08-10T18:00:00",
   "duration": "00:04:18",
@@ -4870,7 +4936,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Kg3QT3vuhvQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2025-08-10T18:00:00",
   "duration": "00:03:31",
@@ -4881,7 +4947,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/z3s6iBrzPUg",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2025-08-10T18:00:00",
   "duration": "00:03:22",
@@ -4892,7 +4958,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/SxgIgw9_W8g",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2025-08-18T18:00:00",
   "duration": "00:03:58",
@@ -4903,7 +4969,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/ErxAWlbNzzM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-08-24T18:00:00",
   "duration": "00:25:12",
@@ -4914,7 +4980,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/zie5ythfgT8",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-08-24T18:00:00",
   "duration": "00:02:22",
@@ -4925,7 +4991,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/1QOIRk2Zgb4",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-08-27T18:00:01",
   "duration": "00:03:30",
@@ -4936,7 +5002,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/c7bbvVN1oRU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-08-27T18:00:02",
   "duration": "00:03:07",
@@ -4947,7 +5013,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/a2CkyX_P1oE",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-08-27T18:00:03",
   "duration": "00:02:56",
@@ -4958,7 +5024,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/V4LnXSRA3-s",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-08-27T18:00:04",
   "duration": "00:04:16",
@@ -4969,7 +5035,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/hCgHHwSyN-s",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-08-27T18:00:05",
   "duration": "00:02:48",
@@ -4980,7 +5046,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/eFeByd4pMjI",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-08-27T18:00:06",
   "duration": "00:02:44",
@@ -4991,7 +5057,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/5cFYvAui-is",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2025-08-27T18:00:07",
   "duration": "00:03:45",
@@ -5002,7 +5068,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/394nZUBvr8E",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2025-08-27T18:00:08",
   "duration": "00:03:42",
@@ -5010,9 +5076,10 @@ const 공연축제Cards = [
   "alt": "Opening + MC 아이들 슈화 (i-dle SHUHUA) l ALL THE K-POP STAGE IN MACAU",
   "title": "Opening + MC 아이들 슈화 (i-dle SHUHUA) l ALL THE K-POP STAGE IN MACAU"
 },
+
 {
   "link": "https://youtu.be/PwwFVIk0PvU",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-10-21T18:00:00",
   "duration": "00:20:10",
@@ -5020,9 +5087,10 @@ const 공연축제Cards = [
   "alt": "[#2025MAMA] CHAPTER 1 PERFORMING ARTIST #idle",
   "title": "[#2025MAMA] CHAPTER 1 PERFORMING ARTIST #idle"
 },
+
 {
   "link": "https://youtu.be/deLly6KW97A",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-11-28T18:00:10",
   "duration": "00:05:24",
@@ -5033,7 +5101,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/VU8_48iGiKA",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-11-28T18:00:11",
   "duration": "00:02:54",
@@ -5044,7 +5112,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/uXH_A9l2qDE",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2025-12-06T18:00:01",
   "duration": "00:01:36",
@@ -5055,7 +5123,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/73sfbJBgKyg",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2025-12-06T18:00:02",
   "duration": "00:00:59",
@@ -5066,7 +5134,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/1_SDxOQp3Sw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2025-12-06T18:00:03",
   "duration": "00:01:31",
@@ -5077,7 +5145,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/5J4I7J8xtbk",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2025-12-06T18:00:04",
   "duration": "00:06:47",
@@ -5087,8 +5155,19 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/1q7wTvvD6LI",
+  "category": "공연축제",
+  "member": "슈화",
+  "date": "2025-12-06T18:00:05",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/1q7wTvvD6LI/maxresdefault.jpg",
+  "alt": "[#aaa2025] SHUHUA(슈화) - 4K Award acceptance speech",
+  "title": "[#aaa2025] SHUHUA(슈화) - 4K Award acceptance speech"
+},
+
+{
   "link": "https://youtu.be/JMIwFtsqmQY",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "슈화",
   "date": "2025-12-07T18:00:05",
   "duration": "00:10:04",
@@ -5099,7 +5178,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/ke1ILVKuGbs",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2025-12-11T18:00:00",
   "duration": "00:24:04",
@@ -5107,9 +5186,10 @@ const 공연축제Cards = [
   "alt": "[#2025MAMA] WINNERS’ ALL-TIME STAGE 🏆 i-dle",
   "title": "[#2025MAMA] WINNERS’ ALL-TIME STAGE 🏆 i-dle"
 },
+
 {
   "link": "https://youtu.be/ZtJWPKTiLhg",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-14T18:00:00",
   "duration": "00:00:28",
@@ -5120,7 +5200,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Fndha4cwgjQ",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-18T18:00:00",
   "duration": "00:00:53",
@@ -5131,7 +5211,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/y8mrMkCVHpE",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-11-21T18:00:00",
   "duration": "00:06:24",
@@ -5142,7 +5222,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/Sk2XQvGQVFo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-12-17T18:00:00",
   "duration": "00:33:09",
@@ -5153,7 +5233,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/0lNIW_a4QP4",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-12-20T18:00:00",
   "duration": "00:03:49",
@@ -5164,7 +5244,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/lpWiDKZLsHc",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "소연",
   "date": "2022-12-20T18:00:00",
   "duration": "00:01:03",
@@ -5175,7 +5255,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/B5CHZK7_lbM",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2022-12-22T18:00:00",
   "duration": "00:06:20",
@@ -5186,7 +5266,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/ChNYXVtUwjo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "우기",
   "date": "2023-01-20T18:00:00",
   "duration": "00:01:25",
@@ -5197,7 +5277,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/B-SynolBfVs",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-01-23T18:00:00",
   "duration": "00:01:05",
@@ -5208,7 +5288,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/i590uREMrf8",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-01-25T18:00:00",
   "duration": "00:01:12",
@@ -5219,7 +5299,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/FeNFC7pDFCE",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "미연",
   "date": "2023-02-28T18:00:00",
   "duration": "00:00:36",
@@ -5230,7 +5310,7 @@ const 공연축제Cards = [
 
 {
   "link": "https://youtu.be/v0vqrTzBQCw",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-02-28T18:00:00",
   "duration": "00:03:27",
@@ -5238,30 +5318,17 @@ const 공연축제Cards = [
   "alt": "DREAM STAGE🌟 | (G)I-DLE ((여자)아이들) | KCON 2023 THAILAND",
   "title": "DREAM STAGE🌟 | (G)I-DLE ((여자)아이들) | KCON 2023 THAILAND"
 },
+
 {
   "link": "https://youtu.be/IBh1IEbqpjo",
-  "category": "음악방송시상식",
+  "category": "공연축제",
   "member": "아이들",
   "date": "2023-12-08T18:00:00",
   "duration": "00:04:33",
   "thumbnail": "https://i.ytimg.com/vi/IBh1IEbqpjo/sddefault.jpg",
   "alt": "[#2023MAMA] (G)I-DLE ((여자)아이들) REACTION CAM ♬MAMA SUPER STAGE",
   "title": "[#2023MAMA] (G)I-DLE ((여자)아이들) REACTION CAM ♬MAMA SUPER STAGE"
-},
-{
-  "link": "https://youtu.be/1q7wTvvD6LI",
-  "category": "공연축제",
-  "member": "슈화",
-  "date": "2025-12-06T18:00:00",
-  "duration": "00:00:24",
-  "thumbnail": "https://i.ytimg.com/vi/1q7wTvvD6LI/maxresdefault.jpg",
-  "alt": "[#aaa2025] SHUHUA(슈화) - 4K Award acceptance speech",
-  "title": "[#aaa2025] SHUHUA(슈화) - 4K Award acceptance speech"
 }
-
-
-
-
 
 ];
 window.공연축제Cards = 공연축제Cards;
