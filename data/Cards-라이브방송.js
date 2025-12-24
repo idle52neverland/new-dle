@@ -310,16 +310,15 @@ const 라이브방송Cards = [
 },
 
 {
-  "link": "https://youtu.be/Dmgh5W1r52U",
+  "link": "https://youtu.be/Ds4MRjecO24",
   "category": "라이브방송",
   "member": "아이들",
   "date": "2019-03-03T18:00:00",
   "duration": "00:38:57",
-  "thumbnail": "https://i.ytimg.com/vi/Dmgh5W1r52U/hqdefault.jpg",
-  "alt": "(여자)아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE",
-  "title": "(여자)아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE"
+  "thumbnail": "https://i.ytimg.com/vi/Ds4MRjecO24/sddefault.jpg",
+  "alt": "여자아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE",
+  "title": "여자아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE"
 },
-
 {
   "link": "https://weverse.io/i-dle/live/2-111431878",
   "category": "라이브방송",
@@ -4641,7 +4640,29 @@ const 라이브방송Cards = [
   "thumbnail": "https://phinf.wevpstatic.net/MjAyNTExMDRfOTUg/MDAxNzYyMjM3NDk3MTk0.jm4rVXnV-yC4-sbiLbEXi1NH5P8yPzN7Qy3AA0aRrIsg.Bi8j2sfYLwLxHRROG6i5I_D41vBTopzbj6EpaF_rREsg.JPEG/thumb.jpg?type=f_or_off_640_360",
   "alt": "며닝🍀",
   "title": "며닝🍀"
-}
+},
+ {
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b4eda-f258-de26-ad8f-bcf0ad934a77",
+    "category": "라이브방송",
+    "member": "미연",
+    "date": "2025-12-24T14:35:33",
+    "duration": "00:29:38",
+    "thumbnail": "https://statics.berriz.in/cdn/base/file/vj/uv/rp/tp/he/an/200428869.jpeg",
+    "alt": "며니랑 미리 크리스마스💕💕💕",
+    "title": "며니랑 미리 크리스마스💕💕💕"
+  },
+  {
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b4ed2-8b27-a4de-f4c2-30802de719ed",
+    "category": "라이브방송",
+    "member": "미연",
+    "date": "2025-12-24T14:26:26",
+    "duration": "00:07:50",
+    "thumbnail": "https://statics.berriz.in/cdn/base/file/ve/uv/rp/tq/af/un/1414857541.jpeg",
+    "alt": "며니랑 미리 크리스마스💕💕💕",
+    "title": "며니랑 미리 크리스마스💕💕💕"
+  }
+
+
 
 ];
 window.라이브방송Cards = 라이브방송Cards;

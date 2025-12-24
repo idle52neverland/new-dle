@@ -10629,6 +10629,17 @@ const 공식채널Cards = [
   "alt": "슈슈의 COS 25AW 비하인드 현장 🤎 [#HASHTALK] EP.45ㅣi-dle (아이들)ㅣSUB",
   "title": "슈슈의 COS 25AW 비하인드 현장 🤎 [#HASHTALK] EP.45ㅣi-dle (아이들)ㅣSUB",
   "subtag": "HASHTALK"
+},
+{
+  "link": "https://youtu.be/hSYoYsrcG-s",
+  "category": "공식채널",
+  "member": "슈화",
+  "date": "2025-12-18T18:00:00",
+  "duration": "00:08:39",
+  "thumbnail": "https://i.ytimg.com/vi/hSYoYsrcG-s/maxresdefault.jpg",
+  "alt": "슈화의 타오위안 홍보대사 촬영 비하인드 [i-talk] #232 | i-dle (아이들)ㅣSUB",
+  "title": "슈화의 타오위안 홍보대사 촬영 비하인드 [i-talk] #232 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
 }
 
 

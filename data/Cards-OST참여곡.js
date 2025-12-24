@@ -517,16 +517,29 @@ const OST참여곡Cards = [
   "title": "Anne-Marie, 민니 ((여자)아이들) - Expectations"
 },
 
+
 {
-  "link": "https://youtu.be/sgWMWOAEkuM",
+  "link": "https://youtu.be/P55G-tkSK8Q",
   "category": "OST참여곡",
   "member": "아이들",
   "date": "2023-03-16T18:00:00",
   "duration": "00:01:40",
-  "thumbnail": "https://i.ytimg.com/vi/sgWMWOAEkuM/hqdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/P55G-tkSK8Q/maxresdefault.jpg",
   "alt": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE",
   "title": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE"
 },
+
+{
+  "link": "https://youtu.be/9383yxfQVGU",
+  "category": "OST참여곡",
+  "member": "아이들",
+  "date": "2023-03-29T18:00:00",
+  "duration": "00:01:55",
+  "thumbnail": "https://i.ytimg.com/vi/9383yxfQVGU/maxresdefault.jpg",
+  "alt": "(G)I-DLE X PUBG 6주년 스페셜 뮤직비디오 비하인드",
+  "title": "(G)I-DLE X PUBG 6주년 스페셜 뮤직비디오 비하인드"
+},
+
 
 {
   "link": "https://youtu.be/vJ_prp7S-sA",

@@ -1220,6 +1220,16 @@ const 광고Cards = [
   "thumbnail": "https://i.ytimg.com/vi/H3lS5Xfst40/maxresdefault.jpg",
   "alt": "[4K] 소연, 시크하게 도도하게🖤 아이들 리더다운 포스~ | i-dle SOYEON 어그 포토콜",
   "title": "[4K] 소연, 시크하게 도도하게🖤 아이들 리더다운 포스~ | i-dle SOYEON 어그 포토콜"
+},
+{
+  "link": "https://youtu.be/NRoTPe55kGQ",
+  "category": "광고",
+  "member": "슈화",
+  "date": "2025-12-17T18:00:00",
+  "duration": "00:01:30",
+  "thumbnail": "https://i.ytimg.com/vi/NRoTPe55kGQ/maxresdefault.jpg",
+  "alt": "來桃園，舒華的家鄉｜桃園觀光形象影片",
+  "title": "來桃園，舒華的家鄉｜桃園觀光形象影片"
 }
 
 

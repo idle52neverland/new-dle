@@ -17892,6 +17892,70 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/fMNU8sFfT18/sddefault.jpg",
   "alt": "버스를 탔는데.. 어떤 여자가 글쎄 혼자 막춤을...｜[좋광고2]｜ 미연 ｜ (여자)아이들 ｜ 양세형",
   "title": "[좋광고2] 버스를 탔는데.. 어떤 여자가 글쎄 혼자 막춤을...｜｜ 미연 ｜ (여자)아이들 ｜ 양세형"
+},
+{
+  "link": "https://youtu.be/zvexCJxIE9I",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-12-17T18:00:00",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/zvexCJxIE9I/maxresdefault.jpg",
+  "alt": "Try this next time you hang out with your bestie 👯‍♀️ #reservations #sorn #minnie @official_i_dle",
+  "title": "Try this next time you hang out with your bestie 👯‍♀️ #reservations #sorn #minnie @official_i_dle"
+},
+
+{
+  "link": "https://youtu.be/By2WPuipI-Y",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-12-17T18:00:00",
+  "duration": "00:00:07",
+  "thumbnail": "https://i.ytimg.com/vi/By2WPuipI-Y/maxresdefault.jpg",
+  "alt": "안 귀엽다고 했다😡",
+  "title": "안 귀엽다고 했다😡"
+},
+{
+  "link": "https://youtu.be/VsyODzv60Ws",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-12-22T18:00:00",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/VsyODzv60Ws/maxresdefault.jpg",
+  "alt": "Always need to check our surrounds before we start yapping 💀 #reservations #minnie #idle",
+  "title": "Always need to check our surrounds before we start yapping 💀 #reservations #minnie #idle"
+},
+
+{
+  "link": "https://youtu.be/h1ZliWAi5ks",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-12-23T18:00:00",
+  "duration": "00:00:09",
+  "thumbnail": "https://i.ytimg.com/vi/h1ZliWAi5ks/maxresdefault.jpg",
+  "alt": "아이들 왔다감💜",
+  "title": "아이들 왔다감💜"
+},
+
+{
+  "link": "https://youtu.be/cNroc8YigO8",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-12-23T18:00:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/cNroc8YigO8/maxresdefault.jpg",
+  "alt": "𝓯𝓻𝓮𝓮𝔃𝓮",
+  "title": "𝓯𝓻𝓮𝓮𝔃𝓮"
+},
+
+{
+  "link": "https://youtu.be/lsVhzFQIM4M",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-12-24T18:00:00",
+  "duration": "00:00:49",
+  "thumbnail": "https://i.ytimg.com/vi/lsVhzFQIM4M/maxresdefault.jpg",
+  "alt": "✴︎I-dle in CITY of SENSE✴︎",
+  "title": "✴︎I-dle in CITY of SENSE✴︎"
 }
 
 

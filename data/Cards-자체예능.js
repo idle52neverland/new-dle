@@ -177,6 +177,227 @@ const 자체예능Cards = [
 },
 
 {
+  "link": "https://youtu.be/dokOH7F2EE4",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2021-02-12T18:00:00",
+  "duration": "00:48:10",
+  "thumbnail": "https://i.ytimg.com/vi/dokOH7F2EE4/maxresdefault.jpg",
+  "alt": "SSAP DANCE  [Full ver.]",
+  "title": "SSAP DANCE  [Full ver.]"
+},
+
+
+{
+  "link": "https://youtu.be/9E38RZrNqPQ",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-05-25T19:00:01",
+  "duration": "01:22:27",
+  "thumbnail": "https://i.ytimg.com/vi/9E38RZrNqPQ/maxresdefault.jpg",
+  "alt": "꿀로그잼：네버버 예술 학교 [Full ver.]",
+  "title": "꿀로그잼：네버버 예술 학교 [Full ver.]"
+},
+
+{
+  "link": "https://youtu.be/jvWd0PK10-8",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-05-25T19:00:02",
+  "duration": "00:04:30",
+  "thumbnail": "https://i.ytimg.com/vi/jvWd0PK10-8/maxresdefault.jpg",
+  "alt": "꿀로그잼：네버버 예술 학교 [BEHIND]",
+  "title": "꿀로그잼：네버버 예술 학교 [BEHIND]"
+},
+
+{
+  "link": "https://youtu.be/nutKEiDKnzE",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-06-23T18:00:00",
+  "duration": "00:27:41",
+  "thumbnail": "https://i.ytimg.com/vi/nutKEiDKnzE/hqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.01",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.01"
+},
+
+{
+  "link": "https://youtu.be/Q8sgOnq_4JU",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-06-30T18:00:00",
+  "duration": "00:30:57",
+  "thumbnail": "https://i.ytimg.com/vi/Q8sgOnq_4JU/hqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.02",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.02"
+},
+
+{
+  "link": "https://youtu.be/v_lVbrqD5Tw",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-07-07T18:00:00",
+  "duration": "00:29:01",
+  "thumbnail": "https://i.ytimg.com/vi/v_lVbrqD5Tw/hqdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.03",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.03"
+},
+
+{
+  "link": "https://youtu.be/IVZ-sMFmNuE",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-07-12T18:00:00",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/IVZ-sMFmNuE/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.03 Behind",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.03 Behind"
+},
+
+{
+  "link": "https://youtu.be/i5McjykHurY",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-07-14T18:00:00",
+  "duration": "00:32:05",
+  "thumbnail": "https://i.ytimg.com/vi/i5McjykHurY/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.04",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.04"
+},
+
+{
+  "link": "https://youtu.be/wLYv8Bdpu98",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-07-19T18:00:00",
+  "duration": "00:02:51",
+  "thumbnail": "https://i.ytimg.com/vi/wLYv8Bdpu98/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.04 Behind",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.04 Behind"
+},
+
+{
+  "link": "https://youtu.be/pIgRfEah_FA",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-07-21T18:00:00",
+  "duration": "00:34:27",
+  "thumbnail": "https://i.ytimg.com/vi/pIgRfEah_FA/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.05",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.05"
+},
+
+{
+  "link": "https://youtu.be/aNA-sr6QBlY",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-07-26T18:00:00",
+  "duration": "00:04:55",
+  "thumbnail": "https://i.ytimg.com/vi/aNA-sr6QBlY/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.05 Behind",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.05 Behind"
+},
+
+{
+  "link": "https://youtu.be/dR7NH8Y_D4I",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-09-14T18:00:00",
+  "duration": "01:13:08",
+  "thumbnail": "https://i.ytimg.com/vi/dR7NH8Y_D4I/maxresdefault.jpg",
+  "alt": "방해금지모드+  [Full ver.]",
+  "title": "방해금지모드+  [Full ver.]"
+},
+
+{
+  "link": "https://youtu.be/OfTv1iABzFQ",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-09-15T18:00:00",
+  "duration": "00:04:18",
+  "thumbnail": "https://i.ytimg.com/vi/OfTv1iABzFQ/maxresdefault.jpg",
+  "alt": "방해금지모드+  [BEHIND]",
+  "title": "방해금지모드+  [BEHIND]"
+},
+
+{
+  "link": "https://youtu.be/M8RYM6H33bU",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-09-22T18:00:00",
+  "duration": "00:28:07",
+  "thumbnail": "https://i.ytimg.com/vi/M8RYM6H33bU/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.01",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.01"
+},
+
+{
+  "link": "https://youtu.be/ahHw-OfIWec",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-09-29T18:00:00",
+  "duration": "00:25:27",
+  "thumbnail": "https://i.ytimg.com/vi/ahHw-OfIWec/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.02",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.02"
+},
+
+{
+  "link": "https://youtu.be/yoy4vmF93mI",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-10-06T18:00:00",
+  "duration": "00:26:36",
+  "thumbnail": "https://i.ytimg.com/vi/yoy4vmF93mI/sddefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.03",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.03"
+},
+
+{
+  "link": "https://youtu.be/q7sJEWHsoPA",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-10-13T18:00:00",
+  "duration": "00:24:58",
+  "thumbnail": "https://i.ytimg.com/vi/q7sJEWHsoPA/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.04",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.04"
+},
+
+{
+  "link": "https://youtu.be/iEoLDm3GZEA",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-10-20T18:00:00",
+  "duration": "00:26:48",
+  "thumbnail": "https://i.ytimg.com/vi/iEoLDm3GZEA/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.05",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.05"
+},
+
+{
+  "link": "https://youtu.be/pofn7BHaj_o",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-10-27T18:00:00",
+  "duration": "00:29:23",
+  "thumbnail": "https://i.ytimg.com/vi/pofn7BHaj_o/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.06",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.06"
+},
+
+{
+  "link": "https://youtu.be/XkaWbp0fAuk",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-10-28T18:00:00",
+  "duration": "00:04:00",
+  "thumbnail": "https://i.ytimg.com/vi/XkaWbp0fAuk/maxresdefault.jpg",
+  "alt": "(여자)아이들 외 취급주의 시즌2  - Behind",
+  "title": "(여자)아이들 외 취급주의 시즌2  - Behind"
+},
+
+{
   "link": "https://youtu.be/pKMhyV1HiqE",
   "category": "자체예능",
   "member": "아이들",
@@ -353,226 +574,6 @@ const 자체예능Cards = [
 },
 
 {
-  "link": "https://youtu.be/cHdtMzIGVeY",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-06-23T18:00:00",
-  "duration": "00:27:41",
-  "thumbnail": "https://i.ytimg.com/vi/cHdtMzIGVeY/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.1",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.1"
-},
-
-{
-  "link": "https://youtu.be/n7z0y9rntug",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-06-30T18:00:00",
-  "duration": "00:30:57",
-  "thumbnail": "https://i.ytimg.com/vi/n7z0y9rntug/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.2",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.2"
-},
-
-{
-  "link": "https://youtu.be/Q8hx7ivQZNI",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-07-07T18:00:00",
-  "duration": "00:29:01",
-  "thumbnail": "https://i.ytimg.com/vi/Q8hx7ivQZNI/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.3",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.3"
-},
-
-{
-  "link": "https://youtu.be/H9DdJL73eD8",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-07-12T18:00:00",
-  "duration": "00:03:01",
-  "thumbnail": "https://i.ytimg.com/vi/H9DdJL73eD8/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.3 Behind",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.3 Behind"
-},
-
-{
-  "link": "https://youtu.be/7DrSDGbS_iE",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-07-14T18:00:00",
-  "duration": "00:32:05",
-  "thumbnail": "https://i.ytimg.com/vi/7DrSDGbS_iE/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.4",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.4"
-},
-
-{
-  "link": "https://youtu.be/ASJlcRmvz6c",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-07-19T18:00:00",
-  "duration": "00:02:51",
-  "thumbnail": "https://i.ytimg.com/vi/ASJlcRmvz6c/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.4 Behind",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.4 Behind"
-},
-
-{
-  "link": "https://youtu.be/t81p5JxJPVo",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-07-21T18:00:00",
-  "duration": "00:34:27",
-  "thumbnail": "https://i.ytimg.com/vi/t81p5JxJPVo/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.5",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.5"
-},
-
-{
-  "link": "https://youtu.be/0zyIqbyz6zM",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-07-26T18:00:00",
-  "duration": "00:04:55",
-  "thumbnail": "https://i.ytimg.com/vi/0zyIqbyz6zM/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.5 Behind",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.5 Behind"
-},
-
-{
-  "link": "https://youtu.be/1rTlSErNfzM",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-09-22T18:00:00",
-  "duration": "00:28:07",
-  "thumbnail": "https://i.ytimg.com/vi/1rTlSErNfzM/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.1",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.1"
-},
-
-{
-  "link": "https://youtu.be/WVwCF8NDAPk",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-10-28T18:00:00",
-  "duration": "00:04:00",
-  "thumbnail": "https://i.ytimg.com/vi/WVwCF8NDAPk/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2  - Behind",
-  "title": "(여자)아이들 외 취급주의 시즌2 - Behind"
-},
-
-{
-  "link": "https://youtu.be/8vTni3DzoDg",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2021-02-12T18:00:00",
-  "duration": "00:48:10",
-  "thumbnail": "https://i.ytimg.com/vi/8vTni3DzoDg/maxresdefault.jpg",
-  "alt": "SSAP DANCE (Full Ver.)",
-  "title": "SSAP DANCE (Full Ver.)"
-},
-
-{
-  "link": "https://youtu.be/H39jJFQmFYE",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-05-25T18:00:00",
-  "duration": "01:22:27",
-  "thumbnail": "https://i.ytimg.com/vi/H39jJFQmFYE/sddefault.jpg",
-  "alt": "꿀로그잼：네버버 예술 학교 (Full Ver.)",
-  "title": "꿀로그잼：네버버 예술 학교 (Full Ver.)"
-},
-
-{
-  "link": "https://youtu.be/-4e-b6krd84",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-05-25T18:00:01",
-  "duration": "00:04:30",
-  "thumbnail": "https://i.ytimg.com/vi/-4e-b6krd84/sddefault.jpg",
-  "alt": "꿀로그잼：네버버 예술 학교 (BEHIND)",
-  "title": "꿀로그잼：네버버 예술 학교 (BEHIND)"
-},
-
-{
-  "link": "https://youtu.be/hJ0iu7dxrEw",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-09-14T18:00:00",
-  "duration": "01:13:08",
-  "thumbnail": "https://i.ytimg.com/vi/pKMLtR2PlJc/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDxFZ0VpDgGGNTOPs3amAgunR_Bvw",
-  "alt": "방해금지모드+ (Full Ver.)",
-  "title": "방해금지모드+ (Full Ver.)"
-},
-
-{
-  "link": "https://youtu.be/pKMLtR2PlJc",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-09-15T18:00:00",
-  "duration": "00:04:18",
-  "thumbnail": "https://i.ytimg.com/vi/pKMLtR2PlJc/hqdefault.jpg",
-  "alt": "방해금지모드+ (BEHIND)",
-  "title": "방해금지모드+ (BEHIND)"
-},
-
-{
-  "link": "https://youtu.be/QZGXnGH2hA8",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-09-29T18:00:00",
-  "duration": "00:25:27",
-  "thumbnail": "https://i.ytimg.com/vi/QZGXnGH2hA8/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.2",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.2"
-},
-
-{
-  "link": "https://youtu.be/Y-WAKb5frs0",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-10-06T18:00:00",
-  "duration": "00:26:36",
-  "thumbnail": "https://i.ytimg.com/vi/Y-WAKb5frs0/mqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.3",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.3"
-},
-
-{
-  "link": "https://youtu.be/-EUwuAGZBBs",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-10-13T18:00:00",
-  "duration": "00:24:58",
-  "thumbnail": "https://i.ytimg.com/vi/-EUwuAGZBBs/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.4",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.4"
-},
-
-{
-  "link": "https://youtu.be/xrKH2_vSOm8",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-10-20T18:00:00",
-  "duration": "00:26:48",
-  "thumbnail": "https://i.ytimg.com/vi/xrKH2_vSOm8/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.5",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.5"
-},
-
-{
-  "link": "https://youtu.be/4tcDGRZ2MIo",
-  "category": "자체예능",
-  "member": "아이들",
-  "date": "2022-10-27T18:00:00",
-  "duration": "00:29:23",
-  "thumbnail": "https://i.ytimg.com/vi/4tcDGRZ2MIo/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.6",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.6"
-},
-
-{
   "link": "https://youtu.be/-DEU4ypwzxw",
   "category": "자체예능",
   "member": "아이들",
@@ -603,8 +604,17 @@ const 자체예능Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Jw9a-H7iVpk/maxresdefault.jpg",
   "alt": "아이들이 20주년까지 왜 이리 무리했어 [네맘대로 아이들] EP. 5 | i-dle (아이들)ㅣSUB",
   "title": "아이들이 20주년까지 왜 이리 무리했어 [네맘대로 아이들] EP. 5 | i-dle (아이들)ㅣSUB"
+},
+{
+  "link": "https://youtu.be/haPvquUQZ4c",
+  "category": "자체예능",
+  "member": "아이들",
+  "date": "2022-10-20T18:00:00",
+  "duration": "00:09:48",
+  "thumbnail": "https://i.ytimg.com/vi/haPvquUQZ4c/maxresdefault.jpg",
+  "alt": "나 오늘 면접봤다 (여자)아이들 - 경호원",
+  "title": "나 오늘 면접봤다 (여자)아이들 - 경호원"
 }
-
 
  ];
 window.자체예능Cards = 자체예능Cards;

@@ -56,6 +56,17 @@ const 녹음비하인드Cards = [
 },
 
 {
+  "link": "https://youtu.be/6buVI3G8LZ8",
+  "category": "녹음비하인드",
+  "member": "아이들",
+  "date": "2021-05-21T18:00:00",
+  "duration": "00:03:13",
+  "thumbnail": "https://i.ytimg.com/vi/6buVI3G8LZ8/maxresdefault.jpg",
+  "alt": "(여자)아이들 -  Last Dance (Prod. GroovyRoom) 녹음 비하인드",
+  "title": "(여자)아이들 -  Last Dance (Prod. GroovyRoom) 녹음 비하인드"
+},
+
+{
   "link": "https://youtu.be/rI-88uYZNyE",
   "category": "녹음비하인드",
   "member": "미연",
