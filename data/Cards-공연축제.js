@@ -7,8 +7,8 @@ const 공연축제Cards = [
   "date": "2016-10-08T18:00:00",
   "duration": "00:22:20",
   "thumbnail": "https://i.ytimg.com/vi/sHQNmyB4Cfc/maxresdefault.jpg",
-  "alt": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스",
-  "title": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스"
+  "alt": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스 (cover)",
+  "title": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스 (cover)"
 },
 
 {
@@ -373,7 +373,26 @@ const 공연축제Cards = [
   "alt": "[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LATATA)",
   "title": "[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LATATA)"
 },
-
+{
+  "link": "https://youtu.be/Xre707yU0hc",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-11-04T18:00:01",
+  "duration": "00:03:25",
+  "thumbnail": "https://i.ytimg.com/vi/Xre707yU0hc/maxresdefault.jpg",
+  "alt": "[2018제주한류페스티벌] (G)I-DLE, HANN (Alone) [Jeju hallyu Festival 2018]",
+  "title": "[2018제주한류페스티벌] (G)I-DLE, HANN (Alone) [Jeju hallyu Festival 2018]"
+},
+{
+  "link": "https://youtu.be/eBWfS3RfGWg",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-11-04T18:00:02",
+  "duration": "00:03:54",
+  "thumbnail": "https://i.ytimg.com/vi/eBWfS3RfGWg/maxresdefault.jpg",
+  "alt": "[2018제주한류페스티벌] 직캠 (G)I-DLE, HANN (Alone) Fancam [Jeju hallyu Festival 2018]",
+  "title": "[2018제주한류페스티벌] 직캠 (G)I-DLE, HANN (Alone) Fancam [Jeju hallyu Festival 2018]"
+},
 {
   "link": "https://youtu.be/L1X1IcFtdyg",
   "category": "공연축제",
@@ -1289,7 +1308,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/JBlGL3KkUAM",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2022-05-11T18:00:00",
+  "date": "2019-10-19T18:00:00",
   "duration": "00:06:54",
   "thumbnail": "https://i.ytimg.com/vi/JBlGL3KkUAM/maxresdefault.jpg",
   "alt": "2019 부산 원아시아 페스티벌 개막공연 - (여자)아이들((G)I-DLE) - Uh-Oh + LATATA(라타타) KBS",
@@ -2601,8 +2620,8 @@ const 공연축제Cards = [
   "date": "2018-10-11T18:00:00",
   "duration": "00:02:10",
   "thumbnail": "https://i.ytimg.com/vi/OHIobUitIOg/maxresdefault.jpg",
-  "alt": "[KCON 2018 THAILAND] (G)I-DLE - Brand NewㅣKCON 2018 THAILAND x M COUNTDOWN",
-  "title": "[KCON 2018 THAILAND] (G)I-DLE - Brand NewㅣKCON 2018 THAILAND x M COUNTDOWN"
+  "alt": "[KCON 2018 THAILAND] (G)I-DLE - Brand New (cover)ㅣKCON 2018 THAILAND x M COUNTDOWN",
+  "title": "[KCON 2018 THAILAND] (G)I-DLE - Brand New (cover)ㅣKCON 2018 THAILAND x M COUNTDOWN"
 },
 
 {
@@ -2967,7 +2986,26 @@ const 공연축제Cards = [
   "alt": "[2020 KMDF] (여자)아이들((G)I-DLE)-LATATA",
   "title": "[2020 KMDF] (여자)아이들((G)I-DLE)-LATATA"
 },
-
+{
+  "link": "https://youtu.be/q0zYw9hOCUE",
+  "category": "공연축제",
+  "member": "슈화",
+  "date": "2020-12-18T18:00:00",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/q0zYw9hOCUE/maxresdefault.jpg",
+  "alt": "Interview with MAKNAES(OH MY GIRL, (G)I-DLE, IZ*ONE, ITZY) I KBS WORLD TV 201218",
+  "title": "[2020 가요대축제] 막내즈 인터뷰 Interview with MAKNAES(OH MY GIRL, (G)I-DLE, IZ*ONE, ITZY)"
+},
+{
+  "link": "https://youtu.be/AFJDfT-ODcE",
+  "category": "공연축제",
+  "member": "슈화",
+  "date": "2020-12-18T18:00:00",
+  "duration": "00:04:00",
+  "thumbnail": "https://i.ytimg.com/vi/AFJDfT-ODcE/maxresdefault.jpg",
+  "alt": "[2020 가요대축제] 아린X슈화X장원영X유나 - 몰라요 (원곡: 에이핑크(Apink) | Arin, Shuhua, Jang Wonyoung, Yuna",
+  "title": "[2020 가요대축제] 아린X슈화X장원영X유나 - 몰라요 (원곡: 에이핑크(Apink) | Arin, Shuhua, Jang Wonyoung, Yuna"
+},
 {
   "link": "https://youtu.be/xuH4YbWQBug",
   "category": "공연축제",
@@ -3063,8 +3101,8 @@ const 공연축제Cards = [
   "date": "2020-12-25T18:00:00",
   "duration": "00:01:57",
   "thumbnail": "https://i.ytimg.com/vi/4XdcoZuzAnc/maxresdefault.jpg",
-  "alt": "[2020 가요대전] 미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞",
-  "title": "[2020 가요대전] 미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞"
+  "alt": "[2020 가요대전] 미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞ cover",
+  "title": "[2020 가요대전] 미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞ cover"
 },
 
 {
@@ -3096,8 +3134,8 @@ const 공연축제Cards = [
   "date": "2020-12-25T18:00:00",
   "duration": "00:02:14",
   "thumbnail": "https://i.ytimg.com/vi/P8ey4vF9Kvw/maxresdefault.jpg",
-  "alt": "[2020 가요대전] (여자)아이들 미연x우기 '바람이 불어오는 곳' 풀캠 (Miyeon X Yuqi Special Full Cam)",
-  "title": "[2020 가요대전] (여자)아이들 미연x우기 '바람이 불어오는 곳' 풀캠 (Miyeon X Yuqi Special Full Cam)"
+  "alt": "[2020 가요대전] (여자)아이들 미연x우기 '바람이 불어오는 곳' 풀캠 (Miyeon X Yuqi Special Full Cam) (cover)",
+  "title": "[2020 가요대전] (여자)아이들 미연x우기 '바람이 불어오는 곳' 풀캠 (Miyeon X Yuqi Special Full Cam) (cover)"
 },
 
 {
@@ -3107,8 +3145,8 @@ const 공연축제Cards = [
   "date": "2020-12-31T18:00:00",
   "duration": "00:02:44",
   "thumbnail": "https://i.ytimg.com/vi/SCu2WNw2joo/maxresdefault.jpg",
-  "alt": "[2020 가요대제전] 효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너",
-  "title": "[2020 가요대제전] 효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너"
+  "alt": "[2020 가요대제전] 효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너 (cover)",
+  "title": "[2020 가요대제전] 효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너 (cover)"
 },
 
 {
@@ -3734,8 +3772,8 @@ const 공연축제Cards = [
   "date": "2023-01-01T18:00:00",
   "duration": "00:03:19",
   "thumbnail": "https://i.ytimg.com/vi/OHS1PYKoGuQ/maxresdefault.jpg",
-  "alt": "[2022 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP)",
-  "title": "[2022 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP)"
+  "alt": "[2022 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP) cover",
+  "title": "[2022 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP) cover"
 },
 
 {
@@ -3756,8 +3794,8 @@ const 공연축제Cards = [
   "date": "2023-01-02T18:00:00",
   "duration": "00:03:42",
   "thumbnail": "https://i.ytimg.com/vi/dI8GzxGKehM/sddefault.jpg",
-  "alt": "[2022 GMA] Peder EliasX우기_If I Ain't Got You",
-  "title": "[2022 GMA] Peder EliasX우기_If I Ain't Got You"
+  "alt": "[2022 GMA] Peder EliasX우기_If I Ain't Got You (cover)",
+  "title": "[2022 GMA] Peder EliasX우기_If I Ain't Got You (cover)"
 },
 
 {
@@ -3811,8 +3849,8 @@ const 공연축제Cards = [
   "date": "2023-04-06T18:00:00",
   "duration": "00:03:00",
   "thumbnail": "https://i.ytimg.com/vi/cXkw8DqJO4c/maxresdefault.jpg",
-  "alt": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진)",
-  "title": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진)"
+  "alt": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) cover",
+  "title": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) cover"
 },
 
 {
@@ -3932,8 +3970,8 @@ const 공연축제Cards = [
   "date": "2023-12-31T18:00:02",
   "duration": "00:03:41",
   "thumbnail": "https://i.ytimg.com/vi/XJqQzfniLYE/maxresdefault.jpg",
-  "alt": "[2023 가요대제전] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White)",
-  "title": "[2023가요대제전 ] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White)"
+  "alt": "[2023 가요대제전] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White) cover",
+  "title": "[2023가요대제전 ] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White) cover"
 },
 
 {
@@ -3943,8 +3981,8 @@ const 공연축제Cards = [
   "date": "2023-12-31T18:00:03",
   "duration": "00:02:47",
   "thumbnail": "https://i.ytimg.com/vi/pLIlAzpDduA/maxresdefault.jpg",
-  "alt": "[2023 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)",
-  "title": "[2023 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)"
+  "alt": "[2023 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke) cover",
+  "title": "[2023 가요대제전] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke) cover"
 },
 
 {
@@ -3954,8 +3992,8 @@ const 공연축제Cards = [
   "date": "2023-12-31T18:00:04",
   "duration": "00:03:05",
   "thumbnail": "https://i.ytimg.com/vi/Ud0mcVwXJ0k/maxresdefault.jpg",
-  "alt": "[2023 가요대제전] [FanCam] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)",
-  "title": "[2023 가요대제전] [FanCam] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke)"
+  "alt": "[2023 가요대제전] [FanCam] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke) cover",
+  "title": "[2023 가요대제전] [FanCam] 다이나믹 듀오 X 전소연 ((여자)아이들) - 스모크 (Dynamicduo X SOYEON - Smoke) cover"
 },
 
 {
@@ -4127,11 +4165,11 @@ const 공연축제Cards = [
   "link": "https://youtu.be/bUg14UaHSkQ",
   "category": "공연축제",
   "member": "미연, 민니",
-  "date": "2024-07-27T18:00:00",
+  "date": "2024-07-26T18:00:00",
   "duration": "00:04:52",
   "thumbnail": "https://i.ytimg.com/vi/bUg14UaHSkQ/maxresdefault.jpg",
-  "alt": "[2024 가요대전 Summer] JANNABI X Mi-yeon&Minnie(잔나비X미연&민니) - 뜨거운 여름밤은 가고 남은 건 볼품없지만 #2024Summer [GayoDaejeon]",
-  "title": "[2024 가요대전 Summer] JANNABI X Mi-yeon&Minnie(잔나비X미연&민니) - 뜨거운 여름밤은 가고 남은 건 볼품없지만 #2024Summer [GayoDaejeon]"
+  "alt": "[2024 가요대전 Summer] JANNABI X Mi-yeon&Minnie(잔나비X미연&민니) - 뜨거운 여름밤은 가고 남은 건 볼품없지만 (cover) [GayoDaejeon]",
+  "title": "[2024 가요대전 Summer] JANNABI X Mi-yeon&Minnie(잔나비X미연&민니) - 뜨거운 여름밤은 가고 남은 건 볼품없지만 (cover) [GayoDaejeon]"
 },
 
 {
@@ -4273,8 +4311,8 @@ const 공연축제Cards = [
   "date": "2024-12-20T18:00:00",
   "duration": "00:04:28",
   "thumbnail": "https://i.ytimg.com/vi/fndkyhCZDmI/maxresdefault.jpg",
-  "alt": "[2024 가요대축제] 미연 & 정원 & 제이 & 리즈 & 성호 - 길 (원곡: god)",
-  "title": "[2024 가요대축제] 미연 & 정원 & 제이 & 리즈 & 성호 - 길 (원곡: god)"
+  "alt": "[2024 가요대축제] 미연 & 정원 & 제이 & 리즈 & 성호 - 길 (원곡: god) cover",
+  "title": "[2024 가요대축제] 미연 & 정원 & 제이 & 리즈 & 성호 - 길 (원곡: god) cover"
 },
 
 {
@@ -4284,8 +4322,8 @@ const 공연축제Cards = [
   "date": "2024-12-21T18:00:00",
   "duration": "00:03:57",
   "thumbnail": "https://i.ytimg.com/vi/NRgDdxbkv8M/maxresdefault.jpg",
-  "alt": "[K-Fancam] (여자)아이들 미연 직캠 '길 (원곡: god)' ((G)I-DLE MIYEON Fancam) [2024 가요대축제]",
-  "title": "[K-Fancam] (여자)아이들 미연 직캠 '길 (원곡: god)' ((G)I-DLE MIYEON Fancam) [2024 가요대축제]"
+  "alt": "[2024 가요대축제] [K-Fancam] (여자)아이들 미연 직캠 '길 (원곡: god)' ((G)I-DLE MIYEON Fancam) cover",
+  "title": "[2024 가요대축제] [K-Fancam] (여자)아이들 미연 직캠 '길 (원곡: god)' ((G)I-DLE MIYEON Fancam) cover"
 },
 
 {
@@ -4449,8 +4487,8 @@ const 공연축제Cards = [
   "date": "2025-01-29T18:00:00",
   "duration": "00:03:03",
   "thumbnail": "https://i.ytimg.com/vi/cJFIsWwKDME/maxresdefault.jpg",
-  "alt": "[2024 가요대제전] (여자)아이들 소연 – POWER 직캠 (원곡: G-DRAGON) (SOYEON Fancam)",
-  "title": "[2024 가요대제전] (여자)아이들 소연 – POWER 직캠 (원곡: G-DRAGON) (SOYEON Fancam)"
+  "alt": "[2024 가요대제전] (여자)아이들 소연 – POWER 직캠 (원곡: G-DRAGON) (SOYEON Fancam) cover",
+  "title": "[2024 가요대제전] (여자)아이들 소연 – POWER 직캠 (원곡: G-DRAGON) (SOYEON Fancam) cover"
 },
 
 {
@@ -4460,8 +4498,8 @@ const 공연축제Cards = [
   "date": "2025-01-29T18:00:00",
   "duration": "00:03:36",
   "thumbnail": "https://i.ytimg.com/vi/j7N-VOV4gFg/maxresdefault.jpg",
-  "alt": "[2024 가요대제전] (여자)아이들 소연 – POWER (원곡: G-DRAGON) (SOYEON Fullcam)",
-  "title": "[2024 가요대제전] (여자)아이들 소연 – POWER (원곡: G-DRAGON) (SOYEON Fullcam)"
+  "alt": "[2024 가요대제전] (여자)아이들 소연 – POWER (원곡: G-DRAGON) (SOYEON Fullcam) cover",
+  "title": "[2024 가요대제전] (여자)아이들 소연 – POWER (원곡: G-DRAGON) (SOYEON Fullcam) cover"
 },
 
 {
@@ -4471,8 +4509,8 @@ const 공연축제Cards = [
   "date": "2025-01-29T18:00:00",
   "duration": "00:02:28",
   "thumbnail": "https://i.ytimg.com/vi/7oDFUj0QClM/maxresdefault.jpg",
-  "alt": "[2024 가요대제전] 소연 - 파워 (원곡: G-DRAGON) (SOYEON - POWER)",
-  "title": "[2024 가요대제전] 소연 - 파워 (원곡: G-DRAGON) (SOYEON - POWER)"
+  "alt": "[2024 가요대제전] 소연 - POWER (원곡: G-DRAGON) cover",
+  "title": "[2024 가요대제전] 소연 - POWER (원곡: G-DRAGON) cover"
 },
 
 {
@@ -5063,7 +5101,7 @@ const 공연축제Cards = [
   "duration": "00:03:45",
   "thumbnail": "https://i.ytimg.com/vi/5cFYvAui-is/maxresdefault.jpg",
   "alt": "NOWZ(나우즈) – Fly to the youth (Feat. YUQI) (Chinese Ver.) l ALL THE K-POP STAGE IN MACAU",
-  "title": "NOWZ(나우즈) – Fly to the youth (Feat. YUQI) (Chinese Ver.) l ALL THE K-POP STAGE IN MACAU"
+  "title": "NOWZ(나우즈) – 자유롭게 날아 Fly to the youth (Feat. YUQI) (Chinese Ver.) l ALL THE K-POP STAGE IN MACAU"
 },
 
 {

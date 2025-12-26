@@ -197,7 +197,16 @@ const 노래클립Cards = [
   "alt": "[1theK Dance Cover Contest] (G)I-DLE((여자)아이들) _ LATATA (mirrored ver.)",
   "title": "[1theK Dance Cover Contest] (G)I-DLE((여자)아이들) _ LATATA (mirrored ver.)"
 },
-
+{
+  "link": "https://youtu.be/DzR5CHyzRQM",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2018-05-11T18:00:00",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/DzR5CHyzRQM/maxresdefault.jpg",
+  "alt": "[세로댄스] (여자)아이들 - LATATA",
+  "title": "[세로댄스] (여자)아이들 - LATATA"
+},
 {
   "link": "https://youtu.be/KwJWwCH2ECw",
   "category": "노래클립",
@@ -213,11 +222,22 @@ const 노래클립Cards = [
   "link": "https://youtu.be/ZXHMMNMo4Ww",
   "category": "노래클립",
   "member": "소연",
-  "date": "2018-05-28T18:00:00",
+  "date": "2018-05-28T18:00:21",
   "duration": "00:03:13",
   "thumbnail": "https://i.ytimg.com/vi/ZXHMMNMo4Ww/sddefault.jpg",
   "alt": "((G)I-DLE JEON SO YEON (여자)아이들 소연- 아이들 쏭",
-  "title": "((G)I-DLE JEON SO YEON (여자)아이들 소연- 아이들 쏭"
+  "title": "(여자)아이들 소연 - 아이들 쏭 | 정오의 희망곡 김신영입니다 "
+},
+
+{
+  "link": "https://youtu.be/j-CocbvfQpw",
+  "category": "노래클립",
+  "member": "미연, 민니",
+  "date": "2018-05-28T18:00:22",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/j-CocbvfQpw/maxresdefault.jpg",
+  "alt": "((G)-I-DLE) MINNIE, Miyeon-  Love Scenario ,  (여자)아이들 미연,민니 - 사랑을 했다",
+  "title": "(여자)아이들 미연,민니 - 사랑을 했다 (cover) MINNIE, Miyeon-  Love Scenario | 정오의 희망곡 김신영입니다"
 },
 
 {
@@ -3100,6 +3120,17 @@ const 노래클립Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pA2tFsWkKhA/maxresdefault.jpg",
   "alt": "쿨룩 LIVE ▷ 우기(YUQI) 'M.O.' / [이은지의 가요광장] I KBS 250917 방송",
   "title": "쿨룩 LIVE ▷ 우기(YUQI) 'M.O.' / [이은지의 가요광장] I KBS 250917 방송"
+},
+
+{
+  "link": "https://youtu.be/PCg55K8R7S4",
+  "category": "노래클립",
+  "member": "우기",
+  "date": "2025-09-18T18:00:00",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/PCg55K8R7S4/maxresdefault.jpg",
+  "alt": "[UNFILTERED CAM] YUQI(우기) 'M.O.' 4K | STUDIO CHOOM ORIGINAL",
+  "title": "[UNFILTERED CAM] YUQI(우기) 'M.O.' 4K | STUDIO CHOOM ORIGINAL"
 },
 
 {

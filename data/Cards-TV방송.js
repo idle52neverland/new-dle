@@ -109,7 +109,16 @@ const TV방송Cards = [
   "alt": "[2019 설특집 아육대] [FANCAM] (여자)아이들 슈화 리듬체조",
   "title": "[2019 설특집 아육대] [FANCAM] (여자)아이들 슈화 리듬체조"
 },
-
+{
+  "link": "https://youtu.be/X_b_YeXRggU",
+  "category": "TV방송",
+  "member": "민니, 우기",
+  "date": "2019-03-04T18:00:00",
+  "duration": "01:18:35",
+  "thumbnail": "https://i.ytimg.com/vi/X_b_YeXRggU/maxresdefault.jpg",
+  "alt": "Guests : Kim Sooyong, Hong Jinyoung, Ravi, Yuqi, Minnie [대국민 토크쇼 안녕하세요/Hello, Counselor]",
+  "title": "Guests : Kim Sooyong, Hong Jinyoung, Ravi, Yuqi, Minnie [대국민 토크쇼 안녕하세요/Hello, Counselor]"
+},
 {
   "link": "https://youtu.be/XIdyJNG3m88",
   "category": "TV방송",
@@ -117,8 +126,8 @@ const TV방송Cards = [
   "date": "2019-03-04T18:00:00",
   "duration": "00:01:56",
   "thumbnail": "https://i.ytimg.com/vi/XIdyJNG3m88/hqdefault.jpg",
-  "alt": "★대박예감★ 세뇨리따로 돌아 온 우기와 민니♥ [안녕하세요/Hello, Counselor]",
-  "title": "★대박예감★ 세뇨리따로 돌아 온 우기와 민니♥ [안녕하세요/Hello, Counselor]"
+  "alt": "★대박예감★ 세뇨리따로 돌아 온 우기와 민니♥ [대국민 토크쇼 안녕하세요/Hello, Counselor]",
+  "title": "★대박예감★ 세뇨리따로 돌아 온 우기와 민니♥ [대국민 토크쇼 안녕하세요/Hello, Counselor]"
 },
 
 {

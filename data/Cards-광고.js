@@ -1229,7 +1229,7 @@ const 광고Cards = [
   "duration": "00:01:30",
   "thumbnail": "https://i.ytimg.com/vi/NRoTPe55kGQ/maxresdefault.jpg",
   "alt": "來桃園，舒華的家鄉｜桃園觀光形象影片",
-  "title": "來桃園，舒華的家鄉｜桃園觀光形象影片"
+  "title": "來桃園，舒華的家鄉｜桃園觀光形象影片 | 타오위안 홍보대사"
 }
 
 

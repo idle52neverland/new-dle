@@ -580,8 +580,8 @@ function openFilterMenu(type, btn) {
     const subtagMap = {
       "발매곡": ["전체","MV","Special Clip","Audio Track"],
       "OST·참여곡": ["전체"],
-      "음악방송": ["전체","본방송","직캠","인터뷰","앵콜","그 외"],
-      "공연·축제": ["전체","대학 축제","페스티벌","그 외"],
+      "음악방송": ["전체","무대","직캠","인터뷰","앵콜","그 외"],
+      "공연·축제": ["전체","대학축제","페스티벌","그 외"],
       "공식 채널": [
         "전체","I-TALK","SOLO TALK","HASHTALK",
         "I-LOG","TOUR BEHIND",
