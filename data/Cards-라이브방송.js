@@ -5065,29 +5065,6 @@ const 라이브방송Cards = [
 },
 
 {
-  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b4eda-f258-de26-ad8f-bcf0ad934a77",
-  "category": "라이브방송",
-  "member": "미연",
-  "date": "2025-12-24T14:35:33",
-  "duration": "00:29:38",
-  "thumbnail": "https://statics.berriz.in/cdn/base/file/vj/uv/rp/tp/he/an/200428869.jpeg",
-  "alt": "며니랑 미리 크리스마스💕💕💕",
-  "title": "며니랑 미리 크리스마스💕💕💕 (2)",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b4ed2-8b27-a4de-f4c2-30802de719ed",
-  "category": "라이브방송",
-  "member": "미연",
-  "date": "2025-12-24T14:26:26",
-  "duration": "00:07:50",
-  "thumbnail": "https://statics.berriz.in/cdn/base/file/ve/uv/rp/tq/af/un/1414857541.jpeg",
-  "alt": "며니랑 미리 크리스마스💕💕💕",
-  "title": "며니랑 미리 크리스마스💕💕💕 (1)",
-  "subtag": "베리즈 라이브"
-},
-{
   "link": "https://youtu.be/TdOkalPqJ2Q",
   "category": "라이브방송",
   "member": "아이들",
@@ -5553,7 +5530,63 @@ const 라이브방송Cards = [
   "alt": "슈화 & 쯔위 라이브 (Voice Only)",
   "title": "슈화 & 쯔위 라이브 (Voice Only)",
   "subtag": "그 외"
-}
+},
+{
+  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b4ed2-8b27-a4de-f4c2-30802de719ed",
+  "category": "라이브방송",
+  "member": "미연",
+  "date": "2025-12-24T14:26:26",
+  "duration": "00:07:50",
+  "thumbnail": "https://statics.berriz.in/cdn/base/file/ve/uv/rp/tq/af/un/1414857541.jpeg",
+  "alt": "며니랑 미리 크리스마스💕💕💕",
+  "title": "며니랑 미리 크리스마스💕💕💕 (1)",
+  "subtag": "베리즈 라이브"
+},
+{
+  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b4eda-f258-de26-ad8f-bcf0ad934a77",
+  "category": "라이브방송",
+  "member": "미연",
+  "date": "2025-12-24T14:35:33",
+  "duration": "00:29:38",
+  "thumbnail": "https://statics.berriz.in/cdn/base/file/vj/uv/rp/tp/he/an/200428869.jpeg",
+  "alt": "며니랑 미리 크리스마스💕💕💕",
+  "title": "며니랑 미리 크리스마스💕💕💕 (2)",
+  "subtag": "베리즈 라이브"
+},
+  {
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b5432-872e-0332-8328-e02c34971040",
+    "category": "라이브방송",
+    "member": "소연",
+    "date": "2025-12-25T15:29:22",
+    "duration": "00:31:39",
+    "thumbnail": "https://statics.berriz.in/cdn/base/file/vj/ur/ve/dj/an/te/511871799.jpeg",
+    "alt": "소여니랑 메리 크리스마스❤️",
+    "title": "소여니랑 메리 크리스마스❤️",
+    "subtag": "베리즈 라이브"
+  },
+  {
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b6d99-1246-b8c9-1238-a7511b32432a",
+    "category": "라이브방송",
+    "member": "소연",
+    "date": "2025-12-30T13:51:53",
+    "duration": "00:14:23",
+    "thumbnail": "https://statics.berriz.in/cdn/base/file/ae/dv/hb/tw/zu/pf/989691274.jpeg",
+    "alt": "소연이의 잠깐라이브",
+    "title": "소연이의 잠깐라이브 (1)",
+    "subtag": "베리즈 라이브"
+  },
+  {
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b6da8-e7ff-86a2-e712-340089c4d94b",
+    "category": "라이브방송",
+    "member": "소연",
+    "date": "2025-12-30T14:09:07",
+    "duration": "00:04:12",
+    "thumbnail": "https://statics.berriz.in/cdn/base/file/re/da/cs/tp/bx/mp/1407331185.jpeg",
+    "alt": "다시 라이브",
+    "title": "다시 라이브 (2)",
+    "subtag": "베리즈 라이브"
+  }
+
 
 
 ];

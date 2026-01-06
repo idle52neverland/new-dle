@@ -1520,7 +1520,7 @@ const 음악방송Cards = [
   "duration": "00:03:18",
   "thumbnail": "https://i.ytimg.com/vi/gpAr7fnZNUg/maxresdefault.jpg",
   "alt": "뮤직뱅크 Music Bank - LATATA - (여자)아이들 .20181221",
-  "title": "[뮤직뱅크] (여자)아이들 - LATATA",
+  "title": "[뮤직뱅크] (여자)아이들 - LATATA | <크리스마스 특집 연말 결산>",
   "subtag": "무대"
 },
 
@@ -1532,7 +1532,7 @@ const 음악방송Cards = [
   "duration": "00:03:13",
   "thumbnail": "https://i.ytimg.com/vi/uQ7YmfXtPZA/maxresdefault.jpg",
   "alt": "뮤직뱅크 Music Bank - Must Have Love (원곡 브라운아이드걸스, SG워너비) - 전출연자",
-  "title": "[뮤직뱅크] Music Bank - Must Have Love (원곡 브라운아이드걸스, SG워너비) - 전출연자",
+  "title": "[뮤직뱅크] Must Have Love (원곡 브라운아이드걸스, SG워너비) - 전출연자 | <크리스마스 특집 연말 결산>",
   "subtag": "무대"
 },
 
@@ -3100,14 +3100,24 @@ const 음악방송Cards = [
   "link": "https://youtu.be/ilpAUJ5Hepk",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2019-07-16T18:00:00",
+  "date": "2019-07-16T18:00:21",
   "duration": "00:03:30",
   "thumbnail": "https://i.ytimg.com/vi/ilpAUJ5Hepk/maxresdefault.jpg",
   "alt": "(G)I-DLE, Uh-Oh [THE SHOW 190716]",
   "title": "[더쇼] (G)I-DLE - Uh-Oh",
   "subtag": "무대"
 },
-
+{
+  "link": "https://youtu.be/F8pB0rJmD1k",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-07-16T18:00:22",
+  "duration": "00:14:47",
+  "thumbnail": "https://i.ytimg.com/vi/F8pB0rJmD1k/sddefault.jpg",
+  "alt": "(여자)아이들, ㅋㅋ댄스 Full Version [더 쇼, 190716]",
+  "title": "(여자)아이들, ㅋㅋ댄스 Full Version [더 쇼, 190716]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/Q4Cl4zgBwLg",
   "category": "음악방송",
@@ -6560,7 +6570,7 @@ const 음악방송Cards = [
   "duration": "00:02:06",
   "thumbnail": "https://i.ytimg.com/vi/P-UOPdWRyEs/maxresdefault.jpg",
   "alt": "[쇼! 음악중심 4K] (여자)아이들 -돈 터치 미 ((G)I-DLE -DON’T TOUCH ME) MBC 201107 방송",
-  "title": "[쇼!음악중심] (여자)아이들 - DON’T TOUCH ME (Cover)",
+  "title": "[쇼!음악중심] (여자)아이들 - DON’T TOUCH ME (Cover) | 쇼! 음악중심 700회 특집",
   "subtag": "무대"
 },
 
@@ -8419,8 +8429,8 @@ const 음악방송Cards = [
   "date": "2021-07-13T18:00:41",
   "duration": "00:03:03",
   "thumbnail": "https://i.ytimg.com/vi/dgZGsZLMTg8/maxresdefault.jpg",
-  "alt": "JEON SOYEON, BEAM BEAM (전소연, 삠삠) [THE SHOW 210713]",
-  "title": "JEON SOYEON, BEAM BEAM (전소연, 삠삠) [더쇼/THE SHOW]",
+  "alt": "[더쇼] JEON SOYEON, BEAM BEAM (전소연, 삠삠) [THE SHOW 210713]",
+  "title": "[더쇼] JEON SOYEON, BEAM BEAM (전소연, 삠삠) [THE SHOW 210713]",
   "subtag": "무대"
 },
 
@@ -8809,18 +8819,6 @@ const 음악방송Cards = [
 },
 
 {
-  "link": "https://youtu.be/ob8YmFnyf0w",
-  "category": "음악방송",
-  "member": "소연",
-  "date": "2021-08-19T18:00:00",
-  "duration": "00:02:54",
-  "thumbnail": "https://i.ytimg.com/vi/ob8YmFnyf0w/maxresdefault.jpg",
-  "alt": "[JEON SOYEON - BEAM BEAM] The First Half, No.1 Special | #엠카운트다운 EP.721 | Mnet 210819 방송",
-  "title": "[엠카운트다운] [JEON SOYEON - BEAM BEAM] The First Half, No.1 Special # EP.721",
-  "subtag": "무대"
-},
-
-{
   "link": "https://youtu.be/N2GikPUU8Co",
   "category": "음악방송",
   "member": "미연",
@@ -8830,30 +8828,6 @@ const 음악방송Cards = [
   "alt": "[엠카운트다운] [ENG] MC윤수&미연이 알려주는 이번 주 엠카운트다운 라인업은? #엠카운트다운 EP.726",
   "title": "[엠카운트다운] [ENG] MC윤수&미연이 알려주는 이번 주 엠카운트다운 라인업은? #엠카운트다운 EP.726",
   "subtag": "그 외"
-},
-
-{
-  "link": "https://youtu.be/JoL4andzqBE",
-  "category": "음악방송",
-  "member": "소연",
-  "date": "2022-02-03T18:00:00",
-  "duration": "00:02:54",
-  "thumbnail": "https://i.ytimg.com/vi/JoL4andzqBE/maxresdefault.jpg",
-  "alt": "[JEON SOYEON - BEAM BEAM] Fighting 2022 Special | #엠카운트다운 EP.738",
-  "title": "[엠카운트다운] [JEON SOYEON - BEAM BEAM] Fighting 2022 Special # EP.738",
-  "subtag": "무대"
-},
-
-{
-  "link": "https://youtu.be/2eIj4WNpss0",
-  "category": "음악방송",
-  "member": "아이들",
-  "date": "2022-03-10T18:00:00",
-  "duration": "00:04:29",
-  "thumbnail": "https://i.ytimg.com/vi/2eIj4WNpss0/maxresdefault.jpg",
-  "alt": "[(G)I-DLE - Intro+Oh my god] 'S' Class Special | #엠카운트다운 EP.743",
-  "title": "[엠카운트다운] [(G)I-DLE - Intro+Oh my god] 'S' Class Special # EP.743",
-  "subtag": "무대"
 },
 
 {
