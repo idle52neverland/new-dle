@@ -27,14 +27,15 @@ const CATEGORY_MAP = {
     "녹음 비하인드": "8",
     "출연 콘텐츠": "9",
     "TV방송": "10",
-    "노래 클립": "11",
-    "매거진·인터뷰": "12",
-    "라디오·오디오쇼": "13",
-    "라이브 방송": "14",
-    "광고": "15",
-    "기타": "16",
-    "Shorts": "17",
-    "X(Twitter)": "18"
+    "TV방송": "11",
+    "노래 클립": "12",
+    "매거진·인터뷰": "13",
+    "라디오·오디오쇼": "14",
+    "라이브 방송": "15",
+    "광고": "16",
+    "기타": "17",
+    "Shorts": "18",
+    "X(Twitter)": "19"
 };
 
 const SLUG_MAP = Object.fromEntries(
@@ -134,7 +135,7 @@ function buildAllVideos() {
   const vars = [
     "발매곡Cards", "OST참여곡Cards", "음악방송Cards", "공연축제Cards",
     "공식채널Cards", "자체예능Cards", "녹음비하인드Cards", "출연콘텐츠Cards",
-    "TV방송Cards","노래클립Cards", "매거진인터뷰Cards", "라디오오디오쇼Cards", 
+    "TV방송Cards", "해외콘텐츠Cards", "노래클립Cards", "매거진인터뷰Cards", "라디오오디오쇼Cards", 
     "라이브방송Cards","광고Cards", "기타Cards" 
   ];
 
@@ -320,30 +321,22 @@ function renderCards(reset = false) {
 
 /* ============================================================
    검색/필터 적용 (메인 로직)
-   -> video.html에서만 작동하도록 조건부 로직 추가
 ============================================================ */
 function applySearch() {
-  if (!IS_VIDEO_PAGE) return; // video.html이 아니면 실행 중지
+  if (!IS_VIDEO_PAGE) return; 
   
-  // 검색어는 searchInput.value를 사용합니다.
-  let kw = (searchInput.value || "").toLowerCase(); 
+  let kw = (searchInput.value || "").toLowerCase().trim(); 
 
-  // 1. 필터링
   filteredCards = allCards.filter(c => {
-    let ok = true;
-
-    // 기간 직접 설정 필터
+    // [기존 필터 로직 유지] 기간/연도/월 필터
     if (activeFilters.startDate && activeFilters.endDate) {
         const cardDateStr = c.date.split('T')[0];
         const cardDate = new Date(cardDateStr + 'T00:00:00');
         const start = new Date(activeFilters.startDate + 'T00:00:00');
         const endDay = new Date(activeFilters.endDate + 'T00:00:00');
         endDay.setDate(endDay.getDate() + 1);
-        
         if (cardDate < start || cardDate >= endDay) return false;
-        
     } else {
-        // 기존 연도/월 필터
         if (activeFilters.year !== null) {
             if (activeFilters.year === "predebut") {
                 const itemDate = new Date(c.date);
@@ -360,39 +353,49 @@ function applySearch() {
         }
     }
 
-    // 서브필터
+    // [기존 필터 로직 유지] 서브필터
     if (activeFilters.subtag !== null) {
         const sub = String(c.subtag || c.note || "").toLowerCase();
         if (!sub.includes(String(activeFilters.subtag).toLowerCase())) return false;
     }
 
-    // 단어 AND 검색 (최종 검색 필터링)
+    // [개선된 단어 AND 검색]
     if (kw !== "") {
         const words = kw.split(/\s+/).filter(w => w.length > 0);
-
+        
+        // 비교 대상 문자열 (기존 날짜 형식 포함)
         const combined = (
-        (c.title || "") +
-        (c.member || "") +
-        (c.note || "") +
-        (c.date || "")
+            (c.title || "") +
+            (c.member || "") +
+            (c.note || "") +
+            (c.date || "")
         ).toLowerCase();
 
-        for (const w of words) {
+        // 모든 단어가 포함되어 있는지 검사 (AND 검색)
+        for (let w of words) {
+            // 만약 검색 단어가 숫자 6개(YYMMDD)라면 날짜 형식(20YY-MM-DD)으로도 변환해서 체크
+            if (/^\d{6}$/.test(w)) {
+                const formattedDate = `20${w.slice(0, 2)}-${w.slice(2, 4)}-${w.slice(4, 6)}`;
+                // 원래 숫자(230505)가 포함되어 있거나, 변환된 날짜(2023-05-05)가 포함되어 있으면 통과
+                if (combined.includes(w) || combined.includes(formattedDate)) {
+                    continue; 
+                } else {
+                    return false; 
+                }
+            }
+            
+            // 일반 단어는 기존처럼 포함 여부 확인
             if (!combined.includes(w)) return false;
         }
     }
 
-    return ok;
+    return true;
   });
 
-  // 2. 정렬 및 렌더링
   filteredCards = sortCards(filteredCards);
   renderCards(true);
-  
-  // 3. 스크롤 위치 초기화
   applyIosScrollTrick();
 }
-
 /* ============================================================
    카테고리 변경 (메인 로직)
    -> video.html에서만 작동하도록 조건부 로직 추가
@@ -593,6 +596,7 @@ function openFilterMenu(type, btn) {
       "녹음 비하인드": ["전체"],
       "출연 콘텐츠": ["전체"],
       "TV방송": ["전체"],
+      "해외 콘텐츠": ["전체"],
       "노래 클립": ["전체"],
       "매거진·인터뷰": ["전체"],
       "라디오·오디오쇼": ["전체","라디오","네이버NOW","오디오","그 외"],

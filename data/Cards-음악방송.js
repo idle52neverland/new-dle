@@ -1,5 +1,15 @@
 const 음악방송Cards = [ 
-
+{
+  "link": "https://youtu.be/M3rg-rh6MPo",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2015-12-17T22:20:38",
+  "duration": "00:03:43",
+  "thumbnail": "https://i.ytimg.com/vi/M3rg-rh6MPo/maxresdefault.jpg",
+  "alt": "[엠카운트다운] Produce101(프로듀스101) - \"PICK ME\" M COUNTDOWN 151217 EP.453",
+  "title": "[엠카운트다운] Produce101(프로듀스101) - \"PICK ME\" M COUNTDOWN 151217 EP.453",
+  "subtag": "무대"
+},
 {
   "link": "https://youtu.be/Q8ERCF_AgIo",
   "category": "음악방송",
@@ -112,7 +122,7 @@ const 음악방송Cards = [
   "link": "https://youtu.be/A3UTiA7myF0",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2018-05-09T18:00:00",
+  "date": "2018-05-09T18:00:21",
   "duration": "00:04:32",
   "thumbnail": "https://i.ytimg.com/vi/A3UTiA7myF0/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l 180509 EP.269",
@@ -124,7 +134,7 @@ const 음악방송Cards = [
   "link": "https://youtu.be/ggN3ySrrbM8",
   "category": "음악방송",
   "member": "소연",
-  "date": "2018-05-09T18:00:00",
+  "date": "2018-05-09T18:00:22",
   "duration": "00:04:28",
   "thumbnail": "https://i.ytimg.com/vi/ggN3ySrrbM8/maxresdefault.jpg",
   "alt": "[MUBEAT X Show Champion] 180509 (G)I-DLE((여자)아이들) LATATA 소연 SOYEON Focused CAM",
@@ -136,7 +146,7 @@ const 음악방송Cards = [
   "link": "https://youtu.be/YxHMiiQkheQ",
   "category": "음악방송",
   "member": "우기",
-  "date": "2018-05-09T18:00:00",
+  "date": "2018-05-09T18:00:23",
   "duration": "00:04:28",
   "thumbnail": "https://i.ytimg.com/vi/YxHMiiQkheQ/maxresdefault.jpg",
   "alt": "[MUBEAT X Show Champion] 180509 (G)I-DLE((여자)아이들) LATATA 우기 YUQI Focused CAM",
@@ -340,7 +350,7 @@ const 음악방송Cards = [
   "link": "https://youtu.be/E9UYVt0I-as",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2018-05-16T18:00:00",
+  "date": "2018-05-16T18:00:21",
   "duration": "00:04:25",
   "thumbnail": "https://i.ytimg.com/vi/E9UYVt0I-as/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 인트로+LATATA+아웃트로 ((G)I-DLE - INTRO+LATATA+OUTRO) l EP.270",
@@ -352,7 +362,7 @@ const 음악방송Cards = [
   "link": "https://youtu.be/qgIQCS5shwQ",
   "category": "음악방송",
   "member": "민니",
-  "date": "2018-05-16T18:00:00",
+  "date": "2018-05-16T18:00:22",
   "duration": "00:04:28",
   "thumbnail": "https://i.ytimg.com/vi/qgIQCS5shwQ/sddefault.jpg",
   "alt": "[MUBEAT X Show Champion] 180516 (G)I-DLE((여자)아이들) LATATA (라타타) 민니 MINNIE Focused Cam",
@@ -364,7 +374,7 @@ const 음악방송Cards = [
   "link": "https://youtu.be/DlyrC0xKv8E",
   "category": "음악방송",
   "member": "슈화",
-  "date": "2018-05-16T18:00:00",
+  "date": "2018-05-16T18:00:23",
   "duration": "00:04:28",
   "thumbnail": "https://i.ytimg.com/vi/DlyrC0xKv8E/maxresdefault.jpg",
   "alt": "[MUBEAT X Show Champion] 180516 (G)I-DLE((여자)아이들) LATATA 슈화 SHUHUA Focused CAM",
@@ -372,6 +382,29 @@ const 음악방송Cards = [
   "subtag": "직캠"
 },
 
+{
+  "link": "https://youtu.be/9K5GdcvJYEU",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-05-16T23:10:00",
+  "duration": "00:02:24",
+  "thumbnail": "https://i.ytimg.com/vi/9K5GdcvJYEU/maxresdefault.jpg",
+  "alt": "[Showchampion behind EP.91] SUPER ROOKIE '(G)IDLE'",
+  "title": "[Showchampion behind EP.91] SUPER ROOKIE '(G)IDLE' [쇼챔피언]",
+  "subtag": "그 외"
+},
+
+{
+  "link": "https://youtu.be/RSv34ExT2rc",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-05-16T23:12:00",
+  "duration": "00:04:08",
+  "thumbnail": "https://i.ytimg.com/vi/RSv34ExT2rc/maxresdefault.jpg",
+  "alt": "[Showchampion behind EP.91] What is (G)IDLE's Mean?",
+  "title": "[Showchampion behind EP.91] What is (G)IDLE's Mean? [쇼챔피언]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/FNKxrAyCSfY",
   "category": "음악방송",
@@ -455,19 +488,17 @@ const 음악방송Cards = [
   "title": "[더쇼] (G)I-DLE, LATATA, THE SHOW CHOICE 1위 앵콜 무대 [THE SHOW 180522]",
   "subtag": "앵콜"
 },
-
 {
-  "link": "https://youtu.be/HLOHLLOxjUc",
+  "link": "https://youtu.be/oJZYIUPEmDE",
   "category": "음악방송",
   "member": "아이들",
   "date": "2018-05-24T18:00:49",
-  "duration": "00:03:36",
-  "thumbnail": "https://i.ytimg.com/vi/HLOHLLOxjUc/sddefault.jpg",
-  "alt": "[엠카운트다운] 여자아이들 'LATATA' 1위 앵콜 무대",
-  "title": "[엠카운트다운] 여자아이들 'LATATA' 1위 앵콜 무대",
+  "duration": "00:04:25",
+  "thumbnail": "https://i.ytimg.com/vi/oJZYIUPEmDE/hqdefault.jpg",
+  "alt": "[엠카운트다운] 5월 넷째 주 1위 ′(여자)아이들′의 ′LATATA′ 앵콜 무대! (Full ver.)",
+  "title": "[엠카운트다운] 5월 넷째 주 1위 ′(여자)아이들′의 ′LATATA′ 앵콜 무대! (Full ver.)",
   "subtag": "앵콜"
 },
-
 {
   "link": "https://youtu.be/32r1JsqV3P8",
   "category": "음악방송",
@@ -503,7 +534,17 @@ const 음악방송Cards = [
   "title": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K 'LATATA' ((G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2018.5.24 [엠카운트다운]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/RiFLGmkrNY0",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-05-24T23:00:00",
+  "duration": "00:02:15",
+  "thumbnail": "https://i.ytimg.com/vi/RiFLGmkrNY0/maxresdefault.jpg",
+  "alt": "[Showchampion behind EP.92] (G)I-DLE Thanks to co-worker",
+  "title": "[Showchampion behind EP.92] (G)I-DLE Thanks to co-worker [쇼챔피언]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/3yiMQS8RIwA",
   "category": "음악방송",
@@ -592,19 +633,41 @@ const 음악방송Cards = [
   "link": "https://youtu.be/4p-ur1geeXM",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2018-05-29T18:00:00",
+  "date": "2018-05-29T15:00:00",
   "duration": "00:03:24",
   "thumbnail": "https://i.ytimg.com/vi/4p-ur1geeXM/maxresdefault.jpg",
   "alt": "[M2 STAGE MIX] (여자)아이들((G)I-DLE) - LATATA 교차편집",
   "title": "[엠카운트다운] [M2 STAGE MIX] (여자)아이들((G)I-DLE) - LATATA 교차편집",
   "subtag": "그 외"
 },
+{
+  "link": "https://youtu.be/JJ1czSzVcio",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-05-29T18:00:01",
+  "duration": "00:03:25",
+  "thumbnail": "https://i.ytimg.com/vi/JJ1czSzVcio/maxresdefault.jpg",
+  "alt": "[더쇼] THE 홈SHOW핑 1부 (G)I-DLE, THE home SHOW ping 1 [THE SHOW 180529]",
+  "title": "[더쇼] THE 홈SHOW핑 1부 (G)I-DLE, THE home SHOW ping 1 [THE SHOW 180529]",
+  "subtag": "그 외"
+},
 
+{
+  "link": "https://youtu.be/YyKL-wiqaz0",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-05-29T18:00:02",
+  "duration": "00:03:44",
+  "thumbnail": "https://i.ytimg.com/vi/YyKL-wiqaz0/hqdefault.jpg",
+  "alt": "[더쇼] THE 홈SHOW핑 2부 (G)I-DLE, THE home SHOW ping 2 [THE SHOW 180529]",
+  "title": "[더쇼] THE 홈SHOW핑 2부 (G)I-DLE, THE home SHOW ping 2 [THE SHOW 180529]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/SkPQWXX1tqE",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2018-05-29T18:00:00",
+  "date": "2018-05-29T18:00:03",
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/SkPQWXX1tqE/hqdefault.jpg",
   "alt": "(G)I-DLE, LATATA [THE SHOW 180529]",
@@ -647,7 +710,17 @@ const 음악방송Cards = [
   "title": "[MPD직캠] (여자)아이들 직캠 'LATATA' ((G)I-DLE FanCam) | @MCOUNTDOWN_2018.5.31 [엠카운트다운]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/ieURp9kqdvE",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-05-31T23:00:01",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/ieURp9kqdvE/maxresdefault.jpg",
+  "alt": "[Showchampion behind EP.93] TA LALALALALALA??!!",
+  "title": "[Showchampion behind EP.93] TA LALALALALALA??!!",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/DcviEDRnXNk",
   "category": "음악방송",
@@ -731,7 +804,28 @@ const 음악방송Cards = [
   "title": "[MPD직캠] (여자)아이들 직캠 'LATATA' ((G)I-DLE FanCam) | @MCOUNTDOWN_2018.6.7 [엠카운트다운]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/4a5ZJ2wes8Y",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-06-07T23:00:01",
+  "duration": "00:04:12",
+  "thumbnail": "https://i.ytimg.com/vi/4a5ZJ2wes8Y/maxresdefault.jpg",
+  "alt": "[Showchampion behind EP.94] (G)I-DLE Selfie ep.01",
+  "title": "[Showchampion behind EP.94] (G)I-DLE Selfie ep.01",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/23B6lAvNIaU",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-06-07T23:00:02",
+  "duration": "00:03:44",
+  "thumbnail": "https://i.ytimg.com/vi/23B6lAvNIaU/maxresdefault.jpg",
+  "alt": "[Showchampion behind EP.94] What kind of IDLE are our IDLE?",
+  "title": "[Showchampion behind EP.94] What kind of IDLE are our IDLE?",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/z8UAOIM-Jz4",
   "category": "음악방송",
@@ -815,12 +909,46 @@ const 음악방송Cards = [
   "title": "[쇼!음악중심] [Special Stage] (여자)아이들 - U-Go-Girl",
   "subtag": "무대"
 },
+{
+  "link": "https://youtu.be/JjH2WL8csUc",
+  "category": "음악방송",
+  "member": "",
+  "date": "2018-08-11T17:00:02",
+  "duration": "00:02:33",
+  "thumbnail": "https://i.ytimg.com/vi/JjH2WL8csUc/maxresdefault.jpg",
+  "alt": "[예능연구소 직캠] (여자)아이들 유고 걸 수진 Focused @쇼!음악중심_20180811 U-Go-Girl (G)I-DLE SOOJIN",
+  "title": "[예능연구소 직캠] (여자)아이들 유고 걸 수진 Focused @쇼!음악중심_20180811 U-Go-Girl (G)I-DLE SOOJIN",
+  "subtag": "직캠"
+},
 
+{
+  "link": "https://youtu.be/PozUc0OWPFQ",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2018-08-11T17:00:03",
+  "duration": "00:02:33",
+  "thumbnail": "https://i.ytimg.com/vi/PozUc0OWPFQ/maxresdefault.jpg",
+  "alt": "[예능연구소 직캠] (여자)아이들 유고 걸 소연 Focused @쇼!음악중심_20180811 U-Go-Girl (G)I-DLE SOYEON",
+  "title": "[예능연구소 직캠] (여자)아이들 유고 걸 소연 Focused @쇼!음악중심_20180811 U-Go-Girl (G)I-DLE SOYEON",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/YWDEuOJRIHQ",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2018-08-11T17:00:04",
+  "duration": "00:02:33",
+  "thumbnail": "https://i.ytimg.com/vi/YWDEuOJRIHQ/maxresdefault.jpg",
+  "alt": "[예능연구소 직캠] (여자)아이들 유고 걸 우기 Focused @쇼!음악중심_20180811 U-Go-Girl (G)I-DLE YUQI",
+  "title": "[예능연구소 직캠] (여자)아이들 유고 걸 우기 Focused @쇼!음악중심_20180811 U-Go-Girl (G)I-DLE YUQI",
+  "subtag": "직캠"
+},
 {
   "link": "https://youtu.be/LFRRQk7sdWs",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2018-08-11T17:00:02",
+  "date": "2018-08-11T17:00:05",
   "duration": "00:07:03",
   "thumbnail": "https://i.ytimg.com/vi/LFRRQk7sdWs/maxresdefault.jpg",
   "alt": "[예능연구소 직캠] (여자)아이들 우주소녀 레드벨벳 썸머 송 메들리 @쇼!음악중심_20180811 (G)I-DLE WJSN Red Velvet Special stage in 4K",
@@ -968,7 +1096,7 @@ const 음악방송Cards = [
   "duration": "00:03:37",
   "thumbnail": "https://i.ytimg.com/vi/LaPfiyFHA54/maxresdefault.jpg",
   "alt": "(G)I-DLE, HANN [THE SHOW 180821]",
-  "title": "[더쇼] (여자)아이들 - 한(HANN)",
+  "title": "[더쇼] (여자)아이들 - 한(HANN) [THE SHOW 180821]",
   "subtag": "무대"
 },
 
@@ -983,7 +1111,84 @@ const 음악방송Cards = [
   "title": "FanCam, (G)I-DLE, HANN [THE SHOW 180821] 60P [더쇼]",
   "subtag": "직캠"
 },
+{
+  "link": "https://youtu.be/v31f8ckxuPg",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2018-08-21T18:00:13",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/v31f8ckxuPg/maxresdefault.jpg",
+  "alt": "(여자)아이들, 한(一) 미연 포커스, 하이! 컨택 [THE SHOW 180821]",
+  "title": "(여자)아이들, 한(一) 미연 포커스, 하이! 컨택 [THE SHOW 180821]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/TqgczxgFL_M",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2018-08-21T18:00:14",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/TqgczxgFL_M/maxresdefault.jpg",
+  "alt": "(여자)아이들, 한(一) 민니 포커스, 하이! 컨택 [THE SHOW 180821]",
+  "title": "(여자)아이들, 한(一) 민니 포커스, 하이! 컨택 [THE SHOW 180821]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/peHsc2JFvGY",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2018-08-21T18:00:15",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/peHsc2JFvGY/maxresdefault.jpg",
+  "alt": "(여자)아이들, 한(一) 소연 포커스, 하이! 컨택 [THE SHOW 180821]",
+  "title": "(여자)아이들, 한(一) 소연 포커스, 하이! 컨택 [THE SHOW 180821]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/8jAVqjXOl8s",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2018-08-21T18:00:16",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/8jAVqjXOl8s/maxresdefault.jpg",
+  "alt": "(여자)아이들, 한(一) 우기 포커스, 하이! 컨택 [THE SHOW 180821]",
+  "title": "(여자)아이들, 한(一) 우기 포커스, 하이! 컨택 [THE SHOW 180821]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/SoGMrmzZVvQ",
+  "category": "음악방송",
+  "member": "슈화",
+  "date": "2018-08-21T18:00:17",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/SoGMrmzZVvQ/maxresdefault.jpg",
+  "alt": "(여자)아이들, 한(一) 슈화 포커스, 하이! 컨택 [THE SHOW 180821]",
+  "title": "(여자)아이들, 한(一) 슈화 포커스, 하이! 컨택 [THE SHOW 180821]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/XAQC5L2JZZ4",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-08-21T19:28:27",
+  "duration": "00:03:44",
+  "thumbnail": "https://i.ytimg.com/vi/XAQC5L2JZZ4/maxresdefault.jpg",
+  "alt": "[더쇼] (여자)아이들, 소.확.겜 1부 (G)I-DLE, THE SHOW MINI GAME 1 [THE SHOW 180821]",
+  "title": "[더쇼] (여자)아이들, 소.확.겜 1부 (G)I-DLE, THE SHOW MINI GAME 1 [THE SHOW 180821]",
+  "subtag": "그 외"
+},
 
+{
+  "link": "https://youtu.be/5L3kXL93SzA",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-08-21T19:28:28",
+  "duration": "00:02:25",
+  "thumbnail": "https://i.ytimg.com/vi/5L3kXL93SzA/maxresdefault.jpg",
+  "alt": "[더쇼] (여자)아이들, 소.확.겜 2부 (G)I-DLE, THE SHOW MINI GAME 2 [THE SHOW 180821]",
+  "title": "[더쇼] (여자)아이들, 소.확.겜 2부 (G)I-DLE, THE SHOW MINI GAME 2 [THE SHOW 180821]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/Pie4ma-sovE",
   "category": "음악방송",
@@ -1192,14 +1397,24 @@ const 음악방송Cards = [
   "link": "https://youtu.be/KSOG87GC4n0",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2018-08-29T18:00:01",
+  "date": "2018-08-29T18:00:00",
   "duration": "00:03:25",
   "thumbnail": "https://i.ytimg.com/vi/KSOG87GC4n0/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 한(一) ((G) I-DLE - Intro HANN) l EP.282",
   "title": "[쇼챔피언]  (여자)아이들 - 한(一) ((G) I-DLE - Intro HANN) l Show Champion EP.282",
   "subtag": "무대"
 },
-
+{
+  "link": "https://youtu.be/ZBteR4VaRqw",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-08-29T18:00:01",
+  "duration": "00:05:39",
+  "thumbnail": "https://i.ytimg.com/vi/ZBteR4VaRqw/maxresdefault.jpg",
+  "alt": "저력의 신인 아이돌 여자 아이들! l #쇼챔피언비하인드 l EP.106",
+  "title": "[쇼챔피언] 저력의 신인 아이돌 여자 아이들! #비하인드 l EP.106",
+  "subtag": "앵콜"
+},
 {
   "link": "https://youtu.be/TGzR47aTYJw",
   "category": "음악방송",
@@ -1259,7 +1474,29 @@ const 음악방송Cards = [
   "title": "[MPD직캠] (여자)아이들 슈화 직캠 ‘한(-)(HANN)’ ((G)I-DLE SHUHUA FanCam) | @MCOUNTDOWN_2018.8.30 [엠카운트다운]",
   "subtag": "직캠"
 },
+{
+  "link": "https://youtu.be/eWeA0CoPst0",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-08-30T23:00:01",
+  "duration": "00:02:27",
+  "thumbnail": "https://i.ytimg.com/vi/eWeA0CoPst0/maxresdefault.jpg",
+  "alt": "[Showchampion behind EP.105] Slam Show ChamDunk G I-DLE",
+  "title": "[Showchampion behind EP.105] Slam Show ChamDunk G I-DLE",
+  "subtag": "그 외"
+},
 
+{
+  "link": "https://youtu.be/zUcxZM0aH8I",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-08-30T23:00:02",
+  "duration": "00:03:23",
+  "thumbnail": "https://i.ytimg.com/vi/zUcxZM0aH8I/maxresdefault.jpg",
+  "alt": "[Showchampion behind EP.105] Addicted Music and Colorful Performances G I-DLE",
+  "title": "[Showchampion behind EP.105] Addicted Music and Colorful Performances G I-DLE",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/vxiY2OZrA8k",
   "category": "음악방송",
@@ -1300,12 +1537,23 @@ const 음악방송Cards = [
   "link": "https://youtu.be/nzsfh7aG0C0",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2018-09-04T18:00:11",
+  "date": "2018-09-04T18:00:10",
   "duration": "00:03:26",
   "thumbnail": "https://i.ytimg.com/vi/nzsfh7aG0C0/hqdefault.jpg",
   "alt": "(G)I-DLE, HANN [THE SHOW 180904]",
   "title": "[더쇼] (G)I-DLE - HANN [THE SHOW 180904]",
   "subtag": "무대"
+},
+{
+  "link": "https://youtu.be/peohoUqGk6E",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-09-04T18:00:11",
+  "duration": "00:03:05",
+  "thumbnail": "https://i.ytimg.com/vi/peohoUqGk6E/maxresdefault.jpg",
+  "alt": "[더쇼] (G)I-DLE, win! THE SHOW CHOICE [THE SHOW 180904]",
+  "title": "[더쇼] (G)I-DLE, win! THE SHOW CHOICE 1위 앵콜 무대 [THE SHOW 180904]",
+  "subtag": "앵콜"
 },
 
 {
@@ -1319,18 +1567,63 @@ const 음악방송Cards = [
   "title": "FanCam, (G)I-DLE, HANN [THE SHOW 180904] 60P [더쇼]",
   "subtag": "직캠"
 },
+{
+  "link": "https://youtu.be/zdnNZyh4fFQ",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2018-09-04T18:00:13",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/zdnNZyh4fFQ/maxresdefault.jpg",
+  "alt": "(여자)아이들, 한(一) 미연 포커스, 하이! 컨택 [THE SHOW 180904]",
+  "title": "(여자)아이들, 한(一) 미연 포커스, 하이! 컨택 [THE SHOW 180904]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/ZWFDs7_Bgl0",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2018-09-04T18:00:14",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/ZWFDs7_Bgl0/maxresdefault.jpg",
+  "alt": "(여자)아이들, 한(一) 민니 포커스, 하이! 컨택 [THE SHOW 180904]",
+  "title": "(여자)아이들, 한(一) 민니 포커스, 하이! 컨택 [THE SHOW 180904]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/Mqb-9D5l_w4",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2018-09-04T18:00:15",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/Mqb-9D5l_w4/maxresdefault.jpg",
+  "alt": "(여자)아이들, 한(一) 소연 포커스, 하이! 컨택 [THE SHOW 180904]",
+  "title": "(여자)아이들, 한(一) 소연 포커스, 하이! 컨택 [THE SHOW 180904]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/exIECCDKuY4",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2018-09-04T18:00:16",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/exIECCDKuY4/maxresdefault.jpg",
+  "alt": "(여자)아이들, 한(一) 우기 포커스, 하이! 컨택 [THE SHOW 180904]",
+  "title": "(여자)아이들, 한(一) 우기 포커스, 하이! 컨택 [THE SHOW 180904]",
+  "subtag": "직캠"
+},
 
 {
-  "link": "https://youtu.be/peohoUqGk6E",
+  "link": "https://youtu.be/387RptY9WVg",
   "category": "음악방송",
-  "member": "아이들",
-  "date": "2018-09-04T18:00:13",
-  "duration": "00:03:05",
-  "thumbnail": "https://i.ytimg.com/vi/peohoUqGk6E/maxresdefault.jpg",
-  "alt": "[더쇼] (G)I-DLE, win! THE SHOW CHOICE [THE SHOW 180904]",
-  "title": "[더쇼] (G)I-DLE, win! THE SHOW CHOICE 1위 앵콜 무대 [THE SHOW 180904]",
-  "subtag": "앵콜"
+  "member": "슈화",
+  "date": "2018-09-04T18:00:17",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/387RptY9WVg/maxresdefault.jpg",
+  "alt": "(여자)아이들, 한(一) 슈화 포커스, 하이! 컨택 [THE SHOW 180904]",
+  "title": "(여자)아이들, 한(一) 슈화 포커스, 하이! 컨택 [THE SHOW 180904]",
+  "subtag": "직캠"
 },
+
 
 {
   "link": "https://youtu.be/Gq9rpAwtCys",
@@ -1342,18 +1635,6 @@ const 음악방송Cards = [
   "alt": "[Show Champion] (여자)아이들 - 한(一) ((G) I-DLE - HANN) l EP.283",
   "title": "[쇼챔피언] (여자)아이들 - 한(一) ((G) I-DLE - HANN) l EP.283 [Show Champion]",
   "subtag": "무대"
-},
-
-{
-  "link": "https://youtu.be/ZBteR4VaRqw",
-  "category": "음악방송",
-  "member": "아이들",
-  "date": "2018-09-06T18:00:51",
-  "duration": "00:05:39",
-  "thumbnail": "https://i.ytimg.com/vi/ZBteR4VaRqw/maxresdefault.jpg",
-  "alt": "저력의 신인 아이돌 여자 아이들! l #쇼챔피언비하인드 l EP.106",
-  "title": "[쇼챔피언] 저력의 신인 아이돌 여자 아이들! #비하인드 l EP.106",
-  "subtag": "그 외"
 },
 
 {
@@ -1377,9 +1658,43 @@ const 음악방송Cards = [
   "thumbnail": "https://i.ytimg.com/vi/GrPaQ_sgZkY/maxresdefault.jpg",
   "alt": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '한(-)(HANN)' ( (G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2018.9.6",
   "title": "[MPD직캠] (여자)아이들 1위 앵콜 직캠 4K '한(-)(HANN)' ( (G)I-DLE FanCam No.1 Encore) | @MCOUNTDOWN_2018.9.6 [엠카운트다운]",
-  "subtag": "직캠"
+  "subtag": "앵콜"
+},
+{
+  "link": "https://youtu.be/ZBteR4VaRqw",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-09-06T23:00:01",
+  "duration": "00:05:39",
+  "thumbnail": "https://i.ytimg.com/vi/ZBteR4VaRqw/maxresdefault.jpg",
+  "alt": "저력의 신인 아이돌 여자 아이들! l #쇼챔피언비하인드 l EP.106",
+  "title": "저력의 신인 아이돌 여자 아이들! l #쇼챔피언비하인드 l EP.106",
+  "subtag": "그 외"
 },
 
+{
+  "link": "https://youtu.be/Rv6eFHtTPWc",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-09-06T23:00:02",
+  "duration": "00:03:32",
+  "thumbnail": "https://i.ytimg.com/vi/Rv6eFHtTPWc/maxresdefault.jpg",
+  "alt": "[Showchampion behind EP.106] What was the story of G I-DLE?",
+  "title": "[Showchampion behind EP.106] What was the story of G I-DLE?",
+  "subtag": "그 외"
+},
+
+{
+  "link": "https://youtu.be/icHsP7tfKnc",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-09-06T23:00:03",
+  "duration": "00:04:46",
+  "thumbnail": "https://i.ytimg.com/vi/icHsP7tfKnc/maxresdefault.jpg",
+  "alt": "[Showchampion behind EP.106] Popular G I-DLE's talking game",
+  "title": "[Showchampion behind EP.106] Popular G I-DLE's talking game",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/3xKzy6c2l88",
   "category": "음악방송",
@@ -1463,7 +1778,17 @@ const 음악방송Cards = [
   "title": "[인기가요] 《DREAMLIKE》 (G)I-DLE((여자)아이들) - HANN(한(一))",
   "subtag": "무대"
 },
-
+{
+  "link": "https://youtu.be/wHOzmQ-lYaA",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2018-10-04T23:00:01",
+  "duration": "00:02:52",
+  "thumbnail": "https://i.ytimg.com/vi/wHOzmQ-lYaA/maxresdefault.jpg",
+  "alt": "[Showchampion behind EP.110] A secret of one's name 'G I-DLE'",
+  "title": "[Showchampion behind EP.110] A secret of one's name 'G I-DLE'",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/3H_wBEEvKcU",
   "category": "음악방송",
@@ -1471,8 +1796,8 @@ const 음악방송Cards = [
   "date": "2018-10-31T18:00:21",
   "duration": "00:03:56",
   "thumbnail": "https://i.ytimg.com/vi/3H_wBEEvKcU/maxresdefault.jpg",
-  "alt": "[뮤직뱅크] (G)-IDLE ((여자)아이들) - 'LATATA' | 2018 MUSIC BANK IN BERLIN",
-  "title": "[뮤직뱅크] (G)-IDLE ((여자)아이들) - 'LATATA' | 2018 MUSIC BANK IN BERLIN",
+  "alt": "[뮤직뱅크 인 베를린] (G)-IDLE ((여자)아이들) - 'LATATA' | 2018 MUSIC BANK IN BERLIN",
+  "title": "[뮤직뱅크 인 베를린] (G)-IDLE ((여자)아이들) - 'LATATA' | 2018 MUSIC BANK IN BERLIN",
   "subtag": "무대"
 },
 
@@ -1483,8 +1808,8 @@ const 음악방송Cards = [
   "date": "2018-10-31T18:00:22",
   "duration": "00:03:40",
   "thumbnail": "https://i.ytimg.com/vi/HwwUTemjpK0/maxresdefault.jpg",
-  "alt": "[뮤직뱅크] (G)-IDLE ((여자)아이들) - '한(HANN,一)' | 2018 MUSIC BANK IN BERLIN",
-  "title": "[뮤직뱅크] (G)-IDLE ((여자)아이들) - '한(HANN,一)' | 2018 MUSIC BANK IN BERLIN",
+  "alt": "[뮤직뱅크 인 베를린] (G)-IDLE ((여자)아이들) - '한(HANN,一)' | 2018 MUSIC BANK IN BERLIN",
+  "title": "[뮤직뱅크 인 베를린] (G)-IDLE ((여자)아이들) - '한(HANN,一)' | 2018 MUSIC BANK IN BERLIN",
   "subtag": "무대"
 },
 
@@ -1495,8 +1820,8 @@ const 음악방송Cards = [
   "date": "2018-10-31T18:00:23",
   "duration": "00:04:11",
   "thumbnail": "https://i.ytimg.com/vi/2Qx6NR03NyE/maxresdefault.jpg",
-  "alt": "[뮤직뱅크] (G)-IDLE ((여자)아이들), Daniel Lindemann- 'Sunny(원곡: Boney M)' cover | 2018 MUSIC BANK IN BERLIN",
-  "title": "[뮤직뱅크] (G)-IDLE ((여자)아이들), Daniel Lindemann- 'Sunny(원곡: Boney M)' cover | 2018 MUSIC BANK IN BERLIN",
+  "alt": "[뮤직뱅크 인 베를린] (G)-IDLE ((여자)아이들), Daniel Lindemann- 'Sunny(원곡: Boney M)' cover | 2018 MUSIC BANK IN BERLIN",
+  "title": "[뮤직뱅크 인 베를린] (G)-IDLE ((여자)아이들), Daniel Lindemann- 'Sunny(원곡: Boney M)' cover | 2018 MUSIC BANK IN BERLIN",
   "subtag": "무대"
 },
 
@@ -1535,7 +1860,17 @@ const 음악방송Cards = [
   "title": "[뮤직뱅크] Must Have Love (원곡 브라운아이드걸스, SG워너비) - 전출연자 | <크리스마스 특집 연말 결산>",
   "subtag": "무대"
 },
-
+{
+  "link": "https://youtu.be/xSkQbZ3jLqw",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-02-27T18:00:30",
+  "duration": "00:01:47",
+  "thumbnail": "https://i.ytimg.com/vi/xSkQbZ3jLqw/maxresdefault.jpg",
+  "alt": "Show Champion EP.305 매혹적인 여섯명의 여신 (여자)아이들",
+  "title": "Show Champion EP.305 매혹적인 여섯명의 여신 (여자)아이들",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/dce9SYhd6rg",
   "category": "음악방송",
@@ -1775,31 +2110,96 @@ const 음악방송Cards = [
   "title": "(G)I-DLE, Senorita [THE SHOW, Fancam, 190305] 60P [더쇼]",
   "subtag": "직캠"
 },
+{
+  "link": "https://youtu.be/InogvKWjUJs",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2019-03-05T18:00:43",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/InogvKWjUJs/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 미연 포커스, 하이! 컨택 [THE SHOW 190305]",
+  "title": "(여자)아이들, Señorita 미연 포커스, 하이! 컨택 [THE SHOW 190305]",
+  "subtag": "직캠"
+},
 
+{
+  "link": "https://youtu.be/uE0yjHpOqXU",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2019-03-05T18:00:44",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/uE0yjHpOqXU/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 민니 포커스, 하이! 컨택 [THE SHOW 190305]",
+  "title": "(여자)아이들, Señorita 민니 포커스, 하이! 컨택 [THE SHOW 190305]",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/2WgnMHMBsSE",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2019-03-05T18:00:45",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/2WgnMHMBsSE/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 소연 포커스, 하이! 컨택 [THE SHOW 190305]",
+  "title": "(여자)아이들, Señorita 소연 포커스, 하이! 컨택 [THE SHOW 190305]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/NhtMLMZ-NFw",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2019-03-05T18:00:46",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/NhtMLMZ-NFw/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 우기 포커스, 하이! 컨택 [THE SHOW 190305]",
+  "title": "(여자)아이들, Señorita 우기 포커스, 하이! 컨택 [THE SHOW 190305]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/Iy1cjGlVIfo",
+  "category": "음악방송",
+  "member": "슈화",
+  "date": "2019-03-05T18:00:47",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/Iy1cjGlVIfo/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 슈화 포커스, 하이! 컨택 [THE SHOW 190305]",
+  "title": "(여자)아이들, Señorita 슈화 포커스, 하이! 컨택 [THE SHOW 190305]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/wQ5dqwSO0p0",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-03-06T18:00:01",
+  "duration": "00:01:52",
+  "thumbnail": "https://i.ytimg.com/vi/wQ5dqwSO0p0/maxresdefault.jpg",
+  "alt": "Show Champion EP.306 각자의 개성을 보여줄 (여자)아이들 엔딩요정은 누구?",
+  "title": "Show Champion EP.306 각자의 개성을 보여줄 (여자)아이들 엔딩요정은 누구?",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/94BeTnryYZI",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2019-03-06T18:00:00",
+  "date": "2019-03-06T18:00:02",
   "duration": "00:03:35",
   "thumbnail": "https://i.ytimg.com/vi/94BeTnryYZI/maxresdefault.jpg",
   "alt": "[Show Champion] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) l EP.306",
   "title": "[쇼챔피언] (여자)아이들 - 세뇨리타 ((G)I-DLE - Senorita) EP.306",
   "subtag": "무대"
 },
-
 {
   "link": "https://youtu.be/H3a-zDvgSBE",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2019-03-07T18:00:51",
+  "date": "2019-03-06T18:00:03",
   "duration": "00:12:27",
   "thumbnail": "https://i.ytimg.com/vi/H3a-zDvgSBE/maxresdefault.jpg",
   "alt": "[Weekly Champion vowel] (G)I-DLE - Senorita♬",
   "title": "[쇼챔피언] [Weekly Champion vowel] (G)I-DLE - Senorita♬ + 비하인드",
   "subtag": "그 외"
 },
-
 {
   "link": "https://youtu.be/w9eLwggClxs",
   "category": "음악방송",
@@ -2039,7 +2439,17 @@ const 음악방송Cards = [
   "title": "[인기가요] (G)I-DLE((여자)아이들) - Senorita",
   "subtag": "무대"
 },
-
+{
+  "link": "https://youtu.be/5AiKhjC7ljY",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-03-12T18:00:50",
+  "duration": "00:05:01",
+  "thumbnail": "https://i.ytimg.com/vi/5AiKhjC7ljY/maxresdefault.jpg",
+  "alt": "[더쇼] (여자)아이들 행덕라이브 (G)I-DLE, HAPPY STAN LIVE [THE SHOW 190312]",
+  "title": "[더쇼] (여자)아이들 행덕라이브 (G)I-DLE, HAPPY STAN LIVE [THE SHOW 190312]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/Il8weyn0EfI",
   "category": "음악방송",
@@ -2073,6 +2483,74 @@ const 음악방송Cards = [
   "thumbnail": "https://i.ytimg.com/vi/_Kb-CoRF7us/maxresdefault.jpg",
   "alt": "[더쇼] (G)I-DLE, Señorita, YUQI Focus [THE SHOW 190312]",
   "title": "(G)I-DLE, Señorita, YUQI Focus [THE SHOW 190312] [더쇼]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/hdNyYz64Q9I",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-03-12T18:00:54",
+  "duration": "00:04:36",
+  "thumbnail": "https://i.ytimg.com/vi/hdNyYz64Q9I/maxresdefault.jpg",
+  "alt": "[더쇼] 더쇼; 퇵길아웃! (G)I-DLE, The Show; On the Way Out! (190312)",
+  "title": "[더쇼] 더쇼; 퇵길아웃! (G)I-DLE, The Show; On the Way Out! (190312)",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/7iXphUxxk78",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2019-03-12T18:00:55",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/7iXphUxxk78/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 미연 포커스, 하이! 컨택 [THE SHOW 190312]",
+  "title": "(여자)아이들, Señorita 미연 포커스, 하이! 컨택 [THE SHOW 190312]",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/4v4a-sZSP5k",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2019-03-12T18:00:56",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/4v4a-sZSP5k/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 민니 포커스, 하이! 컨택 [THE SHOW 190312]",
+  "title": "(여자)아이들, Señorita 민니 포커스, 하이! 컨택 [THE SHOW 190312]",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/6SdNaDM3CwI",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2019-03-12T18:00:57",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/6SdNaDM3CwI/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 소연 포커스, 하이! 컨택 [THE SHOW 190312]",
+  "title": "(여자)아이들, Señorita 소연 포커스, 하이! 컨택 [THE SHOW 190312]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/2iNJ4EEgaj4",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2019-03-12T18:00:58",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/2iNJ4EEgaj4/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 우기 포커스, 하이! 컨택 [THE SHOW 190312]",
+  "title": "(여자)아이들, Señorita 우기 포커스, 하이! 컨택 [THE SHOW 190312]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/pX-EtJtvjNM",
+  "category": "음악방송",
+  "member": "슈화",
+  "date": "2019-03-12T18:00:59",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/pX-EtJtvjNM/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 슈화 포커스, 하이! 컨택 [THE SHOW 190312]",
+  "title": "(여자)아이들, Señorita 슈화 포커스, 하이! 컨택 [THE SHOW 190312]",
   "subtag": "직캠"
 },
 
@@ -2327,7 +2805,96 @@ const 음악방송Cards = [
   "title": "[MPD직캠] (여자)아이들 직캠 4K ‘Senorita’ ((G)I-DLE FanCam) | @MCOUNTDOWN_2019.3.21 [엠카운트다운]",
   "subtag": "직캠"
 },
+{
+  "link": "https://youtu.be/fMiKobX8z-I",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-03-26T21:00:01",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/fMiKobX8z-I/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Señorita [THE SHOW 190326]",
+  "title": "(G)I-DLE, Señorita [THE SHOW 190326]",
+  "subtag": "무대"
+},
+{
+  "link": "https://youtu.be/2KjAu_A7ozw",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-03-26T21:00:02",
+  "duration": "00:03:25",
+  "thumbnail": "https://i.ytimg.com/vi/2KjAu_A7ozw/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Señorita [THE SHOW, Fancam, 190326] 60P",
+  "title": "(G)I-DLE, Señorita [THE SHOW, Fancam, 190326] 60P",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/3Ofa2nlruUE",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2019-03-26T21:00:03",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/3Ofa2nlruUE/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 미연 포커스, 하이! 컨택 [THE SHOW 190326]",
+  "title": "(여자)아이들, Señorita 미연 포커스, 하이! 컨택 [THE SHOW 190326]",
+  "subtag": "직캠"
+},
 
+{
+  "link": "https://youtu.be/2PC9cyuIAZs",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2019-03-26T21:00:04",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/2PC9cyuIAZs/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 민니 포커스, 하이! 컨택 [THE SHOW 190326]",
+  "title": "(여자)아이들, Señorita 민니 포커스, 하이! 컨택 [THE SHOW 190326]",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/S7riBCGZoow",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2019-03-26T21:00:05",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/S7riBCGZoow/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 소연 포커스, 하이! 컨택 [THE SHOW 190326]",
+  "title": "(여자)아이들, Señorita 소연 포커스, 하이! 컨택 [THE SHOW 190326]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/BIAEyTgNiKY",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2019-03-26T21:00:06",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/BIAEyTgNiKY/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 우기 포커스, 하이! 컨택 [THE SHOW 190326]",
+  "title": "(여자)아이들, Señorita 우기 포커스, 하이! 컨택 [THE SHOW 190326]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/xYg9Y3EqTAo",
+  "category": "음악방송",
+  "member": "슈화",
+  "date": "2019-03-26T21:00:07",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/xYg9Y3EqTAo/maxresdefault.jpg",
+  "alt": "(여자)아이들, Señorita 슈화 포커스, 하이! 컨택 [THE SHOW 190326]",
+  "title": "(여자)아이들, Señorita 슈화 포커스, 하이! 컨택 [THE SHOW 190326]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/1WmdkM33FoE",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-03-27T12:00:02",
+  "duration": "00:18:08",
+  "thumbnail": "https://i.ytimg.com/vi/1WmdkM33FoE/maxresdefault.jpg",
+  "alt": "[더쇼] LOONA, HA SUNG WOON, (G)I-DLE, N.Flying THE SHOW 179 Behind [BEHIND THE SHOW]",
+  "title": "[더쇼] LOONA, HA SUNG WOON, (G)I-DLE, N.Flying THE SHOW 179 Behind [BEHIND THE SHOW]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/WXl1_XerWrA",
   "category": "음악방송",
@@ -2567,7 +3134,17 @@ const 음악방송Cards = [
   "title": "[입덕직캠] (여자)아이들 우기 직캠 4K 'Uh-Oh’ ((G)I-DLE YUQI FanCam) | @MCOUNTDOWN_2019.6.27 [엠카운트다운]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/2uhmacKsXO8",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-06-27T18:00:30",
+  "duration": "00:03:24",
+  "thumbnail": "https://i.ytimg.com/vi/2uhmacKsXO8/maxresdefault.jpg",
+  "alt": "190627 (G)I-DLE, CHUNG HA, Stray Kids, SOMI ... [M COUNTDOWN PHOTO TIME]",
+  "title": "190627 (G)I-DLE, CHUNG HA, Stray Kids, SOMI ... [M COUNTDOWN PHOTO TIME]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/rUrXD2PZ2AM",
   "category": "음악방송",
@@ -2735,7 +3312,28 @@ const 음악방송Cards = [
   "title": "[덕질캡쳐용♥CLEAN ver.] (여자)아이들 - Uh-Oh ((G)I-DLE - Uh-Oh) [쇼챔피언]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/T3hNsmC_g28",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-07-02T18:00:41",
+  "duration": "00:01:40",
+  "thumbnail": "https://i.ytimg.com/vi/T3hNsmC_g28/maxresdefault.jpg",
+  "alt": "[더쇼] (여자)아이들, 더 쇼; 퇴근길, 셀프캠 (G)I-DLE, The Show; On the Way Out, Self-cam (190702)",
+  "title": "[더쇼] (여자)아이들, 더 쇼; 퇴근길, 셀프캠 (G)I-DLE, The Show; On the Way Out, Self-cam (190702)",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/eT2xcdSV4W0",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-07-02T18:00:42",
+  "duration": "00:09:29",
+  "thumbnail": "https://i.ytimg.com/vi/eT2xcdSV4W0/maxresdefault.jpg",
+  "alt": "[더쇼] ZELO, Parc Jae Jung, (G)I-DLE Backstage [BEHIND THE SHOW 190702]",
+  "title": "[더쇼] ZELO, Parc Jae Jung, (G)I-DLE Backstage [BEHIND THE SHOW 190702]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/Jw9eWqScvWc",
   "category": "음악방송",
@@ -2999,7 +3597,63 @@ const 음악방송Cards = [
   "title": "(G)I-DLE, Uh-Oh [Fancam] 60P [더쇼]",
   "subtag": "직캠"
 },
+{
+  "link": "https://youtu.be/5g4FTnEt7ww",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2019-07-09T18:00:33",
+  "duration": "00:03:44",
+  "thumbnail": "https://i.ytimg.com/vi/5g4FTnEt7ww/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Uh-Oh 미연 포커스, 하이! 컨택 [THE SHOW 190709]",
+  "title": "(G)I-DLE, Uh-Oh 미연 포커스, 하이! 컨택 [THE SHOW 190709]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/OXzQ1hgy0p8",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2019-07-09T18:00:34",
+  "duration": "00:03:44",
+  "thumbnail": "https://i.ytimg.com/vi/OXzQ1hgy0p8/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Uh-Oh 민니 포커스, 하이! 컨택 [THE SHOW 190709]",
+  "title": "(G)I-DLE, Uh-Oh 민니 포커스, 하이! 컨택 [THE SHOW 190709]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/-ItI2yPAawg",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2019-07-09T18:00:35",
+  "duration": "00:03:44",
+  "thumbnail": "https://i.ytimg.com/vi/-ItI2yPAawg/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Uh-Oh 소연 포커스, 하이! 컨택 [THE SHOW 190709]",
+  "title": "(G)I-DLE, Uh-Oh 소연 포커스, 하이! 컨택 [THE SHOW 190709]",
+  "subtag": "직캠"
+},
 
+{
+  "link": "https://youtu.be/551Jp3W9ptY",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2019-07-09T18:00:36",
+  "duration": "00:03:44",
+  "thumbnail": "https://i.ytimg.com/vi/551Jp3W9ptY/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Uh-Oh 우기 포커스, 하이! 컨택 [THE SHOW 190709]",
+  "title": "(G)I-DLE, Uh-Oh 우기 포커스, 하이! 컨택 [THE SHOW 190709]",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/kbyUYYH-xL0",
+  "category": "음악방송",
+  "member": "슈화",
+  "date": "2019-07-09T18:00:37",
+  "duration": "00:03:44",
+  "thumbnail": "https://i.ytimg.com/vi/kbyUYYH-xL0/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Uh-Oh 슈화 포커스, 하이! 컨택 [THE SHOW 190709]",
+  "title": "(G)I-DLE, Uh-Oh 슈화 포커스, 하이! 컨택 [THE SHOW 190709]",
+  "subtag": "직캠"
+},
 {
   "link": "https://youtu.be/9AIl8avCM-Q",
   "category": "음악방송",
@@ -3100,13 +3754,25 @@ const 음악방송Cards = [
   "link": "https://youtu.be/ilpAUJ5Hepk",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2019-07-16T18:00:21",
+  "date": "2019-07-16T18:00:20",
   "duration": "00:03:30",
   "thumbnail": "https://i.ytimg.com/vi/ilpAUJ5Hepk/maxresdefault.jpg",
-  "alt": "(G)I-DLE, Uh-Oh [THE SHOW 190716]",
-  "title": "[더쇼] (G)I-DLE - Uh-Oh",
+  "alt": "[더쇼] (G)I-DLE - Uh-Oh [THE SHOW 190716]",
+  "title": "[더쇼] (G)I-DLE - Uh-Oh [THE SHOW 190716]",
   "subtag": "무대"
 },
+{
+  "link": "https://youtu.be/qQ7JlK8PSCU",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-07-16T18:00:21",
+  "duration": "00:03:36",
+  "thumbnail": "https://i.ytimg.com/vi/qQ7JlK8PSCU/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Uh-Oh [THE SHOW, Fancam, 190716] 60P",
+  "title": "(G)I-DLE, Uh-Oh [THE SHOW, Fancam, 190716] 60P",
+  "subtag": "직캠"
+},
+
 {
   "link": "https://youtu.be/F8pB0rJmD1k",
   "category": "음악방송",
@@ -3114,9 +3780,76 @@ const 음악방송Cards = [
   "date": "2019-07-16T18:00:22",
   "duration": "00:14:47",
   "thumbnail": "https://i.ytimg.com/vi/F8pB0rJmD1k/sddefault.jpg",
-  "alt": "(여자)아이들, ㅋㅋ댄스 Full Version [더 쇼, 190716]",
-  "title": "(여자)아이들, ㅋㅋ댄스 Full Version [더 쇼, 190716]",
+  "alt": "[더쇼] (여자)아이들, ㅋㅋ댄스 Full Version (KK DANCE) [THE SHOW 190716]",
+  "title": "[더쇼] (여자)아이들, ㅋㅋ댄스 Full Version (KK DANCE) [THE SHOW 190716]",
   "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/uSghmALLVPA",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2019-07-16T18:00:23",
+  "duration": "00:09:19",
+  "thumbnail": "https://i.ytimg.com/vi/uSghmALLVPA/maxresdefault.jpg",
+  "alt": "[더쇼] 더쇼; 퇵길아웃! (G)I-DLE, The Show; On the Way Out! (190716)",
+  "title": "[더쇼] 더쇼; 퇵길아웃! (G)I-DLE, The Show; On the Way Out! (190716)",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/LcVlYmP4Yu0",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2019-07-16T18:00:24",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/LcVlYmP4Yu0/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Uh-Oh 미연 포커스, 하이! 컨택 [THE SHOW 190716]",
+  "title": "(G)I-DLE, Uh-Oh 미연 포커스, 하이! 컨택 [THE SHOW 190716]",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/cR5axb9eLSk",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2019-07-16T18:00:25",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/cR5axb9eLSk/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Uh-Oh 민니 포커스, 하이! 컨택 [THE SHOW 190716]",
+  "title": "(G)I-DLE, Uh-Oh 민니 포커스, 하이! 컨택 [THE SHOW 190716]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/5vFZrhOIVgg",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2019-07-16T18:00:26",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/5vFZrhOIVgg/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Uh-Oh 소연 포커스, 하이! 컨택 [THE SHOW 190716]",
+  "title": "(G)I-DLE, Uh-Oh 소연 포커스, 하이! 컨택 [THE SHOW 190716]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/A2FTdbODZMc",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2019-07-16T18:00:27",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/A2FTdbODZMc/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Uh-Oh 우기 포커스, 하이! 컨택 [THE SHOW 190716]",
+  "title": "(G)I-DLE, Uh-Oh 우기 포커스, 하이! 컨택 [THE SHOW 190716]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/1yDOx5aaoHw",
+  "category": "음악방송",
+  "member": "슈화",
+  "date": "2019-07-16T18:00:28",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/1yDOx5aaoHw/maxresdefault.jpg",
+  "alt": "(G)I-DLE, Uh-Oh 슈화 포커스, 하이! 컨택 [THE SHOW 190716]",
+  "title": "(G)I-DLE, Uh-Oh 슈화 포커스, 하이! 컨택 [THE SHOW 190716]",
+  "subtag": "직캠"
 },
 {
   "link": "https://youtu.be/Q4Cl4zgBwLg",
@@ -4302,10 +5035,20 @@ const 음악방송Cards = [
   "duration": "00:05:52",
   "thumbnail": "https://i.ytimg.com/vi/d6lmphiZ3ds/sddefault.jpg",
   "alt": "에이핑크, (여자)아이들 페이스티켓 [비하인드 더 쇼 200421]",
-  "title": "[더쇼] 에이핑크, (여자)아이들 페이스티켓 [비하인드 더 쇼 ]",
+  "title": "[더쇼] 에이핑크, (여자)아이들 페이스티켓 [비하인드 더 쇼 200421]",
   "subtag": "그 외"
 },
-
+{
+  "link": "https://youtu.be/olpJIfmsfKw",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2020-04-21T18:00:44",
+  "duration": "00:11:13",
+  "thumbnail": "https://i.ytimg.com/vi/olpJIfmsfKw/maxresdefault.jpg",
+  "alt": "[더쇼] (여자)아이들, 에이핑크 백스테이지 [비하인드 더 쇼 200421]",
+  "title": "[더쇼] (여자)아이들, 에이핑크 백스테이지 [비하인드 더 쇼 200421]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/nNdS9L6NRMg",
   "category": "음악방송",
@@ -4713,7 +5456,17 @@ const 음악방송Cards = [
   "title": "[페이스캠4K] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA FaceCam)│@SBS Inkigayo_2020.4.26 [인기가요]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/QQHkQjFnpfs",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2020-04-28T18:00:40",
+  "duration": "00:03:38",
+  "thumbnail": "https://i.ytimg.com/vi/QQHkQjFnpfs/maxresdefault.jpg",
+  "alt": "[더쇼] (여자)아이들 행덕라이브 (G)I-DLE, HAPPY STAN LIVE [THE SHOW 200428]",
+  "title": "[더쇼] (여자)아이들 행덕라이브 (G)I-DLE, HAPPY STAN LIVE [THE SHOW 200428]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/d_1AhUySuow",
   "category": "음악방송",
@@ -4745,8 +5498,8 @@ const 음악방송Cards = [
   "date": "2020-04-28T18:00:43",
   "duration": "00:04:04",
   "thumbnail": "https://i.ytimg.com/vi/L9p-4UaEf2I/sddefault.jpg",
-  "alt": "퇴근을 너무 '사랑해♥'버린 아이들의 퇴근길은 Oh my god! [퇴근길 LIVE]",
-  "title": "퇴근을 너무 '사랑해♥'버린 아이들의 퇴근길은 Oh my god! [퇴근길 LIVE] [더쇼]",
+  "alt": "[더쇼] 퇴근을 너무 '사랑해♥'버린 아이들의 퇴근길은 Oh my god! [퇴근길 LIVE]",
+  "title": "[더쇼] 퇴근을 너무 '사랑해♥'버린 아이들의 퇴근길은 Oh my god! [퇴근길 LIVE]",
   "subtag": "직캠"
 },
 
@@ -5241,7 +5994,17 @@ const 음악방송Cards = [
   "title": "[페이스캠4K] (여자)아이들 슈화 '사랑해' ((G)I-DLE SHUHUA 'Luv U' FaceCam) [인기가요]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/mwCzNvndEWA",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2020-05-19T23:00:01",
+  "duration": "00:02:29",
+  "thumbnail": "https://i.ytimg.com/vi/mwCzNvndEWA/maxresdefault.jpg",
+  "alt": "소연이는 찐이다.. '슈가슈가룬 -＞ 사랑해'가 웬 말.. l #쇼챔피언비하인드 l EP.163",
+  "title": "소연이는 찐이다.. '슈가슈가룬 -＞ 사랑해'가 웬 말.. l #쇼챔피언비하인드 l EP.163",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/Nj6E9BI171k",
   "category": "음악방송",
@@ -5265,7 +6028,17 @@ const 음악방송Cards = [
   "title": "[쇼챔비하인드 FULL] 몽환×카리스마로 네버랜드들 정신 다 뺏어가는 아이들..☆ l (여자)아이들((G)I-DLE) 'Oh my god' behind [쇼챔피언]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/pQfUexPq3gc",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2020-06-17T23:00:01",
+  "duration": "00:06:51",
+  "thumbnail": "https://i.ytimg.com/vi/pQfUexPq3gc/maxresdefault.jpg",
+  "alt": "[Show Champion] [2020 상반기 결산] (여자)아이들  - 오마이갓 ((G)I-DLE - Oh my god) (민니 엔딩 ver.) l EP.358",
+  "title": "[Show Champion] [2020 상반기 결산] (여자)아이들  - 오마이갓 ((G)I-DLE - Oh my god) (민니 엔딩 ver.) l EP.358",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/JMf7Qm9bj8A",
   "category": "음악방송",
@@ -5337,7 +6110,28 @@ const 음악방송Cards = [
   "title": "[K-Fancam] (여자)아이들 슈화 'Oh my god' ((G)I-DLE SHUHUA Fancam)  l @MusicBank 200626 [뮤직뱅크]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/2yhVpF4f0pQ",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2020-07-13T20:00:01",
+  "duration": "00:09:48",
+  "thumbnail": "https://i.ytimg.com/vi/2yhVpF4f0pQ/maxresdefault.jpg",
+  "alt": "【M COUNTDOWN バックステージ】#313 (G)I-DLE CUT",
+  "title": "【M COUNTDOWN バックステージ】#313 (G)I-DLE CUT",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/vA5-zqriUmI",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2020-07-30T19:15:08",
+  "duration": "00:01:40",
+  "thumbnail": "https://i.ytimg.com/vi/vA5-zqriUmI/maxresdefault.jpg",
+  "alt": "[ENG] [SPECIAL MESSAGE - (G)I-DLE] KPOP TV Show | M COUNTDOWN 200730 EP.676",
+  "title": "[엠카운트다운] [ENG] [SPECIAL MESSAGE - (G)I-DLE] KPOP TV Show | M COUNTDOWN 200730 EP.676",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/kYzMsd36CQg",
   "category": "음악방송",
@@ -5681,8 +6475,8 @@ const 음악방송Cards = [
   "date": "2020-08-11T18:00:12",
   "duration": "00:03:44",
   "thumbnail": "https://i.ytimg.com/vi/X-h-wsY4uwI/sddefault.jpg",
-  "alt": "[퇴근길 LIVE] 여름night 더위를 날려줄 아이들의 퇴근길 두구 둥! 네버랜드 심장 Dumdi Dumdi 할 준비 됐어?!",
-  "title": "[퇴근길 LIVE] 여름night 더위를 날려줄 아이들의 퇴근길 두구 둥! 네버랜드 심장 Dumdi Dumdi 할 준비 됐어?! [더쇼]",
+  "alt": "[더쇼] [퇴근길 LIVE] 여름night 더위를 날려줄 아이들의 퇴근길 두구 둥! 네버랜드 심장 Dumdi Dumdi 할 준비 됐어?!",
+  "title": "[더쇼] [퇴근길 LIVE] 여름night 더위를 날려줄 아이들의 퇴근길 두구 둥! 네버랜드 심장 Dumdi Dumdi 할 준비 됐어?!",
   "subtag": "직캠"
 },
 
@@ -6213,19 +7007,87 @@ const 음악방송Cards = [
   "title": "강렬하고 시원한 (여자)아이들 '덤디덤디'♪ 컴백 l #쇼챔피언비하인드 l EP.175 [쇼챔피언]",
   "subtag": "직캠"
 },
+{
+  "link": "https://youtu.be/t0fYdXYLmVE",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2020-08-18T23:00:01",
+  "duration": "00:02:01",
+  "thumbnail": "https://i.ytimg.com/vi/t0fYdXYLmVE/maxresdefault.jpg",
+  "alt": "강렬하고 시원한 (여자)아이들 '덤디덤디'♪ 컴백 l #쇼챔피언비하인드 l EP.175",
+  "title": "강렬하고 시원한 (여자)아이들 '덤디덤디'♪ 컴백 l #쇼챔피언비하인드 l EP.175",
+  "subtag": "그 외"
+},
 
+{
+  "link": "https://youtu.be/Af8R1snOZm8",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2020-08-18T23:00:02",
+  "duration": "00:02:09",
+  "thumbnail": "https://i.ytimg.com/vi/Af8R1snOZm8/maxresdefault.jpg",
+  "alt": "컨셉 장인 아이들이 무더위 잡아버렸어요♨ l #쇼챔피언비하인드 l EP.175",
+  "title": "컨셉 장인 아이들이 무더위 잡아버렸어요♨ l #쇼챔피언비하인드 l EP.175",
+  "subtag": "그 외"
+},
+
+{
+  "link": "https://youtu.be/Ee5JkpEWQRA",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2020-08-18T23:00:03",
+  "duration": "00:01:54",
+  "thumbnail": "https://i.ytimg.com/vi/Ee5JkpEWQRA/maxresdefault.jpg",
+  "alt": "(여자)아이들의 가방 속 필수템 소개 TIME l #쇼챔피언비하인드 l EP.175",
+  "title": "(여자)아이들의 가방 속 필수템 소개 TIME l #쇼챔피언비하인드 l EP.175",
+  "subtag": "그 외"
+},
+
+{
+  "link": "https://youtu.be/yKIVAQmi-Qk",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2020-08-18T23:00:04",
+  "duration": "00:01:07",
+  "thumbnail": "https://i.ytimg.com/vi/yKIVAQmi-Qk/maxresdefault.jpg",
+  "alt": "컴백과 동시에 '첫 1위'한 (여자)아이들! l #쇼챔피언비하인드 l EP.175",
+  "title": "컴백과 동시에 '첫 1위'한 (여자)아이들! l #쇼챔피언비하인드 l EP.175",
+  "subtag": "그 외"
+},
+
+{
+  "link": "https://youtu.be/ZHJM83NfMCY",
+  "category": "음악방송",
+  "member": "슈화",
+  "date": "2020-08-18T23:00:05",
+  "duration": "00:01:48",
+  "thumbnail": "https://i.ytimg.com/vi/ZHJM83NfMCY/maxresdefault.jpg",
+  "alt": "예슈화 첫사랑 썰.. 거의 웹드 재질인데요..♥ l #쇼챔피언비하인드 l EP.175",
+  "title": "예슈화 첫사랑 썰.. 거의 웹드 재질인데요..♥ l #쇼챔피언비하인드 l EP.175",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/fHasnIIo9H4",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2020-08-20T18:00:11",
+  "date": "2020-08-20T18:00:10",
   "duration": "00:03:38",
   "thumbnail": "https://i.ytimg.com/vi/fHasnIIo9H4/maxresdefault.jpg",
   "alt": "[(G)I-DLE - DUMDi DUMDi] KPOP TV Show | M COUNTDOWN 200820 EP.679",
   "title": "[엠카운트다운] [(G)I-DLE - DUMDi DUMDi] KPOP TV Show EP.679",
   "subtag": "무대"
 },
-
+{
+  "link": "https://youtu.be/KtHy8Cx-JeI",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2020-08-20T18:00:11",
+  "duration": "00:05:43",
+  "thumbnail": "https://i.ytimg.com/vi/KtHy8Cx-JeI/maxresdefault.jpg",
+  "alt": "[ENG]Top in 3rd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! MCOUNTDOWN",
+  "title": "[ENG]Top in 3rd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! MCOUNTDOWN",
+  "subtag": "앵콜"
+},
 {
   "link": "https://youtu.be/zCFP5sHFo2o",
   "category": "음악방송",
@@ -6515,18 +7377,6 @@ const 음악방송Cards = [
 },
 
 {
-  "link": "https://youtu.be/KtHy8Cx-JeI",
-  "category": "음악방송",
-  "member": "아이들",
-  "date": "2020-08-23T18:00:14",
-  "duration": "00:05:43",
-  "thumbnail": "https://i.ytimg.com/vi/KtHy8Cx-JeI/maxresdefault.jpg",
-  "alt": "[ENG]Top in 3rd of August, '(G)I-DLE’ with 'DUMDi DUMDi', Encore Stage! MCOUNTDOWN",
-  "title": "[엠카운트다운] 8월 셋째 주 1위 '#(여자)아이들'의 '덤디덤디' 앵콜 무대! (Full ver.)",
-  "subtag": "앵콜"
-},
-
-{
   "link": "https://youtu.be/u1sEy9RAqjI",
   "category": "음악방송",
   "member": "아이들",
@@ -6570,7 +7420,7 @@ const 음악방송Cards = [
   "duration": "00:02:06",
   "thumbnail": "https://i.ytimg.com/vi/P-UOPdWRyEs/maxresdefault.jpg",
   "alt": "[쇼! 음악중심 4K] (여자)아이들 -돈 터치 미 ((G)I-DLE -DON’T TOUCH ME) MBC 201107 방송",
-  "title": "[쇼!음악중심] (여자)아이들 - DON’T TOUCH ME (Cover) | 쇼! 음악중심 700회 특집",
+  "title": "[쇼!음악중심] (여자)아이들 - DON'T TOUCH ME (Cover) | 쇼! 음악중심 700회 특집",
   "subtag": "무대"
 },
 
@@ -6633,7 +7483,17 @@ const 음악방송Cards = [
   "title": "[쇼챔피언] (여자)아이들 - 덤디덤디(DUMDi DUMDi) (음.소.거♪ ver.) l EP.380",
   "subtag": "무대"
 },
-
+{
+  "link": "https://youtu.be/-t39KGketr0",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2021-01-14T18:00:10",
+  "duration": "00:02:30",
+  "thumbnail": "https://i.ytimg.com/vi/-t39KGketr0/maxresdefault.jpg",
+  "alt": "[엠카운트다운] '미니 팬미팅' (여자)아이들 [Mini Fanmeeting with (G)I-DLE] KPOP TV Show |  M COUNTDOWN EP.694 | Mnet 210114 방송",
+  "title": "[엠카운트다운] '미니 팬미팅' (여자)아이들 [Mini Fanmeeting with (G)I-DLE] KPOP TV Show |  M COUNTDOWN EP.694 | Mnet 210114 방송",
+  "subtag": "인터뷰"
+},
 {
   "link": "https://youtu.be/C6Kd0inJFvc",
   "category": "음악방송",
@@ -6775,6 +7635,17 @@ const 음악방송Cards = [
   "thumbnail": "https://i.ytimg.com/vi/hwjgVdGiuvk/maxresdefault.jpg",
   "alt": "[당신의 2021 신년 운세는? with 트레저, 빅톤, (여자)아이들] KPOP TV Show | M COUNTDOWN EP.694 | Mnet 210114 방송",
   "title": "[엠카운트다운] [당신의 2021 신년 운세는? with 트레저, 빅톤, (여자)아이들] KPOP TV Show | M COUNTDOWN EP.694 | Mnet 210114 방송",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/JxQiivKBQ8Q",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2021-01-14T18:00:23",
+  "duration": "00:06:01",
+  "thumbnail": "https://i.ytimg.com/vi/JxQiivKBQ8Q/maxresdefault.jpg",
+  "alt": "✨(G)I-DLEカムバック記念配信✨【M COUNTDOWN バックステージ】#353 (G)I-DLE CUT",
+  "title": "✨(G)I-DLEカムバック記念配信✨【M COUNTDOWN バックステージ】#353 (G)I-DLE CUT",
   "subtag": "그 외"
 },
 
@@ -7091,10 +7962,22 @@ const 음악방송Cards = [
 },
 
 {
-  "link": "https://youtu.be/wA1OnTLgb9A",
+  "link": "https://youtu.be/jJ5ML_CQSFY",
   "category": "음악방송",
   "member": "아이들",
   "date": "2021-01-20T18:00:11",
+  "duration": "00:02:30",
+  "thumbnail": "https://i.ytimg.com/vi/jJ5ML_CQSFY/maxresdefault.jpg",
+  "alt": "[Show Champion] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381",
+  "title": "[쇼챔피언] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381",
+  "subtag": "그 외"
+},
+
+{
+  "link": "https://youtu.be/wA1OnTLgb9A",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2021-01-20T18:00:12",
   "duration": "00:03:20",
   "thumbnail": "https://i.ytimg.com/vi/wA1OnTLgb9A/maxresdefault.jpg",
   "alt": "[쇼챔직캠 4K] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l #쇼챔피언 l EP.381",
@@ -7102,17 +7985,7 @@ const 음악방송Cards = [
   "subtag": "직캠"
 },
 
-{
-  "link": "https://youtu.be/jJ5ML_CQSFY",
-  "category": "음악방송",
-  "member": "아이들",
-  "date": "2021-01-20T18:00:12",
-  "duration": "00:02:30",
-  "thumbnail": "https://i.ytimg.com/vi/jJ5ML_CQSFY/maxresdefault.jpg",
-  "alt": "[Show Champion] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381",
-  "title": "[쇼챔피언] [줍줍 TIME] 화려하게 꽃피운 (여자)아이들의 치명미♥ l EP.381",
-  "subtag": "그 외"
-},
+
 
 {
   "link": "https://youtu.be/GmY24rSHiOg",
@@ -7173,7 +8046,53 @@ const 음악방송Cards = [
   "title": "[쇼챔직캠 4K] (여자)아이들 슈화 - 화(火花) ((G)I-DLE SHUHUA - HWAA) l #EP.381 [쇼챔피언]",
   "subtag": "직캠"
 },
+{
+  "link": "https://youtu.be/kJbbMBkbAgs",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2021-01-20T18:00:31",
+  "duration": "00:01:26",
+  "thumbnail": "https://i.ytimg.com/vi/kJbbMBkbAgs/sddefault.jpg",
+  "alt": "[챔피언송] (여자)아이들의 화(火花) 첫 1위! l #쇼챔피언비하인드 l EP.189",
+  "title": "[챔피언송] (여자)아이들의 화(火花) 첫 1위! l #쇼챔피언비하인드 l EP.189 [쇼챔피언]",
+  "subtag": "앵콜"
+},
 
+{
+  "link": "https://youtu.be/ldPkhD8WJU8",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2021-01-20T18:00:32",
+  "duration": "00:02:30",
+  "thumbnail": "https://i.ytimg.com/vi/ldPkhD8WJU8/sddefault.jpg",
+  "alt": "네버랜드 맘에 불을 지핀♨ 아이들 불꽃♥ l #쇼챔피언비하인드 l EP.189",
+  "title": "네버랜드 맘에 불을 지핀♨ 아이들 불꽃♥ l #쇼챔피언비하인드 l EP.189 [쇼챔피언]",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/IAVpVNEt9bs",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2021-01-20T18:00:33",
+  "duration": "00:03:17",
+  "thumbnail": "https://i.ytimg.com/vi/IAVpVNEt9bs/sddefault.jpg",
+  "alt": "[멀티캠] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l #쇼챔피언비하인드 l EP.189",
+  "title": "[멀티캠] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l #쇼챔피언비하인드 l EP.189 [쇼챔피언]",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/tQarRFapPeA",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2021-01-20T18:00:34",
+  "duration": "00:02:19",
+  "thumbnail": "https://i.ytimg.com/vi/tQarRFapPeA/sddefault.jpg",
+  "alt": "화려하게 꽃피운 (여자)아이들의 '화(火花)'♪ 컴백 l #쇼챔피언비하인드 l EP.189",
+  "title": "화려하게 꽃피운 (여자)아이들의 '화(火花)'♪ 컴백 l #쇼챔피언비하인드 l EP.189 [쇼챔피언]",
+  "subtag": "직캠"
+},
 {
   "link": "https://youtu.be/jnKLC58AtM0",
   "category": "음악방송",
@@ -7317,7 +8236,17 @@ const 음악방송Cards = [
   "title": "[뮤직뱅크][4K] (여자)아이들 - '화(火花)(HWAA)' 뮤직뱅크 1위 앵콜 직캠 ((G)I-DLE Encore Fancam) │ @MusicBank 210122",
   "subtag": "앵콜"
 },
-
+{
+  "link": "https://youtu.be/vAfOMp77-OE",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2021-01-22T19:00:04",
+  "duration": "00:02:05",
+  "thumbnail": "https://i.ytimg.com/vi/vAfOMp77-OE/maxresdefault.jpg",
+  "alt": "[뮤직뱅크] 4th week's winner (Music Bank) | KBS WORLD TV 210122",
+  "title": "[뮤직뱅크] 4th week's winner (Music Bank) | KBS WORLD TV 210122",
+  "subtag": "앵콜"
+},
 {
   "link": "https://youtu.be/xwsBH5fJP0U",
   "category": "음악방송",
@@ -7450,53 +8379,6 @@ const 음악방송Cards = [
   "subtag": "직캠"
 },
 
-{
-  "link": "https://youtu.be/kJbbMBkbAgs",
-  "category": "음악방송",
-  "member": "아이들",
-  "date": "2021-01-26T18:00:31",
-  "duration": "00:01:26",
-  "thumbnail": "https://i.ytimg.com/vi/kJbbMBkbAgs/sddefault.jpg",
-  "alt": "[챔피언송] (여자)아이들의 화(火花) 첫 1위! l #쇼챔피언비하인드 l EP.189",
-  "title": "[챔피언송] (여자)아이들의 화(火花) 첫 1위! l #쇼챔피언비하인드 l EP.189 [쇼챔피언]",
-  "subtag": "직캠"
-},
-
-{
-  "link": "https://youtu.be/ldPkhD8WJU8",
-  "category": "음악방송",
-  "member": "아이들",
-  "date": "2021-01-26T18:00:32",
-  "duration": "00:02:30",
-  "thumbnail": "https://i.ytimg.com/vi/ldPkhD8WJU8/sddefault.jpg",
-  "alt": "네버랜드 맘에 불을 지핀♨ 아이들 불꽃♥ l #쇼챔피언비하인드 l EP.189",
-  "title": "네버랜드 맘에 불을 지핀♨ 아이들 불꽃♥ l #쇼챔피언비하인드 l EP.189 [쇼챔피언]",
-  "subtag": "직캠"
-},
-
-{
-  "link": "https://youtu.be/IAVpVNEt9bs",
-  "category": "음악방송",
-  "member": "아이들",
-  "date": "2021-01-26T18:00:33",
-  "duration": "00:03:17",
-  "thumbnail": "https://i.ytimg.com/vi/IAVpVNEt9bs/sddefault.jpg",
-  "alt": "[멀티캠] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l #쇼챔피언비하인드 l EP.189",
-  "title": "[멀티캠] (여자)아이들 - 화(火花) ((G)I-DLE - HWAA) l #쇼챔피언비하인드 l EP.189 [쇼챔피언]",
-  "subtag": "직캠"
-},
-
-{
-  "link": "https://youtu.be/tQarRFapPeA",
-  "category": "음악방송",
-  "member": "아이들",
-  "date": "2021-01-26T18:00:34",
-  "duration": "00:02:19",
-  "thumbnail": "https://i.ytimg.com/vi/tQarRFapPeA/sddefault.jpg",
-  "alt": "화려하게 꽃피운 (여자)아이들의 '화(火花)'♪ 컴백 l #쇼챔피언비하인드 l EP.189",
-  "title": "화려하게 꽃피운 (여자)아이들의 '화(火花)'♪ 컴백 l #쇼챔피언비하인드 l EP.189 [쇼챔피언]",
-  "subtag": "직캠"
-},
 
 {
   "link": "https://youtu.be/3iwgW5imLQM",
@@ -7507,7 +8389,7 @@ const 음악방송Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3iwgW5imLQM/maxresdefault.jpg",
   "alt": "(G)I-DLE, HWAA ((여자)아이들, 화(火花)) [THE SHOW 210126]",
   "title": "[더쇼] (여자)아이들 - 화(火花)",
-  "subtag": "무대"
+  "subtag": "앵콜"
 },
 
 {
@@ -7938,7 +8820,7 @@ const 음악방송Cards = [
   "duration": "00:04:13",
   "thumbnail": "https://i.ytimg.com/vi/XmrEXhLq244/maxresdefault.jpg",
   "alt": "[(G)I-DLE X IZ*ONE X Weki Meki - Into The New World] STORAGE M Stage | Mnet 210225 방송",
-  "title": "[엠카운트다운] (여자)아이들 X 아이즈원 X 위키미키 - 다시 만난 세계 | STORAGE M Stage",
+  "title": "[엠카운트다운] (여자)아이들 X 아이즈원 X 위키미키 - 다시 만난 세계 cover | STORAGE M Stage",
   "subtag": "무대"
 },
 
@@ -8140,7 +9022,7 @@ const 음악방송Cards = [
   "member": "미연",
   "date": "2021-05-27T18:00:00",
   "duration": "00:01:46",
-  "thumbnail": "https://i.ytimg.com/vi/g6wWK_EdwFc/sddefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/g6wWK_EdwFc/hqdefault.jpg",
   "alt": "[엠카운트다운] (여자)아이들 미연+남윤수 MC컷",
   "title": "[엠카운트다운] (여자)아이들 미연+남윤수 MC컷",
   "subtag": "그 외"
@@ -8229,7 +9111,17 @@ const 음악방송Cards = [
   "title": "[엠카운트다운] 윤수X미연 MC CUT (윤수&미연의 성장기😊) | 210701 M COUNTDOWN",
   "subtag": "그 외"
 },
-
+{
+  "link": "https://youtu.be/KzzvILgtGB8",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2021-07-08T18:00:00",
+  "duration": "00:05:09",
+  "thumbnail": "https://i.ytimg.com/vi/KzzvILgtGB8/maxresdefault.jpg",
+  "alt": "[ENG]  〈엠카 보컬 챌린지〉 태연 - 만약에 Cover | #엠카운트다운 EP.717 | Mnet 210708 방송",
+  "title": "[ENG] 〈엠카 보컬 챌린지〉 태연 - 만약에 Cover | #엠카운트다운 EP.717 | Mnet 210708 방송",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/kPytvJx8JPQ",
   "category": "음악방송",
@@ -8565,7 +9457,17 @@ const 음악방송Cards = [
   "title": "[K-Choreo 8K] 전소연 직캠 '삠삠 (BEAM BEAM)' (JEON SOYEON Choreography) l [뮤직뱅크]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/2iT0sfJN1qg",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2021-07-16T18:00:33",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/2iT0sfJN1qg/maxresdefault.jpg",
+  "alt": "[자축라이브 4K] 삠삠(BEAMBEAM)한 여름을 책임져줄 전소연(JEON SOYEON)의 1위 자축",
+  "title": "[자축라이브 4K] 삠삠(BEAMBEAM)한 여름을 책임져줄 전소연(JEON SOYEON)의 1위 자축",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/Lm3PFCwrhro",
   "category": "음악방송",
@@ -8672,8 +9574,17 @@ const 음악방송Cards = [
   "alt": "[항공캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' Sky Cam)│@SBS Inkigayo_2021.07.18.",
   "title": "[항공캠4K] 전소연 '삠삠' (JEON SOYEON 'BEAM BEAM' Sky Cam)│ [인기가요]",
   "subtag": "직캠"
+},{
+  "link": "https://youtu.be/L654uPJ8oHs",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2021-07-21T19:03:23",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/L654uPJ8oHs/maxresdefault.jpg",
+  "alt": "[쇼챔피언] 전소연 - 웨더 (JEON SOYEON - Weather) l [Show Champion] EP.402",
+  "title": "[쇼챔피언] 전소연 - 웨더 (JEON SOYEON - Weather) l [Show Champion] EP.402",
+  "subtag": "무대"
 },
-
 {
   "link": "https://youtu.be/AJI8Ws2ow08",
   "category": "음악방송",
@@ -8817,7 +9728,17 @@ const 음악방송Cards = [
   "title": "[엠카운트다운] [교차편집] 전소연 - 삠삠 (JEON SOYEON 'BEAM BEAM' StageMix)",
   "subtag": "그 외"
 },
-
+{
+  "link": "https://youtu.be/SI8UCZN48n8",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2021-09-09T19:23:50",
+  "duration": "00:04:40",
+  "thumbnail": "https://i.ytimg.com/vi/SI8UCZN48n8/maxresdefault.jpg",
+  "alt": "[ENG] 〈엠카 보컬 챌린지〉 비투비 - 그리워하다 Cover | #엠카운트다운 EP.724 | Mnet 210909 방송",
+  "title": "[ENG] 〈엠카 보컬 챌린지〉 비투비 - 그리워하다 Cover | #엠카운트다운 EP.724 | Mnet 210909 방송",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/N2GikPUU8Co",
   "category": "음악방송",
@@ -9449,9 +10370,20 @@ const 음악방송Cards = [
   "date": "2022-03-22T18:00:04",
   "duration": "00:03:09",
   "thumbnail": "https://i.ytimg.com/vi/SPgnFHmur9w/sddefault.jpg",
-  "alt": "[퇴근길 LIVE 4K] JUST I-DLE 이것이 아이들의 퇴근길 애티튜드!",
-  "title": "[퇴근길 LIVE 4K] JUST I-DLE 이것이 아이들의 퇴근길 애티튜드! [더쇼]",
+  "alt": "[더쇼] [퇴근길 LIVE 4K] JUST I-DLE 이것이 아이들의 퇴근길 애티튜드!",
+  "title": "[더쇼] [퇴근길 LIVE 4K] JUST I-DLE 이것이 아이들의 퇴근길 애티튜드!",
   "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/WaaSeUQN_Eg",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2022-03-22T18:00:05",
+  "duration": "00:13:10",
+  "thumbnail": "https://i.ytimg.com/vi/WaaSeUQN_Eg/maxresdefault.jpg",
+  "alt": "[더쇼] 기현(몬스타엑스) (KIHYUN(MONSTA X)), 솔라 (Solar), (여자)아이들 ((G)I-DLE), Play List 백스테이지 [비하인드 더 쇼 220322]",
+  "title": "[더쇼] 기현(몬스타엑스) (KIHYUN(MONSTA X)), 솔라 (Solar), (여자)아이들 ((G)I-DLE), Play List 백스테이지 [비하인드 더 쇼 220322]",
+  "subtag": "그 외"
 },
 
 {
@@ -10293,7 +11225,28 @@ const 음악방송Cards = [
   "title": "[안방1열 직캠4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA FanCam)│ [인기가요]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/ftH1Z6CIqHU",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2022-04-14T19:33:03",
+  "duration": "00:04:20",
+  "thumbnail": "https://i.ytimg.com/vi/ftH1Z6CIqHU/maxresdefault.jpg",
+  "alt": "[EN/JP] 〈엠카 보컬 챌린지〉 로꼬&유주 - 우연히 봄 Cover | #엠카운트다운 EP.748 | Mnet 220414 방송",
+  "title": "[EN/JP] 〈엠카 보컬 챌린지〉 로꼬&유주 - 우연히 봄 Cover | #엠카운트다운 EP.748 | Mnet 220414 방송",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/r8U7dV0m5ls",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2022-04-21T20:12:01",
+  "duration": "00:00:55",
+  "thumbnail": "https://i.ytimg.com/vi/r8U7dV0m5ls/maxresdefault.jpg",
+  "alt": "[ENG] [’SPOILER M’ MIYEON] #엠카운트다운 EP.749 | Mnet 220421 방송",
+  "title": "[ENG] [’SPOILER M’ MIYEON] #엠카운트다운 EP.749 | Mnet 220421 방송",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/UziVITwbXbE",
   "category": "음악방송",
@@ -10617,12 +11570,66 @@ const 음악방송Cards = [
   "title": "[페이스캠4K] 미연 'Drive' (MIYEON FaceCam)│ [인기가요]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/FpzR-d_eR-0",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2022-05-03T19:22:55",
+  "duration": "00:04:15",
+  "thumbnail": "https://i.ytimg.com/vi/FpzR-d_eR-0/maxresdefault.jpg",
+  "alt": "MIYEON ((G)I-DLE), TE AMO (미연 ((여자)아이들), TE AMO) [THE SHOW 220503]",
+  "title": "MIYEON ((G)I-DLE), TE AMO (미연 ((여자)아이들), TE AMO) [THE SHOW 220503]",
+  "subtag": "무대"
+},
+{
+  "link": "https://youtu.be/9BZDNjM9jqM",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2022-05-03T19:23:29",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/9BZDNjM9jqM/maxresdefault.jpg",
+  "alt": "MIYEON ((G)I-DLE), Drive (미연 ((여자)아이들), Drive) [THE SHOW 220503]",
+  "title": "MIYEON ((G)I-DLE), Drive (미연 ((여자)아이들), Drive) [THE SHOW 220503]",
+  "subtag": "무대"
+},
+{
+  "link": "https://youtu.be/H-pVY3RSo3w",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2022-05-03T19:30:05",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/H-pVY3RSo3w/maxresdefault.jpg",
+  "alt": "MIYEON ((G)I-DLE), THE SHOW CHOICE! [THE SHOW 220503]",
+  "title": "MIYEON ((G)I-DLE), THE SHOW CHOICE! [THE SHOW 220503]",
+  "subtag": "앵콜"
+},
+{
+  "link": "https://youtu.be/pahRSy3a1UU",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2022-05-03T19:30:06",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/pahRSy3a1UU/maxresdefault.jpg",
+  "alt": "MIYEON ((G)I-DLE) (미연 ((여자)아이들), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 220426]",
+  "title": "MIYEON ((G)I-DLE) (미연 ((여자)아이들), THE SHOW CHOICE! (Non-edited ver.) [THE SHOW 220426]",
+  "subtag": "앵콜"
+},
+{
+  "link": "https://youtu.be/l_AmRyaJhA0",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2022-05-03T19:30:07",
+  "duration": "00:14:50",
+  "thumbnail": "https://i.ytimg.com/vi/l_AmRyaJhA0/maxresdefault.jpg",
+  "alt": "미연 ((여자)아이들) (MIYEON ((G)I-DLE)), 베리베리 (VERIVERY), 문별 (Moon Byul) Play List 백스테이지 [비하인드 더쇼 220503]",
+  "title": "미연 ((여자)아이들) (MIYEON ((G)I-DLE)), 베리베리 (VERIVERY), 문별 (Moon Byul) Play List 백스테이지 [비하인드 더쇼 220503]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/_5Js76KrPPw",
   "category": "음악방송",
   "member": "미연",
-  "date": "2022-05-03T18:00:00",
+  "date": "2022-05-03T19:00:00",
   "duration": "00:00:46",
   "thumbnail": "https://i.ytimg.com/vi/_5Js76KrPPw/maxresdefault.jpg",
   "alt": "[엠카운트다운] [EN/JP] 미연 ((여자)아이들)이 알려주는 이번 주 엠카운트다운 라인업은? #엠카운트다운 EP.751",
@@ -10871,27 +11878,26 @@ const 음악방송Cards = [
 },
 
 {
-  "link": "https://youtu.be/pWC_nMWhyKo",
-  "category": "음악방송",
-  "member": "우기",
-  "date": "2022-05-11T18:00:10",
-  "duration": "00:05:01",
-  "thumbnail": "https://i.ytimg.com/vi/pWC_nMWhyKo/maxresdefault.jpg",
-  "alt": "[입덕 LIVE] YUQI - Giant + Bonnie & Clyde (Band Ver.) (우기 - 자이언트 + 보니&클라이드) | Show Champion | EP.433",
-  "title": "[쇼챔피언] [입덕 LIVE] YUQI - Giant + Bonnie & Clyde (Band Ver.) (우기 - 자이언트 + 보니&클라이드) EP.433",
-  "subtag": "무대"
-},
-
-{
   "link": "https://youtu.be/kOyspbCQuBk",
   "category": "음악방송",
   "member": "우기",
-  "date": "2022-05-11T18:00:11",
+  "date": "2022-05-11T18:00:10",
   "duration": "00:03:58",
   "thumbnail": "https://i.ytimg.com/vi/kOyspbCQuBk/maxresdefault.jpg",
   "alt": "[입덕 LIVE] '아티스트' 우기가 전하고 싶은 진솔한 이야기♬ | Show Champion | EP.433",
   "title": "[입덕 LIVE] '아티스트' 우기가 전하고 싶은 진솔한 이야기♬ | Show Champion | EP.433",
   "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/pWC_nMWhyKo",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2022-05-11T18:00:11",
+  "duration": "00:05:01",
+  "thumbnail": "https://i.ytimg.com/vi/pWC_nMWhyKo/maxresdefault.jpg",
+  "alt": "[입덕 LIVE] YUQI - Giant + Bonnie & Clyde (Band Ver.) (우기 - 자이언트 + 보니&클라이드) | Show Champion | EP.433",
+  "title": "[쇼챔피언] [입덕 LIVE] YUQI - Giant + Bonnie & Clyde (Band Ver.) (우기 - 자이언트 + 보니&클라이드) EP.433",
+  "subtag": "무대"
 },
 
 {
@@ -11085,7 +12091,17 @@ const 음악방송Cards = [
   "title": "[얼빡직캠 4K] (여자)아이들 슈화 'TOMBOY' ((G)I-DLE SHUHUA Facecam) @뮤직뱅크(Music Bank) 220624 [뮤직뱅크]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/6cl0udULwEM",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2022-08-11T19:00:26",
+  "duration": "00:04:33",
+  "thumbnail": "https://i.ytimg.com/vi/6cl0udULwEM/maxresdefault.jpg",
+  "alt": "[EN/JP] 〈엠카 보컬 챌린지〉 소녀시대 - 다시 만난 세계 Cover | #엠카운트다운 EP.765 |Mnet 220811방송",
+  "title": "[EN/JP] 〈엠카 보컬 챌린지〉 소녀시대 - 다시 만난 세계 Cover | #엠카운트다운 EP.765 |Mnet 220811방송",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/UrLOOr1Fz8o",
   "category": "음악방송",
@@ -11109,18 +12125,18 @@ const 음악방송Cards = [
   "title": "[쇼챔피언] 가을 秋억 여행 (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) l Show Champion l EP.450",
   "subtag": "그 외"
 },
-
 {
-  "link": "https://youtu.be/1-91Dfmfa0g",
+  "link": "https://youtu.be/vwXr0vqPsxw",
   "category": "음악방송",
-  "member": "미연",
-  "date": "2022-10-14T18:00:00",
-  "duration": "00:22:48",
-  "thumbnail": "https://i.ytimg.com/vi/1-91Dfmfa0g/sddefault.jpg",
-  "alt": "[엠카운트다운] 〈다시 만난 세계〉 엠카 보컬 챌린지 비하인드 | 뉴진스(NewJeans), STAYC(스테이씨), 최예나, (여자)아이들 미연, 우주소녀 연정, VIVIZ 은하",
-  "title": "[엠카운트다운] 〈다시 만난 세계〉 엠카 보컬 챌린지 비하인드 | 뉴진스(NewJeans), STAYC(스테이씨), 최예나, (여자)아이들 미연, 우주소녀 연정, VIVIZ 은하",
+  "member": "아이들",
+  "date": "2022-10-13T19:44:48",
+  "duration": "00:01:16",
+  "thumbnail": "https://i.ytimg.com/vi/vwXr0vqPsxw/maxresdefault.jpg",
+  "alt": "['SPOILER M' (G)I-DLE] #엠카운트다운 EP.774 | Mnet 221013 방송",
+  "title": "['SPOILER M' (G)I-DLE] #엠카운트다운 EP.774 | Mnet 221013 방송",
   "subtag": "그 외"
 },
+
 
 {
   "link": "https://youtu.be/-goAEVhIV9o",
@@ -12069,7 +13085,40 @@ const 음악방송Cards = [
   "title": "[EN/JP] [엠카운트다운] 닉네임 정하다가 애교 부리는 MC 미연 & 주헌 어떤데? (너무 됴아💗)",
   "subtag": "그 외"
 },
+{
+  "link": "https://youtu.be/7rgUfPow0r0",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2023-02-23T19:33:54",
+  "duration": "00:04:07",
+  "thumbnail": "https://i.ytimg.com/vi/7rgUfPow0r0/maxresdefault.jpg",
+  "alt": "'SPECIAL STAGE' 주헌 X 미연 - 목요일 밤 Cover #엠카운트다운 EP.785 | Mnet 230223 방송",
+  "title": "'SPECIAL STAGE' 주헌 X 미연 - 목요일 밤 Cover #엠카운트다운 EP.785 | Mnet 230223 방송",
+  "subtag": "무대"
+},
 
+{
+  "link": "https://youtu.be/DI6p4zS2VVg",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2023-02-23T19:33:55",
+  "duration": "00:04:02",
+  "thumbnail": "https://i.ytimg.com/vi/DI6p4zS2VVg/maxresdefault.jpg",
+  "alt": "[MPD직캠] 주헌X미연 직캠 8K '목요일 밤' (JOOHONEY X MIYEON FanCam) | @MCOUNTDOWN_2023.2.23",
+  "title": "[MPD직캠] 주헌X미연 직캠 8K '목요일 밤' (JOOHONEY X MIYEON FanCam) | @MCOUNTDOWN_2023.2.23",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/9hZBDAjQKvo",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2023-05-11T19:00:24",
+  "duration": "00:01:36",
+  "thumbnail": "https://i.ytimg.com/vi/9hZBDAjQKvo/maxresdefault.jpg",
+  "alt": "[EN/JP] 'SPOILER M' (여자)아이들 ((G)I-DLE) #엠카운트다운 EP.796 | Mnet 230511 방송",
+  "title": "[EN/JP] 'SPOILER M' (여자)아이들 ((G)I-DLE) #엠카운트다운 EP.796 | Mnet 230511 방송",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/Zyc1zfQf81U",
   "category": "음악방송",
@@ -12825,7 +13874,72 @@ const 음악방송Cards = [
   "title": "[더쇼] (여자)아이들 퀸카 / THE SHOW CHOICE! (Non-edited ver.) 1위 앵콜 무대 [THE SHOW 230523]",
   "subtag": "앵콜"
 },
-
+{
+  "link": "https://youtu.be/2x_Ru4JCiL4",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2023-05-23T18:00:14",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/2x_Ru4JCiL4/maxresdefault.jpg",
+  "alt": "(여자)아이들, 퀸카 미연 포커스, 하이! 컨택 [THE SHOW 230523]",
+  "title": "(여자)아이들, 퀸카 미연 포커스, 하이! 컨택 [THE SHOW 230523]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/zgIsd0WCmUI",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2023-05-23T18:00:15",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/zgIsd0WCmUI/maxresdefault.jpg",
+  "alt": "(여자)아이들, 퀸카 민니 포커스, 하이! 컨택 [THE SHOW 230523]",
+  "title": "(여자)아이들, 퀸카 민니 포커스, 하이! 컨택 [THE SHOW 230523]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/cNcVFHvqAZ0",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2023-05-23T18:00:16",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/cNcVFHvqAZ0/maxresdefault.jpg",
+  "alt": "(여자)아이들, 퀸카 소연 포커스, 하이! 컨택 [THE SHOW 230523]",
+  "title": "(여자)아이들, 퀸카 소연 포커스, 하이! 컨택 [THE SHOW 230523]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/7EJ4bAjVQ_o",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2023-05-23T18:00:17",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/7EJ4bAjVQ_o/maxresdefault.jpg",
+  "alt": "(여자)아이들, 퀸카 우기 포커스, 하이! 컨택 [THE SHOW 230523]",
+  "title": "(여자)아이들, 퀸카 우기 포커스, 하이! 컨택 [THE SHOW 230523]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/ybyFP06ufUg",
+  "category": "음악방송",
+  "member": "슈화",
+  "date": "2023-05-23T18:00:18",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/ybyFP06ufUg/maxresdefault.jpg",
+  "alt": "(여자)아이들, 퀸카 슈화 포커스, 하이! 컨택 [THE SHOW 230523]",
+  "title": "(여자)아이들, 퀸카 슈화 포커스, 하이! 컨택 [THE SHOW 230523]",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/Zqt_YENGVh8",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2023-05-23T18:00:19",
+  "duration": "00:12:38",
+  "thumbnail": "https://i.ytimg.com/vi/Zqt_YENGVh8/maxresdefault.jpg",
+  "alt": "[더쇼] 베리베리 (VERIVERY), (여자)아이들 ((G)I-DLE), 오늘의 임티컷, 백스테이지 [비하인드 더 쇼 230523]",
+  "title": "[더쇼] 베리베리 (VERIVERY), (여자)아이들 ((G)I-DLE), 오늘의 임티컷, 백스테이지 [비하인드 더 쇼 230523]",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/jFeSo37u2WQ",
   "category": "음악방송",
@@ -12969,7 +14083,17 @@ const 음악방송Cards = [
   "title": "[쇼챔 원픽캠 4K] (G)I-DLE SHUHUA - Queencard ((여자)아이들 슈화 - 퀸카) | Show Champion | EP.476 [쇼챔피언]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/jFeSo37u2WQ",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2023-05-24T23:00:01",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/jFeSo37u2WQ/maxresdefault.jpg",
+  "alt": "(ENG) [MC석 코너] 친구같은 컴백 인터뷰! '(여자)아이들' 나!왔어✋🏻 l Show Champion l EP.476",
+  "title": "(ENG) [MC석 코너] 친구같은 컴백 인터뷰! '(여자)아이들' 나!왔어✋🏻 l Show Champion l EP.476",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/qq8ivNJs0HY",
   "category": "음악방송",
@@ -13070,12 +14194,23 @@ const 음악방송Cards = [
   "link": "https://youtu.be/WYmBh5tE6iU",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2023-05-26T18:00:31",
+  "date": "2023-05-26T18:00:30",
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/WYmBh5tE6iU/sddefault.jpg",
   "alt": "(ENG)[MusicBank Interview Cam](여자)아이들 ((G)I-DLE Interview)l @MusicBank KBS 230526",
   "title": "[뮤직뱅크] (ENG)[MusicBank Interview Cam](여자)아이들 ((G)I-DLE Interview)l @MusicBank KBS",
   "subtag": "인터뷰"
+},
+{
+  "link": "https://youtu.be/hFndElZ_lt8",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2023-05-26T18:00:31",
+  "duration": "00:02:44",
+  "thumbnail": "https://i.ytimg.com/vi/hFndElZ_lt8/maxresdefault.jpg",
+  "alt": "[뮤직뱅크] 챌린지 환전소 Music Bank Challenge Exchange - HUH YUNJIN & YUQI💕 [Music Bank]",
+  "title": "[뮤직뱅크] 챌린지 환전소 Music Bank Challenge Exchange - HUH YUNJIN & YUQI💕 [Music Bank]",
+  "subtag": "그 외"
 },
 
 {
@@ -13221,7 +14356,18 @@ const 음악방송Cards = [
   "title": "[얼빡직캠 4K] (여자)아이들 슈화 '퀸카 (Queencard)'((G)I-DLE SHUHUA Facecam) @뮤직뱅크(Music Bank) 230526 [뮤직뱅크]",
   "subtag": "직캠"
 },
-
+{
+  "link": "https://youtu.be/qipoJVxgq0E",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2023-05-26T18:00:44",
+  "duration": "00:02:03",
+  "thumbnail": "https://i.ytimg.com/vi/qipoJVxgq0E/maxresdefault.jpg",
+  "alt": "[뮤직뱅크]  'Queencard' 1위 수상소감 Winner's Ceremony - (G)I-DLE ジーアイドゥル🏆 [Music Bank]",
+  "title": "[뮤직뱅크]  'Queencard' 1위 수상소감 Winner's Ceremony - (G)I-DLE ジーアイドゥル🏆 [Music Bank]",
+  "subtag": "앵콜"
+},
+ 
 {
   "link": "https://youtu.be/Etb85FjfJRI",
   "category": "음악방송",
@@ -13922,7 +15068,7 @@ const 음악방송Cards = [
   "link": "https://youtu.be/1jyJCP4325E",
   "category": "음악방송",
   "member": "아이들",
-  "date": "2023-06-10T18:00:00",
+  "date": "2023-06-08T18:00:00",
   "duration": "00:36:04",
   "thumbnail": "https://i.ytimg.com/vi/1jyJCP4325E/sddefault.jpg",
   "alt": "✨엠카 800회 기념✨ 엠카 백일장 📝 | 주헌 (몬스타엑스), (여자)아이들, AB6IX(에이비식스), Xdinary Heroes, LE SSERAFIM, xikers(싸이커스)",
@@ -13934,7 +15080,7 @@ const 음악방송Cards = [
   "link": "https://youtu.be/wcyYkKNEnGA",
   "category": "음악방송",
   "member": "미연",
-  "date": "2023-06-11T18:00:00",
+  "date": "2023-06-08T18:00:00",
   "duration": "00:02:36",
   "thumbnail": "https://i.ytimg.com/vi/wcyYkKNEnGA/sddefault.jpg",
   "alt": "✨엠카 800회 기념✨ ⏰ 엠카 800 챌린지 ✦ 특별판 ✦ MC 허니여니 편",
@@ -14049,7 +15195,17 @@ const 음악방송Cards = [
   "title": "[엠카운트다운] 💚 사랑과 눈물💧이 넘쳐나는 MC 미연 〈마음이 닿는 법〉 사전 녹화 비하인드 | M COUNTDOWN",
   "subtag": "그 외"
 },
-
+{
+  "link": "https://youtu.be/H6nNRFus0IY",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2024-02-01T18:00:30",
+  "duration": "00:01:15",
+  "thumbnail": "https://i.ytimg.com/vi/H6nNRFus0IY/maxresdefault.jpg",
+  "alt": "[EN/JP] 'UP NEXT' (여자)아이들 ((G)I-DLE) #엠카운트다운 EP.827 | Mnet 240201 방송",
+  "title": "[EN/JP] 'UP NEXT' (여자)아이들 ((G)I-DLE) #엠카운트다운 EP.827 | Mnet 240201 방송",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/lIiKTLz0igo",
   "category": "음악방송",
@@ -16270,6 +17426,17 @@ const 음악방송Cards = [
   "subtag": "직캠"
 },
 
+{
+  "link": "https://youtu.be/n0KVnNNrYdk",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2025-05-23T18:00:10",
+  "duration": "00:02:06",
+  "thumbnail": "https://i.ytimg.com/vi/n0KVnNNrYdk/maxresdefault.jpg",
+  "alt": "[뮤직뱅크] Interview with i-dle [Music Bank] | KBS WORLD TV 250523",
+  "title": "[뮤직뱅크] Interview with i-dle [Music Bank] | KBS WORLD TV 250523",
+  "subtag": "인터뷰"
+},
 {
   "link": "https://youtu.be/IF23qT7CYUc",
   "category": "음악방송",

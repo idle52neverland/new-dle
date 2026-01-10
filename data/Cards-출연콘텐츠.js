@@ -2685,28 +2685,6 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/qlgYECNZID0",
-  "category": "출연콘텐츠",
-  "member": "미연",
-  "date": "2021-10-18T18:00:19",
-  "duration": "00:03:32",
-  "thumbnail": "https://i.ytimg.com/vi/qlgYECNZID0/sddefault.jpg",
-  "alt": "(미연)- Raiden 레이든 \"Love Right Back\" Highlight Medley",
-  "title": "(미연)- Raiden 레이든 \"Love Right Back\" Highlight Medley"
-},
-
-{
-  "link": "https://youtu.be/_2oTziF5atw",
-  "category": "출연콘텐츠",
-  "member": "미연",
-  "date": "2021-10-20T21:00:30",
-  "duration": "00:09:07",
-  "thumbnail": "https://i.ytimg.com/vi/_2oTziF5atw/sddefault.jpg",
-  "alt": "(미연)- Raiden \"Love Right Back\" Highlight Medley Behind the Scene",
-  "title": "(미연)- Raiden \"Love Right Back\" Highlight Medley Behind the Scene"
-},
-
-{
   "link": "https://youtu.be/af1I9LltXAI",
   "category": "출연콘텐츠",
   "member": "미연",
@@ -3958,17 +3936,6 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/PdJYRCpnuX8/sddefault.jpg",
   "alt": "[읽덕직캠] (여자)아이들 소연의 'MY BAG' 레전드 입덕직캠 댓글 읽기💬 (ENG SUB)",
   "title": "[읽덕직캠] (여자)아이들 소연의 'MY BAG' 레전드 입덕직캠 댓글 읽기💬 (ENG SUB)"
-},
-
-{
-  "link": "https://youtu.be/WBPkMg20ESs",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2022-11-24T14:30:11",
-  "duration": "00:12:51",
-  "thumbnail": "https://i.ytimg.com/vi/WBPkMg20ESs/sddefault.jpg",
-  "alt": "ENG) [#코노돌🎤] EP.17 아이들 코노돌이 💥쩨쩨쩨쩨〰일 잘나가💥 (미방분 공개)(Eng Sub)",
-  "title": "ENG) [#코노돌🎤] EP.17 아이들 코노돌이 💥쩨쩨쩨쩨〰일 잘나가💥 (미방분 공개)(Eng Sub)"
 },
 
 {
@@ -7653,8 +7620,17 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/EbaOxeYE9BM/hqdefault.jpg",
   "alt": "야구 레전드 X KPOP 스타 조합🔥 | 김병현, 니퍼트 & i-dle LA 에인절스 경기 브이로그⚾🎤",
   "title": "야구 레전드 X KPOP 스타 조합🔥 | 김병현, 니퍼트 & i-dle LA 에인절스 경기 브이로그⚾🎤"
+},
+{
+  "link": "https://youtu.be/pIuncb8tNyc",
+  "category": "출연콘텐츠",
+  "member": "우기",
+  "date": "2023-06-30T04:54:27",
+  "duration": "00:03:37",
+  "thumbnail": "https://i.ytimg.com/vi/pIuncb8tNyc/maxresdefault.jpg",
+  "alt": "Netflix｜Celebrity yuqi cut 넷플릭스 셀러브리티 우기 컷",
+  "title": "Netflix｜Celebrity yuqi cut 넷플릭스 셀러브리티 우기 컷"
 }
-
 
 ];
 window.출연콘텐츠Cards = 출연콘텐츠Cards;

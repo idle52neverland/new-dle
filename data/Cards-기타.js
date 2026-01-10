@@ -694,7 +694,7 @@ const 기타Cards = [
 },
 
 {
-  "link": "https://youtu.be/Ql_FFV6N5bs",
+  "link": "https://youtu.be/Ql_FFV6N5bs?t=09m33s",
   "category": "기타",
   "member": "소연",
   "date": "2025-02-11T18:00:21",
@@ -738,7 +738,7 @@ const 기타Cards = [
 },
 
 {
-  "link": "https://youtu.be/o7cWHJSSVN0",
+  "link": "https://youtu.be/o7cWHJSSVN0?t=08m33s",
   "category": "기타",
   "member": "소연",
   "date": "2025-06-04T21:31:03",
@@ -771,7 +771,7 @@ const 기타Cards = [
 },
 
 {
-  "link": "https://youtu.be/8BhmyaGS168",
+  "link": "https://youtu.be/8BhmyaGS168?t=20m03s",
   "category": "기타",
   "member": "소연",
   "date": "2025-07-31T19:00:12",
@@ -793,7 +793,7 @@ const 기타Cards = [
 },
 
 {
-  "link": "https://youtu.be/vCJCTMcZch4",
+  "link": "https://youtu.be/vCJCTMcZch4?t=02m02s",
   "category": "기타",
   "member": "민니",
   "date": "2025-08-20T19:00:46",
@@ -826,7 +826,7 @@ const 기타Cards = [
 },
 
 {
-  "link": "https://youtu.be/rU0L3GOYHlQ",
+  "link": "https://youtu.be/rU0L3GOYHlQ?t=09m36s",
   "category": "기타",
   "member": "아이들",
   "date": "2025-09-05T19:00:59",
@@ -859,7 +859,7 @@ const 기타Cards = [
 },
 
 {
-  "link": "https://youtu.be/Q_yM2dJQS6I",
+  "link": "https://youtu.be/Q_yM2dJQS6I?t=17m23s",
   "category": "기타",
   "member": "우기",
   "date": "2025-10-05T00:00:57",
@@ -870,7 +870,7 @@ const 기타Cards = [
 },
 
 {
-  "link": "https://youtu.be/LW-e35NjY4A",
+  "link": "https://youtu.be/LW-e35NjY4A?t=11m38s",
   "category": "기타",
   "member": "우기",
   "date": "2025-10-21T18:00:05",
@@ -903,7 +903,7 @@ const 기타Cards = [
 },
 
 {
-  "link": "https://youtu.be/SusqVAVaXss",
+  "link": "https://youtu.be/SusqVAVaXss?t=10m58s",
   "category": "기타",
   "member": "미연",
   "date": "2025-11-07T17:16:23",
@@ -936,7 +936,7 @@ const 기타Cards = [
 },
 
 {
-  "link": "https://youtu.be/_-BJ67IQVrw",
+  "link": "https://youtu.be/_-BJ67IQVrw?t=04m55s",
   "category": "기타",
   "member": "미연",
   "date": "2025-12-02T21:01:26",
@@ -947,7 +947,7 @@ const 기타Cards = [
 },
 
 {
-  "link": "https://youtu.be/tfxL_ZY3inQ",
+  "link": "https://youtu.be/tfxL_ZY3inQ?t=21m34s",
   "category": "기타",
   "member": "미연",
   "date": "2025-12-05T20:00:02",
@@ -958,14 +958,35 @@ const 기타Cards = [
 },
 
 {
-  "link": "https://youtu.be/M8MoJWmTYZs",
+  "link": "https://youtu.be/M8MoJWmTYZs?t=05m57s",
   "category": "기타",
   "member": "미연",
   "date": "2025-12-12T19:00:11",
   "duration": "00:14:05",
   "thumbnail": "https://i.ytimg.com/vi/M8MoJWmTYZs/maxresdefault.jpg",
-  "alt": "[05:56~07:22] ITZY \"TUNNEL VISION\" Challenge BEHIND | #TNVSChallenge",
-  "title": "[05:56~07:22] ITZY \"TUNNEL VISION\" Challenge BEHIND | #TNVSChallenge"
+  "alt": "[05:57~07:22] ITZY \"TUNNEL VISION\" Challenge BEHIND | #TNVSChallenge",
+  "title": "[05:57~07:22] ITZY \"TUNNEL VISION\" Challenge BEHIND | #TNVSChallenge"
+},
+{
+  "link": "https://youtu.be/qlgYECNZID0",
+  "category": "기타",
+  "member": "미연",
+  "date": "2021-10-18T18:00:19",
+  "duration": "00:03:32",
+  "thumbnail": "https://i.ytimg.com/vi/qlgYECNZID0/sddefault.jpg",
+  "alt": "[미연] Raiden 레이든 \"Love Right Back\" Highlight Medley",
+  "title": "[미연] Raiden 레이든 \"Love Right Back\" Highlight Medley"
+},
+
+{
+  "link": "https://youtu.be/_2oTziF5atw",
+  "category": "기타",
+  "member": "미연",
+  "date": "2021-10-20T21:00:30",
+  "duration": "00:09:07",
+  "thumbnail": "https://i.ytimg.com/vi/_2oTziF5atw/sddefault.jpg",
+  "alt": "[미연] Raiden \"Love Right Back\" Highlight Medley Behind the Scene",
+  "title": "[미연] Raiden \"Love Right Back\" Highlight Medley Behind the Scene"
 }
 
 ];

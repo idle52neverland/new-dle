@@ -282,8 +282,8 @@ const OST참여곡Cards = [
   "date": "2021-02-26T16:26:29",
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/US3N1g15CZI/maxresdefault.jpg",
-  "alt": "미연 - 마음이 닿는 법 (웹드라마 리플레이 OST)",
-  "title": "미연 - 마음이 닿는 법 (웹드라마 리플레이 OST)"
+  "alt": "미연 - 마음이 닿는 법 (With 네온파프리카) (웹드라마 리플레이 Special Track)",
+  "title": "미연 - 마음이 닿는 법 (With 네온파프리카) (웹드라마 리플레이 Special Track)"
 },
 
 {
@@ -304,8 +304,8 @@ const OST참여곡Cards = [
   "date": "2021-10-11T18:01:46",
   "duration": "00:02:57",
   "thumbnail": "https://i.ytimg.com/vi/gpzGUTDe-CE/hqdefault.jpg",
-  "alt": "[ Feat. MIYEON ] Raiden - Side Effect (feat. MIYEON ((G)I-DLE))",
-  "title": "[ Feat. MIYEON ] Raiden - Side Effect (feat. MIYEON ((G)I-DLE))"
+  "alt": "Raiden - Side Effect (feat. MIYEON ((G)I-DLE))",
+  "title": "Raiden - Side Effect (feat. MIYEON ((G)I-DLE))"
 },
 
 {
@@ -1074,8 +1074,8 @@ const OST참여곡Cards = [
   "date": "2025-10-03T18:04:01",
   "duration": "00:03:33",
   "thumbnail": "https://i.ytimg.com/vi/pcsLPm0ootg/maxresdefault.jpg",
-  "alt": "SOYEON, YUQI 〈Genie, Make a Wish OST (다 이루어질지니) - GAME〉",
-  "title": "SOYEON, YUQI 〈Genie, Make a Wish OST (다 이루어질지니) - GAME〉"
+  "alt": "소연, 우기(SOYEON, YUQI) - GAME  | 다 이루어질지니 OST",
+  "title": "소연, 우기(SOYEON, YUQI) - GAME  | 다 이루어질지니 OST"
 },
 
 {

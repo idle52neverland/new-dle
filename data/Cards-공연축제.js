@@ -419,17 +419,6 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/HwwUTemjpK0",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2018-10-31T11:03:51",
-  "duration": "00:03:40",
-  "thumbnail": "https://i.ytimg.com/vi/HwwUTemjpK0/maxresdefault.jpg",
-  "alt": "[2018 MUSICBANK IN BERLIN] (G)-IDLE ((여자)아이들) - 한(HANN,一)",
-  "title": "[2018 MUSICBANK IN BERLIN] (G)-IDLE ((여자)아이들) - 한(HANN,一)"
-},
-
-{
   "link": "https://youtu.be/p9oDlvOV3qs",
   "category": "공연축제",
   "member": "미연, 소연",
@@ -879,7 +868,16 @@ const 공연축제Cards = [
   "alt": "[드림콘서트2019] 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼 | Dream Concert 2019",
   "title": "[드림콘서트2019] 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼 | Dream Concert 2019"
 },
-
+{
+  "link": "https://youtu.be/rJjMP4stNg0",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2019-05-18T15:46:10",
+  "duration": "00:03:28",
+  "thumbnail": "https://i.ytimg.com/vi/rJjMP4stNg0/maxresdefault.jpg",
+  "alt": "[드림콘서트2019] (G)I-DLE, The Good Lady comes down from heaven [Dream Concert 2019, Self-cam]",
+  "title": "[드림콘서트2019] (G)I-DLE, The Good Lady comes down from heaven [Dream Concert 2019, Self-cam]"
+},
 {
   "link": "https://youtu.be/K9FLUx3LtVQ",
   "category": "공연축제",
@@ -1946,7 +1944,46 @@ const 공연축제Cards = [
   "alt": "[KCON:TACT 2020 SUMMER] [All Stage🎁] (G)I-DLE ((여자)아이들) | 케이콘택트 | 200827 방송",
   "title": "[KCON:TACT 2020 SUMMER] [All Stage🎁] (G)I-DLE ((여자)아이들) | 케이콘택트 | 200827 방송"
 },
-
+{
+  "link": "https://youtu.be/f9vMaQaofvs",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2021-05-29T00:13:33",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/f9vMaQaofvs/maxresdefault.jpg",
+  "alt": "宋雨琦《巨人》 散发闪亮光芒 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]",
+  "title": "宋雨琦《巨人》 散发闪亮光芒 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]"
+},
+{
+  "link": "https://youtu.be/OqcFxctnO0c",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2021-05-29T00:13:34",
+  "duration": "00:07:57",
+  "thumbnail": "https://i.ytimg.com/vi/OqcFxctnO0c/hqdefault.jpg",
+  "alt": "宋雨琦《巨人》 散发闪亮光芒 + 与乃万比赛蹦床游戏 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]",
+  "title": "宋雨琦《巨人》 散发闪亮光芒 + 与乃万比赛蹦床游戏 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]"
+},
+{
+  "link": "https://youtu.be/X4n6G8E4RlA",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2021-05-29T00:13:35",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/X4n6G8E4RlA/maxresdefault.jpg",
+  "alt": "宋雨琦/乃万 《怪美的》 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]",
+  "title": "宋雨琦/乃万 《怪美的》 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]"
+},
+{
+  "link": "https://youtu.be/KYTRzpa0rtw",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2021-06-12T00:13:36",
+  "duration": "00:02:52",
+  "thumbnail": "https://i.ytimg.com/vi/KYTRzpa0rtw/maxresdefault.jpg",
+  "alt": "宋雨琦YUQI 《 Bonnie & Clyde》  | 百度潮盛典 [浙江卫视官方HD]",
+  "title": "宋雨琦YUQI 《 Bonnie & Clyde》  | 百度潮盛典 [浙江卫视官方HD]"
+},
 {
   "link": "https://youtu.be/-ZgQPLsfvqQ",
   "category": "공연축제",
@@ -2474,72 +2511,59 @@ const 공연축제Cards = [
   "alt": "[2022 MAMA] STAR COUNTDOWN D-8 by (G)I-DLE",
   "title": "[2022 MAMA] STAR COUNTDOWN D-8 by (G)I-DLE"
 },
-
 {
-  "link": "https://youtu.be/uPB_kHJnzDo",
+  "link": "https://youtu.be/c-mx6bNkZ-c",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2022-11-26T21:52:02",
-  "duration": "00:12:24",
-  "thumbnail": "https://i.ytimg.com/vi/uPB_kHJnzDo/maxresdefault.jpg",
-  "alt": "[MMA2022] (여자)아이들 INTRO+Nxde & TOMBOY",
-  "title": "[MMA2022] (여자)아이들 INTRO+Nxde & TOMBOY"
-},
-
-{
-  "link": "https://youtu.be/KTlsmt5Q2IQ",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2022-11-26T23:17:53",
+  "date": "2022-11-26T23:17:50",
   "duration": "00:12:27",
-  "thumbnail": "https://i.ytimg.com/vi/KTlsmt5Q2IQ/maxresdefault.jpg",
-  "alt": "[MMA2022] (여자)아이들((G)I-DLE) 'Nxde + Change(VCR) + TOMBOY' @Melon Music Awards",
-  "title": "[MMA2022] (여자)아이들((G)I-DLE) 'Nxde + Change(VCR) + TOMBOY' @Melon Music Awards"
+  "thumbnail": "https://i.ytimg.com/vi/c-mx6bNkZ-c/maxresdefault.jpg",
+  "alt": "[MMA2022 축하공연] (여자)아이들 - Intro(Villain Dies) + Nxde + Change(VCR) + TOMBOY▫️",
+  "title": "[MMA2022 축하공연] (여자)아이들 - Intro(Villain Dies) + Nxde + Change(VCR) + TOMBOY▫️"
 },
-
+{
+  "link": "https://youtu.be/ABZYhlFir1s",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2022-11-26T23:17:51",
+  "duration": "00:05:32",
+  "thumbnail": "https://i.ytimg.com/vi/ABZYhlFir1s/maxresdefault.jpg",
+  "alt": "[MMA2022 축하공연] (여자)아이들 - Intro + Nxde",
+  "title": "[MMA2022 축하공연] (여자)아이들 - Intro + Nxde"
+},
 {
   "link": "https://youtu.be/KWCmFH77HF8",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2022-11-27T15:23:10",
+  "date": "2022-11-26T23:17:52",
   "duration": "00:03:02",
   "thumbnail": "https://i.ytimg.com/vi/KWCmFH77HF8/sddefault.jpg",
-  "alt": "[MMA2022 | 수상소감] 송라이터 - (여자)아이들 전소연 | #gidle #여자아이들 #MMA2022",
-  "title": "[MMA2022 | 수상소감] 송라이터 - (여자)아이들 전소연 | #gidle #여자아이들 #MMA2022"
+  "alt": "[MMA2022 | 수상소감] 송라이터 - (여자)아이들 전소연",
+  "title": "[MMA2022 | 수상소감] 송라이터 - (여자)아이들 전소연"
 },
 
 {
   "link": "https://youtu.be/KdryynyDPc8",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2022-11-27T15:24:16",
+  "date": "2022-11-26T23:17:53",
   "duration": "00:01:12",
   "thumbnail": "https://i.ytimg.com/vi/KdryynyDPc8/maxresdefault.jpg",
-  "alt": "[MMA2022 수상소감] TOP10 - (여자)아이들 #gidle #여자아이들 #MMA2022",
-  "title": "[MMA2022 수상소감] TOP10 - (여자)아이들 #gidle #여자아이들 #MMA2022"
+  "alt": "[MMA2022 | 수상소감] TOP10 - (여자)아이들",
+  "title": "[MMA2022 | 수상소감] TOP10 - (여자)아이들"
 },
 
 {
   "link": "https://youtu.be/pFnu1BjAuME",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2022-11-27T15:25:09",
+  "date": "2022-11-26T23:17:54",
   "duration": "00:01:25",
   "thumbnail": "https://i.ytimg.com/vi/pFnu1BjAuME/sddefault.jpg",
-  "alt": "[MMA2022 | 수상소감] 올해의 뮤직비디오 - (여자)아이들 #gidle #여자아이들 #MMA2022",
-  "title": "[MMA2022 | 수상소감] 올해의 뮤직비디오 - (여자)아이들 #gidle #여자아이들 #MMA2022"
+  "alt": "[MMA2022 | 수상소감] 올해의 뮤직비디오 - (여자)아이들",
+  "title": "[MMA2022 | 수상소감] 올해의 뮤직비디오 - (여자)아이들"
 },
 
-{
-  "link": "https://youtu.be/ABZYhlFir1s",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2022-11-28T11:44:35",
-  "duration": "00:05:32",
-  "thumbnail": "https://i.ytimg.com/vi/ABZYhlFir1s/maxresdefault.jpg",
-  "alt": "[MMA2022 축하공연] (여자)아이들 - Intro + Nxde #gidle #여자아이들",
-  "title": "[MMA2022 축하공연] (여자)아이들 - Intro + Nxde #gidle #여자아이들"
-},
 
 {
   "link": "https://youtu.be/C_ezCY2jXCM",
@@ -4036,7 +4060,26 @@ const 공연축제Cards = [
   "alt": "[2024 가요대전 4K] (여자)아이들 'Wife+Klaxon(클락션)(ChristmasVer.)' ((G)I-DLE FullCam)",
   "title": "[2024 가요대전 4K] (여자)아이들 'Wife+Klaxon(클락션)(ChristmasVer.)' ((G)I-DLE FullCam)"
 },
-
+{
+  "link": "https://youtu.be/SHA-GXvhaFA",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2024-12-31T20:00:01",
+  "duration": "00:04:30",
+  "thumbnail": "https://i.ytimg.com/vi/SHA-GXvhaFA/maxresdefault.jpg",
+  "alt": "白鹿 & 宋雨琦 & 范丞丞 《干杯》 2024-2025浙江卫视跨年晚会 (절강위성TV 연말무대)",
+  "title": "白鹿 & 宋雨琦 & 范丞丞 《干杯》 2024-2025浙江卫视跨年晚会 (절강위성TV 연말무대)"
+},
+{
+  "link": "https://youtu.be/q0rY2KC7-sY",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2024-12-31T20:00:02",
+  "duration": "00:05:40",
+  "thumbnail": "https://i.ytimg.com/vi/q0rY2KC7-sY/maxresdefault.jpg",
+  "alt": "宋雨琦 《Radio+Freak》 | 2024-2025浙江卫视跨年晚会 (절강위성TV 연말무대)",
+  "title": "宋雨琦 《Radio+Freak》 | 2024-2025浙江卫视跨年晚会 (절강위성TV 연말무대)"
+},
 {
   "link": "https://youtu.be/yOQVKhBEHI4",
   "category": "공연축제",
@@ -4090,6 +4133,16 @@ const 공연축제Cards = [
   "thumbnail": "https://i.ytimg.com/vi/BkDW8RmTK4A/sddefault.jpg",
   "alt": "[2025春晚等着你]白鹿 程潇 宋雨琦即兴舞蹈 眼神巨有戏！ | CCTV春晚",
   "title": "[2025春晚等着你]白鹿 程潇 宋雨琦即兴舞蹈 眼神巨有戏！ | CCTV春晚"
+},
+{
+  "link": "https://youtu.be/SR54xG5MJVI",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-01-28T13:49:16",
+  "duration": "00:02:41",
+  "thumbnail": "https://i.ytimg.com/vi/SR54xG5MJVI/maxresdefault.jpg",
+  "alt": "好养眼！看毛晓彤 金晨 白鹿 程潇 姚晓棠 宋雨琦把春意装满大红包！「2025央视春晚」| CCTV春晚",
+  "title": "好养眼！看毛晓彤 金晨 白鹿 程潇 姚晓棠 宋雨琦把春意装满大红包！「2025央视春晚」| CCTV春晚"
 },
 
 {
@@ -4522,14 +4575,14 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/iWC1kDW8Cpc",
+  "link": "https://youtu.be/qYpa-DZSYSc",
   "category": "공연축제",
   "member": "우기",
-  "date": "2025-06-02T20:44:21",
-  "duration": "00:04:17",
-  "thumbnail": "https://i.ytimg.com/vi/iWC1kDW8Cpc/maxresdefault.jpg",
-  "alt": "【宋雨琦/YUQI】雨琦惊喜cover《绿光》｜永远22！bilibili毕业歌会(250602)",
-  "title": "【宋雨琦/YUQI】雨琦惊喜cover《绿光》｜永远22！bilibili毕业歌会(250602)"
+  "date": "2025-06-02T17:01:58",
+  "duration": "00:04:10",
+  "thumbnail": "https://i.ytimg.com/vi/qYpa-DZSYSc/hqdefault.jpg",
+  "alt": "宋雨琦(YUQI) - 绿光 ｜永远22！bilibili毕业歌会",
+  "title": "宋雨琦(YUQI) - 绿光 ｜永远22！bilibili毕业歌会"
 },
 
 {
@@ -4583,7 +4636,17 @@ const 공연축제Cards = [
   "alt": "제34회 서울가요대상 SMA 2025 - Intro + Good Thing + 나는 아픈 건 딱 질색이니까 (Fate) | 34th Seoul Music Awards",
   "title": "제34회 서울가요대상 SMA 2025 - Intro + Good Thing + 나는 아픈 건 딱 질색이니까 (Fate) | 34th Seoul Music Awards"
 },
-
+{
+  "link": "https://youtu.be/2EpppUvsC1g",
+  "category": "공연축제",
+  "member": "민니",
+  "date": "2025-06-21T23:16:17",
+  "duration": "00:02:01",
+  "thumbnail": "https://i.ytimg.com/vi/2EpppUvsC1g/maxresdefault.jpg",
+  "alt": "민니 (Minnie) - 보라빛 향기 (원곡: 강수지) | 34th Seoul Music Awards | 250621",
+  "title": "민니 (Minnie) - 보라빛 향기 (원곡: 강수지) | 34th Seoul Music Awards | 250621",
+  "subtag": "페스티벌"
+},
 {
   "link": "https://youtu.be/UjAkAAgo6l4",
   "category": "공연축제",
@@ -4987,8 +5050,8 @@ const 공연축제Cards = [
   "date": "2025-09-27T15:43:24",
   "duration": "00:04:15",
   "thumbnail": "https://i.ytimg.com/vi/26t0QpRpfnc/maxresdefault.jpg",
-  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 7  背對背擁抱",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 7  背對背擁抱"
+  "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 7  背對背擁抱(Back to Back)",
+  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 7  背對背擁抱(Back to Back)"
 },
 
 {
@@ -5102,7 +5165,7 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/wsTTmBXDbc0",
+  "link": "https://youtu.be/wsTTmBXDbc0?t=20m36s",
   "category": "공연축제",
   "member": "미연",
   "date": "2025-11-09T12:01:29",
@@ -5374,7 +5437,92 @@ const 공연축제Cards = [
   "thumbnail": "https://i.ytimg.com/vi/upOf66c3JzA/maxresdefault.jpg",
   "alt": "汪苏泷 Silence Wang ［像晴天像雨天］十万伏特2.0 Official Stage Video",
   "title": "汪苏泷 Silence Wang ［像晴天像雨天］十万伏特2.0 Official Stage Video"
+},
+{
+  "link": "https://youtu.be/RlMhmvFhksM",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-12-31T22:00:01",
+  "duration": "00:03:34",
+  "thumbnail": "https://i.ytimg.com/vi/RlMhmvFhksM/maxresdefault.jpg",
+  "alt": "李晨、郑恺、沙溢、白鹿、范丞丞、宋雨琦、李昀锐合唱 《最美的太阳》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)",
+  "title": "李晨、郑恺、沙溢、白鹿、范丞丞、宋雨琦、李昀锐合唱 《最美的太阳》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)"
+},
+{
+  "link": "https://youtu.be/Lmw6TZ-BV1k",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-12-31T22:00:02",
+  "duration": "00:03:14",
+  "thumbnail": "https://i.ytimg.com/vi/Lmw6TZ-BV1k/maxresdefault.jpg",
+  "alt": "宋雨琦 《还痛吗》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)",
+  "title": "宋雨琦 《还痛吗》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)"
+},
+{
+  "link": "https://youtu.be/jG8d4tY335Y",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-12-31T22:00:03",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/jG8d4tY335Y/maxresdefault.jpg",
+  "alt": "宋雨琦 《M.O.》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)",
+  "title": "宋雨琦 《M.O.》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)"
+},
+{
+  "link": "https://youtu.be/CRncKqyz_Ho",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2021-06-19T04:01:29",
+  "duration": "00:09:50",
+  "thumbnail": "https://i.ytimg.com/vi/CRncKqyz_Ho/maxresdefault.jpg",
+  "alt": "YUQI 《Giant+同桌的你》 | 全球中文音乐榜上榜/JingLong Global Chinese Music 2021▫️",
+  "title": "YUQI 《Giant+同桌的你》 | 全球中文音乐榜上榜/JingLong Global Chinese Music 2021▫️"
+},
+
+{
+  "link": "https://youtu.be/BmesP99J9PE",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2021-08-14T22:41:35",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/BmesP99J9PE/maxresdefault.jpg",
+  "alt": "《2021七夕晚会》 一键换装！王子异、宋雨琦超甜对唱《海芋恋》甜到心坎儿里 「2021央视七夕晚会」| CCTV春晚",
+  "title": "《2021七夕晚会》 一键换装！王子异、宋雨琦超甜对唱《海芋恋》甜到心坎儿里 「2021央视七夕晚会」| CCTV春晚"
+},
+
+{
+  "link": "https://youtu.be/tNLlKoBKg7E",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2021-08-19T01:19:44",
+  "duration": "02:15:22",
+  "thumbnail": "https://i.ytimg.com/vi/tNLlKoBKg7E/maxresdefault.jpg",
+  "alt": "《818晚会》 宋雨琦 - Giant | 浙江卫视官方音乐HD",
+  "title": "《818晚会》 宋雨琦 - Giant | 浙江卫视官方音乐HD"
+},
+
+{
+  "link": "https://youtu.be/b6MwKcar0oM",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2021-12-10T09:00:10",
+  "duration": "00:03:53",
+  "thumbnail": "https://i.ytimg.com/vi/b6MwKcar0oM/maxresdefault.jpg",
+  "alt": "211210 YUQI (G)I-DLE - BONNIE & CLYDE STAGE ON \"2060\"",
+  "title": "211210 YUQI (G)I-DLE - BONNIE & CLYDE STAGE ON \"2060\""
+},
+
+{
+  "link": "https://youtu.be/JLgcZ76K6NE",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2021-12-24T23:07:57",
+  "duration": "00:02:45",
+  "thumbnail": "https://i.ytimg.com/vi/JLgcZ76K6NE/maxresdefault.jpg",
+  "alt": "211224 YUQI (G)I-DLE - \"2060\" THEME SONG",
+  "title": "211224 YUQI (G)I-DLE - \"2060\" THEME SONG"
 }
+
 
 ];
 window.공연축제Cards = 공연축제Cards;

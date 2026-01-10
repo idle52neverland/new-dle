@@ -1,92 +1,5 @@
 const 노래클립Cards = [
 
-{
-  "link": "https://youtu.be/RD-tS1qM_T4",
-  "category": "노래클립",
-  "member": "소연",
-  "date": "2016-07-30T01:00:48",
-  "duration": "00:04:01",
-  "thumbnail": "https://i.ytimg.com/vi/RD-tS1qM_T4/sddefault.jpg",
-  "alt": "[UNPRETTY RAPSTAR3] ‘She’s Coming’ One-take MV in Full EP.01",
-  "title": "[언프리티 랩스타/UNPRETTY RAPSTAR3] ‘She’s Coming’ One-take MV in Full EP.01"
-},
-
-{
-  "link": "https://youtu.be/cmIEYf5ILZY",
-  "category": "노래클립",
-  "member": "소연",
-  "date": "2016-07-30T21:18:29",
-  "duration": "00:04:36",
-  "thumbnail": "https://i.ytimg.com/vi/cmIEYf5ILZY/sddefault.jpg",
-  "alt": "쇼미더머니5 파이널 특별무대 언프리티랩스타3",
-  "title": "[언프리티 랩스타/UNPRETTY RAPSTAR3] 쇼미더머니5 파이널 특별무대 언프리티랩스타3"
-},
-
-{
-  "link": "https://youtu.be/Bj27U8qOjeE",
-  "category": "노래클립",
-  "member": "소연",
-  "date": "2016-08-06T00:51:03",
-  "duration": "00:04:30",
-  "thumbnail": "https://i.ytimg.com/vi/Bj27U8qOjeE/sddefault.jpg",
-  "alt": "[UNPRETTY RAPSTAR3] My Way – Jeon So Yeon, Miryo, Ha Joo Yeon @Track 2 Team Battle Mission EP.02",
-  "title": "[[언프리티 랩스타/UNPRETTY RAPSTAR3] My Way – Jeon So Yeon, Miryo, Ha Joo Yeon @Track 2 Team Battle Mission EP.02"
-},
-
-{
-  "link": "https://youtu.be/exvIJqnHMRM",
-  "category": "노래클립",
-  "member": "소연",
-  "date": "2016-08-23T17:17:08",
-  "duration": "00:02:58",
-  "thumbnail": "https://i.ytimg.com/vi/exvIJqnHMRM/sddefault.jpg",
-  "alt": "[UNPRETTY RAPSTAR3][MV] Track#3. Jeon So Yeon, Nada Scary (Prod.by KUSH) EP.05",
-  "title": "[[언프리티 랩스타/UNPRETTY RAPSTAR3][MV] Track#3. Jeon So Yeon, Nada Scary (Prod.by KUSH) EP.05"
-},
-
-{
-  "link": "https://youtu.be/GwkvpkjvaEs",
-  "category": "노래클립",
-  "member": "소연",
-  "date": "2016-08-27T00:52:30",
-  "duration": "00:01:38",
-  "thumbnail": "https://i.ytimg.com/vi/GwkvpkjvaEs/sddefault.jpg",
-  "alt": "[UNPRETTY RAPSTAR3] ‘Is So Yeon 19?’ Jeon So Yeon @Track 4 Solo Battle EP.05",
-  "title": "[[언프리티 랩스타/UNPRETTY RAPSTAR3] ‘Is So Yeon 19?’ Jeon So Yeon @Track 4 Solo Battle EP.05"
-},
-
-{
-  "link": "https://youtu.be/iDdgFj9gSoE",
-  "category": "노래클립",
-  "member": "소연",
-  "date": "2016-09-10T01:39:21",
-  "duration": "00:04:36",
-  "thumbnail": "https://i.ytimg.com/vi/iDdgFj9gSoE/sddefault.jpg",
-  "alt": "UNPRETTY RAPSTAR vol.3 [풀버전/단독] ′PUZZLE′ - 씨잼&나다&전소연 @ #7 트랙 콜라보 미션 EP.7",
-  "title": "[언프리티 랩스타/UNPRETTY RAPSTAR vol.3 [풀버전/단독] ′PUZZLE′ - 씨잼&나다&전소연 @ #7 트랙 콜라보 미션 EP.7"
-},
-
-{
-  "link": "https://youtu.be/tnA6HF6wGNE",
-  "category": "노래클립",
-  "member": "소연",
-  "date": "2016-09-17T01:41:22",
-  "duration": "00:03:29",
-  "thumbnail": "https://i.ytimg.com/vi/tnA6HF6wGNE/sddefault.jpg",
-  "alt": "UNPRETTY RAPSTAR vol.3 [8회/단독] ′생각없이 놀아대!′ 전소연 어린이의 하루 (Feat. 슈퍼비) @본선1차 1라운드 EP.8",
-  "title": "[언프리티 랩스타/UNPRETTY RAPSTAR vol.3 [8회/단독] ′생각없이 놀아대!′ 전소연 어린이의 하루 (Feat. 슈퍼비) @본선1차 1라운드 EP.8"
-},
-
-{
-  "link": "https://youtu.be/ah-67Hn8vVA",
-  "category": "노래클립",
-  "member": "소연",
-  "date": "2016-09-24T04:23:34",
-  "duration": "00:03:20",
-  "thumbnail": "https://i.ytimg.com/vi/ah-67Hn8vVA/sddefault.jpg",
-  "alt": "UNPRETTY RAPSTAR vol.3 [9회] \"넌 잘하고 있어, 넌충분히 해내고 있어\" 웃어 전소연 feat. 다비 @ 세미파이널 1라운드 EP.9",
-  "title": "[언프리티 랩스타/UNPRETTY RAPSTAR vol.3 [9회] \"넌 잘하고 있어, 넌충분히 해내고 있어\" 웃어 전소연 feat. 다비 @ 세미파이널 1라운드 EP.9"
-},
 
 {
   "link": "https://youtu.be/Vyq3NXX7a8A",
@@ -241,7 +154,16 @@ const 노래클립Cards = [
   "alt": "((G)-I-DLE) MINNIE, Miyeon-  Love Scenario ,  (여자)아이들 미연,민니 - 사랑을 했다",
   "title": "(여자)아이들 미연,민니 - 사랑을 했다 (cover) MINNIE, Miyeon-  Love Scenario | 정오의 희망곡 김신영입니다"
 },
-
+{
+  "link": "https://youtu.be/Yu_bSKgydkI",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2018-07-08T19:23:55",
+  "duration": "00:04:24",
+  "thumbnail": "https://i.ytimg.com/vi/Yu_bSKgydkI/maxresdefault.jpg",
+  "alt": "[열린음악회] - (여자)아이들 - LATATA  [Open Concert].20180708",
+  "title": "[열린음악회] - (여자)아이들 - LATATA  [Open Concert].20180708"
+},
 {
   "link": "https://youtu.be/XzVwGhPKs8E",
   "category": "노래클립",
@@ -263,7 +185,16 @@ const 노래클립Cards = [
   "alt": "[릴레이댄스] (여자)아이들((G)-IDLE) - 한(-)(HANN)",
   "title": "[릴레이댄스] (여자)아이들((G)-IDLE) - 한(-)(HANN)"
 },
-
+{
+  "link": "https://youtu.be/2DVTfMiUu0I",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2018-09-30T18:55:50",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/2DVTfMiUu0I/maxresdefault.jpg",
+  "alt": "[열린음악회] - (여자)아이들 - 한(一)  [Open Concert].20180930",
+  "title": "[열린음악회] - (여자)아이들 - 한(一)  [Open Concert].20180930"
+},
 {
   "link": "https://youtu.be/DxYBgkEDqTA",
   "category": "노래클립",
@@ -318,7 +249,26 @@ const 노래클립Cards = [
   "alt": "(여자)아이들 (G)I-DLE \"Senorita\" Performance video | MOVE REC | 4K",
   "title": "(여자)아이들 (G)I-DLE \"Senorita\" Performance video | MOVE REC | 4K"
 },
-
+{
+  "link": "https://youtu.be/cGd8KDbDcVA",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2019-03-17T19:34:29",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/cGd8KDbDcVA/maxresdefault.jpg",
+  "alt": "[열린음악회] 여자 아이들(G)I-DLE - LATATA  [Open Concert].20190317",
+  "title": "[열린음악회] 여자 아이들(G)I-DLE - LATATA  [Open Concert].20190317"
+},
+{
+  "link": "https://youtu.be/oYRO5RXoa0M",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2019-03-17T19:34:29",
+  "duration": "00:03:17",
+  "thumbnail": "https://i.ytimg.com/vi/oYRO5RXoa0M/maxresdefault.jpg",
+  "alt": "[열린음악회] 여자 아이들(G)I-DLE - Senorita  [Open Concert].20190317",
+  "title": "[열린음악회] 여자 아이들(G)I-DLE - Senorita  [Open Concert].20190317"
+},
 {
   "link": "https://youtu.be/5osKJ3cDTDM",
   "category": "노래클립",
@@ -395,7 +345,16 @@ const 노래클립Cards = [
   "alt": "[릴레이댄스] (여자)아이들((G)I-DLE) - Uh-Oh",
   "title": "[릴레이댄스] (여자)아이들((G)I-DLE) - Uh-Oh"
 },
-
+{
+  "link": "https://youtu.be/1t7yn-8348I",
+  "category": "노래클립",
+  "member": "우기",
+  "date": "2019-06-28T20:26:48",
+  "duration": "00:03:43",
+  "thumbnail": "https://i.ytimg.com/vi/1t7yn-8348I/maxresdefault.jpg",
+  "alt": "《芭啦芭啦樱之花》郑恺 Lucas 宋雨琦 《奔跑吧3》 Keep Running S3 EP10 花絮 20190628 [ 浙江卫视官方HD ]",
+  "title": "《芭啦芭啦樱之花》郑恺 Lucas 宋雨琦 《奔跑吧3》 Keep Running S3 EP10 花絮 20190628 [ 浙江卫视官方HD ]"
+},
 {
   "link": "https://youtu.be/Co1eTktOTpc",
   "category": "노래클립",
@@ -991,17 +950,6 @@ const 노래클립Cards = [
 },
 
 {
-  "link": "https://youtu.be/KYTRzpa0rtw",
-  "category": "노래클립",
-  "member": "우기",
-  "date": "2021-06-12T23:44:48",
-  "duration": "00:02:52",
-  "thumbnail": "https://i.ytimg.com/vi/KYTRzpa0rtw/sddefault.jpg",
-  "alt": "【LIVE】宋雨琦YUQI《 Bonnie & Clyde》【浙江卫视百度潮盛典】 [ZJSTVHD]",
-  "title": "【LIVE】宋雨琦YUQI《 Bonnie & Clyde》【浙江卫视百度潮盛典】 [ZJSTVHD]"
-},
-
-{
   "link": "https://youtu.be/YtwCIIuLDsQ",
   "category": "노래클립",
   "member": "소연",
@@ -1231,7 +1179,16 @@ const 노래클립Cards = [
   "alt": "纯享：宋雨琦《Giant（巨人）》诠释暗黑中向光明奔跑的勇气 buff加满取下披风能量瞬间爆发 | 爆裂舞台 EP04 | Stage Boom | iQiyi精选",
   "title": "纯享：宋雨琦《Giant（巨人）》诠释暗黑中向光明奔跑的勇气 buff加满取下披风能量瞬间爆发 | 爆裂舞台 EP04 | Stage Boom | iQiyi精选"
 },
-
+{
+  "link": "https://youtu.be/WnyFE3_i-vA",
+  "category": "노래클립",
+  "member": "우기",
+  "date": "2021-09-03T21:29:06",
+  "duration": "00:05:12",
+  "thumbnail": "https://i.ytimg.com/vi/WnyFE3_i-vA/maxresdefault.jpg",
+  "alt": "纯享：(G)I-DLE宋雨琦/VAVA《火车驶向云外，梦安魂于九霄》唱出摇滚态度 “一代人终将老去，但总有人正年轻” | 爆裂舞台 EP05 | Stage Boom | iQiyi精选",
+  "title": "纯享：(G)I-DLE宋雨琦/VAVA《火车驶向云外，梦安魂于九霄》唱出摇滚态度 “一代人终将老去，但总有人正年轻” | 爆裂舞台 EP05 | Stage Boom | iQiyi精选"
+},
 {
   "link": "https://youtu.be/WC4l1d8AKU4",
   "category": "노래클립",
@@ -1946,7 +1903,26 @@ const 노래클립Cards = [
   "alt": "쿨룩 LIVE ▷(여자)아이들 'TOMBOY' / [박명수의 라디오쇼]ㅣKBS 방송",
   "title": "쿨룩 LIVE ▷(여자)아이들 'TOMBOY' / [박명수의 라디오쇼]ㅣKBS 방송"
 },
-
+{
+  "link": "https://youtu.be/vUYV2nr8H_o",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2022-11-19T16:26:17",
+  "duration": "00:02:59",
+  "thumbnail": "https://i.ytimg.com/vi/vUYV2nr8H_o/maxresdefault.jpg",
+  "alt": "(G)I-DLE((여자)아이들) in 코노돌🎉 - ((여자)아이들 - MY BAG, 빅뱅 - 거짓말) , MBC 221119 방송",
+  "title": "(G)I-DLE((여자)아이들) in 코노돌🎉 - ((여자)아이들 - MY BAG, 빅뱅 - 거짓말) , MBC 221119 방송"
+},
+{
+  "link": "https://youtu.be/WBPkMg20ESs",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2022-11-19T16:26:18",
+  "duration": "00:12:51",
+  "thumbnail": "https://i.ytimg.com/vi/WBPkMg20ESs/sddefault.jpg",
+  "alt": "ENG) [#코노돌🎤] EP.17 아이들 코노돌이 💥쩨쩨쩨쩨〰일 잘나가💥 (미방분 공개)(Eng Sub)",
+  "title": "ENG) [#코노돌🎤] EP.17 아이들 코노돌이 💥쩨쩨쩨쩨〰일 잘나가💥 (미방분 공개)(Eng Sub)"
+},
 {
   "link": "https://youtu.be/pdEzfr8KDgo",
   "category": "노래클립",
@@ -2474,7 +2450,16 @@ const 노래클립Cards = [
   "alt": "[ENG] 세상 무해한 조합💙 한 편의 청춘 영화 같은 '폴킴x볼빨간사춘기x미연x이무진' 마카오 V-LOG✈️｜비긴어게인 오픈마이크",
   "title": "[ENG] 세상 무해한 조합💙 한 편의 청춘 영화 같은 '폴킴x볼빨간사춘기x미연x이무진' 마카오 V-LOG✈️｜비긴어게인 오픈마이크"
 },
-
+{
+  "link": "https://youtu.be/RoBs5scT7zg",
+  "category": "노래클립",
+  "member": "우기",
+  "date": "2024-06-14T15:35:17",
+  "duration": "00:01:40",
+  "thumbnail": "https://i.ytimg.com/vi/RoBs5scT7zg/maxresdefault.jpg",
+  "alt": "宋雨琦《On Clap》跑男舞台首秀 炸场来袭！雨琦dd唱跳实力圈粉 嗨翻大家的每一个细胞！纯享| 奔跑吧12 EP8 20240614",
+  "title": "宋雨琦《On Clap》跑男舞台首秀 炸场来袭！雨琦dd唱跳实力圈粉 嗨翻大家的每一个细胞！纯享| 奔跑吧12 EP8 20240614"
+},
 {
   "link": "https://youtu.be/KBdeNhYn3Pg",
   "category": "노래클립",
@@ -2666,7 +2651,7 @@ const 노래클립Cards = [
   "link": "https://youtu.be/s6JnGiFeQys",
   "category": "노래클립",
   "member": "우기",
-  "date": "2024-10-29T22:30:27",
+  "date": "2024-10-26T20:30:07",
   "duration": "00:01:56",
   "thumbnail": "https://i.ytimg.com/vi/s6JnGiFeQys/sddefault.jpg",
   "alt": "【纯享】宋雨琦YUQI《FREAK》우기 여자아이들 (G)I-DLE Hello Saturday｜MangoTV",
@@ -2682,17 +2667,6 @@ const 노래클립Cards = [
   "thumbnail": "https://i.ytimg.com/vi/vFlkKG3TSPE/sddefault.jpg",
   "alt": "[선공개 LIVE] 전소연 - 나는 아픈 건 딱 질색이니까 | 비빔팝(BIBIM-POP) EP.15 전소연 (여자)아이들",
   "title": "[선공개 LIVE] 전소연 - 나는 아픈 건 딱 질색이니까 | 비빔팝(BIBIM-POP) EP.15 전소연 (여자)아이들"
-},
-
-{
-  "link": "https://youtu.be/yt8440nvPBU",
-  "category": "노래클립",
-  "member": "우기",
-  "date": "2025-01-01T00:05:51",
-  "duration": "00:05:40",
-  "thumbnail": "https://i.ytimg.com/vi/yt8440nvPBU/sddefault.jpg",
-  "alt": "【LIVE首发🔥】宋雨琦《Radio+Freak》国内首次跨年演出 唱跳全开舞台能量满满！ 2024-2025浙江卫视跨年晚会 纯享",
-  "title": "【LIVE首发🔥】宋雨琦《Radio+Freak》国内首次跨年演出 唱跳全开舞台能量满满！ 2024-2025浙江卫视跨年晚会 纯享"
 },
 
 {
@@ -3277,7 +3251,16 @@ const 노래클립Cards = [
   "alt": "(Full Focused) YUQI(우기) 'M.O.' (4K) | STUDIO CHOOM ORIGINAL",
   "title": "(Full Focused) YUQI(우기) 'M.O.' (4K) | STUDIO CHOOM ORIGINAL"
 },
-
+{
+  "link": "https://youtu.be/wvlzSqm1Fbw",
+  "category": "노래클립",
+  "member": "우기",
+  "date": "2025-09-23T21:30:06",
+  "duration": "00:29:08",
+  "thumbnail": "https://i.ytimg.com/vi/wvlzSqm1Fbw/maxresdefault.jpg",
+  "alt": "【0923生日快乐🎂】宋雨琦9大“开口跪”LIVE现场大盘点！你始终是自带追光的“舞台大魔王”！当话筒举起 你极具辨识度嗓音迸发的爆发力总能撞碎质疑的壁垒！#yuqi  主题特辑 20250923",
+  "title": "【0923生日快乐🎂】宋雨琦9大“开口跪”LIVE现场大盘点！你始终是自带追光的“舞台大魔王”！当话筒举起 你极具辨识度嗓音迸发的爆发力总能撞碎质疑的壁垒！#yuqi  主题特辑 20250923"
+},
 {
   "link": "https://youtu.be/51CPdqT2k-Q",
   "category": "노래클립",
