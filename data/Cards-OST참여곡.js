@@ -271,8 +271,8 @@ const OST참여곡Cards = [
   "date": "2021-02-19T16:34:06",
   "duration": "00:03:40",
   "thumbnail": "https://i.ytimg.com/vi/FzXo9B8E3fU/maxresdefault.jpg",
-  "alt": "미연 - Dreaming about you (웹드라마 리플레이 OST)",
-  "title": "미연 - Dreaming about you (웹드라마 리플레이 OST)"
+  "alt": "미연 - Dreaming about you (웹드라마 리플레이 OST)▫️",
+  "title": "미연 - Dreaming about you (웹드라마 리플레이 OST)▫️"
 },
 
 {
@@ -282,8 +282,8 @@ const OST참여곡Cards = [
   "date": "2021-02-26T16:26:29",
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/US3N1g15CZI/maxresdefault.jpg",
-  "alt": "미연 - 마음이 닿는 법 (With 네온파프리카) (웹드라마 리플레이 Special Track)",
-  "title": "미연 - 마음이 닿는 법 (With 네온파프리카) (웹드라마 리플레이 Special Track)"
+  "alt": "미연 - 마음이 닿는 법 (With 네온파프리카) (웹드라마 리플레이 Special Track)▫️",
+  "title": "미연 - 마음이 닿는 법 (With 네온파프리카) (웹드라마 리플레이 Special Track)▫️"
 },
 
 {
@@ -337,8 +337,8 @@ const OST참여곡Cards = [
   "date": "2021-11-21T12:00:13",
   "duration": "00:03:09",
   "thumbnail": "https://i.ytimg.com/vi/eA2QBBM8s8s/sddefault.jpg",
-  "alt": "[어른 연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love",
-  "title": "[어른 연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love"
+  "alt": "[어른연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love",
+  "title": "[어른연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love"
 },
 
 {
@@ -524,8 +524,8 @@ const OST참여곡Cards = [
   "date": "2023-03-16T21:22:03",
   "duration": "00:01:40",
   "thumbnail": "https://i.ytimg.com/vi/P55G-tkSK8Q/maxresdefault.jpg",
-  "alt": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE",
-  "title": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE"
+  "alt": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE▫️",
+  "title": "(G)I-DLE X PUBG 6주년 테마곡 - NINETY NINE▫️"
 },
 
 {
@@ -535,8 +535,8 @@ const OST참여곡Cards = [
   "date": "2023-03-29T21:23:28",
   "duration": "00:01:55",
   "thumbnail": "https://i.ytimg.com/vi/9383yxfQVGU/maxresdefault.jpg",
-  "alt": "(G)I-DLE X PUBG 6주년 스페셜 뮤직비디오 비하인드",
-  "title": "(G)I-DLE X PUBG 6주년 스페셜 뮤직비디오 비하인드"
+  "alt": "(G)I-DLE X PUBG 6주년 스페셜 뮤직비디오 비하인드▫️",
+  "title": "(G)I-DLE X PUBG 6주년 스페셜 뮤직비디오 비하인드▫️"
 },
 
 {

@@ -181,8 +181,8 @@ const 자체예능Cards = [
   "date": "2021-02-12T02:58:04",
   "duration": "00:48:10",
   "thumbnail": "https://i.ytimg.com/vi/dokOH7F2EE4/maxresdefault.jpg",
-  "alt": "SSAP DANCE  [Full ver.]",
-  "title": "SSAP DANCE  [Full ver.]"
+  "alt": "SSAP DANCE▫️ [Full ver.]",
+  "title": "SSAP DANCE▫️ [Full ver.]"
 },
 
 {
@@ -192,8 +192,8 @@ const 자체예능Cards = [
   "date": "2022-05-25T04:45:52",
   "duration": "01:22:27",
   "thumbnail": "https://i.ytimg.com/vi/9E38RZrNqPQ/maxresdefault.jpg",
-  "alt": "꿀로그잼：네버버 예술 학교 [Full ver.]",
-  "title": "꿀로그잼：네버버 예술 학교 [Full ver.]"
+  "alt": "꿀로그잼：네버버 예술 학교▫️ [Full ver.]",
+  "title": "꿀로그잼：네버버 예술 학교▫️ [Full ver.]"
 },
 
 {
@@ -203,8 +203,8 @@ const 자체예능Cards = [
   "date": "2022-05-25T04:45:53",
   "duration": "00:04:30",
   "thumbnail": "https://i.ytimg.com/vi/jvWd0PK10-8/maxresdefault.jpg",
-  "alt": "꿀로그잼：네버버 예술 학교 [BEHIND]",
-  "title": "꿀로그잼：네버버 예술 학교 [BEHIND]"
+  "alt": "꿀로그잼：네버버 예술 학교▫️ [BEHIND]",
+  "title": "꿀로그잼：네버버 예술 학교▫️ [BEHIND]"
 },
 
 {
@@ -214,8 +214,8 @@ const 자체예능Cards = [
   "date": "2022-06-23T04:11:39",
   "duration": "00:27:41",
   "thumbnail": "https://i.ytimg.com/vi/nutKEiDKnzE/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.01",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.01"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.01▫️",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.01▫️"
 },
 
 {
@@ -225,8 +225,8 @@ const 자체예능Cards = [
   "date": "2022-06-30T04:16:36",
   "duration": "00:30:57",
   "thumbnail": "https://i.ytimg.com/vi/Q8sgOnq_4JU/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.02",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.02"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.02▫️",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.02▫️"
 },
 
 {
@@ -236,8 +236,8 @@ const 자체예능Cards = [
   "date": "2022-07-07T08:46:17",
   "duration": "00:29:01",
   "thumbnail": "https://i.ytimg.com/vi/v_lVbrqD5Tw/hqdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.03",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.03"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.03▫️",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.03▫️"
 },
 
 {
@@ -247,8 +247,8 @@ const 자체예능Cards = [
   "date": "2022-07-12T09:01:10",
   "duration": "00:03:01",
   "thumbnail": "https://i.ytimg.com/vi/IVZ-sMFmNuE/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.03 Behind",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.03 Behind"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.03 Behind▫️",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.03 Behind▫️"
 },
 
 {
@@ -258,8 +258,8 @@ const 자체예능Cards = [
   "date": "2022-07-14T09:02:04",
   "duration": "00:32:05",
   "thumbnail": "https://i.ytimg.com/vi/i5McjykHurY/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.04",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.04"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.04▫️",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.04▫️"
 },
 
 {
@@ -269,8 +269,8 @@ const 자체예능Cards = [
   "date": "2022-07-19T09:03:04",
   "duration": "00:02:51",
   "thumbnail": "https://i.ytimg.com/vi/wLYv8Bdpu98/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.04 Behind",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.04 Behind"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.04 Behind▫️",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.04 Behind▫️"
 },
 
 {
@@ -280,8 +280,8 @@ const 자체예능Cards = [
   "date": "2022-07-21T09:04:18",
   "duration": "00:34:27",
   "thumbnail": "https://i.ytimg.com/vi/pIgRfEah_FA/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.05",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.05"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.05▫️",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.05▫️"
 },
 
 {
@@ -291,8 +291,8 @@ const 자체예능Cards = [
   "date": "2022-07-26T09:05:41",
   "duration": "00:04:55",
   "thumbnail": "https://i.ytimg.com/vi/aNA-sr6QBlY/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.05 Behind",
-  "title": "(여자)아이들 외 취급주의 시즌1 - EP.05 Behind"
+  "alt": "(여자)아이들 외 취급주의 시즌1 - EP.05 Behind▫️",
+  "title": "(여자)아이들 외 취급주의 시즌1 - EP.05 Behind▫️"
 },
 
 {
@@ -302,8 +302,8 @@ const 자체예능Cards = [
   "date": "2022-09-14T05:05:18",
   "duration": "01:13:08",
   "thumbnail": "https://i.ytimg.com/vi/dR7NH8Y_D4I/maxresdefault.jpg",
-  "alt": "방해금지모드+  [Full ver.]",
-  "title": "방해금지모드+  [Full ver.]"
+  "alt": "방해금지모드+  [Full ver.]▫️",
+  "title": "방해금지모드+  [Full ver.]▫️"
 },
 
 {
@@ -313,8 +313,8 @@ const 자체예능Cards = [
   "date": "2022-09-15T06:11:00",
   "duration": "00:04:18",
   "thumbnail": "https://i.ytimg.com/vi/OfTv1iABzFQ/maxresdefault.jpg",
-  "alt": "방해금지모드+  [BEHIND]",
-  "title": "방해금지모드+  [BEHIND]"
+  "alt": "방해금지모드+  [BEHIND]▫️",
+  "title": "방해금지모드+  [BEHIND]▫️"
 },
 
 {
@@ -324,8 +324,8 @@ const 자체예능Cards = [
   "date": "2022-09-22T09:07:10",
   "duration": "00:28:07",
   "thumbnail": "https://i.ytimg.com/vi/M8RYM6H33bU/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.01",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.01"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.01▫️",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.01▫️"
 },
 
 {
@@ -335,8 +335,8 @@ const 자체예능Cards = [
   "date": "2022-09-29T09:09:33",
   "duration": "00:25:27",
   "thumbnail": "https://i.ytimg.com/vi/ahHw-OfIWec/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.02",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.02"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.02▫️",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.02▫️"
 },
 
 {
@@ -346,8 +346,8 @@ const 자체예능Cards = [
   "date": "2022-10-06T09:10:24",
   "duration": "00:26:36",
   "thumbnail": "https://i.ytimg.com/vi/yoy4vmF93mI/sddefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.03",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.03"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.03▫️",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.03▫️"
 },
 
 {
@@ -357,8 +357,8 @@ const 자체예능Cards = [
   "date": "2022-10-13T12:24:55",
   "duration": "00:24:58",
   "thumbnail": "https://i.ytimg.com/vi/q7sJEWHsoPA/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.04",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.04"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.04▫️",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.04▫️"
 },
 
 {
@@ -368,8 +368,8 @@ const 자체예능Cards = [
   "date": "2022-10-20T04:43:56",
   "duration": "00:09:48",
   "thumbnail": "https://i.ytimg.com/vi/haPvquUQZ4c/maxresdefault.jpg",
-  "alt": "나 오늘 면접봤다 (여자)아이들 - 경호원",
-  "title": "나 오늘 면접봤다 (여자)아이들 - 경호원"
+  "alt": "나 오늘 면접봤다 (여자)아이들 - 경호원▫️",
+  "title": "나 오늘 면접봤다 (여자)아이들 - 경호원▫️"
 },
 
 {
@@ -379,8 +379,8 @@ const 자체예능Cards = [
   "date": "2022-10-20T12:30:19",
   "duration": "00:26:48",
   "thumbnail": "https://i.ytimg.com/vi/iEoLDm3GZEA/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.05",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.05"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.05▫️",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.05▫️"
 },
 
 {
@@ -390,8 +390,8 @@ const 자체예능Cards = [
   "date": "2022-10-27T12:31:14",
   "duration": "00:29:23",
   "thumbnail": "https://i.ytimg.com/vi/pofn7BHaj_o/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.06",
-  "title": "(여자)아이들 외 취급주의 시즌2 - EP.06"
+  "alt": "(여자)아이들 외 취급주의 시즌2 - EP.06▫️",
+  "title": "(여자)아이들 외 취급주의 시즌2 - EP.06▫️"
 },
 
 {
@@ -401,8 +401,8 @@ const 자체예능Cards = [
   "date": "2022-10-28T12:33:20",
   "duration": "00:04:00",
   "thumbnail": "https://i.ytimg.com/vi/XkaWbp0fAuk/maxresdefault.jpg",
-  "alt": "(여자)아이들 외 취급주의 시즌2  - Behind",
-  "title": "(여자)아이들 외 취급주의 시즌2  - Behind"
+  "alt": "(여자)아이들 외 취급주의 시즌2  - Behind▫️",
+  "title": "(여자)아이들 외 취급주의 시즌2  - Behind▫️"
 },
 
 {

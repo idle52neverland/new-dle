@@ -1057,14 +1057,14 @@ const 공식채널Cards = [
 },
 
 {
-  "link": "https://youtu.be/g5KNuqSw8qY",
+  "link": "https://youtu.be/4wts4pUvZFg",
   "category": "공식채널",
   "member": "소연",
-  "date": "2019-06-18T18:00:00",
+  "date": "2019-06-18T19:39:36",
   "duration": "00:15:24",
-  "thumbnail": "https://i.ytimg.com/vi/g5KNuqSw8qY/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기",
-  "title": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기",
+  "thumbnail": "https://i.ytimg.com/vi/4wts4pUvZFg/hqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기▫️",
+  "title": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기▫️",
   "subtag": "SPECIAL CONTENT"
 },
 
@@ -10719,6 +10719,120 @@ const 공식채널Cards = [
   "alt": "2026 시즌 그리팅 비하인드 [i-talk] #234 | i-dle (아이들)ㅣSUB",
   "title": "2026 시즌 그리팅 비하인드 [i-talk] #234 | i-dle (아이들)ㅣSUB",
   "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/NNOdLpm3N0M",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2026-01-16T19:00:42",
+  "duration": "00:06:39",
+  "thumbnail": "https://i.ytimg.com/vi/NNOdLpm3N0M/maxresdefault.jpg",
+  "alt": "미연의 드림콘서트 아부다비 2025 비하인드 [i-talk] #235 | i-dle (아이들)ㅣSUB",
+  "title": "미연의 드림콘서트 아부다비 2025 비하인드 [i-talk] #235 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/6uCcpCagpgE",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2026-01-19T19:00:10",
+  "duration": "00:11:55",
+  "thumbnail": "https://i.ytimg.com/vi/6uCcpCagpgE/maxresdefault.jpg",
+  "alt": "우기의 2025 절강위성 TV 연말 무대 비하인드 [i-talk] #236 | i-dle (아이들)ㅣSUB",
+  "title": "우기의 2025 절강위성 TV 연말 무대 비하인드 [i-talk] #236 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/w7j0aTM5ujk",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-01-20T00:00:01",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/w7j0aTM5ujk/maxresdefault.jpg",
+  "alt": "Play the whole world in Mono",
+  "title": "Play the whole world in Mono",
+  "subtag": "TEASER VIDEOS"
+},
+{
+  "link": "https://youtu.be/iryPiDMNQi4",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2026-01-25T18:01:04",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/iryPiDMNQi4/maxresdefault.jpg",
+  "alt": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
+  "title": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
+  "subtag": "TEASER VIDEOS"
+},
+
+{
+  "link": "https://youtu.be/czfUqN8FnVY",
+  "category": "공식채널",
+  "member": "민니",
+  "date": "2026-01-25T18:10:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/czfUqN8FnVY/maxresdefault.jpg",
+  "alt": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
+  "title": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
+  "subtag": "TEASER VIDEOS"
+},
+
+{
+  "link": "https://youtu.be/5xgYWdfUqSs",
+  "category": "공식채널",
+  "member": "소연",
+  "date": "2026-01-25T18:20:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/5xgYWdfUqSs/maxresdefault.jpg",
+  "alt": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
+  "title": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
+  "subtag": "TEASER VIDEOS"
+},
+
+{
+  "link": "https://youtu.be/OB0mOoP37rk",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2026-01-25T18:30:24",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/OB0mOoP37rk/maxresdefault.jpg",
+  "alt": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
+  "title": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
+  "subtag": "TEASER VIDEOS"
+},
+
+{
+  "link": "https://youtu.be/jD8-dEXJ6ok",
+  "category": "공식채널",
+  "member": "슈화",
+  "date": "2026-01-25T18:40:01",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/jD8-dEXJ6ok/maxresdefault.jpg",
+  "alt": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
+  "title": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
+  "subtag": "TEASER VIDEOS"
+},
+{
+  "link": "https://youtu.be/3NNz56niDVY",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-01-26T00:00:01",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/3NNz56niDVY/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' M/V Teaser",
+  "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' M/V Teaser",
+  "subtag": "TEASER VIDEOS"
+},
+{
+  "link": "https://youtu.be/iO84Mj--foQ",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-01-27T19:00:58",
+  "duration": "00:03:36",
+  "thumbnail": "https://i.ytimg.com/vi/iO84Mj--foQ/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' 응원법ㅣSUB",
+  "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' 응원법ㅣSUB",
+  "subtag": "FAN CHANT"
 }
 
 

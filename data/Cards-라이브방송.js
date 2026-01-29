@@ -343,8 +343,8 @@ const 라이브방송Cards = [
   "date": "2019-03-03T18:00:00",
   "duration": "00:38:57",
   "thumbnail": "https://i.ytimg.com/vi/Ds4MRjecO24/sddefault.jpg",
-  "alt": "여자아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE",
-  "title": "여자아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE",
+  "alt": "여자아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE▫️",
+  "title": "여자아이들 re:memVer party 2019 GLOBAL VLIVE TOP 10 ROOKIE STAGE▫️",
   "subtag": "그 외"
 },
 
@@ -811,9 +811,9 @@ const 라이브방송Cards = [
   "date": "2019-12-04T18:00:00",
   "duration": "00:11:36",
   "thumbnail": "https://i.ytimg.com/vi/a7ixQNDbsNA/hqdefault.jpg",
-  "alt": "Seezn 아이돌다방 녹화 10분전 라이브",
-  "title": "Seezn 아이돌다방 녹화 10분전 라이브",
-  "subtag": "위버스 라이브"
+  "alt": "Seezn 아이돌다방 녹화 10분전 라이브▫️",
+  "title": "Seezn 아이돌다방 녹화 10분전 라이브▫️",
+  "subtag": "그 외"
 },
 
 {
@@ -2239,9 +2239,9 @@ const 라이브방송Cards = [
   "date": "2020-11-13T18:00:00",
   "duration": "00:18:11",
   "thumbnail": "https://i.ytimg.com/vi/JO70MsFGHqA/maxresdefault.jpg",
-  "alt": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official",
-  "title": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official",
-  "subtag": "위버스 라이브"
+  "alt": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official▫️",
+  "title": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official▫️",
+  "subtag": "인스타 라이브"
 },
 
 {
@@ -5011,8 +5011,8 @@ const 라이브방송Cards = [
   "date": "2025-08-21T19:00:05",
   "duration": "00:27:54",
   "thumbnail": "https://i.ytimg.com/vi/-vL2WMSJD9Y/maxresdefault.jpg",
-  "alt": "미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh",
-  "title": "미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh",
+  "alt": "미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh▫️",
+  "title": "미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5023,8 +5023,8 @@ const 라이브방송Cards = [
   "date": "2025-08-21T19:00:06",
   "duration": "00:21:03",
   "thumbnail": "https://i.ytimg.com/vi/jPKT9lzK89k/maxresdefault.jpg",
-  "alt": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh",
-  "title": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh",
+  "alt": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh▫️",
+  "title": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5071,8 +5071,8 @@ const 라이브방송Cards = [
   "date": "2018-08-15T18:00:00",
   "duration": "01:30:41",
   "thumbnail": "https://i.ytimg.com/vi/TdOkalPqJ2Q/maxresdefault.jpg",
-  "alt": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV",
-  "title": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV",
+  "alt": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV▫️",
+  "title": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV▫️",
   "subtag": "그 외"
 },
 
@@ -5083,8 +5083,8 @@ const 라이브방송Cards = [
   "date": "2019-02-27T18:00:00",
   "duration": "01:21:14",
   "thumbnail": "https://i.ytimg.com/vi/wSQFfyo3L-A/maxresdefault.jpg",
-  "alt": "(여자)아이들 X 카우치토크 (G)I-DLE X CouchTalk",
-  "title": "(여자)아이들 X 카우치토크 (G)I-DLE X CouchTalk",
+  "alt": "(여자)아이들 X 카우치토크 (G)I-DLE X CouchTalk▫️",
+  "title": "(여자)아이들 X 카우치토크 (G)I-DLE X CouchTalk▫️",
   "subtag": "그 외"
 },
 
@@ -5095,8 +5095,8 @@ const 라이브방송Cards = [
   "date": "2019-07-06T18:00:00",
   "duration": "01:08:54",
   "thumbnail": "https://i.ytimg.com/vi/1ewquZ3jM94/maxresdefault.jpg",
-  "alt": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV",
-  "title": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV",
+  "alt": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV▫️",
+  "title": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV▫️",
   "subtag": "그 외"
 },
 
@@ -5107,8 +5107,8 @@ const 라이브방송Cards = [
   "date": "2020-03-29T18:00:00",
   "duration": "00:16:40",
   "thumbnail": "https://i.ytimg.com/vi/v6-wK5yJYTs/maxresdefault.jpg",
-  "alt": "(여자)아이들 트위치 라이브 Twitch Stream Aid 2020",
-  "title": "(여자)아이들 트위치 라이브 Twitch Stream Aid 2020",
+  "alt": "(여자)아이들 트위치 라이브 Twitch Stream Aid 2020▫️",
+  "title": "(여자)아이들 트위치 라이브 Twitch Stream Aid 2020▫️",
   "subtag": "그 외"
 },
 
@@ -5119,8 +5119,8 @@ const 라이브방송Cards = [
   "date": "2020-04-06T18:00:00",
   "duration": "01:10:30",
   "thumbnail": "https://i.ytimg.com/vi/tLNDjqyZ48U/maxresdefault.jpg",
-  "alt": "(여자)아이들 X 같이 먹어요 (G)I-DLE X Eating Show",
-  "title": "(여자)아이들 X 같이 먹어요 (G)I-DLE X Eating Show",
+  "alt": "(여자)아이들 X 같이 먹어요 (G)I-DLE X Eating Show▫️",
+  "title": "(여자)아이들 X 같이 먹어요 (G)I-DLE X Eating Show▫️",
   "subtag": "그 외"
 },
 
@@ -5131,8 +5131,8 @@ const 라이브방송Cards = [
   "date": "2020-04-07T18:00:00",
   "duration": "00:50:16",
   "thumbnail": "https://i.ytimg.com/vi/CYVbgWk_Zz4/maxresdefault.jpg",
-  "alt": "(여자)아이들 트위터 블루룸 라이브 | (G)I-DLE Twitter Blueroom Live",
-  "title": "(여자)아이들 트위터 블루룸 라이브 | (G)I-DLE Twitter Blueroom Live",
+  "alt": "(여자)아이들 트위터 블루룸 라이브 | (G)I-DLE Twitter Blueroom Live▫️",
+  "title": "(여자)아이들 트위터 블루룸 라이브 | (G)I-DLE Twitter Blueroom Live▫️",
   "subtag": "그 외"
 },
 
@@ -5143,8 +5143,8 @@ const 라이브방송Cards = [
   "date": "2020-08-05T18:00:00",
   "duration": "01:10:47",
   "thumbnail": "https://i.ytimg.com/vi/6AB5nxk0cAE/maxresdefault.jpg",
-  "alt": "(여자)아이들의 눕방라이브! | (G)I-DLE X LieV",
-  "title": "(여자)아이들의 눕방라이브! | (G)I-DLE X LieV",
+  "alt": "(여자)아이들의 눕방라이브! | (G)I-DLE X LieV▫️",
+  "title": "(여자)아이들의 눕방라이브! | (G)I-DLE X LieV▫️",
   "subtag": "그 외"
 },
 
@@ -5155,8 +5155,8 @@ const 라이브방송Cards = [
   "date": "2020-09-30T18:00:00",
   "duration": "00:09:29",
   "thumbnail": "https://i.ytimg.com/vi/edU4FwQ3CT0/maxresdefault.jpg",
-  "alt": "민니, 우기, 슈화 - 큐브 외국인라인 추석회동 라이브 (w. SORN, Elkie)",
-  "title": "민니, 우기, 슈화 - 큐브 외국인라인 추석회동 라이브 (w. SORN, Elkie)",
+  "alt": "민니, 우기, 슈화 - 큐브 외국인라인 추석회동 라이브 (w. SORN, Elkie)▫️",
+  "title": "민니, 우기, 슈화 - 큐브 외국인라인 추석회동 라이브 (w. SORN, Elkie)▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5167,8 +5167,8 @@ const 라이브방송Cards = [
   "date": "2023-01-07T18:00:00",
   "duration": "00:53:51",
   "thumbnail": "https://i.ytimg.com/vi/joA-DckMVc8/maxresdefault.jpg",
-  "alt": "슈화 인스타 라이브",
-  "title": "슈화 인스타 라이브",
+  "alt": "슈화 인스타 라이브▫️",
+  "title": "슈화 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5179,8 +5179,8 @@ const 라이브방송Cards = [
   "date": "2023-02-14T13:00:01",
   "duration": "00:05:55",
   "thumbnail": "https://i.ytimg.com/vi/8ACNL4c60g0/maxresdefault.jpg",
-  "alt": "미연 인스타 라이브 (1)",
-  "title": "미연 인스타 라이브 (1)",
+  "alt": "미연 인스타 라이브 (1)▫️",
+  "title": "미연 인스타 라이브 (1)▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5191,8 +5191,8 @@ const 라이브방송Cards = [
   "date": "2023-02-14T13:00:02",
   "duration": "00:42:40",
   "thumbnail": "https://i.ytimg.com/vi/oDdAd9K7N10/maxresdefault.jpg",
-  "alt": "미연 인스타 라이브 (2)",
-  "title": "미연 인스타 라이브 (2)",
+  "alt": "미연 인스타 라이브 (2)▫️",
+  "title": "미연 인스타 라이브 (2)▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5203,8 +5203,8 @@ const 라이브방송Cards = [
   "date": "2023-02-15T13:00:01",
   "duration": "00:27:12",
   "thumbnail": "https://i.ytimg.com/vi/WrJTiG3gFdQ/maxresdefault.jpg",
-  "alt": "우기 인스타 라이브 (1)",
-  "title": "우기 인스타 라이브 (1)",
+  "alt": "우기 인스타 라이브 (1)▫️",
+  "title": "우기 인스타 라이브 (1)▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5215,8 +5215,8 @@ const 라이브방송Cards = [
   "date": "2023-02-15T13:00:02",
   "duration": "00:05:58",
   "thumbnail": "https://i.ytimg.com/vi/so67vWbdCQE/maxresdefault.jpg",
-  "alt": "우기 인스타 라이브 (ft. 미연, 예나) (2)",
-  "title": "우기 인스타 라이브 (ft. 미연, 예나) (2)",
+  "alt": "우기 인스타 라이브 (ft. 미연, 예나) (2)▫️",
+  "title": "우기 인스타 라이브 (ft. 미연, 예나) (2)▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5227,8 +5227,8 @@ const 라이브방송Cards = [
   "date": "2023-04-10T18:00:00",
   "duration": "00:38:53",
   "thumbnail": "https://i.ytimg.com/vi/exlx8Isjyt4/maxresdefault.jpg",
-  "alt": "미연 인스타 라이브",
-  "title": "미연 인스타 라이브",
+  "alt": "미연 인스타 라이브▫️",
+  "title": "미연 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5239,8 +5239,8 @@ const 라이브방송Cards = [
   "date": "2023-04-17T13:00:01",
   "duration": "01:52:19",
   "thumbnail": "https://i.ytimg.com/vi/kgoWjmcHFsk/maxresdefault.jpg",
-  "alt": "슈화 인스타 라이브 (1)",
-  "title": "슈화 인스타 라이브 (1)",
+  "alt": "슈화 인스타 라이브 (1)▫️",
+  "title": "슈화 인스타 라이브 (1)▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5251,8 +5251,8 @@ const 라이브방송Cards = [
   "date": "2023-04-17T13:00:02",
   "duration": "01:08:40",
   "thumbnail": "https://i.ytimg.com/vi/DH5bvuOzW0o/maxresdefault.jpg",
-  "alt": "슈화 인스타 라이브 (2)",
-  "title": "슈화 인스타 라이브 (2)",
+  "alt": "슈화 인스타 라이브 (2)▫️",
+  "title": "슈화 인스타 라이브 (2)▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5263,8 +5263,8 @@ const 라이브방송Cards = [
   "date": "2023-05-29T18:00:00",
   "duration": "00:49:59",
   "thumbnail": "https://i.ytimg.com/vi/V-IQIDS0GaY/maxresdefault.jpg",
-  "alt": "민니 인스타 라이브",
-  "title": "민니 인스타 라이브",
+  "alt": "민니 인스타 라이브▫️",
+  "title": "민니 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5275,8 +5275,8 @@ const 라이브방송Cards = [
   "date": "2023-06-21T18:00:00",
   "duration": "01:19:34",
   "thumbnail": "https://i.ytimg.com/vi/iewYLY1w9Cc/maxresdefault.jpg",
-  "alt": "슈화 인스타 라이브",
-  "title": "슈화 인스타 라이브",
+  "alt": "슈화 인스타 라이브▫️",
+  "title": "슈화 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5287,8 +5287,8 @@ const 라이브방송Cards = [
   "date": "2023-07-15T18:00:00",
   "duration": "00:56:32",
   "thumbnail": "https://i.ytimg.com/vi/e91MQvH6wso/maxresdefault.jpg",
-  "alt": "슈화 인스타 라이브",
-  "title": "슈화 인스타 라이브",
+  "alt": "슈화 인스타 라이브▫️",
+  "title": "슈화 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5299,8 +5299,8 @@ const 라이브방송Cards = [
   "date": "2023-10-16T18:00:00",
   "duration": "00:10:14",
   "thumbnail": "https://i.ytimg.com/vi/vgi5Un6BGqU/maxresdefault.jpg",
-  "alt": "우기 별의별걸 인스타 라이브 (w. 츄, 츠키)",
-  "title": "우기 별의별걸 인스타 라이브 (w. 츄, 츠키)",
+  "alt": "우기 별의별걸 인스타 라이브 (w. 츄, 츠키)▫️",
+  "title": "우기 별의별걸 인스타 라이브 (w. 츄, 츠키)▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5311,8 +5311,8 @@ const 라이브방송Cards = [
   "date": "2023-10-18T18:00:00",
   "duration": "00:16:15",
   "thumbnail": "https://i.ytimg.com/vi/V1jZ2tf4KO0/maxresdefault.jpg",
-  "alt": "민니 인스타 라이브 (w. AKMU 찬혁, 수현)",
-  "title": "민니 인스타 라이브 (w. AKMU 찬혁, 수현)",
+  "alt": "민니 인스타 라이브 (w. AKMU 찬혁, 수현)▫️",
+  "title": "민니 인스타 라이브 (w. AKMU 찬혁, 수현)▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5323,8 +5323,8 @@ const 라이브방송Cards = [
   "date": "2023-12-08T18:00:00",
   "duration": "00:20:30",
   "thumbnail": "https://i.ytimg.com/vi/4FkprwaFTQ0/maxresdefault.jpg",
-  "alt": "미연 인스타 라이브",
-  "title": "미연 인스타 라이브",
+  "alt": "미연 인스타 라이브▫️",
+  "title": "미연 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5335,8 +5335,8 @@ const 라이브방송Cards = [
   "date": "2024-02-18T18:00:00",
   "duration": "00:13:43",
   "thumbnail": "https://i.ytimg.com/vi/JtN8mspOVCc/maxresdefault.jpg",
-  "alt": "미연 인스타 라이브",
-  "title": "미연 인스타 라이브",
+  "alt": "미연 인스타 라이브▫️",
+  "title": "미연 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5347,8 +5347,8 @@ const 라이브방송Cards = [
   "date": "2024-05-31T18:00:00",
   "duration": "01:25:14",
   "thumbnail": "https://i.ytimg.com/vi/QnKk5rM0uUk/maxresdefault.jpg",
-  "alt": "슈화 인스타 라이브",
-  "title": "슈화 인스타 라이브",
+  "alt": "슈화 인스타 라이브▫️",
+  "title": "슈화 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5359,8 +5359,8 @@ const 라이브방송Cards = [
   "date": "2024-07-25T18:00:00",
   "duration": "00:13:24",
   "thumbnail": "https://i.ytimg.com/vi/OFgseDtIFF0/maxresdefault.jpg",
-  "alt": "슈화 인스타 라이브",
-  "title": "슈화 인스타 라이브",
+  "alt": "슈화 인스타 라이브▫️",
+  "title": "슈화 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5371,8 +5371,8 @@ const 라이브방송Cards = [
   "date": "2024-08-10T18:00:00",
   "duration": "01:40:02",
   "thumbnail": "https://i.ytimg.com/vi/Zta1Bw4AEc4/maxresdefault.jpg",
-  "alt": "슈화 인스타 라이브 (w. 민니)",
-  "title": "슈화 인스타 라이브 (w. 민니)",
+  "alt": "슈화 인스타 라이브 (w. 민니)▫️",
+  "title": "슈화 인스타 라이브 (w. 민니)▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5383,8 +5383,8 @@ const 라이브방송Cards = [
   "date": "2024-08-17T18:00:00",
   "duration": "01:23:43",
   "thumbnail": "https://i.ytimg.com/vi/did4qSSTbec/maxresdefault.jpg",
-  "alt": "소연 인스타 라이브 (feat.우기)",
-  "title": "소연 인스타 라이브 (feat.우기)",
+  "alt": "소연 인스타 라이브 (feat.우기)▫️",
+  "title": "소연 인스타 라이브 (feat.우기)▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5395,8 +5395,8 @@ const 라이브방송Cards = [
   "date": "2024-09-06T18:00:00",
   "duration": "00:56:34",
   "thumbnail": "https://i.ytimg.com/vi/VFVNH6Cwh9k/maxresdefault.jpg",
-  "alt": "슈화 인스타 라이브",
-  "title": "슈화 인스타 라이브",
+  "alt": "슈화 인스타 라이브▫️",
+  "title": "슈화 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5407,8 +5407,8 @@ const 라이브방송Cards = [
   "date": "2024-09-11T18:00:00",
   "duration": "01:03:10",
   "thumbnail": "https://i.ytimg.com/vi/cjpSgtM-tPY/maxresdefault.jpg",
-  "alt": "슈화 인스타 라이브",
-  "title": "슈화 인스타 라이브",
+  "alt": "슈화 인스타 라이브▫️",
+  "title": "슈화 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5419,8 +5419,8 @@ const 라이브방송Cards = [
   "date": "2025-01-22T18:00:00",
   "duration": "00:13:11",
   "thumbnail": "https://i.ytimg.com/vi/_55EKvYjNBc/maxresdefault.jpg",
-  "alt": "우기 웨이보 라이브",
-  "title": "우기 웨이보 라이브",
+  "alt": "우기 웨이보 라이브▫️",
+  "title": "우기 웨이보 라이브▫️",
   "subtag": "웨이보 라이브"
 },
 
@@ -5431,8 +5431,8 @@ const 라이브방송Cards = [
   "date": "2025-01-27T18:00:00",
   "duration": "00:20:33",
   "thumbnail": "https://i.ytimg.com/vi/0MYSIyEOFnA/maxresdefault.jpg",
-  "alt": "민니 인스타 라이브",
-  "title": "민니 인스타 라이브",
+  "alt": "민니 인스타 라이브▫️",
+  "title": "민니 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5443,8 +5443,8 @@ const 라이브방송Cards = [
   "date": "2025-02-01T18:00:00",
   "duration": "01:03:51",
   "thumbnail": "https://i.ytimg.com/vi/xxwRusxrqNY/maxresdefault.jpg",
-  "alt": "민니 인스타 라이브",
-  "title": "민니 인스타 라이브",
+  "alt": "민니 인스타 라이브▫️",
+  "title": "민니 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5455,8 +5455,8 @@ const 라이브방송Cards = [
   "date": "2025-02-16T18:00:00",
   "duration": "00:13:17",
   "thumbnail": "https://i.ytimg.com/vi/QpbilHwLvaA/maxresdefault.jpg",
-  "alt": "(민니) 아는외고 인스타 라이브",
-  "title": "(민니) 아는외고 인스타 라이브",
+  "alt": "(민니) 아는외고 인스타 라이브▫️",
+  "title": "(민니) 아는외고 인스타 라이브▫️",
   "subtag": "그 외"
 },
 
@@ -5467,8 +5467,8 @@ const 라이브방송Cards = [
   "date": "2025-05-12T18:00:00",
   "duration": "00:11:55",
   "thumbnail": "https://i.ytimg.com/vi/0a6gHezYPsI/maxresdefault.jpg",
-  "alt": "민니 인스타 라이브",
-  "title": "민니 인스타 라이브",
+  "alt": "민니 인스타 라이브▫️",
+  "title": "민니 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5479,8 +5479,8 @@ const 라이브방송Cards = [
   "date": "2025-05-14T18:00:00",
   "duration": "00:28:51",
   "thumbnail": "https://i.ytimg.com/vi/VXD_XbPeq5g/maxresdefault.jpg",
-  "alt": "소연 인스타 라이브",
-  "title": "소연 인스타 라이브",
+  "alt": "소연 인스타 라이브▫️",
+  "title": "소연 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5491,8 +5491,8 @@ const 라이브방송Cards = [
   "date": "2025-05-18T18:00:00",
   "duration": "00:15:10",
   "thumbnail": "https://i.ytimg.com/vi/XNeqImxjfr4/maxresdefault.jpg",
-  "alt": "우기 인스타 라이브",
-  "title": "우기 인스타 라이브",
+  "alt": "우기 인스타 라이브▫️",
+  "title": "우기 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5503,8 +5503,8 @@ const 라이브방송Cards = [
   "date": "2025-05-28T18:00:00",
   "duration": "00:10:31",
   "thumbnail": "https://i.ytimg.com/vi/LgDN8M4F_tg/maxresdefault.jpg",
-  "alt": "미연 인스타 라이브",
-  "title": "미연 인스타 라이브",
+  "alt": "미연 인스타 라이브▫️",
+  "title": "미연 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5515,8 +5515,8 @@ const 라이브방송Cards = [
   "date": "2025-06-21T18:00:00",
   "duration": "00:15:28",
   "thumbnail": "https://i.ytimg.com/vi/Czmge6oihVY/maxresdefault.jpg",
-  "alt": "민니 인스타 라이브",
-  "title": "민니 인스타 라이브",
+  "alt": "민니 인스타 라이브▫️",
+  "title": "민니 인스타 라이브▫️",
   "subtag": "인스타 라이브"
 },
 
@@ -5527,8 +5527,8 @@ const 라이브방송Cards = [
   "date": "2021-02-11T18:00:00",
   "duration": "00:13:30",
   "thumbnail": "https://i.ytimg.com/vi/LorsXQ34_dI/maxresdefault.jpg",
-  "alt": "슈화 & 쯔위 라이브 (Voice Only)",
-  "title": "슈화 & 쯔위 라이브 (Voice Only)",
+  "alt": "슈화 & 쯔위 라이브 (Voice Only)▫️",
+  "title": "슈화 & 쯔위 라이브 (Voice Only)▫️",
   "subtag": "그 외"
 },
 {
@@ -5538,7 +5538,7 @@ const 라이브방송Cards = [
   "date": "2025-12-24T14:26:26",
   "duration": "00:07:50",
   "thumbnail": "https://statics.berriz.in/cdn/base/file/ve/uv/rp/tq/af/un/1414857541.jpeg",
-  "alt": "며니랑 미리 크리스마스💕💕💕",
+  "alt": "며니랑 미리 크리스마스💕💕💕 (1)",
   "title": "며니랑 미리 크리스마스💕💕💕 (1)",
   "subtag": "베리즈 라이브"
 },
@@ -5549,7 +5549,7 @@ const 라이브방송Cards = [
   "date": "2025-12-24T14:35:33",
   "duration": "00:29:38",
   "thumbnail": "https://statics.berriz.in/cdn/base/file/vj/uv/rp/tp/he/an/200428869.jpeg",
-  "alt": "며니랑 미리 크리스마스💕💕💕",
+  "alt": "며니랑 미리 크리스마스💕💕💕 (2)",
   "title": "며니랑 미리 크리스마스💕💕💕 (2)",
   "subtag": "베리즈 라이브"
 },
@@ -5571,7 +5571,7 @@ const 라이브방송Cards = [
     "date": "2025-12-30T13:51:53",
     "duration": "00:14:23",
     "thumbnail": "https://statics.berriz.in/cdn/base/file/ae/dv/hb/tw/zu/pf/989691274.jpeg",
-    "alt": "소연이의 잠깐라이브",
+    "alt": "소연이의 잠깐라이브 (1)",
     "title": "소연이의 잠깐라이브 (1)",
     "subtag": "베리즈 라이브"
   },
@@ -5582,10 +5582,33 @@ const 라이브방송Cards = [
     "date": "2025-12-30T14:09:07",
     "duration": "00:04:12",
     "thumbnail": "https://statics.berriz.in/cdn/base/file/re/da/cs/tp/bx/mp/1407331185.jpeg",
-    "alt": "다시 라이브",
+    "alt": "다시 라이브(2)",
     "title": "다시 라이브 (2)",
     "subtag": "베리즈 라이브"
+  },
+  {
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019be604-c6de-0da7-3f71-4646d2651ca3",
+    "category": "라이브방송",
+    "member": "민니",
+    "date": "2026-01-22T23:03:58",
+    "duration": "00:49:09",
+    "thumbnail": "https://statics.berriz.in/cdn/base/file/rf/mt/vr/rw/mw/zb/577523202.jpeg",
+    "alt": "밍이왔다💖",
+    "title": "밍이왔다💖",
+    "subtag": "베리즈 라이브"
+  },
+  {
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019bfec2-10be-1c4c-c912-38040e7373de",
+    "category": "라이브방송",
+    "member": "아이들",
+    "date": "2026-01-27T18:21:37",
+    "duration": "00:18:00",
+    "thumbnail": "https://statics.berriz.in/cdn/base/file/rf/bt/vg/to/rd/vx/737287708.jpeg",
+    "alt": "🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
+    "title": "🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
+    "subtag": "베리즈 라이브"
   }
+
 
 
 

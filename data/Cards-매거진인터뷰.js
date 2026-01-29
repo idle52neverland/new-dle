@@ -1041,8 +1041,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-04-01T23:30:35",
   "duration": "01:05:38",
   "thumbnail": "https://i.ytimg.com/vi/c8780vEbx1k/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8",
-  "title": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8"
+  "alt": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8▫️",
+  "title": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8▫️"
 },
 
 {
@@ -1261,8 +1261,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-07-29T22:47:06",
   "duration": "01:26:36",
   "thumbnail": "https://i.ytimg.com/vi/srJWnrV_6bw/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8",
-  "title": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8"
+  "alt": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8▫️",
+  "title": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8▫️"
 },
 
 {
@@ -1613,8 +1613,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-04-14T07:41:53",
   "duration": "00:42:51",
   "thumbnail": "https://i.ytimg.com/vi/ipoZi84MvCM/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6",
-  "title": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6"
+  "alt": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6▫️",
+  "title": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6▫️"
 },
 
 {
@@ -2031,8 +2031,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-03-15T18:16:44",
   "duration": "01:03:07",
   "thumbnail": "https://i.ytimg.com/vi/FcaH7yrYWgY/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6",
-  "title": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6"
+  "alt": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6▫️",
+  "title": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6▫️"
 },
 
 {
@@ -2097,8 +2097,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-09-02T18:43:52",
   "duration": "00:53:10",
   "thumbnail": "https://i.ytimg.com/vi/O2QV5HM8SYw/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6",
-  "title": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6"
+  "alt": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6▫️",
+  "title": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6▫️"
 },
 
 {
@@ -2185,8 +2185,8 @@ const 매거진인터뷰Cards = [
   "date": "2025-02-04T16:00:06",
   "duration": "00:01:01",
   "thumbnail": "https://i.ytimg.com/vi/QaeK_XwpeGI/maxresdefault.jpg",
-  "alt": "封面人物｜舒華，重啟初心：「初心與熱情很容易被遺忘，但記憶一直在，在某些時刻被激發，感覺會馬上被喚起。」",
-  "title": "封面人物｜舒華，重啟初心：「初心與熱情很容易被遺忘，但記憶一直在，在某些時刻被激發，感覺會馬上被喚起。」"
+  "alt": "封面人物｜舒華，重啟初心：「初心與熱情很容易被遺忘，但記憶一直在，在某些時刻被激發，感覺會馬上被喚起」",
+  "title": "封面人物｜舒華，重啟初心：「初心與熱情很容易被遺忘，但記憶一直在，在某些時刻被激發，感覺會馬上被喚起」"
 },
 
 {
@@ -2451,7 +2451,50 @@ const 매거진인터뷰Cards = [
   "thumbnail": "https://i.ytimg.com/vi/5C7vT7_eso4/maxresdefault.jpg",
   "alt": "[EN/JP/CN/쇼미유어백] MIYEON 자랑할게 너무 많은 아이들 미연🤗 가방 속 신박템+애정템 대공개👜💗",
   "title": "[EN/JP/CN/쇼미유어백] MIYEON 자랑할게 너무 많은 아이들 미연🤗 가방 속 신박템+애정템 대공개👜💗"
+},
+{
+  "link": "https://youtu.be/z_aGupIZ-kM",
+  "category": "매거진인터뷰",
+  "member": "미연",
+  "date": "2026-01-09T16:00:01",
+  "duration": "00:02:37",
+  "thumbnail": "https://i.ytimg.com/vi/z_aGupIZ-kM/maxresdefault.jpg",
+  "alt": "미연이 참가자를 부러워한 이유? \"선배님들의 피드백 저도 받고 싶어요\" | '베일드 뮤지션' 제작발표회 인터뷰",
+  "title": "미연이 참가자를 부러워한 이유? \"선배님들의 피드백 저도 받고 싶어요\" | '베일드 뮤지션' 제작발표회 인터뷰"
+},
+
+{
+  "link": "https://youtu.be/nChvmCkkzOc",
+  "category": "매거진인터뷰",
+  "member": "미연",
+  "date": "2026-01-09T16:00:02",
+  "duration": "00:03:12",
+  "thumbnail": "https://i.ytimg.com/vi/nChvmCkkzOc/maxresdefault.jpg",
+  "alt": "[4K] 아이들 미연, 오디션 심사위원 데뷔🎉 \"긴장됐지만…할 말은 해야죠!\" | '베일드 컵' 제작발표회",
+  "title": "[4K] 아이들 미연, 오디션 심사위원 데뷔🎉 \"긴장됐지만…할 말은 해야죠!\" | '베일드 컵' 제작발표회"
+},
+{
+  "link": "https://youtu.be/e00uYDAKMIA",
+  "category": "매거진인터뷰",
+  "member": "미연",
+  "date": "2026-01-09T16:00:03",
+  "duration": "00:01:09",
+  "thumbnail": "https://i.ytimg.com/vi/e00uYDAKMIA/maxresdefault.jpg",
+  "alt": "아이들 미연(MIYEON), '막내는 참지 않아🔥' #미연 #MIYEON #베일드컵",
+  "title": "아이들 미연(MIYEON), '막내는 참지 않아🔥' #미연 #MIYEON #베일드컵"
+},
+{
+  "link": "https://youtu.be/xsYuvAupSHQ",
+  "category": "매거진인터뷰",
+  "member": "미연",
+  "date": "2026-01-09T16:00:04",
+  "duration": "00:53:36",
+  "thumbnail": "https://i.ytimg.com/vi/xsYuvAupSHQ/maxresdefault.jpg",
+  "alt": "[ENG/JPN/풀영상] '베일드 컵' 제작발표회｜티파니 영 Tiffany SNSD·미연 Miyeon I-dle·권정열 10CM·에일리 Ailee·폴킴 Paul Kim",
+  "title": "[ENG/JPN/풀영상] '베일드 컵' 제작발표회｜티파니 영 Tiffany SNSD·미연 Miyeon I-dle·권정열 10CM·에일리 Ailee·폴킴 Paul Kim"
 }
+
+
 
 ];
 window.매거진인터뷰Cards = 매거진인터뷰Cards;

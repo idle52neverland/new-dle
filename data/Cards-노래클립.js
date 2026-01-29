@@ -3610,6 +3610,36 @@ const 노래클립Cards = [
   "thumbnail": "https://i.ytimg.com/vi/CHM3ngaxoyg/maxresdefault.jpg",
   "alt": "(심장아 나대지 마...) 비주얼만큼 열일하는 음색💕 눈도 귀도 호강하는 '미연' #모아듣기 #오픈마이크",
   "title": "(심장아 나대지 마...) 비주얼만큼 열일하는 음색💕 눈도 귀도 호강하는 '미연' #모아듣기 #오픈마이크"
+},
+{
+  "link": "https://youtu.be/VjbIggB8KZM?t=01h16m10s",
+  "category": "노래클립",
+  "member": "민니",
+  "date": "2026-01-08T18:34:08",
+  "duration": "02:12:26",
+  "thumbnail": "https://i.ytimg.com/vi/VjbIggB8KZM/maxresdefault.jpg",
+  "alt": "OPPO Reno15 Series 5G Launch Event",
+  "title": "Minnie x Jeff Satur 'Dum Dum' + 'Obsession' | OPPO Reno15 Series 5G Launch Event (1:16:10~1:32:48)"
+},
+{
+  "link": "https://youtu.be/y1zFWQaGSlk",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-27T16:30:27",
+  "duration": "00:02:49",
+  "thumbnail": "https://i.ytimg.com/vi/y1zFWQaGSlk/maxresdefault.jpg",
+  "alt": "[ALLIVE] i-dle (아이들) - Mono (Feat. skaiwater) | #MBCRADIO #정오의희망곡김신영입니다 #아이들 #idle | MBC 260127 방송",
+  "title": "[ALLIVE] i-dle (아이들) - Mono (Feat. skaiwater) | #MBCRADIO #정오의희망곡김신영입니다 #아이들 #idle | MBC 260127 방송"
+},
+{
+  "link": "https://youtu.be/I4lIeunT89c",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-28T22:00:40",
+  "duration": "00:03:14",
+  "thumbnail": "https://i.ytimg.com/vi/I4lIeunT89c/maxresdefault.jpg",
+  "alt": "i-dle(아이들) 'Mono (Feat. skaiwater)' (4K) | STUDIO CHOOM ORIGINAL",
+  "title": "i-dle(아이들) 'Mono (Feat. skaiwater)' (4K) | STUDIO CHOOM ORIGINAL"
 }
 
 

@@ -12,14 +12,14 @@ const 녹음비하인드Cards = [
 },
 
 {
-  "link": "https://youtu.be/S3DVpMbd9Aw",
+  "link": "https://youtu.be/S3DVpMbd9Aw?t=02m23s",
   "category": "녹음비하인드",
   "member": "소연",
   "date": "2020-07-21T18:00:13",
   "duration": "00:06:43",
   "thumbnail": "https://i.ytimg.com/vi/S3DVpMbd9Aw/maxresdefault.jpg",
   "alt": "소연 - HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ Behind The Scenes",
-  "title": "(소연 02:23~) - HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ Behind The Scenes"
+  "title": "(02:23~) HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ Behind The Scenes"
 },
 
 {
@@ -62,19 +62,19 @@ const 녹음비하인드Cards = [
   "date": "2021-05-21T21:20:01",
   "duration": "00:03:13",
   "thumbnail": "https://i.ytimg.com/vi/6buVI3G8LZ8/maxresdefault.jpg",
-  "alt": "(여자)아이들 -  Last Dance (Prod. GroovyRoom) 녹음 비하인드",
-  "title": "(여자)아이들 -  Last Dance (Prod. GroovyRoom) 녹음 비하인드"
+  "alt": "(여자)아이들 -  Last Dance (Prod. GroovyRoom) 녹음 비하인드▫️",
+  "title": "(여자)아이들 -  Last Dance (Prod. GroovyRoom) 녹음 비하인드▫️"
 },
 
 {
-  "link": "https://youtu.be/rI-88uYZNyE",
+  "link": "https://youtu.be/rI-88uYZNyE?t=07m17s",
   "category": "녹음비하인드",
   "member": "미연",
   "date": "2021-10-24T21:00:33",
   "duration": "00:16:34",
   "thumbnail": "https://i.ytimg.com/vi/rI-88uYZNyE/maxresdefault.jpg",
   "alt": "Raiden Love Right Back Recording Behind the Scene",
-  "title": "(미연 07:17~) Raiden Love Right Back Recording Behind the Scene"
+  "title": "(07:17~) Raiden Love Right Back Recording Behind the Scene"
 },
 
 {
@@ -122,14 +122,14 @@ const 녹음비하인드Cards = [
 },
 
 {
-  "link": "https://youtu.be/4zKHhA_HtKQ",
+  "link": "https://youtu.be/4zKHhA_HtKQ?t=04m03s",
   "category": "녹음비하인드",
   "member": "민니",
   "date": "2022-07-05T12:00:02",
   "duration": "00:06:30",
   "thumbnail": "https://i.ytimg.com/vi/4zKHhA_HtKQ/maxresdefault.jpg",
   "alt": "헤이즈(Heize) - The 2nd Album [Undo] Album Making Film Ep.3",
-  "title": "(민니 04:03~) - 헤이즈(Heize) - The 2nd Album [Undo] Album Making Film Ep.3"
+  "title": "(04:03~) 헤이즈(Heize) - The 2nd Album [Undo] Album Making Film Ep.3"
 },
 
 {
@@ -592,17 +592,6 @@ const 녹음비하인드Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pjtTA-gGy9k/hqdefault.jpg",
   "alt": "i-dle (아이들) 'Unstoppable' Recording BehindㅣSUB",
   "title": "i-dle (아이들) 'Unstoppable' Recording BehindㅣSUB"
-},
-
-{
-  "link": "https://youtu.be/fnW6z7a5Hm8",
-  "category": "녹음비하인드",
-  "member": "미연",
-  "date": "2025-06-26T18:00:00",
-  "duration": "00:03:27",
-  "thumbnail": "https://i.ytimg.com/vi/fnW6z7a5Hm8/maxresdefault.jpg",
-  "alt": "미연 - 너는 나의 숨이었다",
-  "title": "미연 - 너는 나의 숨이었다"
 },
 
 {

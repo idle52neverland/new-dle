@@ -659,7 +659,16 @@ const 기타Cards = [
   "alt": "[놀토: FATE 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |",
   "title": "[놀토: FATE 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |"
 },
-
+{
+  "link": "https://youtu.be/6o8AyVtB1ZM",
+  "category": "기타",
+  "member": "미연",
+  "date": "2024-08-05T21:22:20",
+  "duration": "00:01:14",
+  "thumbnail": "https://i.ytimg.com/vi/6o8AyVtB1ZM/maxresdefault.jpg",
+  "alt": "(여자)아이들 미연, '혜리 덕분에 특별출연 했어요' 극장 사로잡는 꽃미모··· '빅토리' VIP시사회 [비하인드] #GIDLE #MIYEON",
+  "title": "(여자)아이들 미연, '혜리 덕분에 특별출연 했어요' 극장 사로잡는 꽃미모··· '빅토리' VIP시사회 [비하인드] #GIDLE #MIYEON"
+},
 {
   "link": "https://youtu.be/zwZg-ocBEuU",
   "category": "기타",
@@ -987,6 +996,26 @@ const 기타Cards = [
   "thumbnail": "https://i.ytimg.com/vi/_2oTziF5atw/sddefault.jpg",
   "alt": "[미연] Raiden \"Love Right Back\" Highlight Medley Behind the Scene",
   "title": "[미연] Raiden \"Love Right Back\" Highlight Medley Behind the Scene"
+},
+{
+  "link": "https://youtu.be/M2LREokbIUg?t=06m40s",
+  "category": "기타",
+  "member": "미연",
+  "date": "2026-01-14T18:00:35",
+  "duration": "00:14:24",
+  "thumbnail": "https://i.ytimg.com/vi/M2LREokbIUg/maxresdefault.jpg",
+  "alt": "[06:40~07:31] (ENG)나 마라엽떡 먹어도 되까~?😆 먹어도 된다고 해서 찍어본 마라엽떡 먹방",
+  "title": "[06:40~07:31] (ENG)나 마라엽떡 먹어도 되까~?😆 먹어도 된다고 해서 찍어본 마라엽떡 먹방"
+},
+{
+  "link": "https://youtu.be/FehXr6GSRKo?t=13m10s",
+  "category": "기타",
+  "member": "미연",
+  "date": "2026-01-16T17:59:00",
+  "duration": "00:19:10",
+  "thumbnail": "https://i.ytimg.com/vi/FehXr6GSRKo/maxresdefault.jpg",
+  "alt": "[13:10~14:24] RESCENE (리센느) 'Heart Drop' 음악방송 챌린지 Behind",
+  "title": "[13:10~14:24] RESCENE (리센느) 'Heart Drop' 음악방송 챌린지 Behind"
 }
 
 ];

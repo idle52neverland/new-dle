@@ -18139,6 +18139,96 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/iti50jdoed8/maxresdefault.jpg",
   "alt": "우리 막내 생일축하해~🎂",
   "title": "우리 막내 생일축하해~🎂"
+},
+{
+  "link": "https://youtu.be/H8BEncTbQ0k",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2026-01-08T18:00:26",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/H8BEncTbQ0k/hqdefault.jpg",
+  "alt": "미연의 쇼츠 세계",
+  "title": "미연의 쇼츠 세계"
+},
+{
+  "link": "https://youtu.be/hlFE5mBKXHw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2026-01-12T17:00:54",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/hlFE5mBKXHw/maxresdefault.jpg",
+  "alt": "조팔랑 💃",
+  "title": "조팔랑 💃"
+},
+{
+  "link": "https://youtu.be/8AcE9p5P1IA",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2026-01-15T23:30:24",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/8AcE9p5P1IA/maxresdefault.jpg",
+  "alt": "아~ 아름답다🌹 with #민니 선배님❤️",
+  "title": "아~ 아름답다🌹 with #민니 선배님❤️"
+},
+{
+  "link": "https://youtu.be/EPYzCXthC_U",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2026-01-24T14:00:22",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/EPYzCXthC_U/maxresdefault.jpg",
+  "alt": "Mono outfit",
+  "title": "Mono outfit"
+},
+{
+  "link": "https://youtu.be/MBuCukguH1Y",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2026-01-27T18:30:16",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/MBuCukguH1Y/maxresdefault.jpg",
+  "alt": "Play the whole world in Mono",
+  "title": "Play the whole world in Mono"
+},
+{
+  "link": "https://youtu.be/8qO-XTW3S3w",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2026-01-28T11:00:07",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/8qO-XTW3S3w/maxresdefault.jpg",
+  "alt": "Join our La la la la la da",
+  "title": "Join our La la la la la da"
+},
+{
+  "link": "https://youtu.be/pIWj_nZ3tVc",
+  "category": "Shorts",
+  "member": "미연, 민니",
+  "date": "2026-01-28T19:01:24",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/pIWj_nZ3tVc/maxresdefault.jpg",
+  "alt": "You know you’re born to love",
+  "title": "You know you’re born to love"
+},
+{
+  "link": "https://youtu.be/icZT5adwWEY",
+  "category": "Shorts",
+  "member": "소연, 슈화",
+  "date": "2026-01-28T19:10:00",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/icZT5adwWEY/maxresdefault.jpg",
+  "alt": "Every day and night, dance to your real vibe",
+  "title": "Every day and night, dance to your real vibe"
+},
+{
+  "link": "https://youtu.be/lBix_gC2KUY",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2026-01-28T19:20:00",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/lBix_gC2KUY/maxresdefault.jpg",
+  "alt": "Cause love is louder in Mono",
+  "title": "Cause love is louder in Mono"
 }
 
 

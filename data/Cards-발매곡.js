@@ -1678,6 +1678,17 @@ const 발매곡Cards = [
   "alt": "미연 (MIYEON) 'F.F.L.Y' SPECIAL CLIP",
   "title": "미연 (MIYEON) 'F.F.L.Y' SPECIAL CLIP",
   "subtag": "Special Clip"
+},
+{
+  "link": "https://youtu.be/DYgE3SGPEqk",
+  "category": "발매곡",
+  "member": "아이들",
+  "date": "2026-01-27T18:00:01",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/DYgE3SGPEqk/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video",
+  "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video",
+  "subtag": "MV"
 }
 
 ];
