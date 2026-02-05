@@ -1479,66 +1479,71 @@ const 노래클립Cards = [
   "link": "https://youtu.be/7BDms0-EZQA",
   "category": "노래클립",
   "member": "아이들",
-  "date": "2022-04-06T20:00:03",
+  "date": "2022-04-06T20:00:01",
   "duration": "00:03:33",
   "thumbnail": "https://i.ytimg.com/vi/7BDms0-EZQA/sddefault.jpg",
   "alt": "[플리예고LIVE] (여자)아이들 – TOMBOY | 뭐? 어젯밤에 (옆반)아이들이 학교 뒤집어놨다고?🤷‍",
   "title": "[플리예고LIVE] (여자)아이들 – TOMBOY | 뭐? 어젯밤에 (옆반)아이들이 학교 뒤집어놨다고?🤷‍"
 },
-
-{
-  "link": "https://youtu.be/3rF3F6epJYI",
-  "category": "노래클립",
-  "member": "슈화",
-  "date": "2022-04-15T20:00:01",
-  "duration": "00:03:11",
-  "thumbnail": "https://i.ytimg.com/vi/3rF3F6epJYI/sddefault.jpg",
-  "alt": "[4K] [Fancam ver.] 슈화(SHUHUA) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE",
-  "title": "[4K] [Fancam ver.] 슈화(SHUHUA) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE"
-},
-
-{
-  "link": "https://youtu.be/0brG_P4Ta50",
-  "category": "노래클립",
-  "member": "미연",
-  "date": "2022-04-15T20:00:02",
-  "duration": "00:03:11",
-  "thumbnail": "https://i.ytimg.com/vi/0brG_P4Ta50/sddefault.jpg",
-  "alt": "[4K] [Fancam ver.] 미연(MIYEON) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE",
-  "title": "[4K] [Fancam ver.] 미연(MIYEON) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE"
-},
-
-{
-  "link": "https://youtu.be/LP120f6woG0",
-  "category": "노래클립",
-  "member": "소연",
-  "date": "2022-04-15T20:00:17",
-  "duration": "00:03:11",
-  "thumbnail": "https://i.ytimg.com/vi/LP120f6woG0/sddefault.jpg",
-  "alt": "[4K] [Fancam ver.] 소연(SOYEON) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE",
-  "title": "[4K] [Fancam ver.] 소연(SOYEON) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE"
-},
-
 {
   "link": "https://youtu.be/t-b5J1DgVFI",
   "category": "노래클립",
   "member": "아이들",
-  "date": "2022-04-15T20:00:26",
+  "date": "2022-04-06T20:00:02",
   "duration": "00:03:11",
   "thumbnail": "https://i.ytimg.com/vi/t-b5J1DgVFI/sddefault.jpg",
   "alt": "[4K] (G)I-DLE((여자)아이들) – 'TOMBOY' Onetake cam ver. | #플리예고LIVE",
   "title": "[4K] (G)I-DLE((여자)아이들) – 'TOMBOY' Onetake cam ver. | #플리예고LIVE"
 },
-
+{
+  "link": "https://youtu.be/0brG_P4Ta50",
+  "category": "노래클립",
+  "member": "미연",
+  "date": "2022-04-06T20:00:03",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/0brG_P4Ta50/sddefault.jpg",
+  "alt": "[4K] [Fancam ver.] 미연(MIYEON) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE",
+  "title": "[4K] [Fancam ver.] 미연(MIYEON) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE"
+},
 {
   "link": "https://youtu.be/cIPTp8W-I50",
   "category": "노래클립",
   "member": "민니",
-  "date": "2022-04-15T20:00:30",
+  "date": "2022-04-06T20:00:04",
   "duration": "00:03:11",
   "thumbnail": "https://i.ytimg.com/vi/cIPTp8W-I50/sddefault.jpg",
   "alt": "[4K] [Fancam ver.] 민니(MINNIE) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE",
   "title": "[4K] [Fancam ver.] 민니(MINNIE) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE"
+},
+{
+  "link": "https://youtu.be/LP120f6woG0",
+  "category": "노래클립",
+  "member": "소연",
+  "date": "2022-04-06T20:00:05",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/LP120f6woG0/sddefault.jpg",
+  "alt": "[4K] [Fancam ver.] 소연(SOYEON) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE",
+  "title": "[4K] [Fancam ver.] 소연(SOYEON) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE"
+},
+{
+  "link": "https://youtu.be/1GlBEGX-gjs",
+  "category": "노래클립",
+  "member": "우기",
+  "date": "2022-04-06T20:00:06",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/1GlBEGX-gjs/maxresdefault.jpg",
+  "alt": "[4K] [Fancam ver.] 우기(YUQI) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE",
+  "title": "[4K] [Fancam ver.] 우기(YUQI) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE"
+},
+{
+  "link": "https://youtu.be/3rF3F6epJYI",
+  "category": "노래클립",
+  "member": "슈화",
+  "date": "2022-04-06T20:00:07",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/3rF3F6epJYI/sddefault.jpg",
+  "alt": "[4K] [Fancam ver.] 슈화(SHUHUA) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE",
+  "title": "[4K] [Fancam ver.] 슈화(SHUHUA) | (G)I-DLE((여자)아이들) – TOMBOY | #플리예고LIVE"
 },
 
 {
@@ -2081,7 +2086,7 @@ const 노래클립Cards = [
   "link": "https://youtu.be/5hVBjS1Vgjs",
   "category": "노래클립",
   "member": "아이들",
-  "date": "2023-05-22T00:14:42",
+  "date": "2023-05-21T00:14:42",
   "duration": "00:01:39",
   "thumbnail": "https://i.ytimg.com/vi/5hVBjS1Vgjs/sddefault.jpg",
   "alt": "[#더시즌즈] [세로] (여자) 아이들 - 주저하는 연인들을 위해 [더 시즌즈-최정훈의 밤의공원]",
@@ -2092,7 +2097,7 @@ const 노래클립Cards = [
   "link": "https://youtu.be/mxwX-dUMR0Y",
   "category": "노래클립",
   "member": "아이들",
-  "date": "2023-05-22T00:26:33",
+  "date": "2023-05-21T00:26:33",
   "duration": "00:03:00",
   "thumbnail": "https://i.ytimg.com/vi/mxwX-dUMR0Y/sddefault.jpg",
   "alt": "[#더시즌즈] 밤의 공원을 위해 (여자)아이들이 준비한 잔나비의 ‘주저하는 연인들을 위해’♪ [더 시즌즈-최정훈의 밤의공원]",
@@ -2103,7 +2108,7 @@ const 노래클립Cards = [
   "link": "https://youtu.be/63CR6ssrvr8",
   "category": "노래클립",
   "member": "아이들",
-  "date": "2023-05-22T00:27:29",
+  "date": "2023-05-21T00:27:29",
   "duration": "00:02:51",
   "thumbnail": "https://i.ytimg.com/vi/63CR6ssrvr8/sddefault.jpg",
   "alt": "[#더시즌즈] (여자)아이들 - 퀸카(Queencard) [더 시즌즈-최정훈의 밤의공원]",
@@ -2367,7 +2372,7 @@ const 노래클립Cards = [
   "link": "https://youtu.be/bjyS46qzAfw",
   "category": "노래클립",
   "member": "아이들",
-  "date": "2024-02-12T17:00:14",
+  "date": "2024-02-02T23:56:45",
   "duration": "00:01:23",
   "thumbnail": "https://i.ytimg.com/vi/bjyS46qzAfw/sddefault.jpg",
   "alt": "[#더시즌즈] Abracadabra - (여자)아이들 [더 시즌즈-이효리의 레드카펫]",
@@ -2907,8 +2912,8 @@ const 노래클립Cards = [
   "date": "2025-05-22T02:09:16",
   "duration": "00:03:10",
   "thumbnail": "https://i.ytimg.com/vi/0W9typBAv0s/maxresdefault.jpg",
-  "alt": "i-dle (아이들) - Coin (코인) | 아이유의 팔레트🎨",
-  "title": "i-dle (아이들) - Coin (코인) | 아이유의 팔레트🎨"
+  "alt": "i-dle (아이들) - Coin (코인) | 아이유의 팔레트🎨◾️",
+  "title": "i-dle (아이들) - Coin (코인) | 아이유의 팔레트🎨◾️"
 },
 
 {
@@ -3400,17 +3405,6 @@ const 노래클립Cards = [
   "date": "2025-11-06T08:00:26",
   "duration": "00:02:39",
   "thumbnail": "https://i.ytimg.com/vi/JugKwutXLgg/maxresdefault.jpg",
-  "alt": "[4K직캠] 미연 (MIYEON) - Say My Name",
-  "title": "[4K직캠] 미연 (MIYEON) - Say My Name"
-},
-
-{
-  "link": "https://youtu.be/JugKwutXLgg",
-  "category": "노래클립",
-  "member": "미연",
-  "date": "2025-11-06T08:00:26",
-  "duration": "00:02:39",
-  "thumbnail": "https://i.ytimg.com/vi/JugKwutXLgg/maxresdefault.jpg",
   "alt": "[4K직캠] 미연 (MIYEON) - Say My Name  | 친한친구 이현입니다",
   "title": "[4K직캠] 미연 (MIYEON) - Say My Name  | 친한친구 이현입니다"
 },
@@ -3632,15 +3626,216 @@ const 노래클립Cards = [
   "title": "[ALLIVE] i-dle (아이들) - Mono (Feat. skaiwater) | #MBCRADIO #정오의희망곡김신영입니다 #아이들 #idle | MBC 260127 방송"
 },
 {
+  "link": "https://youtu.be/jF6bcQHQOH8",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-27T16:30:28",
+  "duration": "00:02:47",
+  "thumbnail": "https://i.ytimg.com/vi/jF6bcQHQOH8/maxresdefault.jpg",
+  "alt": "[4K직캠] i-dle (아이들) - Mono | #정오의희망곡김신영입니다",
+  "title": "[4K직캠] i-dle (아이들) - Mono | #정오의희망곡김신영입니다"
+},
+{
+  "link": "https://youtu.be/Snp_ibL71zw",
+  "category": "노래클립",
+  "member": "민니",
+  "date": "2026-01-27T16:30:29",
+  "duration": "00:03:12",
+  "thumbnail": "https://i.ytimg.com/vi/Snp_ibL71zw/maxresdefault.jpg",
+  "alt": "인간 모노 그 자체가 된 🤍아이들 민니(i-dle MINNIE)🖤의 Mono 라이브 왕크왕캠💗 | #정오의희망곡김신영입니다",
+  "title": "인간 모노 그 자체가 된 🤍아이들 민니(i-dle MINNIE)🖤의 Mono 라이브 왕크왕캠💗 | #정오의희망곡김신영입니다"
+},
+
+
+{
   "link": "https://youtu.be/I4lIeunT89c",
   "category": "노래클립",
   "member": "아이들",
-  "date": "2026-01-28T22:00:40",
+  "date": "2026-01-28T22:00:39",
   "duration": "00:03:14",
   "thumbnail": "https://i.ytimg.com/vi/I4lIeunT89c/maxresdefault.jpg",
   "alt": "i-dle(아이들) 'Mono (Feat. skaiwater)' (4K) | STUDIO CHOOM ORIGINAL",
   "title": "i-dle(아이들) 'Mono (Feat. skaiwater)' (4K) | STUDIO CHOOM ORIGINAL"
+},
+{
+  "link": "https://youtu.be/UhO0UyE5108",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-28T22:00:40",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/UhO0UyE5108/maxresdefault.jpg",
+  "alt": "(Full Focused) i-dle(아이들) 'Mono (Feat. skaiwater)' (4K) | STUDIO CHOOM ORIGINAL",
+  "title": "(Full Focused) i-dle(아이들) 'Mono (Feat. skaiwater)' (4K) | STUDIO CHOOM ORIGINAL"
+},
+{
+  "link": "https://youtu.be/Ji-JT6acABU",
+  "category": "노래클립",
+  "member": "미연",
+  "date": "2026-01-28T22:00:41",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/Ji-JT6acABU/maxresdefault.jpg",
+  "alt": "[UNFILTERED CAM] i-dle MIYEON(미연) 'Mono (Feat. skaiwater)' 4K | STUDIO CHOOM ORIGINAL",
+  "title": "[UNFILTERED CAM] i-dle MIYEON(미연) 'Mono (Feat. skaiwater)' 4K | STUDIO CHOOM ORIGINAL"
+},
+{
+  "link": "https://youtu.be/_mDaDeZWDbw",
+  "category": "노래클립",
+  "member": "민니",
+  "date": "2026-01-28T22:00:42",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/_mDaDeZWDbw/maxresdefault.jpg",
+  "alt": "[UNFILTERED CAM] i-dle MINNIE(민니) 'Mono (Feat. skaiwater)' 4K | STUDIO CHOOM ORIGINAL",
+  "title": "[UNFILTERED CAM] i-dle MINNIE(민니) 'Mono (Feat. skaiwater)' 4K | STUDIO CHOOM ORIGINAL"
+},
+
+{
+  "link": "https://youtu.be/oTqdqXHAaXs",
+  "category": "노래클립",
+  "member": "소연",
+  "date": "2026-01-28T22:00:43",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/oTqdqXHAaXs/maxresdefault.jpg",
+  "alt": "[UNFILTERED CAM] i-dle SOYEON(소연) 'Mono (Feat. skaiwater)' 4K | STUDIO CHOOM ORIGINAL",
+  "title": "[UNFILTERED CAM] i-dle SOYEON(소연) 'Mono (Feat. skaiwater)' 4K | STUDIO CHOOM ORIGINAL"
+},
+
+{
+  "link": "https://youtu.be/BjIk63Kndzs",
+  "category": "노래클립",
+  "member": "우기",
+  "date": "2026-01-28T22:00:44",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/BjIk63Kndzs/maxresdefault.jpg",
+  "alt": "[UNFILTERED CAM] i-dle YUQI(우기) 'Mono (Feat. skaiwater)' 4K | STUDIO CHOOM ORIGINAL",
+  "title": "[UNFILTERED CAM] i-dle YUQI(우기) 'Mono (Feat. skaiwater)' 4K | STUDIO CHOOM ORIGINAL"
+},
+
+{
+  "link": "https://youtu.be/CA8CuX-l5GE",
+  "category": "노래클립",
+  "member": "슈화",
+  "date": "2026-01-28T22:00:45",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/CA8CuX-l5GE/maxresdefault.jpg",
+  "alt": "[UNFILTERED CAM] i-dle SHUHUA(슈화) 'Mono (Feat. skaiwater)' 4K | STUDIO CHOOM ORIGINAL",
+  "title": "[UNFILTERED CAM] i-dle SHUHUA(슈화) 'Mono (Feat. skaiwater)' 4K | STUDIO CHOOM ORIGINAL"
+},
+{
+  "link": "https://youtu.be/M1GrPemu7vk",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-30T22:30:34",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/M1GrPemu7vk/maxresdefault.jpg",
+  "alt": "[4K 세로] i-dle - TOMBOY+퀸카+나는 아픈 건 딱 질색이니까 #더시즌즈​ #10cm의쓰담쓰담​ l KBS 260130 방송",
+  "title": "[4K 세로] i-dle - TOMBOY+퀸카+나는 아픈 건 딱 질색이니까 #더시즌즈​ #10cm의쓰담쓰담​ l KBS 260130 방송"
+},
+
+{
+  "link": "https://youtu.be/4AUrkTLy_yo",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-30T22:31:17",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/4AUrkTLy_yo/maxresdefault.jpg",
+  "alt": "[4K 직캠] i-dle (아이들) - TOMBOY+퀸카+나는 아픈 건 딱 질색이니까 #더시즌즈​ #10cm의쓰담쓰담​ l KBS 260130 방송",
+  "title": "[4K 직캠] i-dle (아이들) - TOMBOY+퀸카+나는 아픈 건 딱 질색이니까 #더시즌즈​ #10cm의쓰담쓰담​ l KBS 260130 방송"
+},
+
+{
+  "link": "https://youtu.be/n5wFgMAi_ac",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-30T22:49:03",
+  "duration": "00:03:06",
+  "thumbnail": "https://i.ytimg.com/vi/n5wFgMAi_ac/maxresdefault.jpg",
+  "alt": "[4K 세로] i-dle (아이들) - Mono (Feat. skaiwater) #더시즌즈​ #10cm의쓰담쓰담​ l KBS 260130 방송",
+  "title": "[4K 세로] i-dle (아이들) - Mono (Feat. skaiwater) #더시즌즈​ #10cm의쓰담쓰담​ l KBS 260130 방송"
+},
+
+{
+  "link": "https://youtu.be/crj1Vq83l8Y",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-30T22:49:29",
+  "duration": "00:03:06",
+  "thumbnail": "https://i.ytimg.com/vi/crj1Vq83l8Y/maxresdefault.jpg",
+  "alt": "[4K 직캠] i-dle (아이들) - Mono (Feat. skaiwater) #더시즌즈​ #10cm의쓰담쓰담​ l KBS 260130 방송",
+  "title": "[4K 직캠] i-dle (아이들) - Mono (Feat. skaiwater) #더시즌즈​ #10cm의쓰담쓰담​ l KBS 260130 방송"
+},
+{
+  "link": "https://youtu.be/M456pxN0T0M",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-30T22:54:16",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/M456pxN0T0M/maxresdefault.jpg",
+  "alt": "i-dle (아이들) - TOMBOY + 퀸카 (Queencard) + 나는 아픈 건 딱 질색이니까 [더시즌즈-10CM의 쓰담쓰담] | KBS 260130 방송",
+  "title": "i-dle (아이들) - TOMBOY + 퀸카 (Queencard) + 나는 아픈 건 딱 질색이니까 [더시즌즈-10CM의 쓰담쓰담] | KBS 260130 방송"
+},
+{
+  "link": "https://youtu.be/W2UOMWdhzrI",
+  "category": "노래클립",
+  "member": "미연, 민니, 소연",
+  "date": "2026-01-30T22:54:17",
+  "duration": "00:02:28",
+  "thumbnail": "https://i.ytimg.com/vi/W2UOMWdhzrI/maxresdefault.jpg",
+  "alt": "미연X민니X소연 - Good Goodbye (Cover) [더시즌즈-10CM의 쓰담쓰담] | KBS 260130 방송",
+  "title": "미연X민니X소연 - Good Goodbye (Cover) [더시즌즈-10CM의 쓰담쓰담] | KBS 260130 방송"
+},
+{
+  "link": "https://youtu.be/UwldFXAPiX4",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-30T23:03:08",
+  "duration": "00:02:54",
+  "thumbnail": "https://i.ytimg.com/vi/UwldFXAPiX4/maxresdefault.jpg",
+  "alt": "i-dle (아이들) - Mono (Feat. skaiwater) [더시즌즈-10CM의 쓰담쓰담] | KBS 260130 방송",
+  "title": "i-dle (아이들) - Mono (Feat. skaiwater) [더시즌즈-10CM의 쓰담쓰담] | KBS 260130 방송"
+},
+{
+  "link": "https://youtu.be/k85R5oOPxCI",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-31T13:00:43",
+  "duration": "00:03:14",
+  "thumbnail": "https://i.ytimg.com/vi/k85R5oOPxCI/maxresdefault.jpg",
+  "alt": "[릴레이댄스] i-dle(아이들) - Mono (Feat. skaiwater) (4K)",
+  "title": "[릴레이댄스] i-dle(아이들) - Mono (Feat. skaiwater) (4K)"
+},
+{
+  "link": "https://youtu.be/-WJCByHN7pQ",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-02-02T08:40:38",
+  "duration": "00:00:00",
+  "thumbnail": "https://i.ytimg.com/vi/-WJCByHN7pQ/maxresdefault.jpg",
+  "alt": "[4K] i-dle(아이들) “Mono (Feat. Skaiwater)” Band LIVE | it's Live 잇츠라이브",
+  "title": "[4K] i-dle(아이들) “Mono (Feat. Skaiwater)” Band LIVE | it's Live 잇츠라이브"
+},
+{
+  "link": "https://youtu.be/bMY8FJYQJIc",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-02-02T17:00:42",
+  "duration": "00:24:20",
+  "thumbnail": "https://i.ytimg.com/vi/bMY8FJYQJIc/maxresdefault.jpg",
+  "alt": "[고화질 무대] 무대마다 헤메코도 레전드인 i-dle(아이들) 컴백 기념 더 시즌즈 무대 모음집 | KBS 방송",
+  "title": "[고화질 무대] 무대마다 헤메코도 레전드인 i-dle(아이들) 컴백 기념 더 시즌즈 무대 모음집 | KBS 방송"
+},
+{
+  "link": "https://youtu.be/IpxMpYwm7l8",
+  "category": "노래클립",
+  "member": "소연",
+  "date": "2026-02-05T18:00:24",
+  "duration": "00:02:54",
+  "thumbnail": "https://i.ytimg.com/vi/IpxMpYwm7l8/maxresdefault.jpg",
+  "alt": "기안84 & 소연 - 스물아홉 M/V (영종도 ver.)",
+  "title": "기안84 & 소연 - 스물아홉 M/V (영종도 ver.)"
 }
+
+
+
 
 
 ];

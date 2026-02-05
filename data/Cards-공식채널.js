@@ -511,8 +511,8 @@ const 공식채널Cards = [
   "date": "2018-08-22T18:00:00",
   "duration": "00:08:00",
   "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfNjcg/MDAxNjcyODkxNDMxODI3.KK6FBgAKWm8JzgfMekWDHla26xLKrgQVPnkPOzFMbxEg.jwCxcpheXuCs8TfNhNpwtl5Q9EgyjVhs-I-2tSWV9D8g.JPEG/upload_thu.jpg?type=f640_360",
-  "alt": "(여자)아이들 - VLOG in NEW YORK #1 : 뉴욕 가는 (여자)아이들",
-  "title": "(여자)아이들 - VLOG in NEW YORK #1 : 뉴욕 가는 (여자)아이들",
+  "alt": "(여자)아이들 - VLOG in NEW YORK #1 : 뉴욕 가는 (여자)아이들 [weverse]",
+  "title": "(여자)아이들 - VLOG in NEW YORK #1 : 뉴욕 가는 (여자)아이들 [weverse]",
   "subtag": "I-LOG"
 },
 
@@ -535,8 +535,8 @@ const 공식채널Cards = [
   "date": "2018-08-29T18:00:00",
   "duration": "00:10:18",
   "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfNjMg/MDAxNjcyODkxNDMyMzM0.P3QlBLSAVo-wkmv-iGx3yIrvJt7yGziLnwPYr31VARQg.axUYy8WaHu5CVlHQBrNjgljuGL1p6lowJXg60NBVPXkg.JPEG/upload_whats_on_cube_featurette_thumbnail.jpg?type=f640_360",
-  "alt": "(여자)아이들 - VLOG in NEW YORK #2 : 뉴욕 팬과의 깜짝만남!",
-  "title": "(여자)아이들 - VLOG in NEW YORK #2 : 뉴욕 팬과의 깜짝만남!",
+  "alt": "(여자)아이들 - VLOG in NEW YORK #2 : 뉴욕 팬과의 깜짝만남! [weverse]",
+  "title": "(여자)아이들 - VLOG in NEW YORK #2 : 뉴욕 팬과의 깜짝만남! [weverse]",
   "subtag": "I-LOG"
 },
 
@@ -547,8 +547,8 @@ const 공식채널Cards = [
   "date": "2018-09-05T18:00:00",
   "duration": "00:14:37",
   "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfODcg/MDAxNjcyODkxNDMyODAx.cLbUHeUkpI2g9WaPECt_s6Y2IO0e89jRiSadPaGuiPcg.CgSYbiwN_jKPNh7kqqlhysAspjraI5sT0I9J5eL3HSMg.JPEG/upload_whats_on_cube_featurette_thumbnail.jpg?type=f640_360",
-  "alt": "(여자)아이들 - VLOG in NEW YORK #3 : (여자)아이들의 위시리스트",
-  "title": "(여자)아이들 - VLOG in NEW YORK #3 : (여자)아이들의 위시리스트",
+  "alt": "(여자)아이들 - VLOG in NEW YORK #3 : (여자)아이들의 위시리스트 [weverse]",
+  "title": "(여자)아이들 - VLOG in NEW YORK #3 : (여자)아이들의 위시리스트 [weverse]",
   "subtag": "I-LOG"
 },
 
@@ -1291,8 +1291,8 @@ const 공식채널Cards = [
   "date": "2019-07-16T18:00:00",
   "duration": "00:16:01",
   "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfNTQg/MDAxNjcyODkxNDUwODAz.8NTXvg0nkEhMaHSRVdTLFYTaaA_FGN_TSttHyQNamSsg.7LWnAHr0ye23Sq7vUOG5U3ld4-k2B5D_8WAgUVcPk-cg.JPEG/upload_28G29I-DLE_I-TALK2338_Uh-Oh_1stweek_BTS_Part1_thumbnail.jpg?type=f640_360",
-  "alt": "(여자)아이들 - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1)",
-  "title": "(여자)아이들 - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1)",
+  "alt": "(여자)아이들 - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1) [weverse]",
+  "title": "(여자)아이들 - I-TALK #38 : 'Uh-Oh' 첫방 비하인드 (Part 1) [weverse]",
   "subtag": "I-TALK"
 },
 
@@ -1375,8 +1375,8 @@ const 공식채널Cards = [
   "date": "2019-09-15T18:00:00",
   "duration": "00:10:19",
   "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfMjYx/MDAxNjcyODkxNDI4MTI4.3Um-OgLNANH4KD8y7Z4mXxM2g07L5v4WEVzOWShYvUQg.f0dNIuiVGfyIOeiiVhWcGzOh4GJ6zlZPpmsmyQo93okg.JPEG/upload_28G29I-DLE_I-TALK2341_Soribada_Awards_BTS_Thumbnail.jpg?type=f640_360",
-  "alt": "(여자)아이들 - I-TALK #41 : 2019 소리바다 어워즈 비하인드",
-  "title": "(여자)아이들 - I-TALK #41 : 2019 소리바다 어워즈 비하인드",
+  "alt": "(여자)아이들 - I-TALK #41 : 2019 소리바다 어워즈 비하인드 [weverse]",
+  "title": "(여자)아이들 - I-TALK #41 : 2019 소리바다 어워즈 비하인드 [weverse]",
   "subtag": "I-TALK"
 },
 
@@ -10833,6 +10833,39 @@ const 공식채널Cards = [
   "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' 응원법ㅣSUB",
   "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' 응원법ㅣSUB",
   "subtag": "FAN CHANT"
+},
+{
+  "link": "https://youtu.be/5Ag1qJHOGlY",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2026-01-31T12:00:05",
+  "duration": "00:22:38",
+  "thumbnail": "https://i.ytimg.com/vi/5Ag1qJHOGlY/maxresdefault.jpg",
+  "alt": "🎂 HAPPY MIYEON DAY 💚 (Feat. 네버버와 함께하는 미연이의 30살… 🤐 3.살 생일파티!) [미연이는 3.살!]ㅣSUB",
+  "title": "🎂 HAPPY MIYEON DAY 💚 (Feat. 네버버와 함께하는 미연이의 30살… 🤐 3.살 생일파티!) [미연이는 3.살!]ㅣSUB",
+  "subtag": "SPECIAL CONTENT"
+},
+{
+  "link": "https://youtu.be/sfdwyJFsu1U",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-02-01T22:30:39",
+  "duration": "00:02:51",
+  "thumbnail": "https://i.ytimg.com/vi/sfdwyJFsu1U/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' Mega Crew Performance Video",
+  "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Mega Crew Performance Video",
+  "subtag": "PERFORMANCE"
+},
+{
+  "link": "https://youtu.be/MPHOhBD8mn8",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-02-05T22:00:05",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/MPHOhBD8mn8/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' Choreography Practice Video (Character Ver.)",
+  "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Choreography Practice Video (Character Ver.)",
+  "subtag": "CHOREOGRAPHY"
 }
 
 

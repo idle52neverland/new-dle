@@ -408,26 +408,46 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/ECFpAFTMIF0",
+  "link": "https://youtu.be/hrLlVxpbGlI",
   "category": "출연콘텐츠",
-  "member": "슈화",
-  "date": "2020-01-17T12:00:03",
-  "duration": "00:06:13",
-  "thumbnail": "https://i.ytimg.com/vi/ECFpAFTMIF0/sddefault.jpg",
-  "alt": "게임하다가 개명 선언한 아이들 슈화! 슈화의 최종 이름은? She changed her name during the game. What is her last name? [ENG]",
-  "title": "게임하다가 개명 선언한 아이들 슈화! 슈화의 최종 이름은? She changed her name during the game. What is her last name? [ENG]"
+  "member": "우기, 슈화",
+  "date": "2020-01-20T12:00:01",
+  "duration": "00:29:55",
+  "thumbnail": "https://i.ytimg.com/vi/hrLlVxpbGlI/maxresdefault.jpg",
+  "alt": "[아이돌 그라운드] 이멤버 리멤버!! (여자)아이들 1탄 몰아보기 with 쿠키영상 #나돌 #IDOL GROUND",
+  "title": "[아이돌 그라운드] 이멤버 리멤버!! (여자)아이들 1탄 몰아보기 with 쿠키영상 #나돌 #IDOL GROUND"
+},
+{
+  "link": "https://youtu.be/QHlZ4ZUPwBM",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2020-01-20T12:00:02",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/QHlZ4ZUPwBM/sddefault.jpg",
+  "alt": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #1 [ENG]",
+  "title": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #1 [ENG]"
+},
+{
+  "link": "https://youtu.be/pSnD2hFY_Bo",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2020-01-20T12:00:03",
+  "duration": "00:03:08",
+  "thumbnail": "https://i.ytimg.com/vi/pSnD2hFY_Bo/sddefault.jpg",
+  "alt": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #2 [ENG]",
+  "title": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #2 [ENG]"
+},
+{
+  "link": "https://youtu.be/fgUX2APOo4E",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2020-01-20T12:00:04",
+  "duration": "00:01:10",
+  "thumbnail": "https://i.ytimg.com/vi/fgUX2APOo4E/sddefault.jpg",
+  "alt": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #3 [ENG]",
+  "title": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #3 [ENG]"
 },
 
-{
-  "link": "https://youtu.be/UHt18tFXIII",
-  "category": "출연콘텐츠",
-  "member": "소연, 미연, 우기",
-  "date": "2020-01-20T12:00:05",
-  "duration": "00:05:42",
-  "thumbnail": "https://i.ytimg.com/vi/UHt18tFXIII/sddefault.jpg",
-  "alt": "소연, 미연, 그 다음은 우기?! 수진에게 극딜 먹인 우기의 치명적인 한방! Soyeon, Miyeon, and next Yuqi?! Yuqi punched Sujin! [ENG]",
-  "title": "소연, 미연, 그 다음은 우기?! 수진에게 극딜 먹인 우기의 치명적인 한방! Soyeon, Miyeon, and next Yuqi?! Yuqi punched Sujin! [ENG]"
-},
 
 {
   "link": "https://youtu.be/e4tUYqTT_qc",
@@ -452,17 +472,6 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/QHlZ4ZUPwBM",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2020-01-29T12:00:05",
-  "duration": "00:03:11",
-  "thumbnail": "https://i.ytimg.com/vi/QHlZ4ZUPwBM/sddefault.jpg",
-  "alt": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #1 [ENG]",
-  "title": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #1 [ENG]"
-},
-
-{
   "link": "https://youtu.be/E5TMUsmCvYc",
   "category": "출연콘텐츠",
   "member": "아이들",
@@ -471,17 +480,6 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/E5TMUsmCvYc/sddefault.jpg",
   "alt": "(여자)아이들 슈화, 팀 내 한국어 비밀 교사로 밝혀져.. 대혼란이 찾아온 교실 | 유출금지 | Secret Folder | (G)I-DLE | 미연 민니 수진 소연 우기 슈화",
   "title": "(여자)아이들 슈화, 팀 내 한국어 비밀 교사로 밝혀져.. 대혼란이 찾아온 교실 | 유출금지 | Secret Folder | (G)I-DLE | 미연 민니 수진 소연 우기 슈화"
-},
-
-{
-  "link": "https://youtu.be/tdU-XC_k1dQ",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2020-01-31T12:00:07",
-  "duration": "00:05:31",
-  "thumbnail": "https://i.ytimg.com/vi/tdU-XC_k1dQ/sddefault.jpg",
-  "alt": "아이들이 빌보드 1위하면 큐브에서 사주겠죠? If G-IDLE get No.1 on the Billboard, CUBE will buy it for me, right? [ENG]",
-  "title": "아이들이 빌보드 1위하면 큐브에서 사주겠죠? If G-IDLE get No.1 on the Billboard, CUBE will buy it for me, right? [ENG]"
 },
 
 {
@@ -495,16 +493,7 @@ const 출연콘텐츠Cards = [
   "title": "(여자)아이들 혹독한 훈련 중 뜻밖의 재능발견? | 유출금지 EP.2 비하인드 | Secret Folder Behind | (G)I-DLE | 미연 민니 수진 소연 우기 슈화"
 },
 
-{
-  "link": "https://youtu.be/8FLePM1Hlck",
-  "category": "출연콘텐츠",
-  "member": "슈화, 우기",
-  "date": "2020-02-03T12:00:01",
-  "duration": "00:05:48",
-  "thumbnail": "https://i.ytimg.com/vi/8FLePM1Hlck/sddefault.jpg",
-  "alt": "힘들면 힘들다고 말해도 돼... 내가 다 주먹줄게! If you're tired, tell me it's hard. I'll hit them all for you! [ENG]",
-  "title": "힘들면 힘들다고 말해도 돼... 내가 다 주먹줄게! If you're tired, tell me it's hard. I'll hit them all for you! [ENG]"
-},
+
 
 {
   "link": "https://youtu.be/yzxc0yk-x_k",
@@ -515,17 +504,6 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/yzxc0yk-x_k/sddefault.jpg",
   "alt": "(여자)아이들 상처만 남은 이상한 한국어 교실👩‍🏫 | 유출금지 EP.3 비하인드 | Secret Folder Behind | (G)I-DLE | 미연 민니 수진 소연 우기 슈화",
   "title": "(여자)아이들 상처만 남은 이상한 한국어 교실👩‍🏫 | 유출금지 EP.3 비하인드 | Secret Folder Behind | (G)I-DLE | 미연 민니 수진 소연 우기 슈화"
-},
-
-{
-  "link": "https://youtu.be/pSnD2hFY_Bo",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2020-02-06T12:00:08",
-  "duration": "00:03:08",
-  "thumbnail": "https://i.ytimg.com/vi/pSnD2hFY_Bo/sddefault.jpg",
-  "alt": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #2 [ENG]",
-  "title": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #2 [ENG]"
 },
 
 {
@@ -540,17 +518,6 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/fgUX2APOo4E",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2020-02-09T11:00:04",
-  "duration": "00:01:10",
-  "thumbnail": "https://i.ytimg.com/vi/fgUX2APOo4E/sddefault.jpg",
-  "alt": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #3 [ENG]",
-  "title": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 편 #3 [ENG]"
-},
-
-{
   "link": "https://youtu.be/3gjooT02-ic",
   "category": "출연콘텐츠",
   "member": "아이들",
@@ -559,50 +526,6 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3gjooT02-ic/sddefault.jpg",
   "alt": "(여자)아이들 슈화의 소원! 꿈⭐은 이루어진다 | 유출금지 EP.4 비하인드 | Secret Folder Behind | (G)I-DLE | 미연 민니 수진 소연 우기 슈화",
   "title": "(여자)아이들 슈화의 소원! 꿈⭐은 이루어진다 | 유출금지 EP.4 비하인드 | Secret Folder Behind | (G)I-DLE | 미연 민니 수진 소연 우기 슈화"
-},
-
-{
-  "link": "https://youtu.be/ryt1MPKzw8s",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2020-02-12T12:00:08",
-  "duration": "00:06:41",
-  "thumbnail": "https://i.ytimg.com/vi/ryt1MPKzw8s/sddefault.jpg",
-  "alt": "이곳은 혼돈의 카오스?! '아이돌 그라운드' (여자)아이들((G)I-DLE) 6편 [ENG]",
-  "title": "이곳은 혼돈의 카오스?! '아이돌 그라운드' (여자)아이들((G)I-DLE) 6편 [ENG]"
-},
-
-{
-  "link": "https://youtu.be/e5vKoP2oXcg",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2020-02-16T11:00:05",
-  "duration": "00:01:59",
-  "thumbnail": "https://i.ytimg.com/vi/e5vKoP2oXcg/sddefault.jpg",
-  "alt": "둠칫 둠칫 랜덤 댄스 세로캠 - (여자)아이들((G)I-DLE) 편｜Doomchit Doomchit Random Dance vertical cam - (G)I-DLE",
-  "title": "둠칫 둠칫 랜덤 댄스 세로캠 - (여자)아이들((G)I-DLE) 편｜Doomchit Doomchit Random Dance vertical cam - (G)I-DLE"
-},
-
-{
-  "link": "https://youtu.be/9S3sfkfkZN8",
-  "category": "출연콘텐츠",
-  "member": "슈화",
-  "date": "2020-02-19T12:00:02",
-  "duration": "00:02:58",
-  "thumbnail": "https://i.ytimg.com/vi/9S3sfkfkZN8/sddefault.jpg",
-  "alt": "슈수커플의 운명은 이미 정해져 있었다?!!!! 관상으로 알아본 슈수궁합(?) The fate of the ShuSoo had already been decided? [ENG]",
-  "title": "슈수커플의 운명은 이미 정해져 있었다?!!!! 관상으로 알아본 슈수궁합(?) The fate of the ShuSoo had already been decided? [ENG]"
-},
-
-{
-  "link": "https://youtu.be/VZj43uDugjk",
-  "category": "출연콘텐츠",
-  "member": "우기",
-  "date": "2020-02-28T12:00:02",
-  "duration": "00:02:44",
-  "thumbnail": "https://i.ytimg.com/vi/VZj43uDugjk/sddefault.jpg",
-  "alt": "독재자가 뭐죠??? 관상부터 똑똑한 우기! 자신감이 그냥 나오는 게 아니었네~ What's a dictator? Yuqi's physiognomy is clever! [ENG]",
-  "title": "독재자가 뭐죠??? 관상부터 똑똑한 우기! 자신감이 그냥 나오는 게 아니었네~ What's a dictator? Yuqi's physiognomy is clever! [ENG]"
 },
 
 {
@@ -802,7 +725,37 @@ const 출연콘텐츠Cards = [
   "alt": "(G)I-DLE, HAPPY STAN LIVE Full Version [THE SHOW]",
   "title": "(G)I-DLE, HAPPY STAN LIVE Full Version [THE SHOW]"
 },
+{
+  "link": "https://youtu.be/nfwxkKRD8Ik",
+  "category": "출연콘텐츠",
+  "member": "미연, 민니, 소연",
+  "date": "2020-05-06T12:00:01",
+  "duration": "00:48:02",
+  "thumbnail": "https://i.ytimg.com/vi/nfwxkKRD8Ik/hqdefault.jpg",
+  "alt": "[아이돌 그라운드] (G)I-DLE 여자아이들 소연&미연&민니☆리그오브레전드(LoL) K/DA 컴백 기념! 아이돌 그라운드 몰아보기~♥ (※Cookie videos) [ENG] #나돌 #IDOL GROUND",
+  "title": "[아이돌 그라운드] (G)I-DLE 여자아이들 소연&미연&민니☆리그오브레전드(LoL) K/DA 컴백 기념! 아이돌 그라운드 몰아보기~♥ (※Cookie videos) [ENG] #나돌 #IDOL GROUND"
+},
+{
+  "link": "https://youtu.be/IvCgRVTDMeA",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2020-05-06T12:00:02",
+  "duration": "00:04:07",
+  "thumbnail": "https://i.ytimg.com/vi/IvCgRVTDMeA/sddefault.jpg",
+  "alt": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 1편｜'Idol Ground' behind ReactionCam with (G)I-DLE #1[ENG]",
+  "title": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 1편｜'Idol Ground' behind ReactionCam with (G)I-DLE #1[ENG]"
+},
 
+{
+  "link": "https://youtu.be/zXaZlvOAeJw",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2020-05-06T12:00:03",
+  "duration": "00:04:35",
+  "thumbnail": "https://i.ytimg.com/vi/zXaZlvOAeJw/sddefault.jpg",
+  "alt": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 2편｜'Idol Ground' behind ReactionCam with (G)I-DLE #2[ENG]",
+  "title": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 2편｜'Idol Ground' behind ReactionCam with (G)I-DLE #2[ENG]"
+},
 {
   "link": "https://youtu.be/Sw59kmzuzSQ",
   "category": "출연콘텐츠",
@@ -823,17 +776,6 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ohV93QEgOQE/sddefault.jpg",
   "alt": "[별의 별 사람] (여자)아이들 매니저가 개인카드 꺼낸.ssul! 민니&우기&매니저의 가족 모먼트❣ (ENG SUB)",
   "title": "[별의 별 사람] (여자)아이들 매니저가 개인카드 꺼낸.ssul! 민니&우기&매니저의 가족 모먼트❣ (ENG SUB)"
-},
-
-{
-  "link": "https://youtu.be/IvCgRVTDMeA",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2020-05-13T12:00:05",
-  "duration": "00:04:07",
-  "thumbnail": "https://i.ytimg.com/vi/IvCgRVTDMeA/sddefault.jpg",
-  "alt": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 1편｜'Idol Ground' behind ReactionCam with (G)I-DLE #1[ENG]",
-  "title": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 1편｜'Idol Ground' behind ReactionCam with (G)I-DLE #1[ENG]"
 },
 
 {
@@ -878,17 +820,6 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Mo-uyOVosQg/sddefault.jpg",
   "alt": "미연이 자아는 오조오억개!!! 오늘의 미연이 자아는 누구? Miyeon's ego cannot be counted! Who is today's ego? [ENG]",
   "title": "미연이 자아는 오조오억개!!! 오늘의 미연이 자아는 누구? Miyeon's ego cannot be counted! Who is today's ego? [ENG]"
-},
-
-{
-  "link": "https://youtu.be/zXaZlvOAeJw",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2020-05-29T12:00:31",
-  "duration": "00:04:35",
-  "thumbnail": "https://i.ytimg.com/vi/zXaZlvOAeJw/sddefault.jpg",
-  "alt": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 2편｜'Idol Ground' behind ReactionCam with (G)I-DLE #2[ENG]",
-  "title": "'아이돌 그라운드' 비하인드 대방출 리액션캠 (여자)아이들((G)I-DLE) 2편｜'Idol Ground' behind ReactionCam with (G)I-DLE #2[ENG]"
 },
 
 {
@@ -1167,6 +1098,17 @@ const 출연콘텐츠Cards = [
 },
 
 {
+  "link": "https://youtu.be/AzKbXtO7wQI",
+  "category": "출연콘텐츠",
+  "member": "우기",
+  "date": "2020-09-11T10:13:03",
+  "duration": "00:03:46",
+  "thumbnail": "https://i.ytimg.com/vi/AzKbXtO7wQI/maxresdefault.jpg",
+  "alt": "【동.춤.선│1탄】 (여자)아이들 ((G)I-DLE) 수진(Soojin) & 우기(Yuqi)❣️ 저기 '덤디덤디' 처럼 내 마음을 흔들어줘~🎵│TTXQ",
+  "title": "【동.춤.선│1탄】 (여자)아이들 ((G)I-DLE) 수진(Soojin) & 우기(Yuqi)❣️ 저기 '덤디덤디' 처럼 내 마음을 흔들어줘~🎵│TTXQ"
+},
+
+{
   "link": "https://youtu.be/vQvKWIfaFmI",
   "category": "출연콘텐츠",
   "member": "우기",
@@ -1209,7 +1151,16 @@ const 출연콘텐츠Cards = [
   "alt": "【ENG) 동동신기│EP.11】 무대에서 가장 중요한 엔딩 요정🧚🏻은 누구? 동동신기x(여자)아이들 '덤디덤디'♪ 콜라보 (유-후=3)│TTXQ FULL- knowingbros",
   "title": "【ENG) 동동신기│EP.11】 무대에서 가장 중요한 엔딩 요정🧚🏻은 누구? 동동신기x(여자)아이들 '덤디덤디'♪ 콜라보 (유-후=3)│TTXQ FULL- knowingbros"
 },
-
+{
+  "link": "https://youtu.be/5DoiHj7iaAY",
+  "category": "출연콘텐츠",
+  "member": "우기",
+  "date": "2020-09-21T17:35:04",
+  "duration": "00:03:02",
+  "thumbnail": "https://i.ytimg.com/vi/5DoiHj7iaAY/maxresdefault.jpg",
+  "alt": "【동.춤.선│2탄】 💗극과 극💜 (여자)아이들((G)I-DLE) 수진(Soojin) & 우기(Yuqi)의 '덤디덤디' 평점 공개★☆│TTXQ",
+  "title": "【동.춤.선│2탄】 💗극과 극💜 (여자)아이들((G)I-DLE) 수진(Soojin) & 우기(Yuqi)의 '덤디덤디' 평점 공개★☆│TTXQ"
+},
 {
   "link": "https://youtu.be/5AjP1tCT0Yo",
   "category": "출연콘텐츠",
@@ -2493,7 +2444,7 @@ const 출연콘텐츠Cards = [
   "duration": "00:01:11",
   "thumbnail": "https://i.ytimg.com/vi/gVxd1eFCH4U/sddefault.jpg",
   "alt": "내일 지구가 망해버렸으면 좋겠어 | 공식 예고편 | 넷플릭스",
-  "title": "내일 지구가 망해버렸으면 좋겠어 | 공식 예고편 | 넷플릭스▫️"
+  "title": "내일 지구가 망해버렸으면 좋겠어 | 공식 예고편 | 넷플릭스"
 },
 
 {
@@ -2515,7 +2466,7 @@ const 출연콘텐츠Cards = [
   "duration": "00:04:41",
   "thumbnail": "https://i.ytimg.com/vi/whVaOdXqEIc/sddefault.jpg",
   "alt": "내일 지구가 망해버렸으면 좋겠어 | 캐릭터 영상 | 넷플릭스",
-  "title": "내일 지구가 망해버렸으면 좋겠어 | 캐릭터 영상 | 넷플릭스▫️"
+  "title": "내일 지구가 망해버렸으면 좋겠어 | 캐릭터 영상 | 넷플릭스"
 },
 
 {
@@ -5145,7 +5096,16 @@ const 출연콘텐츠Cards = [
   "alt": "📛미스태리 영업 종료📛 짐 싸고 썰 푼다🫣I 미스태리",
   "title": "📛미스태리 영업 종료📛 짐 싸고 썰 푼다🫣I 미스태리"
 },
-
+{
+  "link": "https://youtu.be/vYBQtJ37VJ8",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2024-02-13T18:30:21",
+  "duration": "00:12:32",
+  "thumbnail": "https://i.ytimg.com/vi/vYBQtJ37VJ8/maxresdefault.jpg",
+  "alt": "[ENG] 🌟쇼츠1000만 달성🌟결국 만났다는 아이키와 (여자)아이들",
+  "title": "[ENG] 🌟쇼츠1000만 달성🌟결국 만났다는 아이키와 (여자)아이들"
+},
 {
   "link": "https://youtu.be/ToQCwFFNEtw",
   "category": "출연콘텐츠",
@@ -6575,17 +6535,6 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/cXmG6eKtP_4",
-  "category": "출연콘텐츠",
-  "member": "미연, 우기",
-  "date": "2025-05-23T20:01:08",
-  "duration": "00:02:11",
-  "thumbnail": "https://i.ytimg.com/vi/cXmG6eKtP_4/sddefault.jpg",
-  "alt": "[4K] 공듀님 둘의 케미는 왕크게 봐야 좋으니까 💗왕크왕캠💗 아이들 미연&우기💜 #이석훈의 브런치카페",
-  "title": "[4K] 공듀님 둘의 케미는 왕크게 봐야 좋으니까 💗왕크왕캠💗 아이들 미연&우기💜 #이석훈의 브런치카페"
-},
-
-{
   "link": "https://youtu.be/gyy645RzBBA",
   "category": "출연콘텐츠",
   "member": "아이들",
@@ -6944,10 +6893,19 @@ const 출연콘텐츠Cards = [
   "date": "2025-08-26T02:30:57",
   "duration": "00:04:43",
   "thumbnail": "https://i.ytimg.com/vi/G1h2hXoqDXE/maxresdefault.jpg",
-  "alt": "(ENG/한) 景德鎮 VLOG (小红书 슈화 브이로그 ep.1)▫️",
-  "title": "(ENG/한) 景德鎮 VLOG (小红书 슈화 브이로그 ep.1)▫️"
+  "alt": "(ENG/한) 景德鎮 VLOG (小红书 슈화 브이로그 ep.1)◾️",
+  "title": "(ENG/한) 景德鎮 VLOG (小红书 슈화 브이로그 ep.1)◾️"
 },
-
+{
+  "link": "https://youtu.be/1LndTUQb6zw",
+  "category": "출연콘텐츠",
+  "member": "슈화",
+  "date": "2025-08-26T02:30:58",
+  "duration": "00:04:43",
+  "thumbnail": "https://i.ytimg.com/vi/1LndTUQb6zw/maxresdefault.jpg",
+  "alt": "(NO SUB) 景德镇vlog💕 (小红书  슈화 브이로그 ep.1)▫️",
+  "title": "(NO SUB) 景德镇vlog💕 (小红书  슈화 브이로그 ep.1)▫️"
+},
 {
   "link": "https://youtu.be/Bq9MDmeQQgs",
   "category": "출연콘텐츠",
@@ -6971,27 +6929,25 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/1LndTUQb6zw",
-  "category": "출연콘텐츠",
-  "member": "슈화",
-  "date": "2025-08-26T20:09:27",
-  "duration": "00:04:43",
-  "thumbnail": "https://i.ytimg.com/vi/1LndTUQb6zw/maxresdefault.jpg",
-  "alt": "(NO SUB) 景德镇vlog💕 (小红书  슈화 브이로그 ep.1)▫️",
-  "title": "(NO SUB) 景德镇vlog💕 (小红书  슈화 브이로그 ep.1)▫️"
-},
-
-{
   "link": "https://youtu.be/1zPNcsgeMe8",
   "category": "출연콘텐츠",
   "member": "슈화",
   "date": "2025-08-28T08:53:47",
   "duration": "00:04:08",
   "thumbnail": "https://i.ytimg.com/vi/254Da8pg0X8/maxresdefault.jpg",
-  "alt": "(ENG/한) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)▫️",
-  "title": "(ENG/한) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)▫️"
+  "alt": "(ENG/한) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)◾️",
+  "title": "(ENG/한) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)◾️"
 },
-
+{
+  "link": "https://youtu.be/254Da8pg0X8",
+  "category": "출연콘텐츠",
+  "member": "슈화",
+  "date": "2025-08-28T08:53:48",
+  "duration": "00:04:08",
+  "thumbnail": "https://i.ytimg.com/vi/254Da8pg0X8/maxresdefault.jpg",
+  "alt": "(NO SUB) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)▫️",
+  "title": "(NO SUB) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)▫️"
+},
 {
   "link": "https://youtu.be/z9P6Px9w9r0",
   "category": "출연콘텐츠",
@@ -7004,25 +6960,14 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/254Da8pg0X8",
-  "category": "출연콘텐츠",
-  "member": "슈화",
-  "date": "2025-08-28T20:10:20",
-  "duration": "00:04:08",
-  "thumbnail": "https://i.ytimg.com/vi/254Da8pg0X8/maxresdefault.jpg",
-  "alt": "(NO SUB) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)▫️",
-  "title": "(NO SUB) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)▫️"
-},
-
-{
   "link": "https://youtu.be/ox8ySB9RCo0",
   "category": "출연콘텐츠",
   "member": "슈화",
   "date": "2025-08-30T08:54:06",
   "duration": "00:05:38",
   "thumbnail": "https://i.ytimg.com/vi/8rcYiXwVtC4/maxresdefault.jpg",
-  "alt": "(ENG/한) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)▫️",
-  "title": "(ENG/한) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)▫️"
+  "alt": "(ENG/한) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)◾️",
+  "title": "(ENG/한) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)◾️"
 },
 
 {
@@ -7601,7 +7546,39 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/u5JB7zKW7mQ/maxresdefault.jpg",
   "alt": "(Teaser) i-dle(아이들) 'Mono (Feat. skaiwater)' (4K) | STUDIO CHOOM ORIGINAL",
   "title": "(Teaser) i-dle(아이들) 'Mono (Feat. skaiwater)' (4K) | STUDIO CHOOM ORIGINAL"
+},
+{
+  "link": "https://youtu.be/EOd9pG0Kjj8",
+  "category": "출연콘텐츠",
+  "member": "미연, 우기",
+  "date": "2026-01-29T19:00:06",
+  "duration": "00:26:11",
+  "thumbnail": "https://i.ytimg.com/vi/EOd9pG0Kjj8/maxresdefault.jpg",
+  "alt": "[sub] 비폭력 대화주의자🕊️ SBN들이 베푸는 핫팩보다 따뜻한 선물🥰 | 민주의 핑크 캐비닛💝 EP.50 | i-dle | #MIYEON #YUQI",
+  "title": "[sub] 비폭력 대화주의자🕊️ SBN들이 베푸는 핫팩보다 따뜻한 선물🥰 | 민주의 핑크 캐비닛💝 EP.50 | i-dle | #MIYEON #YUQI"
+},
+{ 
+  "link": "https://youtu.be/8Kz_QhFt3gI",
+  "category": "출연콘텐츠",
+  "member": "소연",
+  "date": "2026-02-03T18:00:22",
+  "duration": "00:25:01",
+  "thumbnail": "https://i.ytimg.com/vi/8Kz_QhFt3gI/maxresdefault.jpg",
+  "alt": "소연과 기안 | 인생84",
+  "title": "소연과 기안 | 인생84"
+},
+{
+  "link": "https://youtu.be/1EeRmePfOEs",
+  "category": "출연콘텐츠",
+  "member": "미연, 민니",
+  "date": "2026-02-05T18:30:00",
+  "duration": "00:28:19",
+  "thumbnail": "https://i.ytimg.com/vi/1EeRmePfOEs/maxresdefault.jpg",
+  "alt": "[EN] 이렇게까지 다 말할 줄 몰랐어 (feat. 거짓말탐지기) | EP.03 아이들 미연 민니 | 트루만쇼",
+  "title": "[EN] 이렇게까지 다 말할 줄 몰랐어 (feat. 거짓말탐지기) | EP.03 아이들 미연 민니 | 트루만쇼"
 }
+
+
 
 
 ];

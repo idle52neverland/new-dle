@@ -1016,6 +1016,16 @@ const 기타Cards = [
   "thumbnail": "https://i.ytimg.com/vi/FehXr6GSRKo/maxresdefault.jpg",
   "alt": "[13:10~14:24] RESCENE (리센느) 'Heart Drop' 음악방송 챌린지 Behind",
   "title": "[13:10~14:24] RESCENE (리센느) 'Heart Drop' 음악방송 챌린지 Behind"
+},
+{
+  "link": "https://youtu.be/XP-QNotCMKo",
+  "category": "기타",
+  "member": "슈화",
+  "date": "2026-02-03T14:29:37",
+  "duration": "00:14:05",
+  "thumbnail": "https://i.ytimg.com/vi/XP-QNotCMKo/maxresdefault.jpg",
+  "alt": "舒華出席品牌代言活動　Mavis瑪菲司創立HALO MAVIS BEAUTY品牌記者會",
+  "title": "舒華出席品牌代言活動　Mavis瑪菲司創立HALO MAVIS BEAUTY品牌記者會"
 }
 
 ];

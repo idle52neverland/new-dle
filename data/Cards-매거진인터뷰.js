@@ -1041,8 +1041,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-04-01T23:30:35",
   "duration": "01:05:38",
   "thumbnail": "https://i.ytimg.com/vi/c8780vEbx1k/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8▫️",
-  "title": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8▫️"
+  "alt": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8◾️",
+  "title": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8◾️"
 },
 
 {
@@ -1261,8 +1261,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-07-29T22:47:06",
   "duration": "01:26:36",
   "thumbnail": "https://i.ytimg.com/vi/srJWnrV_6bw/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8▫️",
-  "title": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8▫️"
+  "alt": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8◾️",
+  "title": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8◾️"
 },
 
 {
@@ -1613,8 +1613,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-04-14T07:41:53",
   "duration": "00:42:51",
   "thumbnail": "https://i.ytimg.com/vi/ipoZi84MvCM/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6▫️",
-  "title": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6▫️"
+  "alt": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6◾️",
+  "title": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6◾️"
 },
 
 {
@@ -2031,8 +2031,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-03-15T18:16:44",
   "duration": "01:03:07",
   "thumbnail": "https://i.ytimg.com/vi/FcaH7yrYWgY/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6▫️",
-  "title": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6▫️"
+  "alt": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6◾️",
+  "title": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6◾️"
 },
 
 {
@@ -2097,8 +2097,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-09-02T18:43:52",
   "duration": "00:53:10",
   "thumbnail": "https://i.ytimg.com/vi/O2QV5HM8SYw/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6▫️",
-  "title": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6▫️"
+  "alt": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6◾️",
+  "title": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6◾️"
 },
 
 {

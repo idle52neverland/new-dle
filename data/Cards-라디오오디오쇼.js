@@ -2156,6 +2156,39 @@ const 라디오오디오쇼Cards = [
   "alt": "[FULL] 왔다 내 도파민.. 'Mono'로 돌아온🔥i-dle(아이들)🔥선생님 모셨습니다 | #정오의 희망곡 김신영입니다 | MBC 260128 방송",
   "title": "[FULL] 왔다 내 도파민.. 'Mono'로 돌아온🔥i-dle(아이들)🔥선생님 모셨습니다 | #정오의 희망곡 김신영입니다 | MBC 260128 방송",
   "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/I6-vqEkwnI0",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2026-01-28T12:58:57",
+  "duration": "00:36:14",
+  "thumbnail": "https://i.ytimg.com/vi/I6-vqEkwnI0/maxresdefault.jpg",
+  "alt": "[하이라이트] 신곡 'Mono'로 컴백! 완전체로 나타난 i-dle(아이들) | #정오의희망곡김신영입니다 | #아이들 #idle",
+  "title": "[하이라이트] 신곡 'Mono'로 컴백! 완전체로 나타난 i-dle(아이들) | #정오의희망곡김신영입니다 | #아이들 #idle",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/R-j_GtKW6VQ",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2026-01-28T12:58:58",
+  "duration": "00:06:15",
+  "thumbnail": "https://i.ytimg.com/vi/R-j_GtKW6VQ/maxresdefault.jpg",
+  "alt": "(ENG) ✨아이들✨ 완전체 첫 등장! 예쁘고 귀엽고 웃기고 사랑스럽고 다 하는 아이들과 함께 한 어느날🩶 | i-dle | 정오의 희망곡 김신영입니다 | BEHIND RADIO",
+  "title": "(ENG) ✨아이들✨ 완전체 첫 등장! 예쁘고 귀엽고 웃기고 사랑스럽고 다 하는 아이들과 함께 한 어느날🩶 | i-dle | 정오의 희망곡 김신영입니다 | BEHIND RADIO",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/bwqrHk2XZqg",
+  "category": "라디오오디오쇼",
+  "member": "소연, 우기",
+  "date": "2026-02-01T21:20:30",
+  "duration": "00:38:22",
+  "thumbnail": "https://i.ytimg.com/vi/bwqrHk2XZqg/maxresdefault.jpg",
+  "alt": "가광 초대석, 누구세요? with 아이들 소연, 우기 full ver. / [이은지의 가요광장] I KBS 260201 방송",
+  "title": "가광 초대석, 누구세요? with 아이들 소연, 우기 full ver. / [이은지의 가요광장] I KBS 260201 방송",
+  "subtag": "라디오"
 }
 
 

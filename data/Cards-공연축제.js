@@ -1,7 +1,7 @@
 const 공연축제Cards = [
 
 {
-  "link": "https://youtu.be/sHQNmyB4Cfc",
+  "link": "https://youtu.be/sHQNmyB4Cfc?t=09m28s",
   "category": "공연축제",
   "member": "미연",
   "date": "2016-10-08T17:16:29",
@@ -2310,8 +2310,8 @@ const 공연축제Cards = [
   "date": "2022-07-26T01:45:33",
   "duration": "00:23:04",
   "thumbnail": "https://i.ytimg.com/vi/kKNDR0492G4/maxresdefault.jpg",
-  "alt": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE",
-  "title": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE"
+  "alt": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE▫️",
+  "title": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE▫️"
 },
 
 {
@@ -2518,8 +2518,8 @@ const 공연축제Cards = [
   "date": "2022-11-26T23:17:50",
   "duration": "00:12:27",
   "thumbnail": "https://i.ytimg.com/vi/c-mx6bNkZ-c/maxresdefault.jpg",
-  "alt": "[MMA2022 축하공연] (여자)아이들 - Intro(Villain Dies) + Nxde + Change(VCR) + TOMBOY▫️",
-  "title": "[MMA2022 축하공연] (여자)아이들 - Intro(Villain Dies) + Nxde + Change(VCR) + TOMBOY▫️"
+  "alt": "[MMA2022 축하공연] (여자)아이들 - Intro(Villain Dies) + Nxde + Change(VCR) + TOMBOY◾️",
+  "title": "[MMA2022 축하공연] (여자)아이들 - Intro(Villain Dies) + Nxde + Change(VCR) + TOMBOY◾️"
 },
 {
   "link": "https://youtu.be/ABZYhlFir1s",
@@ -5402,8 +5402,8 @@ const 공연축제Cards = [
   "date": "2025-12-06T20:09:40",
   "duration": "00:01:31",
   "thumbnail": "https://i.ytimg.com/vi/1_SDxOQp3Sw/maxresdefault.jpg",
-  "alt": "[#AAA2025] SHUHUA won 'AAA BEST CHOICE' at Asia Artist Awards 2025 in Kaohsiung",
-  "title": "[#AAA2025] SHUHUA won 'AAA BEST CHOICE' at Asia Artist Awards 2025 in Kaohsiung"
+  "alt": "[#AAA2025] SHUHUA won 'AAA BEST CHOICE' at Asia Artist Awards 2025 in Kaohsiung◾️",
+  "title": "[#AAA2025] SHUHUA won 'AAA BEST CHOICE' at Asia Artist Awards 2025 in Kaohsiung◾️"
 },
 
 {
@@ -5413,8 +5413,8 @@ const 공연축제Cards = [
   "date": "2025-12-07T23:30:33",
   "duration": "00:10:04",
   "thumbnail": "https://i.ytimg.com/vi/JMIwFtsqmQY/maxresdefault.jpg",
-  "alt": "[#AAA2025] MC SHUHUA Cut at ACON 2025 in Kaohsiung",
-  "title": "[#AAA2025] MC SHUHUA Cut at ACON 2025 in Kaohsiung"
+  "alt": "[#ACON 2025] MC SHUHUA Cut at ACON 2025 in Kaohsiung◾️",
+  "title": "[#ACON 2025] MC SHUHUA Cut at ACON 2025 in Kaohsiung◾️"
 },
 
 {
@@ -5475,8 +5475,8 @@ const 공연축제Cards = [
   "date": "2021-06-19T04:01:29",
   "duration": "00:09:50",
   "thumbnail": "https://i.ytimg.com/vi/CRncKqyz_Ho/maxresdefault.jpg",
-  "alt": "YUQI 《Giant+同桌的你》 | 全球中文音乐榜上榜/JingLong Global Chinese Music 2021▫️",
-  "title": "YUQI 《Giant+同桌的你》 | 全球中文音乐榜上榜/JingLong Global Chinese Music 2021▫️"
+  "alt": "YUQI 《Giant+同桌的你》 | 全球中文音乐榜上榜/JingLong Global Chinese Music 2021◾️",
+  "title": "YUQI 《Giant+同桌的你》 | 全球中文音乐榜上榜/JingLong Global Chinese Music 2021◾️"
 },
 
 {

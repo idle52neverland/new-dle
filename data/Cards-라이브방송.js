@@ -1,5 +1,6 @@
 const 라이브방송Cards = [
 
+
 {
   "link": "https://weverse.io/i-dle/live/1-111438956",
   "category": "라이브방송",
@@ -2239,9 +2240,9 @@ const 라이브방송Cards = [
   "date": "2020-11-13T18:00:00",
   "duration": "00:18:11",
   "thumbnail": "https://i.ytimg.com/vi/JO70MsFGHqA/maxresdefault.jpg",
-  "alt": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official▫️",
-  "title": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official▫️",
-  "subtag": "인스타 라이브"
+  "alt": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official◾️",
+  "title": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official◾️",
+  "subtag": "그 외"
 },
 
 {
@@ -5011,8 +5012,8 @@ const 라이브방송Cards = [
   "date": "2025-08-21T19:00:05",
   "duration": "00:27:54",
   "thumbnail": "https://i.ytimg.com/vi/-vL2WMSJD9Y/maxresdefault.jpg",
-  "alt": "미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh▫️",
-  "title": "미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh▫️",
+  "alt": "미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh◾️",
+  "title": "미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh◾️",
   "subtag": "인스타 라이브"
 },
 
@@ -5023,8 +5024,8 @@ const 라이브방송Cards = [
   "date": "2025-08-21T19:00:06",
   "duration": "00:21:03",
   "thumbnail": "https://i.ytimg.com/vi/jPKT9lzK89k/maxresdefault.jpg",
-  "alt": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh▫️",
-  "title": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh▫️",
+  "alt": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh◾️",
+  "title": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh◾️",
   "subtag": "인스타 라이브"
 },
 
@@ -5531,6 +5532,7 @@ const 라이브방송Cards = [
   "title": "슈화 & 쯔위 라이브 (Voice Only)▫️",
   "subtag": "그 외"
 },
+
 {
   "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b4ed2-8b27-a4de-f4c2-30802de719ed",
   "category": "라이브방송",
@@ -5538,10 +5540,11 @@ const 라이브방송Cards = [
   "date": "2025-12-24T14:26:26",
   "duration": "00:07:50",
   "thumbnail": "https://statics.berriz.in/cdn/base/file/ve/uv/rp/tq/af/un/1414857541.jpeg",
-  "alt": "며니랑 미리 크리스마스💕💕💕 (1)",
-  "title": "며니랑 미리 크리스마스💕💕💕 (1)",
+  "alt": "《Berriz》며니랑 미리 크리스마스💕💕💕 (1)",
+  "title": "《Berriz》며니랑 미리 크리스마스💕💕💕 (1)",
   "subtag": "베리즈 라이브"
 },
+
 {
   "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b4eda-f258-de26-ad8f-bcf0ad934a77",
   "category": "라이브방송",
@@ -5549,65 +5552,361 @@ const 라이브방송Cards = [
   "date": "2025-12-24T14:35:33",
   "duration": "00:29:38",
   "thumbnail": "https://statics.berriz.in/cdn/base/file/vj/uv/rp/tp/he/an/200428869.jpeg",
-  "alt": "며니랑 미리 크리스마스💕💕💕 (2)",
-  "title": "며니랑 미리 크리스마스💕💕💕 (2)",
+  "alt": "《Berriz》며니랑 미리 크리스마스💕💕💕 (2)",
+  "title": "《Berriz》며니랑 미리 크리스마스💕💕💕 (2)",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/PdX6ZkBBJ5A",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2025-12-24T14:35:34",
+  "duration": "00:07:51",
+  "thumbnail": "https://i.ytimg.com/vi/PdX6ZkBBJ5A/maxresdefault.jpg",
+  "alt": "《YouTube》며니랑 미리 크리스마스💕💕💕 (1) ▫️",
+  "title": "《YouTube》며니랑 미리 크리스마스💕💕💕 (1) ▫️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/mMJg8hz2cXc",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2025-12-24T14:35:35",
+  "duration": "00:29:40",
+  "thumbnail": "https://i.ytimg.com/vi/mMJg8hz2cXc/maxresdefault.jpg",
+  "alt": "《YouTube》며니랑 미리 크리스마스💕💕💕 (2) ▫️",
+  "title": "《YouTube》며니랑 미리 크리스마스💕💕💕 (2) ▫️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b5432-872e-0332-8328-e02c34971040",
+  "category": "라이브방송",
+  "member": "소연",
+  "date": "2025-12-25T15:29:22",
+  "duration": "00:31:39",
+  "thumbnail": "https://statics.berriz.in/cdn/base/file/vj/ur/ve/dj/an/te/511871799.jpeg",
+  "alt": "《Berriz》소여니랑 메리 크리스마스❤️",
+  "title": "《Berriz》소여니랑 메리 크리스마스❤️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/P4k9sBURucc",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2025-12-25T15:29:23",
+  "duration": "00:31:40",
+  "thumbnail": "https://i.ytimg.com/vi/P4k9sBURucc/hqdefault.jpg",
+  "alt": "《YouTube》소여니랑 메리 크리스마스❤️▫️",
+  "title": "《YouTube》소여니랑 메리 크리스마스❤️▫️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b6d99-1246-b8c9-1238-a7511b32432a",
+  "category": "라이브방송",
+  "member": "소연",
+  "date": "2025-12-30T13:51:53",
+  "duration": "00:14:23",
+  "thumbnail": "https://statics.berriz.in/cdn/base/file/ae/dv/hb/tw/zu/pf/989691274.jpeg",
+  "alt": "《Berriz》소연이의 잠깐라이브 (1)",
+  "title": "《Berriz》소연이의 잠깐라이브 (1)",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b6da8-e7ff-86a2-e712-340089c4d94b",
+  "category": "라이브방송",
+  "member": "소연",
+  "date": "2025-12-30T14:09:07",
+  "duration": "00:04:12",
+  "thumbnail": "https://statics.berriz.in/cdn/base/file/re/da/cs/tp/bx/mp/1407331185.jpeg",
+  "alt": "《Berriz》다시 라이브(2)",
+  "title": "《Berriz》다시 라이브 (2)",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/YI3NHGw3ofQ",
+  "category": "라이브방송",
+  "member": "소연",
+  "date": "2025-12-30T14:09:08",
+  "duration": "00:14:24",
+  "thumbnail": "https://i.ytimg.com/vi/YI3NHGw3ofQ/maxresdefault.jpg",
+  "alt": "《YouTube》소연이의 잠깐라이브 (1)▫️",
+  "title": "《YouTube》소연이의 잠깐라이브 (1)▫️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/_SvGYMgt_rI",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2025-12-30T14:09:09",
+  "duration": "00:04:13",
+  "thumbnail": "https://i.ytimg.com/vi/_SvGYMgt_rI/maxresdefault.jpg",
+  "alt": "《YouTube》다시 라이브 (2)▫️",
+  "title": "《YouTube》다시 라이브 (2)▫️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019be604-c6de-0da7-3f71-4646d2651ca3",
+  "category": "라이브방송",
+  "member": "민니",
+  "date": "2026-01-22T23:03:58",
+  "duration": "00:49:09",
+  "thumbnail": "https://statics.berriz.in/cdn/base/file/rf/mt/vr/rw/mw/zb/577523202.jpeg",
+  "alt": "《Berriz》밍이왔다💖",
+  "title": "《Berriz》밍이왔다💖",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/u8RTpNkLIak",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2026-01-22T23:03:59",
+  "duration": "00:49:10",
+  "thumbnail": "https://i.ytimg.com/vi/u8RTpNkLIak/maxresdefault.jpg",
+  "alt": "《YouTube》밍이왔다💖▫️",
+  "title": "《YouTube》밍이왔다💖▫️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019bfec2-10be-1c4c-c912-38040e7373de",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2026-01-27T18:21:37",
+  "duration": "00:18:00",
+  "thumbnail": "https://statics.berriz.in/cdn/base/file/rf/bt/vg/to/rd/vx/737287708.jpeg",
+  "alt": "《Berriz》🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
+  "title": "《Berriz》🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/Cu1_XXREiuc",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2026-01-27T18:21:38",
+  "duration": "00:18:02",
+  "thumbnail": "https://i.ytimg.com/vi/Cu1_XXREiuc/maxresdefault.jpg",
+  "alt": "《YouTube》🖤네버버~ 아이들이 Mono 들려주러 왔어🤍▫️",
+  "title": "《YouTube》🖤네버버~ 아이들이 Mono 들려주러 왔어🤍▫️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019c0956-ff7a-62f0-e88b-826c76db176b",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2026-01-29T19:40:29",
+  "duration": "00:11:56",
+  "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/b5ed57cd-7486-4978-9750-e82feefc6781.jpeg",
+  "alt": "《Berriz》🖤네버버와 함께 시작한 Mono 활동🤍",
+  "title": "《Berriz》🖤네버버와 함께 시작한 Mono 활동🤍",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/d6IyubYpy48",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2026-01-29T19:40:30",
+  "duration": "00:11:57",
+  "thumbnail": "https://i.ytimg.com/vi/d6IyubYpy48/maxresdefault.jpg",
+  "alt": "《YouTube》🖤네버버와 함께 시작한 Mono 활동🤍▫️",
+  "title": "《YouTube》🖤네버버와 함께 시작한 Mono 활동🤍▫️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019c0e49-5e3c-1c00-9365-cb377f8392fa",
+  "category": "라이브방송",
+  "member": "민니, 우기, 슈화",
+  "date": "2026-01-30T18:43:38",
+  "duration": "00:09:07",
+  "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/c000c945-15dc-46d1-bf13-3a8dba168901.jpeg",
+  "alt": "《Berriz》❤️‍🔥❤️‍🔥❤️‍🔥 (1)",
+  "title": "《Berriz》❤️‍🔥❤️‍🔥❤️‍🔥 (1)",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019c0e54-f742-5387-ddb4-4b3a95e6e1bc",
+  "category": "라이브방송",
+  "member": "민니, 소연, 우기, 슈화",
+  "date": "2026-01-30T18:56:18",
+  "duration": "00:02:00",
+  "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/86512d6d-5a39-4d5e-9ad2-ab45e3e5b7ed.jpeg",
+  "alt": "《Berriz》❤️❤️❤️ (2)",
+  "title": "《Berriz》❤️❤️❤️ (2)",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/Cw0gZUdhDjk",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2026-01-30T18:56:19",
+  "duration": "00:09:08",
+  "thumbnail": "https://i.ytimg.com/vi/Cw0gZUdhDjk/maxresdefault.jpg",
+  "alt": "《YouTube》 ❤️‍🔥❤️‍🔥❤️‍🔥 (1)▫️",
+  "title": "《YouTube》 ❤️‍🔥❤️‍🔥❤️‍🔥 (1)▫️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/o6VOsT918q0",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2026-01-30T18:56:20",
+  "duration": "00:02:01",
+  "thumbnail": "https://i.ytimg.com/vi/o6VOsT918q0/maxresdefault.jpg",
+  "alt": "《YouTube》 ❤️❤️❤️ (2)▫️",
+  "title": "《YouTube》 ❤️❤️❤️ (2)▫️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://link.berriz.in/app/main/i-dle/live/replay/019c1301-f43c-6200-a5d4-282bd0a6ebc3",
+  "category": "라이브방송",
+  "member": "미연, 민니, 우기",
+  "date": "2026-01-31T16:43:48",
+  "duration": "00:16:58",
+  "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/638dad45-91c3-43bf-99c5-c26309686742.jpeg",
+  "alt": "《Berriz》 💝🎁며니 생일이 와따💕💕💕",
+  "title": "《Berriz》 💝🎁며니 생일이 와따💕💕💕",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/p9PcM95YeuI",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2026-01-31T16:43:49",
+  "duration": "00:16:59",
+  "thumbnail": "https://i.ytimg.com/vi/p9PcM95YeuI/maxresdefault.jpg",
+  "alt": "《YouTube》 💝🎁며니 생일이 와따💕💕💕▫️",
+  "title": "《YouTube》 💝🎁며니 생일이 와따💕💕💕▫️",
   "subtag": "베리즈 라이브"
 },
   {
-    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b5432-872e-0332-8328-e02c34971040",
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019c1826-cea0-bc7e-7559-6a5bd69affa0",
     "category": "라이브방송",
     "member": "소연",
-    "date": "2025-12-25T15:29:22",
-    "duration": "00:31:39",
-    "thumbnail": "https://statics.berriz.in/cdn/base/file/vj/ur/ve/dj/an/te/511871799.jpeg",
-    "alt": "소여니랑 메리 크리스마스❤️",
-    "title": "소여니랑 메리 크리스마스❤️",
+    "date": "2026-02-01T16:42:09",
+    "duration": "00:37:46",
+    "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/bc884ae6-a4f2-4d57-8d6f-83dcc4c0f1f0.jpeg",
+    "alt": "《Berriz》 소연이야",
+    "title": "《Berriz》 소연이야",
     "subtag": "베리즈 라이브"
   },
+{
+  "link": "https://youtu.be/bJhVUqQHfns",
+  "category": "라이브방송",
+  "member": "소연",
+    "date": "2026-02-01T16:42:10",
+  "duration": "00:37:47",
+  "thumbnail": "https://i.ytimg.com/vi/bJhVUqQHfns/maxresdefault.jpg",
+  "alt": "《YouTube》 소연이야▫️",
+  "title": "《YouTube》 소연이야▫️",
+  "subtag": "베리즈 라이브"
+},
   {
-    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b6d99-1246-b8c9-1238-a7511b32432a",
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019c1df6-c5bb-0a6c-9ded-02f15d168a9f",
     "category": "라이브방송",
     "member": "소연",
-    "date": "2025-12-30T13:51:53",
-    "duration": "00:14:23",
-    "thumbnail": "https://statics.berriz.in/cdn/base/file/ae/dv/hb/tw/zu/pf/989691274.jpeg",
-    "alt": "소연이의 잠깐라이브 (1)",
-    "title": "소연이의 잠깐라이브 (1)",
+    "date": "2026-02-02T19:47:24",
+    "duration": "00:34:00",
+    "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/3edd2608-19d7-421b-90e9-c5cf4b75c073.jpeg",
+    "alt": "《Berriz》 또 여니",
+    "title": "《Berriz》 또 여니",
     "subtag": "베리즈 라이브"
   },
+{
+  "link": "https://youtu.be/DGQwMAyDxyU",
+  "category": "라이브방송",
+  "member": "소연",
+    "date": "2026-02-02T19:47:25",
+  "duration": "00:34:01",
+  "thumbnail": "https://i.ytimg.com/vi/DGQwMAyDxyU/maxresdefault.jpg",
+  "alt": "《YouTube》 또 여니▫️",
+  "title": "《YouTube》 또 여니▫️",
+  "subtag": "베리즈 라이브"
+},
   {
-    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b6da8-e7ff-86a2-e712-340089c4d94b",
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019c220c-1e32-0d19-b5af-aa06191d3b21",
     "category": "라이브방송",
     "member": "소연",
-    "date": "2025-12-30T14:09:07",
-    "duration": "00:04:12",
-    "thumbnail": "https://statics.berriz.in/cdn/base/file/re/da/cs/tp/bx/mp/1407331185.jpeg",
-    "alt": "다시 라이브(2)",
-    "title": "다시 라이브 (2)",
+    "date": "2026-02-03T14:49:08",
+    "duration": "00:35:10",
+    "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/17bb778e-6958-4bb1-b782-9706ab8ffcef.jpeg",
+    "alt": "《Berriz》 또또여니 (1)",
+    "title": "《Berriz》 또또여니 (1)",
     "subtag": "베리즈 라이브"
   },
   {
-    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019be604-c6de-0da7-3f71-4646d2651ca3",
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019c222d-fe25-7a32-616f-e1c4fbc51e47",
     "category": "라이브방송",
-    "member": "민니",
-    "date": "2026-01-22T23:03:58",
-    "duration": "00:49:09",
-    "thumbnail": "https://statics.berriz.in/cdn/base/file/rf/mt/vr/rw/mw/zb/577523202.jpeg",
-    "alt": "밍이왔다💖",
-    "title": "밍이왔다💖",
+    "member": "소연",
+    "date": "2026-02-03T15:26:08",
+    "duration": "00:04:56",
+    "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/57896d17-d7d3-4d16-9e52-5771d2d26c0b.jpeg",
+    "alt": "《Berriz》 다시 (2)",
+    "title": "《Berriz》 다시 (2)",
     "subtag": "베리즈 라이브"
   },
+{
+  "link": "https://youtu.be/cf_6gu0gZ0I",
+  "category": "라이브방송",
+  "member": "아이들",
+    "date": "2026-02-03T15:26:09",
+  "duration": "00:35:12",
+  "thumbnail": "https://i.ytimg.com/vi/cf_6gu0gZ0I/maxresdefault.jpg",
+  "alt": "《YouTube》 또또여니 (1)▫️",
+  "title": "《YouTube》 또또여니 (1)▫️",
+  "subtag": "베리즈 라이브"
+},
+
+{
+  "link": "https://youtu.be/8oyUAtBRyRQ",
+  "category": "라이브방송",
+  "member": "아이들",
+    "date": "2026-02-03T15:26:10",
+  "duration": "00:04:57",
+  "thumbnail": "https://i.ytimg.com/vi/8oyUAtBRyRQ/maxresdefault.jpg",
+  "alt": "《YouTube》 다시 (2)▫️",
+  "title": "《YouTube》 다시 (2)▫️",
+  "subtag": "베리즈 라이브"
+},
   {
-    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019bfec2-10be-1c4c-c912-38040e7373de",
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019c2d5e-8605-a69f-be57-000a58dafff6",
     "category": "라이브방송",
     "member": "아이들",
-    "date": "2026-01-27T18:21:37",
-    "duration": "00:18:00",
-    "thumbnail": "https://statics.berriz.in/cdn/base/file/rf/bt/vg/to/rd/vx/737287708.jpeg",
-    "alt": "🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
-    "title": "🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
+    "date": "2026-02-05T19:34:58",
+    "duration": "00:34:02",
+    "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/7ca6a375-ec64-448c-ade5-f7439bb242c3.jpeg",
+    "alt": "《Berriz》 🖤네버버가 만들어 준 Mono 첫 1위🤍",
+    "title": "《Berriz》 🖤네버버가 만들어 준 Mono 첫 1위🤍",
     "subtag": "베리즈 라이브"
-  }
+  },
+{
+  "link": "https://youtu.be/ah9FHxr4dog",
+  "category": "라이브방송",
+  "member": "아이들",
+    "date": "2026-02-05T19:34:59",
+  "duration": "00:00:00",
+  "thumbnail": "https://i.ytimg.com/vi/ah9FHxr4dog/hqdefault.jpg",
+  "alt": "《YouTube》 🖤네버버가 만들어 준 Mono 첫 1위🤍▫️",
+  "title": "《YouTube》 🖤네버버가 만들어 준 Mono 첫 1위🤍▫️",
+  "subtag": "베리즈 라이브"
+}
 
 
 
