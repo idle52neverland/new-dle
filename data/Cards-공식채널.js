@@ -9,7 +9,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Skz2kUcS5Jc/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - Practice Video #1 'Trap Jumping (Feat. Wiz Khalifa) / Rich The Kid'",
   "title": "전소연(JEON SOYEON) - Practice Video #1 'Trap Jumping (Feat. Wiz Khalifa) / Rich The Kid'",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -21,7 +21,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/R5nP0jKDdR8/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - Practice Video #2 'She Don't / YolandaBezet,Ty Dollar Sign'",
   "title": "전소연(JEON SOYEON) - Practice Video #2 'She Don't / YolandaBezet,Ty Dollar Sign'",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -33,7 +33,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/lI1WgtVyNOQ/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - 'Jelly' M/V 촬영 현장 비하인드",
   "title": "전소연(JEON SOYEON) - 'Jelly' M/V 촬영 현장 비하인드",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -45,7 +45,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/eg-l23ps50M/maxresdefault.jpg",
   "alt": "2018 8th CUBE STAR AUDITION in Korea - Artist Message (전소연)",
   "title": "2018 8th CUBE STAR AUDITION in Korea - Artist Message (전소연)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -57,7 +57,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/yXQFSJV2wtQ/maxresdefault.jpg",
   "alt": "진호(JINHO) - MAGAZINE HO #13 'Finesse (Remix) / Bruno Mars'",
   "title": "진호(JINHO) - MAGAZINE HO #13 'Finesse (Remix) / Bruno Mars'",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -69,7 +69,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/zX5Wf3SVSqM/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '아이들 쏭(Idle song)' M/V 촬영 현장 비하인드",
   "title": "전소연(JEON SOYEON) - '아이들 쏭(Idle song)' M/V 촬영 현장 비하인드",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -81,7 +81,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/6KvYHQqq5F8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。소연(SOYEON)",
   "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。소연(SOYEON)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -93,7 +93,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Dwi-oX-hRg8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。슈화(SHUHUA)",
   "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。슈화(SHUHUA)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -105,7 +105,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/lJfzlFJq3Ts/maxresdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。수진(SOOJIN)",
   "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。수진(SOOJIN)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -117,7 +117,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/1woJTDD96iU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。민니(MINNIE)",
   "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。민니(MINNIE)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -129,7 +129,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/MkkbLKWx_GY/maxresdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。우기(YUQI)",
   "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。우기(YUQI)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -141,7 +141,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/YHz9ABDyjmg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)-I-DLE) - 나의 이름은。미연(MIYEON)",
   "title": "(여자)아이들((G)-I-DLE) - 나의 이름은。미연(MIYEON)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -153,7 +153,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/r-B4WCuI78c/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 1st mini album \"I am\" Audio snippet",
   "title": "(여자)아이들((G)I-DLE) - 1st mini album \"I am\" Audio snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -165,7 +165,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/5wn5ponH2XI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 미연(MIYEON) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 미연(MIYEON) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -177,7 +177,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Qw6Z4BbNbMc/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 민니(MINNIE) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 민니(MINNIE) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -189,7 +189,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3w4ljZZ0iIA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 수진(SOOJIN) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 수진(SOOJIN) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -201,7 +201,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pOOwt28gZYA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 소연(SOYEON) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 소연(SOYEON) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -213,7 +213,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/398QLj8ZKmE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 우기(YUQI) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 우기(YUQI) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -225,7 +225,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/mz-9otF_v00/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' : 슈화(SHUHUA) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' : 슈화(SHUHUA) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -237,7 +237,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/H54rWc8laeE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' M/V teaser",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' M/V teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -261,7 +261,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/atdBi-yIDgk/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ Debut Showcase",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ Debut Showcase",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -285,7 +285,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Fhk4Qzj_QpM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video)",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' (Choreography Practice Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -309,7 +309,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/mV2KEz4OIAs/maxresdefault.jpg",
   "alt": "UNITED CUBE - 2018 UNITED CUBE ONE CONCERT (Spot)",
   "title": "UNITED CUBE - 2018 UNITED CUBE ONE CONCERT (Spot)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -417,7 +417,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/GAGUJ_c72Jo/maxresdefault.jpg",
   "alt": "2018 CUBE STAR WORLD AUDITION in JAPAN (ARTIST MESSAGE - BTOB, PENTAGON, YOO SEONHO, (G)I-DLE)",
   "title": "2018 CUBE STAR WORLD AUDITION in JAPAN (ARTIST MESSAGE - BTOB, PENTAGON, YOO SEONHO, (G)I-DLE)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -441,7 +441,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ztWnrkpKPk8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - FLASHMOB in New York : '#LATATA'",
   "title": "(여자)아이들((G)I-DLE) - FLASHMOB in New York : '#LATATA'",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -453,7 +453,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/s_cd0CKZjL4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' M/V Teaser",
   "title": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -465,7 +465,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ERK1jzLEDm0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'FAKE LOVE / BTS (Dance Cover in New York)'",
   "title": "(여자)아이들((G)I-DLE) - 'FAKE LOVE / BTS (Dance Cover in New York)'",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -477,7 +477,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/fAJi2ZAryNY/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'APESXXT / The Carters (Choreography in New York)'",
   "title": "(여자)아이들((G)I-DLE) - 'APESXXT / The Carters (Choreography in New York)'",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -501,7 +501,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/EGuuBE7xjBk/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' (Choreography Practice Video)",
   "title": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' (Choreography Practice Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -621,7 +621,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/0qxfaNCYY6o/hqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2019 시즌 그리팅 (2019 SEASON'S GREETINGS)",
   "title": "(여자)아이들((G)I-DLE) - 2019 시즌 그리팅 (2019 SEASON'S GREETINGS)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -633,7 +633,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/8b2DjJ5iVgI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연)",
   "title": "(여자)아이들((G)I-DLE) - LoL K/DA 'POP/STARS' Project Behind(미연&소연)",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -657,7 +657,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/BGz8n0yhrDs/maxresdefault.jpg",
   "alt": "2019 9th CUBE STAR AUDITION in KOREA - Artist Message ((여자)아이들)",
   "title": "2019 9th CUBE STAR AUDITION in KOREA - Artist Message ((여자)아이들)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -681,7 +681,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Y_RnAf-ZFEA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2018 연말 메시지 (2018 Year-End Message)",
   "title": "(여자)아이들((G)I-DLE) - 2018 연말 메시지 (2018 Year-End Message)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -717,7 +717,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/v4lQkLixffs/maxresdefault.jpg",
   "alt": "CUBE JAPAN MONTHLY AUDITION - ARTIST MESSAGE / (G)I-DLE",
   "title": "CUBE JAPAN MONTHLY AUDITION - ARTIST MESSAGE / (G)I-DLE",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -729,7 +729,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4-HN0siT65A/maxresdefault.jpg",
   "alt": "2019 (여자)아이들((G)I-DLE) 설 인사 영상",
   "title": "2019 (여자)아이들((G)I-DLE) 설 인사 영상",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -777,7 +777,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/DJ2oZj8nyig/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Art film",
   "title": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Art film",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -789,7 +789,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/KtOC9LNIyBo/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Audio snippet",
   "title": "(여자)아이들((G)I-DLE) - 2nd mini album \"I made\" Audio snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -801,7 +801,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4mtAWfuDcwo/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 미연(MIYEON) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 미연(MIYEON) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -813,7 +813,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/7bqewyz8_5s/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 소연(SOYEON) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 소연(SOYEON) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -825,7 +825,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/9khosHZ7YLo/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 수진(SOOJIN) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 수진(SOOJIN) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -837,7 +837,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/HI7syzmCutA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 슈화(SHUHUA) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 슈화(SHUHUA) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -849,7 +849,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3Yjln4kr84Y/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 민니(MINNIE) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 민니(MINNIE) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -861,7 +861,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/FHhOwtQ85Ow/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' : 우기(YUQI) Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' : 우기(YUQI) Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -885,7 +885,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/M12zfy-IZLA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' M/V Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -897,7 +897,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/mtS__Me5KhM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' 응원법",
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' 응원법",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -909,7 +909,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/nLKPXoxPGfI/maxresdefault.jpg",
   "alt": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON'",
   "title": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON'",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -921,7 +921,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/rhBa2_-qw00/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Senorita' (Choreography Practice Video)",
   "title": "(여자)아이들((G)I-DLE) - 'Senorita' (Choreography Practice Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -945,7 +945,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4gxMgJSSVaQ/maxresdefault.jpg",
   "alt": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Gravity / Sara Bareilles' (Cover)",
   "title": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Gravity / Sara Bareilles' (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -1029,7 +1029,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/-HPdxo3kNbg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 네버랜드 1기 모집 (1st Fanclub Membership Registration Guide)",
   "title": "(여자)아이들((G)I-DLE) - 네버랜드 1기 모집 (1st Fanclub Membership Registration Guide)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -1041,7 +1041,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/uFA8Y3tKHjU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1",
   "title": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 1",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -1053,7 +1053,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/lmADefjjV14/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 2",
   "title": "(여자)아이들((G)I-DLE) - 소확행 #1 : 수진, 슈화의 쿠킹 타임 Part 2",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -1065,7 +1065,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4wts4pUvZFg/hqdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기▫️",
   "title": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기▫️",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -1077,7 +1077,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/6oZ80LMxsuE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #3 : 미연이의 노래방 정복기",
   "title": "(여자)아이들((G)I-DLE) - 소확행 #3 : 미연이의 노래방 정복기",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -1089,7 +1089,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/1CPQFG4k97k/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 1",
   "title": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 1",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -1101,7 +1101,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/mttovhSQVVs/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 2",
   "title": "(여자)아이들((G)I-DLE) - 소확행 #4 : 민니, 우기의 VLOG Part 2",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -1125,7 +1125,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/nwsGnx4Bebc/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Uh-Oh' M/V Teaser 1",
   "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1137,7 +1137,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/TqW04rj2WOs/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Uh-Oh' M/V Teaser 2",
   "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1149,7 +1149,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Xc67HobtL68/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Uh-Oh' 응원법",
   "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' 응원법",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -1161,7 +1161,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/lW-UGrLAYnM/maxresdefault.jpg",
   "alt": "(G)I-DLE - JAPAN 1st mini album「LATATA」Audio snippet",
   "title": "(G)I-DLE - JAPAN 1st mini album「LATATA」Audio snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1173,7 +1173,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/PzSCnRCpM_c/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Uh-Oh' (Choreography Practice Video)",
   "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' (Choreography Practice Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -1197,7 +1197,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/aud0TbYbcRc/maxresdefault.jpg",
   "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (MIYEON)",
   "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (MIYEON)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1209,7 +1209,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/G80FyC2_UyY/maxresdefault.jpg",
   "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (MINNIE)",
   "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (MINNIE)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1221,7 +1221,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/csTEFg3Cefs/sddefault.jpg",
   "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SOOJIN)",
   "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SOOJIN)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1233,7 +1233,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/eqqzvSNMJHg/maxresdefault.jpg",
   "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SOYEON)",
   "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SOYEON)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1245,7 +1245,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/9mLIX-AwQuQ/maxresdefault.jpg",
   "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (YUQI)",
   "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (YUQI)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1257,7 +1257,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/AdGKH1fjA1M/maxresdefault.jpg",
   "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SHUHUA)",
   "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SHUHUA)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1281,7 +1281,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/hWoAD89V5Kw/maxresdefault.jpg",
   "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser",
   "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1305,7 +1305,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ydQ6tQNOzys/maxresdefault.jpg",
   "alt": "(G)I-DLE -「LATATA」(Japanese ver.) GUIDE VIDEO",
   "title": "(G)I-DLE -「LATATA」(Japanese ver.) GUIDE VIDEO",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1329,7 +1329,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/kMVY3GNNgBw/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 막 나가는 인터뷰 : 수진이의 TMI",
   "title": "(여자)아이들((G)I-DLE) - 막 나가는 인터뷰 : 수진이의 TMI",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -1353,7 +1353,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/vV6R6cdJb2I/hqdefault.jpg",
   "alt": "CUBE X 뮤직 레이블 on BOF - ARTIST MESSAGE / (G)I-DLE",
   "title": "CUBE X 뮤직 레이블 on BOF - ARTIST MESSAGE / (G)I-DLE",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -1365,7 +1365,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/lR9QM56IDCM/maxresdefault.jpg",
   "alt": "2019 (여자)아이들((G)I-DLE) 추석 인사 영상",
   "title": "2019 (여자)아이들((G)I-DLE) 추석 인사 영상",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -1401,7 +1401,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/GQh88VtWoFs/maxresdefault.jpg",
   "alt": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180]",
   "title": "(여자)아이들의 앨범 제작기 : 매니저편 [VR 180]",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -1437,7 +1437,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/SBtF_e6XWnc/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '싫다고 말해 (Nightmare Ver.)' (Halloween Ver. Choreography Video)",
   "title": "(여자)아이들((G)I-DLE) - '싫다고 말해 (Nightmare Ver.)' (Halloween Ver. Choreography Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -1449,7 +1449,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/n0mwthRl1qc/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LION' M/V Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'LION' M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1473,7 +1473,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/FQ4MNRKhUXU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2020 시즌 그리팅 (2020 SEASON'S GREETINGS)",
   "title": "(여자)아이들((G)I-DLE) - 2020 시즌 그리팅 (2020 SEASON'S GREETINGS)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -1509,7 +1509,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/FRYY-OxzRTU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LION' (Choreography Practice Video)",
   "title": "(여자)아이들((G)I-DLE) - 'LION' (Choreography Practice Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -1605,7 +1605,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/aFhyJ-YqEK8/maxresdefault.jpg",
   "alt": "2020 (여자)아이들((G)I-DLE) 설 인사 영상",
   "title": "2020 (여자)아이들((G)I-DLE) 설 인사 영상",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -1749,7 +1749,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/w6xQbDB6BcI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 1",
   "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1761,7 +1761,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ysmHFXpdAkI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 2",
   "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Concept Preview 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1773,7 +1773,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/uhAQ1Hrbc8w/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Audio Snippet",
   "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1797,7 +1797,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/OT-pQiWt_A0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' M/V Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'Oh my god' M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -1809,7 +1809,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/iG6KRfUE_hs/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' 응원법",
   "title": "(여자)아이들((G)I-DLE) - 'Oh my god' 응원법",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -1821,7 +1821,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/twXUS3fqI74/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Lyric Video",
   "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Lyric Video",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -1833,7 +1833,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/TzepUKHa9lg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '사랑해(Luv U)' Official Lyric Video",
   "title": "(여자)아이들((G)I-DLE) - '사랑해(Luv U)' Official Lyric Video",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -1857,7 +1857,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/wLlKktf0ZWE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' (Choreography Practice Video)",
   "title": "(여자)아이들((G)I-DLE) - 'Oh my god' (Choreography Practice Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -1881,7 +1881,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/brH6kAa9waA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' Music Clip",
   "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Music Clip",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -1893,7 +1893,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/UR-1Tgx1MeA/sddefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video",
   "title": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -1917,7 +1917,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/KqE4UK5sfHA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' (Special Choreography Video)",
   "title": "(여자)아이들((G)I-DLE) - 'Oh my god' (Special Choreography Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -2049,7 +2049,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/HnvWJehjYQA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA (English Ver.)' Official Lyric Video",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA (English Ver.)' Official Lyric Video",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2073,7 +2073,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pi32eMzUrEM/maxresdefault.jpg",
   "alt": "CUBE CHINA E-MAIL AUDITION - (G)I-DLE YUQI",
   "title": "CUBE CHINA E-MAIL AUDITION - (G)I-DLE YUQI",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2085,7 +2085,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/VLrEJnJSh6s/maxresdefault.jpg",
   "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - SPOT",
   "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - SPOT",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2097,7 +2097,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/6iM5pZtvbis/maxresdefault.jpg",
   "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (KOR)",
   "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (KOR)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2109,7 +2109,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/sF5pj1CZv2o/maxresdefault.jpg",
   "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (ENG)",
   "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - ID (ENG)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2121,7 +2121,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/DgF3tjsujdY/maxresdefault.jpg",
   "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법",
   "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - 'LATATA' 응원법",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -2133,7 +2133,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/NEBneT2X6o0/maxresdefault.jpg",
   "alt": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - Trailer",
   "title": "2020 (G)I-DLE ONLINE CONCERT 'I-LAND : WHO AM I' - Trailer",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2145,7 +2145,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/H4xb7punc-Y/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2157,7 +2157,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/CWrthwplNgc/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Lyric Video (ENG)",
   "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Lyric Video (ENG)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2217,7 +2217,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/NzXCI1CXqUY/maxresdefault.jpg",
   "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) Official Lyric Video",
   "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) Official Lyric Video",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2229,7 +2229,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/EEIeyyBMhdg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Audio Teaser",
   "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Audio Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2241,7 +2241,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/2LZ8UR1R2bg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' M/V Teaser 1",
   "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2253,7 +2253,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/2qBh7xa2bFg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' M/V Teaser 2",
   "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2265,7 +2265,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/H_HKE1mwzuo/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -2289,7 +2289,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/DPykR20ZxAo/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' 응원법",
   "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' 응원법",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -2301,7 +2301,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/aD-ZAhCVV-s/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Music Clip",
   "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Music Clip",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -2313,7 +2313,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/sPzF8DZI5ZM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Lyric Video (ENG)",
   "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Lyric Video (ENG)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2337,7 +2337,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/za4mpgQWs7c/maxresdefault.jpg",
   "alt": "(여자)아이들 공식 팬클럽 네버랜드 2기 모집 (2ND NEVERLAND Generation Recruitment Guide",
   "title": "(여자)아이들 공식 팬클럽 네버랜드 2기 모집 (2ND NEVERLAND Generation Recruitment Guide",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2349,7 +2349,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/naRRqAGIAqQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' (Choreography Practice Video)",
   "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' (Choreography Practice Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -2361,7 +2361,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/5mfsByNYsIc/maxresdefault.jpg",
   "alt": "(G)I-DLE - JAPAN 2nd Mini Album「Oh my god」Audio snippet",
   "title": "(G)I-DLE - JAPAN 2nd Mini Album「Oh my god」Audio snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2373,7 +2373,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/w77Is2MsynU/maxresdefault.jpg",
   "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MIYEON)",
   "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MIYEON)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2385,7 +2385,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/UZOIqpTtZdw/maxresdefault.jpg",
   "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MINNIE)",
   "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MINNIE)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2397,7 +2397,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/1hnA1WUO5PU/maxresdefault.jpg",
   "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOOJIN)",
   "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOOJIN)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2409,7 +2409,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/2Hg0VnufnEg/maxresdefault.jpg",
   "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOYEON)",
   "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOYEON)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2433,7 +2433,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/cDJUEVXFXuI/maxresdefault.jpg",
   "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (YUQI)",
   "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (YUQI)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2445,7 +2445,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/eogel7-rvrU/maxresdefault.jpg",
   "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SHUHUA)",
   "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SHUHUA)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2457,7 +2457,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/2ofiMw4oJbA/maxresdefault.jpg",
   "alt": "(G)I-DLE -「Oh my god」(Japanese ver.) M/V Teaser",
   "title": "(G)I-DLE -「Oh my god」(Japanese ver.) M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2481,7 +2481,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/B76OrD9JmeI/maxresdefault.jpg",
   "alt": "(G)I-DLE - The Making of Oh my god (Japanese ver.) Digest Movie",
   "title": "(G)I-DLE - The Making of Oh my god (Japanese ver.) Digest Movie",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -2505,7 +2505,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/vUpyKv4BIqE/maxresdefault.jpg",
   "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) MV Reaction",
   "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) MV Reaction",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -2541,7 +2541,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/-RLQFpuvru4/maxresdefault.jpg",
   "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (ENG)",
   "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (ENG)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2553,7 +2553,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/0B1rjWurMFU/maxresdefault.jpg",
   "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (CHN)",
   "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (CHN)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2565,7 +2565,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/G-HmfEBRHB4/maxresdefault.jpg",
   "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (KOR)",
   "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (KOR)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2577,7 +2577,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ZEqbiI2HHGQ/maxresdefault.jpg",
   "alt": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (JPN)",
   "title": "(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 2ND ONLINE FAN MEETING [GBC in the NEVERLAND] - ID (JPN)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2589,7 +2589,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Q8mioC2TpLg/maxresdefault.jpg",
   "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Shallow' / Lady Gaga, Bradley Cooper (Cover)",
   "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Shallow' / Lady Gaga, Bradley Cooper (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -2673,7 +2673,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/eiHCe0kGy3M/maxresdefault.jpg",
   "alt": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Why Do You Love Me (Acoustic)' / Charlotte Lawrence (Cover)",
   "title": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Why Do You Love Me (Acoustic)' / Charlotte Lawrence (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -2733,7 +2733,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Kv_Cfa9b8FQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2021 시즌 그리팅 (2021 SEASON'S GREETINGS)",
   "title": "(여자)아이들((G)I-DLE) - 2021 시즌 그리팅 (2021 SEASON'S GREETINGS)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2757,7 +2757,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/vu16GWI3WMQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 🎄Merry Christmas Carol Handbell Medley🔔🎶",
   "title": "(여자)아이들((G)I-DLE) - 🎄Merry Christmas Carol Handbell Medley🔔🎶",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -2781,7 +2781,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3SsM-A71f10/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Visual Film",
   "title": "(여자)아이들((G)I-DLE) - Visual Film",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2793,7 +2793,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/-RLp1yiTPh0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)' Typography Motion Teaser",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)' Typography Motion Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2805,7 +2805,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/10i04-F_IO8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2021 새해 인사 영상",
   "title": "(여자)아이들((G)I-DLE) - 2021 새해 인사 영상",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -2817,7 +2817,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/i--O8Yhrc44/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Visual Film Behind the scenes (ENG)",
   "title": "(여자)아이들((G)I-DLE) - Visual Film Behind the scenes (ENG)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2829,7 +2829,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/tPIUXk96xng/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Concept Preview",
   "title": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Concept Preview",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2841,7 +2841,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/7FnbZGoMig0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Audio Snippet",
   "title": "(여자)아이들((G)I-DLE) - 4th Mini Album \"I burn\" Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2853,7 +2853,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/mex7aRfrTiU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' M/V Teaser 1",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2865,7 +2865,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ErTq-VvkqIk/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' M/V Teaser 2",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -2889,7 +2889,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/55TEB82zfVk/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -2901,7 +2901,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/cD47izQfxTs/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 응원법",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' 응원법",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -2913,7 +2913,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/87zYoeoqFrM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -2925,7 +2925,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/M-YQ_0GOa88/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -2937,7 +2937,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/SLsWLUNADtM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (수진 Focus) : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (수진 Focus) : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -2949,7 +2949,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/nlLc9p8q75w/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -2961,7 +2961,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/LlPS_LYhnTE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -2973,7 +2973,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Xv_s8WBurWU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -2985,7 +2985,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/2njcKe_wweU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Music Clip",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Music Clip",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -3021,7 +3021,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/hGiePSHdRw8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Lyric Video (ENG)",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Lyric Video (ENG)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -3033,7 +3033,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/cwKYh2geaik/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (Choreography Practice Video)",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' (Choreography Practice Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -3069,7 +3069,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/miU4s4PUACY/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'HWAA (English Ver.)' Official Lyric Video",
   "title": "(여자)아이들((G)I-DLE) - 'HWAA (English Ver.)' Official Lyric Video",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -3093,7 +3093,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3ism5AMppCM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Audio Teaser",
   "title": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Audio Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3105,7 +3105,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/P62kgQCuxGE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V",
   "title": "(여자)아이들((G)I-DLE), Dimitri Vegas & Like Mike - 'HWAA (Dimitri Vegas & Like Mike Remix)' Official M/V",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -3153,7 +3153,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Yx9xhYRonpw/maxresdefault.jpg",
   "alt": "우기 (YUQI) - \"A Page\" Audio Snippet",
   "title": "우기 (YUQI) - \"A Page\" Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3165,7 +3165,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Ch2zY9eUFzk/maxresdefault.jpg",
   "alt": "우기 (YUQI) - 'Giant' M/V Teaser",
   "title": "우기 (YUQI) - 'Giant' M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3177,7 +3177,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/09o7NGd9zQY/maxresdefault.jpg",
   "alt": "우기 (YUQI) - 'Bonnie & Clyde' M/V Teaser 1",
   "title": "우기 (YUQI) - 'Bonnie & Clyde' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3189,7 +3189,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/czUwp_YNdCo/maxresdefault.jpg",
   "alt": "우기 (YUQI) - 'Bonnie & Clyde' M/V Teaser 2",
   "title": "우기 (YUQI) - 'Bonnie & Clyde' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3201,7 +3201,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/7VReeoBR3Kk/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - 1st Mini Album \"Windy\" Concept Teaser",
   "title": "전소연(JEON SOYEON) - 1st Mini Album \"Windy\" Concept Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3213,7 +3213,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/hr3np7viBPw/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.1",
   "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.1",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -3225,7 +3225,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/6UXb3tDJg_Y/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.2",
   "title": "전소연(JEON SOYEON) - 바람피는 날 (Blooming Windy Day) Part.2",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -3237,7 +3237,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/DXWE5FqdpGk/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - 전소연의 3 IDENTITY (트리플갱어 인터뷰) (ENG)",
   "title": "전소연(JEON SOYEON) - 전소연의 3 IDENTITY (트리플갱어 인터뷰) (ENG)",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -3249,7 +3249,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/FsMfjN63FTg/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - 1st Mini Album \"Windy\" Audio Snippet",
   "title": "전소연(JEON SOYEON) - 1st Mini Album \"Windy\" Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3261,7 +3261,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/2ucAQuPRpmU/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' M/V Teaser 1",
   "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3273,7 +3273,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pQMh6dZiYM8/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' M/V Teaser 2",
   "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3405,7 +3405,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/wyNWtNSUqs4/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' 응원법",
   "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' 응원법",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -3429,7 +3429,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/6YGOq65MZpw/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video",
   "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -3441,7 +3441,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/y3yqSbJ2T0w/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Lyric Video (ENG)",
   "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Lyric Video (ENG)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -3465,7 +3465,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/o0MM7TIpilE/maxresdefault.jpg",
   "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.)",
   "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Choreography Video (CEO Ver.)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -3501,7 +3501,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/W4sKzw7FWK4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2021 추석 인사 영상",
   "title": "(여자)아이들((G)I-DLE) - 2021 추석 인사 영상",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -3513,7 +3513,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/fyk0U2BpiQg/maxresdefault.jpg",
   "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Rise Up / Andra Day' (Cover)",
   "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Rise Up / Andra Day' (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -3561,7 +3561,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/iA04XJDdyrg/maxresdefault.jpg",
   "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Easy On Me / Adele' (Cover)",
   "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Easy On Me / Adele' (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -3597,7 +3597,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/N1qWluicDkM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) COMEBACK TRAILER : [I NEVER DIE]",
   "title": "(여자)아이들((G)I-DLE) COMEBACK TRAILER : [I NEVER DIE]",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3609,7 +3609,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/viKTTmds5w0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 1st Full Album \"I NEVER DIE\" Audio Snippet",
   "title": "(여자)아이들((G)I-DLE) - 1st Full Album \"I NEVER DIE\" Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3621,7 +3621,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/CK422h0brGE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' Track Video",
   "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Track Video",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3633,7 +3633,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/-nYIOcvTfWM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 1",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3645,7 +3645,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Bvx_7Z60jDg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 2",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3657,7 +3657,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/eqB57puP5vQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -3669,7 +3669,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ax45oDJiQh0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' 응원법",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' 응원법",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -3681,7 +3681,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/VsW8oXuCNUk/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (미연 Focus) : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -3693,7 +3693,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/foNBw_ubhf8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (소연 Focus) : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -3705,7 +3705,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pBzZvIiBvA4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (우기 Focus) : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -3717,7 +3717,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pq_J-0d0z3M/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (슈화 Focus) : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -3729,7 +3729,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/wkTOHWQvGXQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver.",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (민니 Focus) : ONLINE MEDIA SHOWCASE Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -3765,7 +3765,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/CKSQjJDQTaQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video)",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' (Choreography Practice Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -3789,7 +3789,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Si5pQHRRH5w/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video)",
   "title": "(여자)아이들((G)I-DLE) - 'MY BAG' (Choreography Practice Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -3825,7 +3825,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/OXT3-sLFiaU/maxresdefault.jpg",
   "alt": "미연 (MIYEON) - 1st Mini Album \"MY\" Mood Film",
   "title": "미연 (MIYEON) - 1st Mini Album \"MY\" Mood Film",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3849,7 +3849,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/uMl_cMm7o_E/maxresdefault.jpg",
   "alt": "미연 (MIYEON) - \"MY\" Mood Film Behind the scenes (ENG)",
   "title": "미연 (MIYEON) - \"MY\" Mood Film Behind the scenes (ENG)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3861,7 +3861,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pEMC4GOMmOw/maxresdefault.jpg",
   "alt": "미연 (MIYEON) - 1st Mini Album \"MY\" Audio Snippet",
   "title": "미연 (MIYEON) - 1st Mini Album \"MY\" Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3873,7 +3873,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ij69A4ETIas/maxresdefault.jpg",
   "alt": "미연 (MIYEON) - 'Drive' M/V Teaser 1",
   "title": "미연 (MIYEON) - 'Drive' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3885,7 +3885,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/7lU3Rvw3nGk/maxresdefault.jpg",
   "alt": "미연 (MIYEON) - 'Drive' M/V Teaser 2",
   "title": "미연 (MIYEON) - 'Drive' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -3897,7 +3897,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/QZOvAdQqbjk/maxresdefault.jpg",
   "alt": "미연 (MIYEON) - 'Drive' 응원법",
   "title": "미연 (MIYEON) - 'Drive' 응원법",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -4065,7 +4065,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/cKqxdDg-d9I/maxresdefault.jpg",
   "alt": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Nothing / Bruno Major' (Cover) (LIVE ver.)",
   "title": "민니 of (여자)아이들 (MINNIE of (G)I-DLE) - 'Nothing / Bruno Major' (Cover) (LIVE ver.)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4089,7 +4089,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/c3-dnBwM6O8/maxresdefault.jpg",
   "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] - ID",
   "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] - ID",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -4113,7 +4113,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/n7l5pRXQKoc/maxresdefault.jpg",
   "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - ID",
   "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - ID",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -4173,7 +4173,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/XsXyaXIv5lM/maxresdefault.jpg",
   "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - SPOT",
   "title": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN SEOUL - SPOT",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -4245,7 +4245,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/eFs6BZOvp7Y/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.1 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.1 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -4269,7 +4269,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/7qzwlb73-yM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.2 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.2 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -4293,7 +4293,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/KN3j4jS-5l0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.3 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.3 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -4317,7 +4317,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/klm3ZO0VxVE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.4 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.4 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -4341,7 +4341,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/cVvLMuzeXs4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] Spoiler Teaser",
   "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] Spoiler Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -4353,7 +4353,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/xDBvRbiy9aI/maxresdefault.jpg",
   "alt": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Beggin’ / Måneskin' (Cover)",
   "title": "우기 of (여자)아이들 (YUQI of (G)I-DLE) - 'Beggin’ / Måneskin' (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4365,7 +4365,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3Rcj4NmkRWw/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.5 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.5 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -4389,7 +4389,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/q3dPS1a1pm8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] Sketch Film",
   "title": "(여자)아이들((G)I-DLE) - 5th Mini Album [I love] Sketch Film",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -4401,7 +4401,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/v3XUlKoQIZQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KANGNAM UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KANGNAM UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4413,7 +4413,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/9NGWQcgQHOI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.6 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.6 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -4425,7 +4425,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/bzXXG9VaULI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LION' Stage Cam @ MYONGJI UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'LION' Stage Cam @ MYONGJI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4437,7 +4437,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/xSKVz1QshaM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'POP/STARS' Stage Cam @ MYONGJI UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'POP/STARS' Stage Cam @ MYONGJI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4449,7 +4449,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/0IJcKyjy7P0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ MYONGJI UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ MYONGJI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4461,7 +4461,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/9Y8oSiV1FNM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ INCHEON NATIONAL UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ INCHEON NATIONAL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4473,7 +4473,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Fs8ILBls_2Y/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ INCHEON NATIONAL UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ INCHEON NATIONAL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4485,7 +4485,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/qEWfUqSxmSY/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Audio Snippet",
   "title": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -4497,7 +4497,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/T91NIKVhn_4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - X-FILE VIDEO",
   "title": "(여자)아이들((G)I-DLE) - X-FILE VIDEO",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -4509,7 +4509,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/jcKhzuNhvFQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Interview",
   "title": "(여자)아이들((G)I-DLE) - 5th Mini Album \"I love\" Interview",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -4521,7 +4521,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/hZf4w5d1T34/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' M/V Teaser 1",
   "title": "(여자)아이들((G)I-DLE) - 'Nxde' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -4533,7 +4533,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/taGjyi9M0i0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' M/V Teaser 2",
   "title": "(여자)아이들((G)I-DLE) - 'Nxde' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -4545,7 +4545,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/WjCYHBcNS08/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' 응원법",
   "title": "(여자)아이들((G)I-DLE) - 'Nxde' 응원법",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -4557,7 +4557,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/uPU1l6fBEEQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' X-LOVE SHOW Ver.",
   "title": "(여자)아이들((G)I-DLE) - 'Nxde' X-LOVE SHOW Ver.",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4581,7 +4581,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/9f1iFCxhc4U/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.7 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] 비하인드 EP.7 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -4605,7 +4605,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/R9UsmrVEWYY/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video)",
   "title": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -4617,7 +4617,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/7ZJwXaL8mD4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) Behind the scenes (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video) Behind the scenes (ENG/CHN)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -4641,7 +4641,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/RI-rPp75kCg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'Nxde' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4653,7 +4653,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/bvNNoY4rH28/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4665,7 +4665,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/xB8aJ5KVW1o/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'DUMDi DUMDi' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'DUMDi DUMDi' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4677,7 +4677,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/7RuqX8NDMD8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4689,7 +4689,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/AKAA4js2858/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'MY BAG' Stage Cam @ KOREA NATIONAL SPORT UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4761,7 +4761,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Gk80c8nSV0k/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' 활동 영상통화 이벤트 Behind the scenes (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 'Nxde' 활동 영상통화 이벤트 Behind the scenes (ENG/CHN)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -4785,7 +4785,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/xqRjm5ulgJs/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Teaser",
   "title": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -4797,7 +4797,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/TFGeHfqVswI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer Teaser",
   "title": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -4809,7 +4809,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/qRrV31S7oO0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer",
   "title": "(여자)아이들((G)I-DLE), Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -4857,7 +4857,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/P7zU8MNxAoU/maxresdefault.jpg",
   "alt": "민니(MINNIE) - 'Recuérdame / Coco OST' (Cover)",
   "title": "민니(MINNIE) - 'Recuérdame / Coco OST' (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4929,7 +4929,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/gYDo7FOyz1Q/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -4953,7 +4953,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/wMmL0Ufb7u4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Abracadabra' (Cover) @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING",
   "title": "(여자)아이들((G)I-DLE) - 'Abracadabra' (Cover) @ OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5037,7 +5037,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/0X4XGrK_PwM/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'Flowers / Miley Cyrus' (Cover)",
   "title": "우기(YUQI) - 'Flowers / Miley Cyrus' (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5133,7 +5133,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/URh5fgVufm4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Announcement : [I feel] New Episodes",
   "title": "(여자)아이들((G)I-DLE) - Announcement : [I feel] New Episodes",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5145,7 +5145,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/6P3fqtf3ibM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #YUQI",
   "title": "(여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #YUQI",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5157,7 +5157,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/TFb3ITn3TyQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #SHUHUA",
   "title": "(여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #SHUHUA",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5181,7 +5181,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/FZc4wGOf0i4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #MINNIE",
   "title": "(여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #MINNIE",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5229,7 +5229,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/XYIBQAm8iZ4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #MIYEON",
   "title": "(여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #MIYEON",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5325,7 +5325,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/38kvqREhg8k/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #SOYEON",
   "title": "(여자)아이들((G)I-DLE) - Spoiler Alert : [I feel] #SOYEON",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5349,7 +5349,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/dFNyiyofGlE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Comeback Interview : [I feel]  | (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - Comeback Interview : [I feel]  | (ENG/CHN)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5361,7 +5361,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/NV-pwtijKWg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' 응원법 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' 응원법 (ENG/CHN)",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -5373,7 +5373,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/PAh2PEsX65U/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 6th Mini Album [I feel] UNBOXING 👑 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) 6th Mini Album [I feel] UNBOXING 👑 (ENG/CHN)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5385,7 +5385,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pKCaXYYwGjw/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Choreography Practice Video",
   "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Choreography Practice Video",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -5433,7 +5433,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/qYpPn5CudRw/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KOREA UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KOREA UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5445,7 +5445,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/tOID3CTHBHg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ KOREA UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ KOREA UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5457,7 +5457,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/IVAXcw0qH_c/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ KYUNG HEE UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ KYUNG HEE UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5469,7 +5469,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/hfBPHLBxZro/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KYUNG HEE UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KYUNG HEE UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5481,7 +5481,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/-mDVfE5NeK0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ HANYANG UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ HANYANG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5493,7 +5493,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4OV_zNx54Ho/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' @ HANYANG UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ HANYANG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5505,7 +5505,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ZqL9SCPGrTA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Allergy' @ HANYANG UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'Allergy' @ HANYANG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5517,7 +5517,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/AKg_9dn_VmA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' M/V (Performance Ver.)",
   "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' M/V (Performance Ver.)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5529,7 +5529,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/EJ-Gb-ljxdM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 6th Mini Album [I feel] Audio Snippet 촬영 비하인드 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 6th Mini Album [I feel] Audio Snippet 촬영 비하인드 (ENG/CHN)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5541,7 +5541,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ZHJPJleCa5M/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KOOKMIN UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KOOKMIN UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5553,7 +5553,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/je9vk7qIM7A/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Allergy' @ KOOKMIN UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'Allergy' @ KOOKMIN UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5565,7 +5565,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pz1iMo5pQcg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ KOOKMIN UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ KOOKMIN UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5589,7 +5589,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Nzs9Liewjo8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - M/V Bloopers : [I feel]",
   "title": "(여자)아이들((G)I-DLE) - M/V Bloopers : [I feel]",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5613,7 +5613,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/_NCMWptDQFg/maxresdefault.jpg",
   "alt": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] SPOT",
   "title": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] SPOT",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -5769,7 +5769,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/0K5RvD2p6v8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.01 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.01 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -5781,7 +5781,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/SZoacJ-KSxU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.02 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.02 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -5793,7 +5793,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/h22rV2yCpnc/maxresdefault.jpg",
   "alt": "💛 HAPPY SOYEON DAY 💛 (Feat. 직접 차려보는 생일상 👩‍🍳) (ENG/CHN)",
   "title": "💛 HAPPY SOYEON DAY 💛 (Feat. 직접 차려보는 생일상 👩‍🍳) (ENG/CHN)",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -5805,7 +5805,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/x7i6iIil-dQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.03 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.03 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -5841,7 +5841,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/RbFdaAUXGIY/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.04 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.04 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -5853,7 +5853,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Zi2kJvHwk1k/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'ghost town / JVKE' (Cover)",
   "title": "우기(YUQI) - 'ghost town / JVKE' (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -5865,7 +5865,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/46Nr2DsHEYA/maxresdefault.jpg",
   "alt": "🎂 HBD YUQI 🎂 (From. (G)I-DLE 💖) (ENG/CHN)",
   "title": "🎂 HBD YUQI 🎂 (From. (G)I-DLE 💖) (ENG/CHN)",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -5889,7 +5889,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/XJ0zcVrvLO4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) Special EP [HEAT] Audio Snippet",
   "title": "(여자)아이들((G)I-DLE) Special EP [HEAT] Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5901,7 +5901,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/CIxApX7r9YQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'I Want That' M/V Teaser 1",
   "title": "(여자)아이들((G)I-DLE) - 'I Want That' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5913,7 +5913,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/IjGdsdLMttc/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'I Want That' M/V Teaser 2",
   "title": "(여자)아이들((G)I-DLE) - 'I Want That' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -5925,7 +5925,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/sxl3aKjF1e4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.05 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.05 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -5973,7 +5973,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/2WZY9gRJfrw/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.06 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.06 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -5985,7 +5985,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/5RSIJdz9x_w/maxresdefault.jpg",
   "alt": "💖 HAPPY MINNIE DAY 💖 (Feat. 퍼스널 컬러 & 인생네컷 프레임 📸) (ENG/CHN)",
   "title": "💖 HAPPY MINNIE DAY 💖 (Feat. 퍼스널 컬러 & 인생네컷 프레임 📸) (ENG/CHN)",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -5997,7 +5997,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/IQdDn_ktGww/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.07 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.07 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -6045,7 +6045,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/gI9rtej6Xck/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.08 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.08 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -6081,7 +6081,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/0cFfTpbr-2A/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.09 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] 비하인드 EP.09 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -6129,7 +6129,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/6g_qFnZjsxQ/maxresdefault.jpg",
   "alt": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL DVD & BLU-RAY SPOT",
   "title": "2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL DVD & BLU-RAY SPOT",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -6141,7 +6141,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/H6pLWC7zvA8/maxresdefault.jpg",
   "alt": "미연(MIYEON) - MY Winter Song Medley ❄️ | Natural, 산책, 가을밤에 든 생각, 운이 좋았지, Open Arms (Cover) (ENG/CHN)",
   "title": "미연(MIYEON) - MY Winter Song Medley ❄️ | Natural, 산책, 가을밤에 든 생각, 운이 좋았지, Open Arms (Cover) (ENG/CHN)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -6165,7 +6165,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3zD8YRus8HI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.01 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -6189,7 +6189,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/IIhPuxpted8/maxresdefault.jpg",
   "alt": "💜 HAPPY SHUHUA DAY 🤎 (Feat. 반려견 마사지 클래스 🐕) (ENG/CHN)",
   "title": "💜 HAPPY SHUHUA DAY 🤎 (Feat. 반려견 마사지 클래스 🐕) (ENG/CHN)",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -6201,7 +6201,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3f3p64CNwyA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Logo Motion",
   "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Logo Motion",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6213,7 +6213,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/E31_uxS2Lyw/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - Jingle Ball 2023 투어 비하인드 EP.02 (ENG/CHN)",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -6225,7 +6225,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/g_L_DZFdSNI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Comeback Trailer 'A reminder:(G)I-DLE'",
   "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Comeback Trailer 'A reminder:(G)I-DLE'",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6237,7 +6237,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/7NQwzm3d9lc/maxresdefault.jpg",
   "alt": "2nd Full Album [2] Comeback Trailer 'A reminder:(G)I-DLE' Behind",
   "title": "2nd Full Album [2] Comeback Trailer 'A reminder:(G)I-DLE' Behind",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6261,7 +6261,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/IBoOqS3bGh8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Audio Snippet",
   "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6285,7 +6285,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ff-s_LFaBiQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Wife' M/V Teaser",
   "title": "(여자)아이들((G)I-DLE) - 'Wife' M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6309,7 +6309,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/j9YdW0adWTM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Story Film : 'Super Lady'",
   "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Story Film : 'Super Lady'",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6321,7 +6321,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/P1LPQTQa7gw/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Story Film : 'Super Lady' mix ver.",
   "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Story Film : 'Super Lady' mix ver.",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6333,7 +6333,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/-Dr-lwOygig/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Story Film : 'Super Lady' Behind",
   "title": "(여자)아이들((G)I-DLE) 2nd Full Album [2] Story Film : 'Super Lady' Behind",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6345,7 +6345,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/W08Ax_U9jxQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Teaser 1",
   "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6357,7 +6357,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/yFngSPM0J1s/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Teaser 2",
   "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6381,7 +6381,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/YP1NyGaa4uU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' 응원법 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 'Super Lady' 응원법 (ENG/CHN)",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -6393,7 +6393,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/6SNUbo1G0JE/maxresdefault.jpg",
   "alt": "💚 HAPPY MIYEON DAY 💚 (Feat. 누들's 꽃집 OPEN 🌸) (ENG/CHN)",
   "title": "💚 HAPPY MIYEON DAY 💚 (Feat. 누들's 꽃집 OPEN 🌸) (ENG/CHN)",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -6405,7 +6405,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/KWI_ThK1BMU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Reaction (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - 'Super Lady' M/V Reaction (ENG/CHN)",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -6489,7 +6489,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/CA9jn8viiK4/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Revenge' : CASE FILE (G)",
   "title": "(여자)아이들((G)I-DLE) - 'Revenge' : CASE FILE (G)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6621,7 +6621,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/vq3-lPqBX-o/maxresdefault.jpg",
   "alt": "우기(YUQI) - April Fools' Day? (ENG/CHN)",
   "title": "우기(YUQI) - April Fools' Day? (ENG/CHN)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6633,7 +6633,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/40T4DYvgvJc/maxresdefault.jpg",
   "alt": "우기(YUQI) 'Could It Be' Intro Film : By Myself",
   "title": "우기(YUQI) 'Could It Be' Intro Film : By Myself",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6645,7 +6645,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/zY4fvm0msMQ/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'Could It Be' M/V Teaser",
   "title": "우기(YUQI) - 'Could It Be' M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6657,7 +6657,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/fEOaSMFIeIY/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'Could It Be' Official Lyric Video",
   "title": "우기(YUQI) - 'Could It Be' Official Lyric Video",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -6669,7 +6669,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/2C6f7r_Hqfs/maxresdefault.jpg",
   "alt": "우기(YUQI) 1st Mini Album [YUQ1] Concept Trailer",
   "title": "우기(YUQI) 1st Mini Album [YUQ1] Concept Trailer",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6681,7 +6681,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/VL34uz_mj94/maxresdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #1 : 'Could It Be' M/V 촬영 비하인드 (ENG/CHN)",
   "title": "우기(YUQI) - SONG TALK TALK #1 : 'Could It Be' M/V 촬영 비하인드 (ENG/CHN)",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -6705,7 +6705,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/VDtDh21N61c/maxresdefault.jpg",
   "alt": "우기(YUQI) 1st Mini Album [YUQ1] Audio Snippet",
   "title": "우기(YUQI) 1st Mini Album [YUQ1] Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6717,7 +6717,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/VNwkts-Wb58/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'FREAK' M/V Teaser 1",
   "title": "우기(YUQI) - 'FREAK' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6741,7 +6741,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/EFOsEsFXWVE/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'FREAK' M/V Teaser 2",
   "title": "우기(YUQI) - 'FREAK' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6753,7 +6753,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/--jLgCIDrC8/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'FREAK' 응원법 (ENG/CHN)",
   "title": "우기(YUQI) - 'FREAK' 응원법 (ENG/CHN)",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -6765,7 +6765,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/mBJfHXE5fKU/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'FREAK' LIVE CLIP (FAN SHOWCASE Ver.)",
   "title": "우기(YUQI) - 'FREAK' LIVE CLIP (FAN SHOWCASE Ver.)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -6777,7 +6777,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3avr0zsWANM/maxresdefault.jpg",
   "alt": "우기(YUQI) -1st Mini Album [YUQ1] UNBOXING 🐰🤘 (ENG/CHN)",
   "title": "우기(YUQI) -1st Mini Album [YUQ1] UNBOXING 🐰🤘 (ENG/CHN)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -6789,7 +6789,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/BAemXVPRVmA/maxresdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #2 : 1st Mini Album [YUQ1] 재킷 촬영 비하인드 (ENG/CHN)",
   "title": "우기(YUQI) - SONG TALK TALK #2 : 1st Mini Album [YUQ1] 재킷 촬영 비하인드 (ENG/CHN)",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -6813,7 +6813,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/dyFGwGFerAc/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'FREAK' Choreography Practice Video",
   "title": "우기(YUQI) - 'FREAK' Choreography Practice Video",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -6837,7 +6837,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/JHm3SEYuYlo/maxresdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #3 : 'FREAK' M/V 촬영 비하인드 (ENG/CHN)",
   "title": "우기(YUQI) - SONG TALK TALK #3 : 'FREAK' M/V 촬영 비하인드 (ENG/CHN)",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -6897,7 +6897,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/XVlVpYDaQMQ/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'Red Rover' LIVE CLIP (FAN SHOWCASE Ver.)",
   "title": "우기(YUQI) - 'Red Rover' LIVE CLIP (FAN SHOWCASE Ver.)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -6909,7 +6909,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/N9Q0T7OWhuA/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'On Clap (Feat. Lexie Liu)' LIVE CLIP (FAN SHOWCASE Ver.)",
   "title": "우기(YUQI) - 'On Clap (Feat. Lexie Liu)' LIVE CLIP (FAN SHOWCASE Ver.)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -6921,7 +6921,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ChiQ0Ukh470/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'Giant' + 'Bonnie & Clyde' LIVE CLIP (FAN SHOWCASE Ver.)",
   "title": "우기(YUQI) - 'Giant' + 'Bonnie & Clyde' LIVE CLIP (FAN SHOWCASE Ver.)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -6933,7 +6933,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/J_2r39dcPAM/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'Could It Be' LIVE CLIP (FAN SHOWCASE Ver.)",
   "title": "우기(YUQI) - 'Could It Be' LIVE CLIP (FAN SHOWCASE Ver.)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -6945,7 +6945,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/EpRflTq7iEg/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'My Way' LIVE CLIP (FAN SHOWCASE Ver.)",
   "title": "우기(YUQI) - 'My Way' LIVE CLIP (FAN SHOWCASE Ver.)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -6957,7 +6957,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/sk1EJFVN1pM/maxresdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #4 : 1st Mini Album [YUQ1] FAN SHOWCASE 비하인드 (ENG/CHN)",
   "title": "우기(YUQI) - SONG TALK TALK #4 : 1st Mini Album [YUQ1] FAN SHOWCASE 비하인드 (ENG/CHN)",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -6993,7 +6993,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/QKqan5ul3YY/maxresdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #5 : 'Everytime (With MINNIE ((G)I-DLE))' Special Clip 촬영 비하인드 (ENG/CHN)",
   "title": "우기(YUQI) - SONG TALK TALK #5 : 'Everytime (With MINNIE ((G)I-DLE))' Special Clip 촬영 비하인드 (ENG/CHN)",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -7005,7 +7005,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/X6vuf4JMVgk/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KONKUK UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ KONKUK UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7017,7 +7017,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/izrjkPuhwQ8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ KONKUK UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ KONKUK UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7029,7 +7029,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Zm4mTxuiTJw/maxresdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #6 : 'FREAK' 음악방송 비하인드 PART 1 (ENG/CHN)",
   "title": "우기(YUQI) - SONG TALK TALK #6 : 'FREAK' 음악방송 비하인드 PART 1 (ENG/CHN)",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -7053,7 +7053,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4BU7sPv7qM0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' @ YONSEI UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ YONSEI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7065,7 +7065,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/PEkyyrO5SZ8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' @ YONSEI UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ YONSEI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7077,7 +7077,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/sj8jWrOGmjM/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Wife' @ YONSEI UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'Wife' @ YONSEI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7089,7 +7089,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/lgTXNtoLiqU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ YONSEI UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ YONSEI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7101,7 +7101,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/6lOH7_DUd14/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ YONSEI UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ YONSEI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7113,7 +7113,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/PEEmKcuJsCE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' @ PUSAN NATIONAL UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ PUSAN NATIONAL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7125,7 +7125,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/yqjYHNmwxJI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ PUSAN NATIONAL UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ PUSAN NATIONAL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7137,7 +7137,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/1TShABJ0Y_A/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' @ PUSAN NATIONAL UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ PUSAN NATIONAL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7149,7 +7149,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4-vCpfmMcN0/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ PUSAN NATIONAL UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' @ PUSAN NATIONAL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7161,7 +7161,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/SQTTslwrZUE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ PUSAN NATIONAL UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ PUSAN NATIONAL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7173,7 +7173,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ZF2G464WaKI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ PUSAN NATIONAL UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ PUSAN NATIONAL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7185,7 +7185,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/nAnuEnrK9Gs/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' @ INJE UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'Super Lady' @ INJE UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7197,7 +7197,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/8EsTc6Fsr4M/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'LATATA' @ INJE UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'LATATA' @ INJE UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7209,7 +7209,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/WYA7TiSATbE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'MY BAG' @ INJE UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'MY BAG' @ INJE UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7221,7 +7221,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/IkN4Ta1Fs94/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ INJE UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ INJE UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7233,7 +7233,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/9FG9Zf2CmrM/maxresdefault.jpg",
   "alt": "우기(YUQI) - SONG TALK TALK #7 : 'FREAK' 음악방송 비하인드 PART 2 (ENG/CHN)",
   "title": "우기(YUQI) - SONG TALK TALK #7 : 'FREAK' 음악방송 비하인드 PART 2 (ENG/CHN)",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -7245,7 +7245,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/QPZY2Ityh8A/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ THE UNIVERSITY OF SUWON",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' @ THE UNIVERSITY OF SUWON",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7257,7 +7257,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/z4jDoc9GKEc/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ THE UNIVERSITY OF SUWON",
   "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' @ THE UNIVERSITY OF SUWON",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7269,7 +7269,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/91J3FD5qTIY/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '말리지 마' @ THE UNIVERSITY OF SUWON",
   "title": "(여자)아이들((G)I-DLE) - '말리지 마' @ THE UNIVERSITY OF SUWON",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7281,7 +7281,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Zmncc6A2OOQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (미연 Focus) @ HANSUNG UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (미연 Focus) @ HANSUNG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7293,7 +7293,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/6vQPTPbAPgY/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (민니 Focus) @ HANSUNG UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (민니 Focus) @ HANSUNG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7305,7 +7305,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/mJxWu_PrqLQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (우기 Focus) @ HANSUNG UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (우기 Focus) @ HANSUNG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7317,7 +7317,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/DrdwtIeT8Vk/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (슈화 Focus) @ HANSUNG UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' (슈화 Focus) @ HANSUNG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7329,7 +7329,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/TxDBjfijhIA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (미연 Focus) @ HANSUNG UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (미연 Focus) @ HANSUNG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7341,7 +7341,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/5iLFGN34GYc/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (민니 Focus) @ HANSUNG UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (민니 Focus) @ HANSUNG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7353,7 +7353,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/LquxAnFh2Hw/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (우기 Focus) @ HANSUNG UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (우기 Focus) @ HANSUNG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7365,7 +7365,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/XfyFeQBXbFA/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (슈화 Focus) @ HANSUNG UNIVERSITY",
   "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까' (슈화 Focus) @ HANSUNG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7377,7 +7377,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Vc-XGZ3DbJE/maxresdefault.jpg",
   "alt": "우기(YUQI) 1st Mini Album [YUQ1] Outro (ENG/CHN)",
   "title": "우기(YUQI) 1st Mini Album [YUQ1] Outro (ENG/CHN)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7413,7 +7413,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/XFk0K-lL4gQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Concept Trailer",
   "title": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Concept Trailer",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7437,7 +7437,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/dgbc_BNJHiw/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Audio Snippet",
   "title": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7449,7 +7449,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/LinvEDArNwM/maxresdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Concept Film #1 : Wind",
   "title": "(여자)아이들 7th Mini Album [I SWAY] Concept Film #1 : Wind",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7461,7 +7461,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/BnzVK8ae9MY/maxresdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Concept Film #2 : Wave",
   "title": "(여자)아이들 7th Mini Album [I SWAY] Concept Film #2 : Wave",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7473,7 +7473,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/sncQwmz6scQ/maxresdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Concept Film #3 : Beat",
   "title": "(여자)아이들 7th Mini Album [I SWAY] Concept Film #3 : Beat",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7485,7 +7485,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/LkdK0-ySh_g/maxresdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Overture #미연 #MIYEON",
   "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #미연 #MIYEON",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7497,7 +7497,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/J3dRsBZMKq4/maxresdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Overture #민니 #MINNIE",
   "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #민니 #MINNIE",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7509,7 +7509,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/dxI3rieml2E/maxresdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Overture #소연 #SOYEON",
   "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #소연 #SOYEON",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7521,7 +7521,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/AHXMG0hCZLs/maxresdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Overture #우기 #YUQI",
   "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #우기 #YUQI",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7533,7 +7533,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/HQ7QkWOxR9k/maxresdefault.jpg",
   "alt": "(여자)아이들 7th Mini Album [I SWAY] Overture #슈화 #SHUHUA",
   "title": "(여자)아이들 7th Mini Album [I SWAY] Overture #슈화 #SHUHUA",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7545,7 +7545,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/knGQfZU3hAU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Intro Film",
   "title": "(여자)아이들((G)I-DLE) 7th Mini Album [I SWAY] Intro Film",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7557,7 +7557,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/2rQBtMEB6Bs/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [iDOL] SPOT",
   "title": "2024 (G)I-DLE WORLD TOUR [iDOL] SPOT",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -7569,7 +7569,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/hqXwRaAFEtk/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Teaser 1",
   "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7581,7 +7581,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/TEDw01ilFMc/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Teaser 2",
   "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7605,7 +7605,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pS_dBL63oAc/maxresdefault.jpg",
   "alt": "제주도 뱃고동 대신 울리는 (여자)아이들 클락션 (Klaxon)",
   "title": "제주도 뱃고동 대신 울리는 (여자)아이들 클락션 (Klaxon)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7617,7 +7617,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pQpXPxBRzqE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' 응원법 (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' 응원법 (ENG/CHN)",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -7629,7 +7629,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/5G8UqkXhS0w/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Reaction (ENG/CHN)",
   "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' M/V Reaction (ENG/CHN)",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -7653,7 +7653,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/hLntT4a_O58/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Choreography Practice Video",
   "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Choreography Practice Video",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -7749,7 +7749,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/M5EXpycSy3s/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Surprise Performance in Ocean World",
   "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Surprise Performance in Ocean World",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7797,7 +7797,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/X9VwcBm-qKA/maxresdefault.jpg",
   "alt": "🧡 HAPPY SOYEON DAY 🧡 (Feat. 두근두근~💓 소연이 생일 축하 대작전!)ㅣSUB",
   "title": "🧡 HAPPY SOYEON DAY 🧡 (Feat. 두근두근~💓 소연이 생일 축하 대작전!)ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -7821,7 +7821,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/0yJ7bMyGUCw/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'Radio (Dum-Dum)' SPECIAL CLIP Teaser",
   "title": "우기(YUQI) - 'Radio (Dum-Dum)' SPECIAL CLIP Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -7833,7 +7833,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/zBFM3Da6eBg/maxresdefault.jpg",
   "alt": "우기(YUQI) - 'Radio (Dum-Dum)' Official Lyric Video (Vertical Ver.)",
   "title": "우기(YUQI) - 'Radio (Dum-Dum)' Official Lyric Video (Vertical Ver.)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -7845,7 +7845,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/iW7lVbow27Q/sddefault.jpg",
   "alt": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들)",
   "title": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -7857,7 +7857,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/iW7lVbow27Q/sddefault.jpg",
   "alt": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들)",
   "title": "[2024 CUBE GLOBAL AUDITION] Message of support - (G)I-DLE ((여자)아이들)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -7881,7 +7881,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/EG_YFhrMkZ0/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.01 | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.01 | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -7905,7 +7905,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ycXbEIvOi9E/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.02 | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.02 | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -7917,7 +7917,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/1RP9N_fZe7w/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.03 | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.03 | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -7929,7 +7929,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/YDrwz8lZ21g/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.04 | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.04 | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -7977,7 +7977,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/deuX_x6ykRY/maxresdefault.jpg",
   "alt": "🩷 HAPPY MINNIE DAY 💜 (Feat. 골라골라~! 민니의 행복한 생일날 🎁)ㅣSUB",
   "title": "🩷 HAPPY MINNIE DAY 💜 (Feat. 골라골라~! 민니의 행복한 생일날 🎁)ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -7989,7 +7989,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/hqEBPVNxg-A/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL DVD & BLU-RAY SPOT",
   "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL DVD & BLU-RAY SPOT",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -8037,7 +8037,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/etGKyx4pSXo/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.05 | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.05 | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -8085,7 +8085,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/a62yW5R_nDw/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.06 | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.06 | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -8097,7 +8097,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Enu4vXAvMiA/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.07 | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.07 | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -8121,7 +8121,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/QqcXotwxGtg/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.08 | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.08 | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -8145,7 +8145,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/PG79NvF8MoE/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.09 | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.09 | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -8157,7 +8157,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/LvhZgCAv7_M/maxresdefault.jpg",
   "alt": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.10 | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "2024 (G)I-DLE WORLD TOUR [i-DOL] 비하인드 EP.10 | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -8193,7 +8193,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/tfet3q7ympE/maxresdefault.jpg",
   "alt": "곧 MY Angel 을 공개합니다.",
   "title": "곧 MY Angel 을 공개합니다.",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -8217,7 +8217,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/EV2NXUYZ3Js/maxresdefault.jpg",
   "alt": "미연(MIYEON) - Merry ‘MIYEON’ Christmas in NEVERLANDㅣSUB",
   "title": "미연(MIYEON) - Merry ‘MIYEON’ Christmas in NEVERLANDㅣSUB",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -8241,7 +8241,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/R0-xJDAAEWw/maxresdefault.jpg",
   "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS 한국 예매 오픈🥳",
   "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS 한국 예매 오픈🥳",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -8253,7 +8253,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/8B1z9u-p31s/maxresdefault.jpg",
   "alt": "🎂 HAPPY SHUHUA DAY 🤎 (Feat. 영차영차 슈화의 생일산)ㅣSUB",
   "title": "🎂 HAPPY SHUHUA DAY 🤎 (Feat. 영차영차 슈화의 생일산)ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -8265,7 +8265,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/AiAseBkFo04/maxresdefault.jpg",
   "alt": "[(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS] IN CINEMAS WORLDWIDE",
   "title": "[(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS] IN CINEMAS WORLDWIDE",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -8277,7 +8277,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/N4_0-lYIKLA/maxresdefault.jpg",
   "alt": "2025 큐브 엔터테인먼트 새해 인사 영상",
   "title": "2025 큐브 엔터테인먼트 새해 인사 영상",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -8289,7 +8289,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/IBmYGGE35Ss/maxresdefault.jpg",
   "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Announcement 🥳",
   "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Announcement 🥳",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -8301,7 +8301,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/BLJIzLLdPYU/maxresdefault.jpg",
   "alt": "민니(MINNIE) - 1st Mini Album [HER] Commentary Film",
   "title": "민니(MINNIE) - 1st Mini Album [HER] Commentary Film",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8313,7 +8313,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/kWLhZ6Tf4EE/maxresdefault.jpg",
   "alt": "민니(MINNIE) - 1st Mini Album [HER] Audio Snippet",
   "title": "민니(MINNIE) - 1st Mini Album [HER] Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8325,7 +8325,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/SXp592Vquiw/maxresdefault.jpg",
   "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Tickets Open 👏",
   "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Global Tickets Open 👏",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -8337,7 +8337,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/HbHSQiRExAM/maxresdefault.jpg",
   "alt": "민니(MINNIE) - 'HER' M/V Teaser 1",
   "title": "민니(MINNIE) - 'HER' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8349,7 +8349,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/iLFMj3OdKG8/maxresdefault.jpg",
   "alt": "민니(MINNIE) - 'HER' M/V Teaser 2",
   "title": "민니(MINNIE) - 'HER' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8361,7 +8361,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/M9MfR2Y6unk/maxresdefault.jpg",
   "alt": "민니(MINNIE) - 'HER' 응원법ㅣSUB",
   "title": "민니(MINNIE) - 'HER' 응원법ㅣSUB",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -8373,7 +8373,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/9rGA5Zdlx9Y/maxresdefault.jpg",
   "alt": "'Blind Eyes Red' M/V 촬영 비하인드 [LeMINTalk] #1 | 민니(MINNIE)ㅣSUB",
   "title": "'Blind Eyes Red' M/V 촬영 비하인드 [LeMINTalk] #1 | 민니(MINNIE)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -8385,7 +8385,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/j1dICgQi-gU/maxresdefault.jpg",
   "alt": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Main Trailer",
   "title": "(G)I-DLE WORLD TOUR [iDOL] IN CINEMAS Main Trailer",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8397,7 +8397,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ok4l4FWcvtw/maxresdefault.jpg",
   "alt": "1st Mini Album [HER] 재킷 촬영 비하인드 [LeMINTalk] #2 | 민니(MINNIE)ㅣSUB",
   "title": "1st Mini Album [HER] 재킷 촬영 비하인드 [LeMINTalk] #2 | 민니(MINNIE)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -8409,7 +8409,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4GB-VjoTLMs/maxresdefault.jpg",
   "alt": "민니(MINNIE) - 1st Mini Album [HER] UNBOXINGㅣSUB",
   "title": "민니(MINNIE) - 1st Mini Album [HER] UNBOXINGㅣSUB",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8421,7 +8421,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/qDg3uR7exAU/maxresdefault.jpg",
   "alt": "민니(MINNIE) - 'HER' Choreography Practice Video",
   "title": "민니(MINNIE) - 'HER' Choreography Practice Video",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -8433,7 +8433,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/_jsLicER8XY/maxresdefault.jpg",
   "alt": "'HER' M/V Behind Preview | 민니(MINNIE)ㅣSUB",
   "title": "'HER' M/V Behind Preview | 민니(MINNIE)ㅣSUB",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8445,7 +8445,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/a0NFYWHjRy8/maxresdefault.jpg",
   "alt": "민니(MINNIE) - 1st Mini Album [HER] Commentary Film (Interview Ver.)",
   "title": "민니(MINNIE) - 1st Mini Album [HER] Commentary Film (Interview Ver.)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8457,7 +8457,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/_-_0rSo_4x4/maxresdefault.jpg",
   "alt": "🎂 HAPPY MIYEON DAY 💚 (Feat. 퀴즈쇼 누들벨)ㅣSUB",
   "title": "🎂 HAPPY MIYEON DAY 💚 (Feat. 퀴즈쇼 누들벨)ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -8469,7 +8469,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/bF5nZw4fE_k/maxresdefault.jpg",
   "alt": "'HER' M/V 촬영 비하인드 [LeMINTalk] #3 | 민니(MINNIE)ㅣSUB",
   "title": "'HER' M/V 촬영 비하인드 [LeMINTalk] #3 | 민니(MINNIE)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -8481,7 +8481,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ZmuQSydCrhg/maxresdefault.jpg",
   "alt": "MINNIE's Self Interview | 민니(MINNIE)ㅣSUB",
   "title": "MINNIE's Self Interview | 민니(MINNIE)ㅣSUB",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8517,7 +8517,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/E2O0DT1al8o/maxresdefault.jpg",
   "alt": "'Obsession (Feat. TEN of WayV)' SPECIAL CLIP 촬영 비하인드 [LeMINTalk] #4 | 민니(MINNIE)ㅣSUB",
   "title": "'Obsession (Feat. TEN of WayV)' SPECIAL CLIP 촬영 비하인드 [LeMINTalk] #4 | 민니(MINNIE)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -8541,7 +8541,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/r9SwEcxVdec/maxresdefault.jpg",
   "alt": "SPECIAL GV EVENT & POP-UP STORE [HERS] 비하인드 [LeMINTalk] #5 | 민니(MINNIE)ㅣSUB",
   "title": "SPECIAL GV EVENT & POP-UP STORE [HERS] 비하인드 [LeMINTalk] #5 | 민니(MINNIE)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -8589,7 +8589,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/QJskxdBfCjM/maxresdefault.jpg",
   "alt": "'HER' 음악방송 비하인드 PART 1 [LeMINTalk] #6 | 민니(MINNIE)ㅣSUB",
   "title": "'HER' 음악방송 비하인드 PART 1 [LeMINTalk] #6 | 민니(MINNIE)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -8637,7 +8637,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/EWn3u6LLRhM/maxresdefault.jpg",
   "alt": "'HER' 음악방송 비하인드 PART 2 [LeMINTalk] #7 | 민니(MINNIE)ㅣSUB",
   "title": "'HER' 음악방송 비하인드 PART 2 [LeMINTalk] #7 | 민니(MINNIE)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -8649,7 +8649,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/TezybDObkWo/maxresdefault.jpg",
   "alt": "[HER] 수록곡 SPECIAL CLIP & Audio Snippet 촬영 비하인드 [LeMINTalk] #8 | 민니(MINNIE)ㅣSUB",
   "title": "[HER] 수록곡 SPECIAL CLIP & Audio Snippet 촬영 비하인드 [LeMINTalk] #8 | 민니(MINNIE)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -8673,7 +8673,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/DFNE3fdHKJ0/maxresdefault.jpg",
   "alt": "평창, 썰매, 슈화 Let's Go ❄️🏕️ [슈슈의 윈터 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "평창, 썰매, 슈화 Let's Go ❄️🏕️ [슈슈의 윈터 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -8685,7 +8685,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Kx4gideWRvU/maxresdefault.jpg",
   "alt": "[HER] 태국 프로모션 비하인드 [LeMINTalk] #9 | 민니(MINNIE)ㅣSUB",
   "title": "[HER] 태국 프로모션 비하인드 [LeMINTalk] #9 | 민니(MINNIE)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -8733,7 +8733,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/cGFDQziSI9A/maxresdefault.jpg",
   "alt": "미연(MIYEON), Jike Junyi  - 'Glow Up' SPECIAL CLIP Teaser",
   "title": "미연(MIYEON), Jike Junyi  - 'Glow Up' SPECIAL CLIP Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8781,7 +8781,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/d6ZMNCgQ7lM/maxresdefault.jpg",
   "alt": "피크닉과 슈화의 만남 기쁘다 🧺🍓 [슈슈의 스프링 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB",
   "title": "피크닉과 슈화의 만남 기쁘다 🧺🍓 [슈슈의 스프링 캠프] | (여자)아이들 ((G)I-DLE)ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -8805,7 +8805,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/8AN66zZYLw8/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'for (G)'",
   "title": "i-dle (아이들) 'for (G)'",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8817,7 +8817,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/QQrBSLp_1OE/maxresdefault.jpg",
   "alt": "'𝐟𝐨𝐫 (𝐆)' Behind Films #미연",
   "title": "'𝐟𝐨𝐫 (𝐆)' Behind Films #미연",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8829,7 +8829,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Hu5a-1kiAYk/maxresdefault.jpg",
   "alt": "'𝐟𝐨𝐫 (𝐆)' Behind Films #민니",
   "title": "'𝐟𝐨𝐫 (𝐆)' Behind Films #민니",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8841,7 +8841,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/fcE9bmxrWq0/maxresdefault.jpg",
   "alt": "'𝐟𝐨𝐫 (𝐆)' Behind Films #소연",
   "title": "'𝐟𝐨𝐫 (𝐆)' Behind Films #소연",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8853,7 +8853,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4ax2btnrfSc/maxresdefault.jpg",
   "alt": "'𝐟𝐨𝐫 (𝐆)' Behind Films #우기",
   "title": "'𝐟𝐨𝐫 (𝐆)' Behind Films #우기",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8865,7 +8865,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Qp0Kt2VjWKI/maxresdefault.jpg",
   "alt": "'𝐟𝐨𝐫 (𝐆)' Behind Films #슈화",
   "title": "'𝐟𝐨𝐫 (𝐆)' Behind Films #슈화",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8889,7 +8889,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/LPLI43Yz5QU/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'i-dentity Trailer'ㅣMIYEON",
   "title": "i-dle (아이들) 'i-dentity Trailer'ㅣMIYEON",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8901,7 +8901,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/IR_GuZbEWRE/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'i-dentity Trailer'ㅣMINNIE",
   "title": "i-dle (아이들) 'i-dentity Trailer'ㅣMINNIE",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8913,7 +8913,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/GIzYsGoeqkc/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'i-dentity Trailer'ㅣSOYEON",
   "title": "i-dle (아이들) 'i-dentity Trailer'ㅣSOYEON",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8925,7 +8925,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/b2Tf4A_49Ak/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'i-dentity Trailer'ㅣYUQI",
   "title": "i-dle (아이들) 'i-dentity Trailer'ㅣYUQI",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8937,7 +8937,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/intLWpnYwp0/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'i-dentity Trailer'ㅣSHUHUA",
   "title": "i-dle (아이들) 'i-dentity Trailer'ㅣSHUHUA",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8949,7 +8949,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/G5rAbdThQ2o/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'i-dentity Trailer'",
   "title": "i-dle (아이들) 'i-dentity Trailer'",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8961,7 +8961,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/fiRsc0NrAxQ/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Girlfriend' M/V Teaser",
   "title": "i-dle (아이들) 'Girlfriend' M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8973,7 +8973,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/NnTwSEQTeQk/maxresdefault.jpg",
   "alt": "i-dle (아이들) 8th Mini Album [We are]",
   "title": "i-dle (아이들) 8th Mini Album [We are]",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8985,7 +8985,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/_Nu5EUvqQzg/maxresdefault.jpg",
   "alt": "i-dle (아이들) 8th Mini Album [We are]",
   "title": "i-dle (아이들) 8th Mini Album [We are]",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -8997,7 +8997,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/kEBTAeL_fRE/maxresdefault.jpg",
   "alt": "i-dle (아이들) 8th Mini Album [We are]",
   "title": "i-dle (아이들) 8th Mini Album [We are]",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -9009,7 +9009,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/g5v9L6ot7kQ/maxresdefault.jpg",
   "alt": "i-dle (아이들) 8th Mini Album [We are]",
   "title": "i-dle (아이들) 8th Mini Album [We are]",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -9021,7 +9021,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Q48SBRcZpeo/maxresdefault.jpg",
   "alt": "i-dle (아이들) 8th Mini Album [We are]",
   "title": "i-dle (아이들) 8th Mini Album [We are]",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -9057,7 +9057,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/oh6OUj51vZg/maxresdefault.jpg",
   "alt": "'Girlfriend' M/V Behind Films 🤍",
   "title": "'Girlfriend' M/V Behind Films 🤍",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -9069,7 +9069,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/kmeNJo5osnw/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' M/V Teaser (Line 1 ver.)",
   "title": "i-dle (아이들) 'Good Thing' M/V Teaser (Line 1 ver.)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -9081,7 +9081,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/dqlbozzFt8g/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' M/V Teaser (on-air ver.)",
   "title": "i-dle (아이들) 'Good Thing' M/V Teaser (on-air ver.)",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -9105,7 +9105,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/x2Mu2Zk_CVk/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' 응원법ㅣSUB",
   "title": "i-dle (아이들) 'Good Thing' 응원법ㅣSUB",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -9117,7 +9117,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/E92XiOgeugA/maxresdefault.jpg",
   "alt": "'Good Thing' M/V Behind Films 🎬",
   "title": "'Good Thing' M/V Behind Films 🎬",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -9153,7 +9153,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/V8uyahHBnSM/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' @ HANYANG UNIVERSITY",
   "title": "i-dle (아이들) 'Good Thing' @ HANYANG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9165,7 +9165,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3K85aoBqWZ4/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'LATATA' @ HANYANG UNIVERSITY",
   "title": "i-dle (아이들) 'LATATA' @ HANYANG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9177,7 +9177,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/RRKPGgXN2ZM/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'TOMBOY' @ HANYANG UNIVERSITY",
   "title": "i-dle (아이들) 'TOMBOY' @ HANYANG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9189,7 +9189,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/g5XfEhrBFIY/maxresdefault.jpg",
   "alt": "i-dle (아이들) '퀸카 (Queencard)' @ HANYANG UNIVERSITY",
   "title": "i-dle (아이들) '퀸카 (Queencard)' @ HANYANG UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9201,7 +9201,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/v1Ag_n9UbIc/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' @ SOONGSIL UNIVERSITY",
   "title": "i-dle (아이들) 'Good Thing' @ SOONGSIL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9213,7 +9213,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/9wzgDlRso7I/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'TOMBOY' @ SOONGSIL UNIVERSITY",
   "title": "i-dle (아이들) 'TOMBOY' @ SOONGSIL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9225,7 +9225,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/DRuH0wOzrrE/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'MY BAG' @ SOONGSIL UNIVERSITY",
   "title": "i-dle (아이들) 'MY BAG' @ SOONGSIL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9237,7 +9237,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/imljbaHBB3M/maxresdefault.jpg",
   "alt": "i-dle (아이들) '퀸카 (Queencard)' @ SOONGSIL UNIVERSITY",
   "title": "i-dle (아이들) '퀸카 (Queencard)' @ SOONGSIL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9249,7 +9249,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/xS2POqRLYHI/maxresdefault.jpg",
   "alt": "i-dle (아이들) '나는 아픈 건 딱 질색이니까' @ SOONGSIL UNIVERSITY",
   "title": "i-dle (아이들) '나는 아픈 건 딱 질색이니까' @ SOONGSIL UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9261,7 +9261,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Z_NdOXT6Qpw/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' @ YONSEI UNIVERSITY",
   "title": "i-dle (아이들) 'Good Thing' @ YONSEI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9273,7 +9273,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/d3dAJCwIgtE/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'TOMBOY' @ YONSEI UNIVERSITY",
   "title": "i-dle (아이들) 'TOMBOY' @ YONSEI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9285,7 +9285,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/DIuXiA_SmQk/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'MY BAG' @ YONSEI UNIVERSITY",
   "title": "i-dle (아이들) 'MY BAG' @ YONSEI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9297,7 +9297,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/tebm9v-ZtrY/maxresdefault.jpg",
   "alt": "i-dle (아이들) '퀸카 (Queencard)' @ YONSEI UNIVERSITY",
   "title": "i-dle (아이들) '퀸카 (Queencard)' @ YONSEI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9309,7 +9309,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/MrHZxn43JKc/maxresdefault.jpg",
   "alt": "i-dle (아이들) '나는 아픈 건 딱 질색이니까' @ YONSEI UNIVERSITY",
   "title": "i-dle (아이들) '나는 아픈 건 딱 질색이니까' @ YONSEI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9321,7 +9321,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/-RP_w7uPkQg/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Girlfriend' @ YONSEI UNIVERSITY",
   "title": "i-dle (아이들) 'Girlfriend' @ YONSEI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9333,7 +9333,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/5MrJBrR_sfo/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' Choreography Practice Video",
   "title": "i-dle (아이들) 'Good Thing' Choreography Practice Video",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -9345,7 +9345,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/35uSNCtNjNY/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' @ MYONGJI UNIVERSITY",
   "title": "i-dle (아이들) 'Good Thing' @ MYONGJI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9357,7 +9357,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4H3T8MEnsdg/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'TOMBOY' @ MYONGJI UNIVERSITY",
   "title": "i-dle (아이들) 'TOMBOY' @ MYONGJI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9369,7 +9369,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/66z9wRdjvbQ/maxresdefault.jpg",
   "alt": "i-dle (아이들) '퀸카 (Queencard)' @ MYONGJI UNIVERSITY",
   "title": "i-dle (아이들) '퀸카 (Queencard)' @ MYONGJI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9381,7 +9381,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/A5PK6VDU-b4/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Wife' @ MYONGJI UNIVERSITY",
   "title": "i-dle (아이들) 'Wife' @ MYONGJI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9393,7 +9393,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/TMT0N6waMYU/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Girlfriend' @ MYONGJI UNIVERSITY",
   "title": "i-dle (아이들) 'Girlfriend' @ MYONGJI UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9405,7 +9405,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/6W3qWE-_q3Q/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' @ HANKUK UNIVERSITY OF FOREIGN STUDIES",
   "title": "i-dle (아이들) 'Good Thing' @ HANKUK UNIVERSITY OF FOREIGN STUDIES",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9417,7 +9417,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/TO_iKgjJIxo/maxresdefault.jpg",
   "alt": "i-dle (아이들) '퀸카 (Queencard)' @ HANKUK UNIVERSITY OF FOREIGN STUDIES",
   "title": "i-dle (아이들) '퀸카 (Queencard)' @ HANKUK UNIVERSITY OF FOREIGN STUDIES",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9429,7 +9429,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/c3rPZjxUVGE/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' @ AJOU UNIVERSITY",
   "title": "i-dle (아이들) 'Good Thing' @ AJOU UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9441,7 +9441,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/A-KqstaIEsY/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'TOMBOY' @ AJOU UNIVERSITY",
   "title": "i-dle (아이들) 'TOMBOY' @ AJOU UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9453,7 +9453,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/vKXr1ybcpfk/maxresdefault.jpg",
   "alt": "i-dle (아이들) '퀸카 (Queencard)' @ AJOU UNIVERSITY",
   "title": "i-dle (아이들) '퀸카 (Queencard)' @ AJOU UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9465,7 +9465,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/c3EPyO8KKK8/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Wife' @ AJOU UNIVERSITY",
   "title": "i-dle (아이들) 'Wife' @ AJOU UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9477,7 +9477,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/g4QP414Nv80/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Girlfriend' @ AJOU UNIVERSITY",
   "title": "i-dle (아이들) 'Girlfriend' @ AJOU UNIVERSITY",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9489,7 +9489,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/972ISNkOQtU/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Good Thing' @ HANYANG UNIVERSITY ERICA",
   "title": "i-dle (아이들) 'Good Thing' @ HANYANG UNIVERSITY ERICA",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9501,7 +9501,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/AwoAZs69s2w/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'TOMBOY' @ HANYANG UNIVERSITY ERICA",
   "title": "i-dle (아이들) 'TOMBOY' @ HANYANG UNIVERSITY ERICA",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9513,7 +9513,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/2eQd4xKszEw/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'MY BAG' @ HANYANG UNIVERSITY ERICA",
   "title": "i-dle (아이들) 'MY BAG' @ HANYANG UNIVERSITY ERICA",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9525,7 +9525,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4VGO8ci5avI/maxresdefault.jpg",
   "alt": "i-dle (아이들) '퀸카 (Queencard)' @ HANYANG UNIVERSITY ERICA",
   "title": "i-dle (아이들) '퀸카 (Queencard)' @ HANYANG UNIVERSITY ERICA",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9537,7 +9537,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/8bguFz5ns3w/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Girlfriend' @ HANYANG UNIVERSITY ERICA",
   "title": "i-dle (아이들) 'Girlfriend' @ HANYANG UNIVERSITY ERICA",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9573,7 +9573,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/KceEp8y5HC4/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Girlfriend' Choreography Video",
   "title": "i-dle (아이들) 'Girlfriend' Choreography Video",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -9621,7 +9621,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/j193YQslaSs/maxresdefault.jpg",
   "alt": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #1 | i-dle (아이들)ㅣSUB",
   "title": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #1 | i-dle (아이들)ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -9645,7 +9645,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/c_e7-ZTxp5Q/maxresdefault.jpg",
   "alt": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #2 | i-dle (아이들)ㅣSUB",
   "title": "우기의 'NOWZ (나우즈) - 자유롭게 날아 (Feat. 우기 (YUQI))' 작업 기록 #2 | i-dle (아이들)ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -9777,7 +9777,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ZoZQoYpZaso/maxresdefault.jpg",
   "alt": "우기 (YUQI) 'What It Sounds Like / KPop Demon Hunters OST' (Cover)",
   "title": "우기 (YUQI) 'What It Sounds Like / KPop Demon Hunters OST' (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9789,7 +9789,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/oGL75DS7gmk/maxresdefault.jpg",
   "alt": "[Playlist] 내게 들려줘 이 여름의 그 노래를 | Summer Song | i-dle (아이들)",
   "title": "[Playlist] 내게 들려줘 이 여름의 그 노래를 | Summer Song | i-dle (아이들)",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -9873,7 +9873,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/v4yUN8uWbVg/maxresdefault.jpg",
   "alt": "🎂 HAPPY SOYEON DAY 💛 (Feat. 요정 햄찌의 수상한 생일 파티)ㅣSUB",
   "title": "🎂 HAPPY SOYEON DAY 💛 (Feat. 요정 햄찌의 수상한 생일 파티)ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -9909,7 +9909,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/DAC-fUEIZ7U/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 'Forever Eve / TENBLANK' (Cover)",
   "title": "미연 (MIYEON) 'Forever Eve / TENBLANK' (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -9945,7 +9945,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/WrE8XCMyPGA/maxresdefault.jpg",
   "alt": "우기 (YUQI) '아프다' M/V Teaser",
   "title": "우기 (YUQI) '아프다' M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -9957,7 +9957,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/PG-fbNsWLOM/maxresdefault.jpg",
   "alt": "우기 (YUQI) '아프다' Intro Film",
   "title": "우기 (YUQI) '아프다' Intro Film",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -9969,7 +9969,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/OjmhNG-qNeo/maxresdefault.jpg",
   "alt": "우기 (YUQI) 'M.O.' M/V Teaser 1",
   "title": "우기 (YUQI) 'M.O.' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -9981,7 +9981,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/JljWWp3I55g/maxresdefault.jpg",
   "alt": "우기 (YUQI) 'M.O.' 응원법ㅣSUB",
   "title": "우기 (YUQI) 'M.O.' 응원법ㅣSUB",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -9993,7 +9993,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/xsXjIs0xP1c/maxresdefault.jpg",
   "alt": "우기 (YUQI) 'M.O.' Official Visualizer",
   "title": "우기 (YUQI) 'M.O.' Official Visualizer",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -10005,7 +10005,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/8Mz4MHDGwrM/maxresdefault.jpg",
   "alt": "[Motivation] 포토북 촬영 비하인드 [SONG TALK TALK] #8 | 우기 (YUQI)ㅣSUB",
   "title": "[Motivation] 포토북 촬영 비하인드 [SONG TALK TALK] #8 | 우기 (YUQI)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10017,7 +10017,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/azRBA3xIodE/maxresdefault.jpg",
   "alt": "'M.O.' M/V 촬영 비하인드 [SONG TALK TALK] #9 | 우기 (YUQI)ㅣSUB",
   "title": "'M.O.' M/V 촬영 비하인드 [SONG TALK TALK] #9 | 우기 (YUQI)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10029,7 +10029,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/FeAHoZlcX_c/maxresdefault.jpg",
   "alt": "우기 (YUQI) 'M.O.' Choreography Practice Video",
   "title": "우기 (YUQI) 'M.O.' Choreography Practice Video",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
 },
 
 {
@@ -10041,7 +10041,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/_lrB96f2nr4/maxresdefault.jpg",
   "alt": "'아프다' M/V 촬영 비하인드 [SONG TALK TALK] #10 | 우기 (YUQI)ㅣSUB",
   "title": "'아프다' M/V 촬영 비하인드 [SONG TALK TALK] #10 | 우기 (YUQI)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10053,7 +10053,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/meEbzNv2LoE/maxresdefault.jpg",
   "alt": "i-dle '傷つくのは嫌いだから(Fate)' Official Lyric Video (JPN)",
   "title": "i-dle '傷つくのは嫌いだから(Fate)' Official Lyric Video (JPN)",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -10065,7 +10065,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/C3oKHufXL2U/maxresdefault.jpg",
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser 1",
   "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10089,7 +10089,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/IrVEdfCUYW0/maxresdefault.jpg",
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - MIYEON",
   "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - MIYEON",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10101,7 +10101,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Sdqm7jKIHh0/maxresdefault.jpg",
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - MINNIE",
   "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - MINNIE",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10113,7 +10113,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/UGb9XrhKWp8/maxresdefault.jpg",
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - SOYEON",
   "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - SOYEON",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10125,7 +10125,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/X4cGisr-haA/maxresdefault.jpg",
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - YUQI",
   "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - YUQI",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10137,7 +10137,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/bGfYlaCJQbk/maxresdefault.jpg",
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - SHUHUA",
   "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - SHUHUA",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10161,7 +10161,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/bRFqkBZlkko/maxresdefault.jpg",
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser 2",
   "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10197,7 +10197,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/5yEE3a6_t9Y/maxresdefault.jpg",
   "alt": "2025 큐브 엔터테인먼트 추석 인사 영상",
   "title": "2025 큐브 엔터테인먼트 추석 인사 영상",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
 
 {
@@ -10209,7 +10209,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/KLxtOB-T-qI/maxresdefault.jpg",
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' @ [ 逢い-dle ]",
   "title": "i-dle 'どうしよっかな (Where Do We Go)' @ [ 逢い-dle ]",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -10245,7 +10245,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/GCmKM7Y0-D4/maxresdefault.jpg",
   "alt": "'M.O.' 음악방송 비하인드 [SONG TALK TALK] #11 | 우기 (YUQI)ㅣSUB",
   "title": "'M.O.' 음악방송 비하인드 [SONG TALK TALK] #11 | 우기 (YUQI)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10257,7 +10257,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/7OJJdO_ZqHg/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 2nd Mini Album [MY, Lover] Intro Film",
   "title": "미연 (MIYEON) 2nd Mini Album [MY, Lover] Intro Film",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10269,7 +10269,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3T23a-16-Vo/maxresdefault.jpg",
   "alt": "미연 (MIYEON) ‘永遠前夜 Forever Eve’ (원곡 : TENBLANK) @ [ 逢い-dle ]",
   "title": "미연 (MIYEON) ‘永遠前夜 Forever Eve’ (원곡 : TENBLANK) @ [ 逢い-dle ]",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -10281,7 +10281,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/tOWUtqy0kOs/maxresdefault.jpg",
   "alt": "소연 (SOYEON) ‘Butter-Fly’ (원곡 : 和田光司) @ [ 逢い-dle ]",
   "title": "소연 (SOYEON) ‘Butter-Fly’ (원곡 : 和田光司) @ [ 逢い-dle ]",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -10293,7 +10293,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/KMEavpqHnUc/maxresdefault.jpg",
   "alt": "민니 (MINNIE), 우기 (YUQI), 슈화 (SHUHUA) ‘AI SCREAM!’ (원곡 : AiScReam) @ [ 逢い-dle ]",
   "title": "민니 (MINNIE), 우기 (YUQI), 슈화 (SHUHUA) ‘AI SCREAM!’ (원곡 : AiScReam) @ [ 逢い-dle ]",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -10305,7 +10305,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/2KOJHHfR3Is/maxresdefault.jpg",
   "alt": "🎂 HAPPY MINNIE DAY 🩷 (Feat. 민니의 소소하지만 확실한 생일 브이로그)ㅣSUB",
   "title": "🎂 HAPPY MINNIE DAY 🩷 (Feat. 민니의 소소하지만 확실한 생일 브이로그)ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -10317,7 +10317,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/pTafJH7T1GU/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 'Reno (Feat. Colde)' M/V Teaser 1",
   "title": "미연 (MIYEON) 'Reno (Feat. Colde)' M/V Teaser 1",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10329,7 +10329,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/PjqKU0Nh0XU/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 'Reno (Feat. Colde)' M/V Teaser 2",
   "title": "미연 (MIYEON) 'Reno (Feat. Colde)' M/V Teaser 2",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10341,7 +10341,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/aR4Es81cqDU/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 2nd Mini Album [MY, Lover] Audio Snippet",
   "title": "미연 (MIYEON) 2nd Mini Album [MY, Lover] Audio Snippet",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10353,7 +10353,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Ux1s5CFP38I/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 'Say My Name' M/V Teaser",
   "title": "미연 (MIYEON) 'Say My Name' M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10365,7 +10365,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/PrzQHB1PDU8/maxresdefault.jpg",
   "alt": "'Reno (Feat. Colde)' M/V 촬영 비하인드 [MY, Talk] #1 | 미연 (MIYEON)ㅣSUB",
   "title": "'Reno (Feat. Colde)' M/V 촬영 비하인드 [MY, Talk] #1 | 미연 (MIYEON)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10377,7 +10377,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/YB3-vM7UGAU/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 'Say My Name' 응원법ㅣSUB",
   "title": "미연 (MIYEON) 'Say My Name' 응원법ㅣSUB",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
 
 {
@@ -10389,7 +10389,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/SdBgIN4_sIg/maxresdefault.jpg",
   "alt": "'Say My Name' M/V Behind Preview | 미연 (MIYEON)ㅣSUB",
   "title": "'Say My Name' M/V Behind Preview | 미연 (MIYEON)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10413,7 +10413,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/rVIN9uv3v0Y/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 'Say My Name' LIVE CLIP (FAN SHOWCASE Ver.)",
   "title": "미연 (MIYEON) 'Say My Name' LIVE CLIP (FAN SHOWCASE Ver.)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -10425,7 +10425,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/RvAsGxiVeSo/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 'Reno (Feat. Colde)' LIVE CLIP (FAN SHOWCASE Ver.)",
   "title": "미연 (MIYEON) 'Reno (Feat. Colde)' LIVE CLIP (FAN SHOWCASE Ver.)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
 
 {
@@ -10437,7 +10437,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/gCnwz77Rrr8/maxresdefault.jpg",
   "alt": "[MY, Lover] 재킷 & Intro Film & Audio Snippet 촬영 비하인드 [MY, Talk] #2 | 미연 (MIYEON)ㅣSUB",
   "title": "[MY, Lover] 재킷 & Intro Film & Audio Snippet 촬영 비하인드 [MY, Talk] #2 | 미연 (MIYEON)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10449,7 +10449,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/R2FL2XwAQH8/maxresdefault.jpg",
   "alt": "'Say My Name' M/V 촬영 비하인드 [MY, Talk] #3 | 미연 (MIYEON)ㅣSUB",
   "title": "'Say My Name' M/V 촬영 비하인드 [MY, Talk] #3 | 미연 (MIYEON)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10461,7 +10461,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/jPtg3mLMHO8/maxresdefault.jpg",
   "alt": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.1 | i-dle (아이들)ㅣSUB",
   "title": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.1 | i-dle (아이들)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -10473,7 +10473,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/rZKx-SnGC6o/maxresdefault.jpg",
   "alt": "성만 빼고 다 빼앗긴 거예요? 제 이름을? [Say MY Name] | 미연 (MIYEON)ㅣSUB",
   "title": "성만 빼고 다 빼앗긴 거예요? 제 이름을? [Say MY Name] | 미연 (MIYEON)ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
 
 {
@@ -10497,7 +10497,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/mrIuioIHKRk/maxresdefault.jpg",
   "alt": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.2 | i-dle (아이들)ㅣSUB",
   "title": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.2 | i-dle (아이들)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -10509,7 +10509,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/7yFgIQ4MPAY/maxresdefault.jpg",
   "alt": "2nd Mini Album [MY, Lover] FAN SHOWCASE 비하인드 [MY, Talk] #4 | 미연 (MIYEON)ㅣSUB",
   "title": "2nd Mini Album [MY, Lover] FAN SHOWCASE 비하인드 [MY, Talk] #4 | 미연 (MIYEON)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10521,7 +10521,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Azorr0JBGmw/maxresdefault.jpg",
   "alt": "'F.F.L.Y' SPECIAL CLIP 촬영 비하인드 [MY, Talk] #5 | 미연 (MIYEON)ㅣSUB",
   "title": "'F.F.L.Y' SPECIAL CLIP 촬영 비하인드 [MY, Talk] #5 | 미연 (MIYEON)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10533,7 +10533,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/PVxMADjE0H8/maxresdefault.jpg",
   "alt": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.3 | i-dle (아이들)ㅣSUB",
   "title": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.3 | i-dle (아이들)ㅣSUB",
-  "subtag": "TOUR BEHIND"
+  "subtag": "콘서트 비하인드"
 },
 
 {
@@ -10557,7 +10557,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/DzdYTAjlwjU/maxresdefault.jpg",
   "alt": "'Say My Name' 음악방송 비하인드 PART 1 [MY, Talk] #6 | 미연 (MIYEON)ㅣSUB",
   "title": "'Say My Name' 음악방송 비하인드 PART 1 [MY, Talk] #6 | 미연 (MIYEON)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10605,7 +10605,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/diqPSNczuDo/maxresdefault.jpg",
   "alt": "'Say My Name' 음악방송 비하인드 PART 2 [MY, Talk] #7 | 미연 (MIYEON)ㅣSUB",
   "title": "'Say My Name' 음악방송 비하인드 PART 2 [MY, Talk] #7 | 미연 (MIYEON)ㅣSUB",
-  "subtag": "SOLO TALK"
+  "subtag": "SOLO-TALK"
 },
 
 {
@@ -10643,6 +10643,7 @@ const 공식채널Cards = [
   "title": "슈화의 타오위안 홍보대사 촬영 비하인드 [i-talk] #232 | i-dle (아이들)ㅣSUB",
   "subtag": "I-TALK"
 },
+
 {
   "link": "https://youtu.be/YSwx1Tj0X9Q",
   "category": "공식채널",
@@ -10652,8 +10653,9 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/YSwx1Tj0X9Q/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 'Last Christmas / Wham!' (Cover)",
   "title": "미연 (MIYEON) 'Last Christmas / Wham!' (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
+
 {
   "link": "https://youtu.be/h6I20rdCOqE",
   "category": "공식채널",
@@ -10665,6 +10667,7 @@ const 공식채널Cards = [
   "title": "슈화의 AAA 2025 & ACON 2025 비하인드 [i-talk] #233 | i-dle (아이들)ㅣSUB",
   "subtag": "I-TALK"
 },
+
 {
   "link": "https://youtu.be/-xw9SMdVaFM",
   "category": "공식채널",
@@ -10676,6 +10679,7 @@ const 공식채널Cards = [
   "title": "오월천 & 왕소롱 선배님 콘서트에 나타난 스페셜 게스트 우기 🎤❤️ [#HASHTALK] EP.46ㅣi-dle (아이들)ㅣSUB",
   "subtag": "HASHTALK"
 },
+
 {
   "link": "https://youtu.be/0kp1xGwpLQo",
   "category": "공식채널",
@@ -10685,8 +10689,9 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/0kp1xGwpLQo/maxresdefault.jpg",
   "alt": "우기 (YUQI) ‘唯一 (Only One)' (Cover) Preview",
   "title": "우기 (YUQI) ‘唯一 (Only One)' (Cover) Preview",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
+
 {
   "link": "https://youtu.be/4t0HLGCF330",
   "category": "공식채널",
@@ -10696,8 +10701,9 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/4t0HLGCF330/maxresdefault.jpg",
   "alt": "2026 큐브 엔터테인먼트 새해 인사 영상",
   "title": "2026 큐브 엔터테인먼트 새해 인사 영상",
-  "subtag": "ETC"
+  "subtag": "그 외"
 },
+
 {
   "link": "https://youtu.be/gy5Qg9VCypg",
   "category": "공식채널",
@@ -10707,8 +10713,9 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/gy5Qg9VCypg/maxresdefault.jpg",
   "alt": "우기 (YUQI) ‘唯一 (Only One)' (Cover)",
   "title": "우기 (YUQI) ‘唯一 (Only One)' (Cover)",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
+
 {
   "link": "https://youtu.be/Ls2UanIusQU",
   "category": "공식채널",
@@ -10720,6 +10727,7 @@ const 공식채널Cards = [
   "title": "2026 시즌 그리팅 비하인드 [i-talk] #234 | i-dle (아이들)ㅣSUB",
   "subtag": "I-TALK"
 },
+
 {
   "link": "https://youtu.be/NNOdLpm3N0M",
   "category": "공식채널",
@@ -10731,6 +10739,7 @@ const 공식채널Cards = [
   "title": "미연의 드림콘서트 아부다비 2025 비하인드 [i-talk] #235 | i-dle (아이들)ㅣSUB",
   "subtag": "I-TALK"
 },
+
 {
   "link": "https://youtu.be/6uCcpCagpgE",
   "category": "공식채널",
@@ -10742,6 +10751,7 @@ const 공식채널Cards = [
   "title": "우기의 2025 절강위성 TV 연말 무대 비하인드 [i-talk] #236 | i-dle (아이들)ㅣSUB",
   "subtag": "I-TALK"
 },
+
 {
   "link": "https://youtu.be/w7j0aTM5ujk",
   "category": "공식채널",
@@ -10751,8 +10761,9 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/w7j0aTM5ujk/maxresdefault.jpg",
   "alt": "Play the whole world in Mono",
   "title": "Play the whole world in Mono",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
+
 {
   "link": "https://youtu.be/iryPiDMNQi4",
   "category": "공식채널",
@@ -10762,7 +10773,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/iryPiDMNQi4/maxresdefault.jpg",
   "alt": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
   "title": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10774,7 +10785,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/czfUqN8FnVY/maxresdefault.jpg",
   "alt": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
   "title": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10786,7 +10797,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/5xgYWdfUqSs/maxresdefault.jpg",
   "alt": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
   "title": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10798,7 +10809,7 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/OB0mOoP37rk/maxresdefault.jpg",
   "alt": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
   "title": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
 
 {
@@ -10810,8 +10821,9 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/jD8-dEXJ6ok/maxresdefault.jpg",
   "alt": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
   "title": "i-dle (아이들) Digital Single [Mono (Feat. skaiwater)] Concept Image Behind",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
+
 {
   "link": "https://youtu.be/3NNz56niDVY",
   "category": "공식채널",
@@ -10821,8 +10833,9 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3NNz56niDVY/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' M/V Teaser",
   "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' M/V Teaser",
-  "subtag": "TEASER VIDEOS"
+  "subtag": "Teaser Videos"
 },
+
 {
   "link": "https://youtu.be/iO84Mj--foQ",
   "category": "공식채널",
@@ -10832,8 +10845,9 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/iO84Mj--foQ/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' 응원법ㅣSUB",
   "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' 응원법ㅣSUB",
-  "subtag": "FAN CHANT"
+  "subtag": "응원법"
 },
+
 {
   "link": "https://youtu.be/5Ag1qJHOGlY",
   "category": "공식채널",
@@ -10843,8 +10857,9 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/5Ag1qJHOGlY/maxresdefault.jpg",
   "alt": "🎂 HAPPY MIYEON DAY 💚 (Feat. 네버버와 함께하는 미연이의 30살… 🤐 3.살 생일파티!) [미연이는 3.살!]ㅣSUB",
   "title": "🎂 HAPPY MIYEON DAY 💚 (Feat. 네버버와 함께하는 미연이의 30살… 🤐 3.살 생일파티!) [미연이는 3.살!]ㅣSUB",
-  "subtag": "SPECIAL CONTENT"
+  "subtag": "스페셜 콘텐츠"
 },
+
 {
   "link": "https://youtu.be/sfdwyJFsu1U",
   "category": "공식채널",
@@ -10854,8 +10869,9 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/sfdwyJFsu1U/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' Mega Crew Performance Video",
   "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Mega Crew Performance Video",
-  "subtag": "PERFORMANCE"
+  "subtag": "Performance"
 },
+
 {
   "link": "https://youtu.be/MPHOhBD8mn8",
   "category": "공식채널",
@@ -10865,10 +10881,764 @@ const 공식채널Cards = [
   "thumbnail": "https://i.ytimg.com/vi/MPHOhBD8mn8/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' Choreography Practice Video (Character Ver.)",
   "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Choreography Practice Video (Character Ver.)",
-  "subtag": "CHOREOGRAPHY"
+  "subtag": "Choreography"
+},
+
+{
+  "link": "https://youtu.be/FJ8kJdTYj1o",
+  "category": "공식채널",
+  "member": "소연",
+  "date": "2017-11-05T18:00:02",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/FJ8kJdTYj1o/hqdefault.jpg",
+  "alt": "[MV] JEON SOYEON(전소연) _ Jelly",
+  "title": "[MV] JEON SOYEON(전소연) _ Jelly",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/b01dBTBzyz0",
+  "category": "공식채널",
+  "member": "소연",
+  "date": "2018-02-28T18:00:02",
+  "duration": "00:03:16",
+  "thumbnail": "https://i.ytimg.com/vi/b01dBTBzyz0/mqdefault.jpg",
+  "alt": "[MV] JEON SOYEON (전소연) _  Idle song (아이들 쏭)",
+  "title": "[MV] JEON SOYEON (전소연) _  Idle song (아이들 쏭)",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/p4RIhcY7V3c",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2018-05-02T18:00:04",
+  "duration": "00:03:42",
+  "thumbnail": "https://i.ytimg.com/vi/p4RIhcY7V3c/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LATATA' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'LATATA' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/OKNXn2qCEws",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2018-08-14T18:00:03",
+  "duration": "00:03:45",
+  "thumbnail": "https://i.ytimg.com/vi/OKNXn2qCEws/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/08ATpBqlAIk",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2019-02-19T18:00:02",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/08ATpBqlAIk/maxresdefault.jpg",
+  "alt": "[MV] (G)I-DLE((여자)아이들) - Blow Your Mind",
+  "title": "[MV] (G)I-DLE((여자)아이들) - Blow Your Mind",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/2cevbhEqQF4",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2019-02-26T17:59:48",
+  "duration": "00:03:45",
+  "thumbnail": "https://i.ytimg.com/vi/2cevbhEqQF4/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Senorita' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'Senorita' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/I66oFXdf0KU",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2019-06-26T18:00:20",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/I66oFXdf0KU/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Uh-Oh' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'Uh-Oh' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/ypNJMDlJvY4",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2019-07-12T00:00:20",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/ypNJMDlJvY4/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「LATATA」(Japanese ver.) MUSIC VIDEO",
+  "title": "(G)I-DLE - 「LATATA」(Japanese ver.) MUSIC VIDEO",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/6oanIo_2Z4Q",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2019-11-04T00:00:00",
+  "duration": "00:03:38",
+  "thumbnail": "https://i.ytimg.com/vi/6oanIo_2Z4Q/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LION' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'LION' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/om3n2ni8luE",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2020-04-06T18:00:01",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/om3n2ni8luE/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/ZlKoeJ3xlx4",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2020-07-07T18:00:10",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/ZlKoeJ3xlx4/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip",
+  "title": "(여자)아이들((G)I-DLE) - 'i'M THE TREND' Special Clip",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/HPQ5mqovXHo",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2020-08-03T17:59:56",
+  "duration": "00:05:13",
+  "thumbnail": "https://i.ytimg.com/vi/HPQ5mqovXHo/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - '덤디덤디 (DUMDi DUMDi)' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/u7wSlAgEcvg",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2020-08-19T18:00:09",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/u7wSlAgEcvg/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) MUSIC VIDEO",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) MUSIC VIDEO",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/z3szNvgQxHo",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2021-01-11T18:00:14",
+  "duration": "00:03:19",
+  "thumbnail": "https://i.ytimg.com/vi/z3szNvgQxHo/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/U6DG3TBcV6s",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2021-04-29T10:45:02",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/U6DG3TBcV6s/sddefault.jpg",
+  "alt": "(여자)아이들 ((G)I-DLE) 'Last Dance (Prod. GroovyRoom)' Official Music Video",
+  "title": "(여자)아이들 ((G)I-DLE) 'Last Dance (Prod. GroovyRoom)' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/wxDHQT0iBKM",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2021-05-13T18:00:31",
+  "duration": "00:03:32",
+  "thumbnail": "https://i.ytimg.com/vi/wxDHQT0iBKM/maxresdefault.jpg",
+  "alt": "우기 (YUQI) - 'Giant' Official Music Video",
+  "title": "우기 (YUQI) - 'Giant' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/AE8yKldv_oo",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2021-05-21T00:00:04",
+  "duration": "00:03:34",
+  "thumbnail": "https://i.ytimg.com/vi/AE8yKldv_oo/maxresdefault.jpg",
+  "alt": "우기 (YUQI) - 'Bonnie & Clyde' Official Music Video",
+  "title": "우기 (YUQI) - 'Bonnie & Clyde' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/MqzX9JAZ08U",
+  "category": "공식채널",
+  "member": "소연",
+  "date": "2021-07-05T18:00:15",
+  "duration": "00:02:53",
+  "thumbnail": "https://i.ytimg.com/vi/MqzX9JAZ08U/maxresdefault.jpg",
+  "alt": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Music Video",
+  "title": "전소연(JEON SOYEON) - '삠삠 (BEAM BEAM)' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/Jh4QFaPmdss",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2022-03-14T18:00:15",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/Jh4QFaPmdss/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/SuMnpTc8zoU",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2022-04-07T12:00:07",
+  "duration": "00:02:28",
+  "thumbnail": "https://i.ytimg.com/vi/SuMnpTc8zoU/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '말리지 마' LIVE CLIP",
+  "title": "(여자)아이들((G)I-DLE) - '말리지 마' LIVE CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/35lirBqwgTs",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2022-04-27T18:00:01",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/35lirBqwgTs/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) - 'Drive' Official Music Video",
+  "title": "미연 (MIYEON) - 'Drive' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/KIQncyxUwnQ",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2022-04-27T20:00:09",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/KIQncyxUwnQ/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) - 'Drive' LIVE CLIP",
+  "title": "미연 (MIYEON) - 'Drive' LIVE CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/T91NIKVhn_4",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2022-10-12T00:00:15",
+  "duration": "00:01:27",
+  "thumbnail": "https://i.ytimg.com/vi/T91NIKVhn_4/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - X-FILE VIDEO",
+  "title": "(여자)아이들((G)I-DLE) - X-FILE VIDEO",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/fCO7f0SmrDc",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2022-10-17T18:04:23",
+  "duration": "00:03:04",
+  "thumbnail": "https://i.ytimg.com/vi/fCO7f0SmrDc/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/a6Y1GX7wDnA",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2022-11-06T00:00:00",
+  "duration": "00:03:24",
+  "thumbnail": "https://i.ytimg.com/vi/a6Y1GX7wDnA/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'LOVE' Music Clip",
+  "title": "(여자)아이들((G)I-DLE) - 'LOVE' Music Clip",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/bjFMG8BT144",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2022-11-11T00:00:22",
+  "duration": "00:03:32",
+  "thumbnail": "https://i.ytimg.com/vi/bjFMG8BT144/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Change' LIVE CLIP",
+  "title": "(여자)아이들((G)I-DLE) - 'Change' LIVE CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/XZaBkbvteBc",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2023-05-10T00:00:08",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/XZaBkbvteBc/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Allergy' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'Allergy' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/7HDeem-JaSY",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2023-05-15T18:00:04",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/7HDeem-JaSY/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/PITjb4VZHpQ",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2023-05-29T22:00:15",
+  "duration": "00:02:44",
+  "thumbnail": "https://i.ytimg.com/vi/PITjb4VZHpQ/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Allergy' LIVE CLIP",
+  "title": "(여자)아이들((G)I-DLE) - 'Allergy' LIVE CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/pCh3Kp6qxo8",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2023-07-13T09:00:10",
+  "duration": "00:05:16",
+  "thumbnail": "https://i.ytimg.com/vi/pCh3Kp6qxo8/maxresdefault.jpg",
+  "alt": "(G)I-DLE - I DO (Official Music Video)",
+  "title": "(G)I-DLE - I DO (Official Music Video)",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/Iewisp9KYRw",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2023-10-06T09:00:06",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/Iewisp9KYRw/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'I Want That' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'I Want That' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/baaNwRAhHBo",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2024-01-22T00:00:02",
+  "duration": "00:02:17",
+  "thumbnail": "https://i.ytimg.com/vi/baaNwRAhHBo/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Wife' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'Wife' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/6f3RzjXPQwA",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2024-01-29T18:00:06",
+  "duration": "00:02:41",
+  "thumbnail": "https://i.ytimg.com/vi/6f3RzjXPQwA/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Super Lady' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'Super Lady' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/KAymeaEyPr8",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2024-02-16T00:00:20",
+  "duration": "00:03:19",
+  "thumbnail": "https://i.ytimg.com/vi/KAymeaEyPr8/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Revenge' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - 'Revenge' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/ATK7gAaZTOM",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2024-03-13T21:00:13",
+  "duration": "00:02:54",
+  "thumbnail": "https://i.ytimg.com/vi/ATK7gAaZTOM/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까(Fate)' LIVE CLIP",
+  "title": "(여자)아이들((G)I-DLE) - '나는 아픈 건 딱 질색이니까(Fate)' LIVE CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/ZqU4oTDy3XE",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2024-04-05T18:00:00",
+  "duration": "00:03:57",
+  "thumbnail": "https://i.ytimg.com/vi/ZqU4oTDy3XE/maxresdefault.jpg",
+  "alt": "우기(YUQI) - 'Could It Be' Official Music Video",
+  "title": "우기(YUQI) - 'Could It Be' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/UqJIBItJeyg",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2024-04-23T18:00:01",
+  "duration": "00:03:06",
+  "thumbnail": "https://i.ytimg.com/vi/UqJIBItJeyg/maxresdefault.jpg",
+  "alt": "우기(YUQI) - 'FREAK' Official Music Video",
+  "title": "우기(YUQI) - 'FREAK' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/6FvfiaskXbQ",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2024-04-30T20:00:02",
+  "duration": "00:02:13",
+  "thumbnail": "https://i.ytimg.com/vi/6FvfiaskXbQ/maxresdefault.jpg",
+  "alt": "우기(YUQI) - 'Red Rover' LIVE CLIP",
+  "title": "우기(YUQI) - 'Red Rover' LIVE CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/i_r3Ni7jdNw",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2024-05-03T19:00:02",
+  "duration": "00:02:06",
+  "thumbnail": "https://i.ytimg.com/vi/i_r3Ni7jdNw/maxresdefault.jpg",
+  "alt": "우기(YUQI) - 'On Clap (Feat. Lexie Liu)' Special Performance Video",
+  "title": "우기(YUQI) - 'On Clap (Feat. Lexie Liu)' Special Performance Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/uSddv1T7Byg",
+  "category": "공식채널",
+  "member": "민니, 우기",
+  "date": "2024-05-08T19:00:02",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/uSddv1T7Byg/maxresdefault.jpg",
+  "alt": "우기(YUQI) - 'Everytime (With MINNIE ((G)I-DLE))' Special Clip",
+  "title": "우기(YUQI) - 'Everytime (With MINNIE ((G)I-DLE))' Special Clip",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/rTKqSmX9XhQ",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2024-07-08T18:00:07",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/rTKqSmX9XhQ/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Official Music Video",
+  "title": "(여자)아이들((G)I-DLE) - '클락션 (Klaxon)' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/nlkPoTADrdM",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2024-07-29T19:00:43",
+  "duration": "00:02:30",
+  "thumbnail": "https://i.ytimg.com/vi/nlkPoTADrdM/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Last Forever' LIVE CLIP",
+  "title": "(여자)아이들((G)I-DLE) - 'Last Forever' LIVE CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/Zf3nEwaWLpA",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2024-08-05T19:00:40",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/Zf3nEwaWLpA/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Bloom' SPECIAL CLIP",
+  "title": "(여자)아이들((G)I-DLE) - 'Bloom' SPECIAL CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/_s4PlNvJnDQ",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2024-08-11T19:00:34",
+  "duration": "00:03:08",
+  "thumbnail": "https://i.ytimg.com/vi/_s4PlNvJnDQ/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Neverland' SPECIAL CLIP",
+  "title": "(여자)아이들((G)I-DLE) - 'Neverland' SPECIAL CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/Ubz6C2t_FFM",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2024-09-23T00:00:34",
+  "duration": "00:03:14",
+  "thumbnail": "https://i.ytimg.com/vi/Ubz6C2t_FFM/maxresdefault.jpg",
+  "alt": "우기(YUQI) - 'Radio (Dum-Dum)' SPECIAL CLIP",
+  "title": "우기(YUQI) - 'Radio (Dum-Dum)' SPECIAL CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/zkR3SAMLGno",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2024-12-19T22:01:16",
+  "duration": "00:04:18",
+  "thumbnail": "https://i.ytimg.com/vi/zkR3SAMLGno/maxresdefault.jpg",
+  "alt": "미연(MIYEON) - 'Sky Walking' SPECIAL CLIP",
+  "title": "미연(MIYEON) - 'Sky Walking' SPECIAL CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/8KpvPHcXr1c",
+  "category": "공식채널",
+  "member": "민니",
+  "date": "2025-01-07T00:00:03",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/8KpvPHcXr1c/maxresdefault.jpg",
+  "alt": "민니(MINNIE) - 'Blind Eyes Red' Official Music Video",
+  "title": "민니(MINNIE) - 'Blind Eyes Red' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/UTHqh7Vpa64",
+  "category": "공식채널",
+  "member": "민니",
+  "date": "2025-01-21T18:00:03",
+  "duration": "00:02:50",
+  "thumbnail": "https://i.ytimg.com/vi/UTHqh7Vpa64/maxresdefault.jpg",
+  "alt": "민니(MINNIE) - 'HER' Official Music Video",
+  "title": "민니(MINNIE) - 'HER' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/-pKYsndlSXE",
+  "category": "공식채널",
+  "member": "민니",
+  "date": "2025-01-28T00:00:09",
+  "duration": "00:03:45",
+  "thumbnail": "https://i.ytimg.com/vi/-pKYsndlSXE/maxresdefault.jpg",
+  "alt": "민니(MINNIE) - 'Obsession (Feat. TEN of WayV)' SPECIAL CLIP",
+  "title": "민니(MINNIE) - 'Obsession (Feat. TEN of WayV)' SPECIAL CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/jRkUik5EJwU",
+  "category": "공식채널",
+  "member": "민니",
+  "date": "2025-02-03T00:00:07",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/jRkUik5EJwU/maxresdefault.jpg",
+  "alt": "민니(MINNIE) - 'Cherry Sky' SPECIAL CLIP",
+  "title": "민니(MINNIE) - 'Cherry Sky' SPECIAL CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/FyuPYjmPjrE",
+  "category": "공식채널",
+  "member": "민니",
+  "date": "2025-02-14T00:00:03",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/FyuPYjmPjrE/maxresdefault.jpg",
+  "alt": "민니(MINNIE) - 'Valentine’s Dream' SPECIAL CLIP",
+  "title": "민니(MINNIE) - 'Valentine’s Dream' SPECIAL CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/zKfs2EM8LQ4",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2025-05-09T00:00:01",
+  "duration": "00:02:45",
+  "thumbnail": "https://i.ytimg.com/vi/zKfs2EM8LQ4/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Girlfriend' Official Music Video",
+  "title": "i-dle (아이들) 'Girlfriend' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/hAONx6nuEgI",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2025-05-19T18:00:02",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/hAONx6nuEgI/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Good Thing' Official Music Video",
+  "title": "i-dle (아이들) 'Good Thing' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/hqWxxcs_MXE",
+  "category": "공식채널",
+  "member": "소연",
+  "date": "2025-06-30T18:01:03",
+  "duration": "00:03:12",
+  "thumbnail": "https://i.ytimg.com/vi/hqWxxcs_MXE/maxresdefault.jpg",
+  "alt": "소연 (SOYEON) '내 이름 맑음' LIVE CLIP",
+  "title": "소연 (SOYEON) '내 이름 맑음' LIVE CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/Cq-1jynbcVg",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2025-08-28T18:00:28",
+  "duration": "00:04:40",
+  "thumbnail": "https://i.ytimg.com/vi/Cq-1jynbcVg/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) - ‘Sky Walking’ Special Clip (Filmed in Macao)",
+  "title": "미연 (MIYEON) - ‘Sky Walking’ Special Clip (Filmed in Macao)",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/yfn7EG7tQpg",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2025-09-10T00:00:01",
+  "duration": "00:05:04",
+  "thumbnail": "https://i.ytimg.com/vi/yfn7EG7tQpg/maxresdefault.jpg",
+  "alt": "우기 (YUQI) '아프다' Official Music Video",
+  "title": "우기 (YUQI) '아프다' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/nZFH-gZa9R4",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2025-09-16T18:00:02",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/nZFH-gZa9R4/maxresdefault.jpg",
+  "alt": "우기 (YUQI) 'M.O.' Official Music Video",
+  "title": "우기 (YUQI) 'M.O.' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/iGNd-8gkB5E",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2025-09-23T12:00:53",
+  "duration": "00:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/iGNd-8gkB5E/maxresdefault.jpg",
+  "alt": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
+  "title": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/DcxiggTs_q4",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2025-10-03T18:00:06",
+  "duration": "00:03:51",
+  "thumbnail": "https://i.ytimg.com/vi/DcxiggTs_q4/maxresdefault.jpg",
+  "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V",
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/nXWEZT0fVYY",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2025-10-28T18:00:01",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/nXWEZT0fVYY/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Reno (Feat. Colde)' Official Music Video",
+  "title": "미연 (MIYEON) 'Reno (Feat. Colde)' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/9g9NClV1z_w",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2025-11-03T18:00:01",
+  "duration": "00:02:51",
+  "thumbnail": "https://i.ytimg.com/vi/9g9NClV1z_w/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Say My Name' Official Music Video",
+  "title": "미연 (MIYEON) 'Say My Name' Official Music Video",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/pyjBFIbKqic",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2025-11-16T22:01:14",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/pyjBFIbKqic/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'F.F.L.Y' SPECIAL CLIP",
+  "title": "미연 (MIYEON) 'F.F.L.Y' SPECIAL CLIP",
+  "subtag": "Music Videos"
+},
+
+{
+  "link": "https://youtu.be/DYgE3SGPEqk",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-01-27T18:00:01",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/DYgE3SGPEqk/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video",
+  "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video",
+  "subtag": "Music Videos"
 }
-
-
 
 ];
 window.공식채널Cards = 공식채널Cards;

@@ -1943,7 +1943,17 @@ const 라디오오디오쇼Cards = [
   "title": "i-dle’s Most Unfiltered & Unstoppable Spotify House PartyㅣHighlights",
   "subtag": "라디오"
 },
-
+{
+  "link": "https://youtu.be/du28NxB0SGo",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2025-05-31T23:49:39",
+  "duration": "00:24:04",
+  "thumbnail": "https://i.ytimg.com/vi/du28NxB0SGo/sddefault.jpg",
+  "alt": "[FULL] i-dle's Most Unfiltered & Unstoppable Spotify House Party | K-Pop ON Video Podcast",
+  "title": "[FULL] i-dle's Most Unfiltered & Unstoppable Spotify House Party | K-Pop ON Video Podcast",
+  "subtag": "라디오"
+},
 {
   "link": "https://youtu.be/AsjBiO1gsJs",
   "category": "라디오오디오쇼",

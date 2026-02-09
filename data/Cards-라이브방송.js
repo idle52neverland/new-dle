@@ -5560,7 +5560,7 @@ const 라이브방송Cards = [
 {
   "link": "https://youtu.be/PdX6ZkBBJ5A",
   "category": "라이브방송",
-  "member": "아이들",
+  "member": "미연",
   "date": "2025-12-24T14:35:34",
   "duration": "00:07:51",
   "thumbnail": "https://i.ytimg.com/vi/PdX6ZkBBJ5A/maxresdefault.jpg",
@@ -5572,7 +5572,7 @@ const 라이브방송Cards = [
 {
   "link": "https://youtu.be/mMJg8hz2cXc",
   "category": "라이브방송",
-  "member": "아이들",
+  "member": "미연",
   "date": "2025-12-24T14:35:35",
   "duration": "00:29:40",
   "thumbnail": "https://i.ytimg.com/vi/mMJg8hz2cXc/maxresdefault.jpg",
@@ -5596,7 +5596,7 @@ const 라이브방송Cards = [
 {
   "link": "https://youtu.be/P4k9sBURucc",
   "category": "라이브방송",
-  "member": "아이들",
+  "member": "소연",
   "date": "2025-12-25T15:29:23",
   "duration": "00:31:40",
   "thumbnail": "https://i.ytimg.com/vi/P4k9sBURucc/hqdefault.jpg",
@@ -5644,7 +5644,7 @@ const 라이브방송Cards = [
 {
   "link": "https://youtu.be/_SvGYMgt_rI",
   "category": "라이브방송",
-  "member": "아이들",
+  "member": "소연",
   "date": "2025-12-30T14:09:09",
   "duration": "00:04:13",
   "thumbnail": "https://i.ytimg.com/vi/_SvGYMgt_rI/maxresdefault.jpg",
@@ -5668,7 +5668,7 @@ const 라이브방송Cards = [
 {
   "link": "https://youtu.be/u8RTpNkLIak",
   "category": "라이브방송",
-  "member": "아이들",
+  "member": "민니",
   "date": "2026-01-22T23:03:59",
   "duration": "00:49:10",
   "thumbnail": "https://i.ytimg.com/vi/u8RTpNkLIak/maxresdefault.jpg",
@@ -5683,7 +5683,7 @@ const 라이브방송Cards = [
   "member": "아이들",
   "date": "2026-01-27T18:21:37",
   "duration": "00:18:00",
-  "thumbnail": "https://statics.berriz.in/cdn/base/file/rf/bt/vg/to/rd/vx/737287708.jpeg",
+  "thumbnail": "https://i.ytimg.com/vi/Cu1_XXREiuc/hqdefault.jpg",
   "alt": "《Berriz》🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
   "title": "《Berriz》🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
   "subtag": "베리즈 라이브"
@@ -5695,7 +5695,7 @@ const 라이브방송Cards = [
   "member": "아이들",
   "date": "2026-01-27T18:21:38",
   "duration": "00:18:02",
-  "thumbnail": "https://i.ytimg.com/vi/Cu1_XXREiuc/maxresdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/Cu1_XXREiuc/hqdefault.jpg",
   "alt": "《YouTube》🖤네버버~ 아이들이 Mono 들려주러 왔어🤍▫️",
   "title": "《YouTube》🖤네버버~ 아이들이 Mono 들려주러 왔어🤍▫️",
   "subtag": "베리즈 라이브"
@@ -5707,7 +5707,7 @@ const 라이브방송Cards = [
   "member": "아이들",
   "date": "2026-01-29T19:40:29",
   "duration": "00:11:56",
-  "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/b5ed57cd-7486-4978-9750-e82feefc6781.jpeg",
+  "thumbnail": "https://i.ytimg.com/vi/d6IyubYpy48/hqdefault.jpg",
   "alt": "《Berriz》🖤네버버와 함께 시작한 Mono 활동🤍",
   "title": "《Berriz》🖤네버버와 함께 시작한 Mono 활동🤍",
   "subtag": "베리즈 라이브"
@@ -5719,7 +5719,7 @@ const 라이브방송Cards = [
   "member": "아이들",
   "date": "2026-01-29T19:40:30",
   "duration": "00:11:57",
-  "thumbnail": "https://i.ytimg.com/vi/d6IyubYpy48/maxresdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/d6IyubYpy48/hqdefault.jpg",
   "alt": "《YouTube》🖤네버버와 함께 시작한 Mono 활동🤍▫️",
   "title": "《YouTube》🖤네버버와 함께 시작한 Mono 활동🤍▫️",
   "subtag": "베리즈 라이브"
@@ -5752,7 +5752,7 @@ const 라이브방송Cards = [
 {
   "link": "https://youtu.be/Cw0gZUdhDjk",
   "category": "라이브방송",
-  "member": "아이들",
+  "member": "민니, 우기, 슈화",
   "date": "2026-01-30T18:56:19",
   "duration": "00:09:08",
   "thumbnail": "https://i.ytimg.com/vi/Cw0gZUdhDjk/maxresdefault.jpg",
@@ -5764,7 +5764,7 @@ const 라이브방송Cards = [
 {
   "link": "https://youtu.be/o6VOsT918q0",
   "category": "라이브방송",
-  "member": "아이들",
+  "member": "민니, 소연, 우기, 슈화",
   "date": "2026-01-30T18:56:20",
   "duration": "00:02:01",
   "thumbnail": "https://i.ytimg.com/vi/o6VOsT918q0/maxresdefault.jpg",
@@ -5788,7 +5788,7 @@ const 라이브방송Cards = [
 {
   "link": "https://youtu.be/p9PcM95YeuI",
   "category": "라이브방송",
-  "member": "아이들",
+  "member": "미연, 민니, 우기",
   "date": "2026-01-31T16:43:49",
   "duration": "00:16:59",
   "thumbnail": "https://i.ytimg.com/vi/p9PcM95YeuI/maxresdefault.jpg",
@@ -5865,7 +5865,7 @@ const 라이브방송Cards = [
 {
   "link": "https://youtu.be/cf_6gu0gZ0I",
   "category": "라이브방송",
-  "member": "아이들",
+  "member": "소연",
     "date": "2026-02-03T15:26:09",
   "duration": "00:35:12",
   "thumbnail": "https://i.ytimg.com/vi/cf_6gu0gZ0I/maxresdefault.jpg",
@@ -5877,7 +5877,7 @@ const 라이브방송Cards = [
 {
   "link": "https://youtu.be/8oyUAtBRyRQ",
   "category": "라이브방송",
-  "member": "아이들",
+  "member": "소연",
     "date": "2026-02-03T15:26:10",
   "duration": "00:04:57",
   "thumbnail": "https://i.ytimg.com/vi/8oyUAtBRyRQ/maxresdefault.jpg",
@@ -5891,7 +5891,7 @@ const 라이브방송Cards = [
     "member": "아이들",
     "date": "2026-02-05T19:34:58",
     "duration": "00:34:02",
-    "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/7ca6a375-ec64-448c-ade5-f7439bb242c3.jpeg",
+  "thumbnail": "https://i.ytimg.com/vi/ah9FHxr4dog/hqdefault.jpg",
     "alt": "《Berriz》 🖤네버버가 만들어 준 Mono 첫 1위🤍",
     "title": "《Berriz》 🖤네버버가 만들어 준 Mono 첫 1위🤍",
     "subtag": "베리즈 라이브"
@@ -5900,12 +5900,67 @@ const 라이브방송Cards = [
   "link": "https://youtu.be/ah9FHxr4dog",
   "category": "라이브방송",
   "member": "아이들",
-    "date": "2026-02-05T19:34:59",
-  "duration": "00:00:00",
+  "date": "2026-02-05T19:34:59",
+  "duration": "00:34:03",
   "thumbnail": "https://i.ytimg.com/vi/ah9FHxr4dog/hqdefault.jpg",
   "alt": "《YouTube》 🖤네버버가 만들어 준 Mono 첫 1위🤍▫️",
   "title": "《YouTube》 🖤네버버가 만들어 준 Mono 첫 1위🤍▫️",
   "subtag": "베리즈 라이브"
+},
+  {
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019c3254-eb9a-bc84-aafe-00eb89d99df0",
+    "category": "라이브방송",
+    "member": "아이들",
+    "date": "2026-02-06T18:42:35",
+    "duration": "00:14:12",
+  "thumbnail": "https://i.ytimg.com/vi/aaperRZ32Mo/hqdefault.jpg",
+    "alt": "《Berriz》 🖤오늘도 소중한 1위 만들어 준 네버버 고마워~🤍",
+    "title": "《Berriz》 🖤오늘도 소중한 1위 만들어 준 네버버 고마워~🤍",
+    "subtag": "베리즈 라이브"
+  },
+{
+  "link": "https://youtu.be/aaperRZ32Mo",
+  "category": "라이브방송",
+  "member": "아이들",
+    "date": "2026-02-06T18:42:36",
+  "duration": "00:14:13",
+  "thumbnail": "https://i.ytimg.com/vi/aaperRZ32Mo/hqdefault.jpg",
+  "alt": "《YouTube》 🖤오늘도 소중한 1위 만들어 준 네버버 고마워~🤍▫️",
+  "title": "《YouTube》 🖤오늘도 소중한 1위 만들어 준 네버버 고마워~🤍▫️",
+  "subtag": "베리즈 라이브"
+},
+  {
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019c3712-aeec-da49-7669-ef8eb17648a4",
+    "category": "라이브방송",
+    "member": "아이들",
+    "date": "2026-02-07T16:48:20",
+    "duration": "00:23:19",
+  "thumbnail": "https://i.ytimg.com/vi/sFaQyBGey0w/hqdefault.jpg",
+    "alt": "《Berriz》 🖤토요일 마무리는 Mono와 함께🤍",
+    "title": "《Berriz》 🖤토요일 마무리는 Mono와 함께🤍",
+    "subtag": "베리즈 라이브"
+  },
+{
+  "link": "https://youtu.be/sFaQyBGey0w",
+  "category": "라이브방송",
+  "member": "아이들",
+    "date": "2026-02-07T16:48:21",
+  "duration": "00:23:20",
+  "thumbnail": "https://i.ytimg.com/vi/sFaQyBGey0w/hqdefault.jpg",
+  "alt": "《YouTube》 🖤토요일 마무리는 Mono와 함께🤍▫️",
+  "title": "《YouTube》 🖤토요일 마무리는 Mono와 함께🤍▫️",
+  "subtag": "베리즈 라이브"
+},
+{
+  "link": "https://youtu.be/vs4SId7dV40",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2026-02-08T18:53:57",
+  "duration": "00:46:34",
+  "thumbnail": "https://i.ytimg.com/vi/vs4SId7dV40/maxresdefault.jpg",
+  "alt": "매점가요 LIVE STREAM with i-dle | 인기가요 끝나면 매점가요",
+  "title": "매점가요 LIVE STREAM with i-dle | 인기가요 끝나면 매점가요",
+  "subtag": "그 외"
 }
 
 

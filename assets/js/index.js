@@ -19,7 +19,6 @@ function simplifyDuration(d) {
 const CATEGORY_MAP = {
     "All Videos": "1",
     "공식 채널": "2",
-    "발매곡": "3",
     "OST·참여곡": "4",
     "음악방송": "5",
     "공연·축제": "6",
@@ -133,7 +132,7 @@ function categoryToVarName(category) {
 
 function buildAllVideos() {
   const vars = [
-    "발매곡Cards", "OST참여곡Cards", "음악방송Cards", "공연축제Cards",
+    "OST참여곡Cards", "음악방송Cards", "공연축제Cards",
     "공식채널Cards", "자체예능Cards", "녹음비하인드Cards", "출연콘텐츠Cards",
     "TV방송Cards", "해외콘텐츠Cards", "노래클립Cards", "매거진인터뷰Cards", "라디오오디오쇼Cards", 
     "라이브방송Cards","광고Cards", "기타Cards" 
@@ -561,7 +560,7 @@ function openFilterMenu(type, btn) {
   
   // 연도, 월, 서브필터 메뉴 항목 생성 로직 (이전 코드 유지)
   if (type === "year") {
-    const years = ["전체","2026","2025","2024","2023","2022","2021","2020","2019","2018","Pre-debut"];
+    const years = ["전체","Pre-debut","2018","2019","2020","2021","2022","2023","2024","2025","2026"];
     years.forEach(y => {
       let v = null;
       if (y === "전체") v = null;
@@ -581,22 +580,20 @@ function openFilterMenu(type, btn) {
   if (type === "subtag") {
     const cat = currentCategory.textContent.trim();
     const subtagMap = {
-      "발매곡": ["전체","MV","Special Clip","Audio Track"],
       "OST·참여곡": ["전체"],
       "음악방송": ["전체","무대","직캠","인터뷰","앵콜","그 외"],
       "공연·축제": ["전체","대학축제","페스티벌","그 외"],
       "공식 채널": [
-        "전체","I-TALK","SOLO TALK","HASHTALK",
-        "I-LOG","TOUR BEHIND",
-        "SPECIAL CONTENT","PERFORMANCE",
-        "CHOREOGRAPHY","TEASER VIDEOS",
-        "I-LIVE HL","FAN CHANT","ETC"
+        "전체","Teaser Videos","Music Videos","Choreography","Performance",
+        "I-TALK","SOLO-TALK","HASHTALK","I-LOG","I-LIVE HL",
+        "콘서트 비하인드","스페셜 콘텐츠",
+        "응원법","그 외"
       ],
       "자체 예능": ["전체"],
       "녹음 비하인드": ["전체"],
       "출연 콘텐츠": ["전체"],
       "TV방송": ["전체"],
-      "해외 콘텐츠": ["전체"],
+      "해외 콘텐츠": ["전체","Keep Running","Stage Boom","그 외"],
       "노래 클립": ["전체"],
       "매거진·인터뷰": ["전체"],
       "라디오·오디오쇼": ["전체","라디오","네이버NOW","오디오","그 외"],

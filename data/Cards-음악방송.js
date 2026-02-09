@@ -18595,8 +18595,8 @@ const 음악방송Cards = [
   "date": "2026-01-29T20:21:42",
   "duration": "00:04:32",
   "thumbnail": "https://i.ytimg.com/vi/E4atGk7si8g/maxresdefault.jpg",
-  "alt": "'컴백 인터뷰' i-dle (아이들) #엠카운트다운 EP.914 | Mnet 260129 방송",
-  "title": "'컴백 인터뷰' i-dle (아이들) #엠카운트다운 EP.914 | Mnet 260129 방송",
+  "alt": "[엠카운트다운] '컴백 인터뷰' i-dle (아이들) #엠카운트다운 EP.914 | Mnet 260129 방송",
+  "title": "[엠카운트다운] '컴백 인터뷰' i-dle (아이들) #엠카운트다운 EP.914 | Mnet 260129 방송",
   "subtag": "인터뷰"
 },
 
@@ -18737,8 +18737,8 @@ const 음악방송Cards = [
   "date": "2026-01-30T18:30:00",
   "duration": "00:02:22",
   "thumbnail": "https://i.ytimg.com/vi/klQTPOVCTvU/maxresdefault.jpg",
-  "alt": "(Interview) Interview with i-dle [Music Bank] | KBS WORLD TV 260123",
-  "title": "(Interview) Interview with i-dle [Music Bank] | KBS WORLD TV 260123",
+  "alt": "[뮤직뱅크] Interview with i-dle [Music Bank] | KBS WORLD TV 260123",
+  "title": "[뮤직뱅크] Interview with i-dle [Music Bank] | KBS WORLD TV 260123",
   "subtag": "인터뷰"
 },
 
@@ -19178,8 +19178,8 @@ const 음악방송Cards = [
   "date": "2026-02-05T19:13:50",
   "duration": "00:03:12",
   "thumbnail": "https://i.ytimg.com/vi/-_YjFFoXZag/maxresdefault.jpg",
-  "alt": "[엠카운트다운] i-dle (아이들) - Mono (Feat. skaiwater) #엠카운트다운 EP.915 | Mnet 260205 방송",
-  "title": "[엠카운트다운] i-dle (아이들) - Mono (Feat. skaiwater) #엠카운트다운 EP.915 | Mnet 260205 방송",
+  "alt": "《엠카운트다운》 i-dle (아이들) - Mono (Feat. skaiwater) #엠카운트다운 EP.915 | Mnet 260205 방송",
+  "title": "《엠카운트다운》 i-dle (아이들) - Mono (Feat. skaiwater) #엠카운트다운 EP.915 | Mnet 260205 방송",
   "subtag": "무대"
 },
 {
@@ -19254,16 +19254,316 @@ const 음악방송Cards = [
   "subtag": "직캠"
 },
 {
-  "link": "https://youtu.be/nT6zt5Azols",
+  "link": "https://youtu.be/EubumxYPV04",
   "category": "음악방송",
   "member": "아이들",
   "date": "2026-02-05T20:03:56",
+  "duration": "00:04:58",
+  "thumbnail": "https://i.ytimg.com/vi/EubumxYPV04/maxresdefault.jpg",
+  "alt": "2월 1주 1위 'i-dle (아이들)'의 'Mono (Feat. skaiwater)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.915",
+  "title": "2월 1주 1위 'i-dle (아이들)'의 'Mono (Feat. skaiwater)' 앵콜 무대! (Full ver.) #엠카운트다운 EP.915",
+  "subtag": "앵콜"
+},
+{
+  "link": "https://youtu.be/nT6zt5Azols",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2026-02-05T20:03:57",
   "duration": "00:06:28",
   "thumbnail": "https://i.ytimg.com/vi/nT6zt5Azols/maxresdefault.jpg",
   "alt": "[MPD직캠] 아이들 1위 앵콜 직캠 4K 'Mono (Feat. skaiwater)' (i-dle FanCam No.1 Encore) | @MCOUNTDOWN_2026.2.5",
   "title": "[MPD직캠] 아이들 1위 앵콜 직캠 4K 'Mono (Feat. skaiwater)' (i-dle FanCam No.1 Encore) | @MCOUNTDOWN_2026.2.5",
   "subtag": "앵콜"
+},
+{
+  "link": "https://youtu.be/9jrUlzUDCgI",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2026-02-06T18:39:59",
+  "duration": "00:02:00",
+  "thumbnail": "https://i.ytimg.com/vi/9jrUlzUDCgI/maxresdefault.jpg",
+  "alt": "[MusicBank Interview Cam] 아이들 (I-DLE  Interview) l @MusicBank KBS 260206",
+  "title": "[MusicBank Interview Cam] 아이들 (I-DLE  Interview) l @MusicBank KBS 260206",
+  "subtag": "인터뷰"
+},
+{
+  "link": "https://youtu.be/a52mv9of6q4",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2026-02-06T18:40:00",
+  "duration": "00:03:14",
+  "thumbnail": "https://i.ytimg.com/vi/a52mv9of6q4/maxresdefault.jpg",
+  "alt": "《뮤직뱅크》 Mono (Feat. skaiwater) - i-dle (아이들) [Music Bank] | KBS 260206 방송",
+  "title": "《뮤직뱅크》 Mono (Feat. skaiwater) - i-dle (아이들) [Music Bank] | KBS 260206 방송",
+  "subtag": "무대"
+},
+{
+  "link": "https://youtu.be/ls34nXC4s_E",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2026-02-06T18:40:01",
+  "duration": "00:03:16",
+  "thumbnail": "https://i.ytimg.com/vi/ls34nXC4s_E/maxresdefault.jpg",
+  "alt": "[K-Choreo 8K]  아이들 직캠 'Mono (Feat. skaiwater)' (i-dleChoreography) @MusicBank 260130",
+  "title": "[K-Choreo 8K]  아이들 직캠 'Mono (Feat. skaiwater)' (i-dleChoreography) @MusicBank 260130",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/aWr7Y3kOfP0",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2026-02-06T18:40:02",
+  "duration": "00:03:16",
+  "thumbnail": "https://i.ytimg.com/vi/aWr7Y3kOfP0/maxresdefault.jpg",
+  "alt": "[K-Fancam] 아이들 미연 직캠 'Mono'(Feat. skaiwater)' (i-dle MIYEON Fancam) @뮤직뱅크(Music Bank) 260206",
+  "title": "[K-Fancam] 아이들 미연 직캠 'Mono'(Feat. skaiwater)' (i-dle MIYEON Fancam) @뮤직뱅크(Music Bank) 260206",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/H6MarZwGr24",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2026-02-06T18:40:03",
+  "duration": "00:03:16",
+  "thumbnail": "https://i.ytimg.com/vi/H6MarZwGr24/maxresdefault.jpg",
+  "alt": "[K-Fancam] 아이들 민니 직캠 'Mono (Feat. skaiwater)' (i-dle MINNIE Fancam) @뮤직뱅크(Music Bank) 260206",
+  "title": "[K-Fancam] 아이들 민니 직캠 'Mono (Feat. skaiwater)' (i-dle MINNIE Fancam) @뮤직뱅크(Music Bank) 260206",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/xBaij9c0zEQ",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2026-02-06T18:40:04",
+  "duration": "00:03:16",
+  "thumbnail": "https://i.ytimg.com/vi/xBaij9c0zEQ/maxresdefault.jpg",
+  "alt": "[K-Fancam] 아이들 소연 직캠 'Mono (Feat. skaiwater)' (i-dle SOYEON Fancam) @뮤직뱅크(Music Bank) 260206",
+  "title": "[K-Fancam] 아이들 소연 직캠 'Mono (Feat. skaiwater)' (i-dle SOYEON Fancam) @뮤직뱅크(Music Bank) 260206",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/3f0uWfQs9g0",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2026-02-06T18:40:05",
+  "duration": "00:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/3f0uWfQs9g0/maxresdefault.jpg",
+  "alt": "[K-Fancam] 아이들 우기 직캠 'Mono (Feat. skaiwater)' (i-dle YUQI Fancam) @뮤직뱅크(Music Bank) 260206",
+  "title": "[K-Fancam] 아이들 우기 직캠 'Mono (Feat. skaiwater)' (i-dle YUQI Fancam) @뮤직뱅크(Music Bank) 260206",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/c4LJL1K7hTs",
+  "category": "음악방송",
+  "member": "슈화",
+  "date": "2026-02-06T18:40:06",
+  "duration": "00:03:16",
+  "thumbnail": "https://i.ytimg.com/vi/c4LJL1K7hTs/maxresdefault.jpg",
+  "alt": "[K-Fancam] 아이들 슈화 직캠 'Mono (Feat. skaiwater)' (i-dle SHUHUA Fancam) @뮤직뱅크(Music Bank) 260206",
+  "title": "[K-Fancam] 아이들 슈화 직캠 'Mono (Feat. skaiwater)' (i-dle SHUHUA Fancam) @뮤직뱅크(Music Bank) 260206",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/q4wuVuvoUGY",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2026-02-06T18:40:07",
+  "duration": "00:03:05",
+  "thumbnail": "https://i.ytimg.com/vi/q4wuVuvoUGY/maxresdefault.jpg",
+  "alt": "[뮤직뱅크] (여자)아이들 - 'Mono' 1위 수상소감",
+  "title": "[뮤직뱅크] (여자)아이들 - 'Mono' 1위 수상소감",
+  "subtag": "앵콜"
+},
+
+{
+  "link": "https://youtu.be/9V2akNIUD34",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2026-02-06T18:40:08",
+  "duration": "00:05:02",
+  "thumbnail": "https://i.ytimg.com/vi/9V2akNIUD34/maxresdefault.jpg",
+  "alt": "[4K] 아이들 'Mono (Feat. skaiwater)' 뮤직뱅크 1위 앵콜직캠(i-dle Encore Facecam) @뮤직뱅크(Music Bank) 260206",
+  "title": "[4K] 아이들 'Mono (Feat. skaiwater)' 뮤직뱅크 1위 앵콜직캠(i-dle Encore Facecam) @뮤직뱅크(Music Bank) 260206",
+  "subtag": "앵콜"
+},
+{
+  "link": "https://youtu.be/SZDyWZwRE3k",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2026-02-06T18:40:09",
+  "duration": "00:03:17",
+  "thumbnail": "https://i.ytimg.com/vi/SZDyWZwRE3k/maxresdefault.jpg",
+  "alt": "[얼빡직캠 4K] 아이들 미연 'Mono (Feat. skaiwater)' (i-dle MIYEON Facecam) @뮤직뱅크(Music Bank) 260206",
+  "title": "[얼빡직캠 4K] 아이들 미연 'Mono (Feat. skaiwater)' (i-dle MIYEON Facecam) @뮤직뱅크(Music Bank) 260206",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/mObOYbnR4Yw",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2026-02-06T18:40:10",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/mObOYbnR4Yw/maxresdefault.jpg",
+  "alt": "[얼빡직캠 4K] 아이들 민니 'Mono (Feat. skaiwater)' (i-dle MINNIE Facecam) @뮤직뱅크(Music Bank) 260206",
+  "title": "[얼빡직캠 4K] 아이들 민니 'Mono (Feat. skaiwater)' (i-dle MINNIE Facecam) @뮤직뱅크(Music Bank) 260206",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/m9o4oCjC7HI",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2026-02-06T18:40:11",
+  "duration": "00:03:23",
+  "thumbnail": "https://i.ytimg.com/vi/m9o4oCjC7HI/maxresdefault.jpg",
+  "alt": "[얼빡직캠 4K] 아이들 우기 'Mono (Feat. skaiwater)' (i-dle YUQI Facecam) @뮤직뱅크(Music Bank) 260206",
+  "title": "[얼빡직캠 4K] 아이들 우기 'Mono (Feat. skaiwater)' (i-dle YUQI Facecam) @뮤직뱅크(Music Bank) 260206",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/ZZKpPBBHkr8",
+  "category": "음악방송",
+  "member": "슈화",
+  "date": "2026-02-06T18:40:12",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/ZZKpPBBHkr8/maxresdefault.jpg",
+  "alt": "[얼빡직캠 4K] 아이들 슈화 'Mono (Feat. skaiwater)' (i-dle SHUHUA Facecam) @뮤직뱅크(Music Bank) 260206",
+  "title": "[얼빡직캠 4K] 아이들 슈화 'Mono (Feat. skaiwater)' (i-dle SHUHUA Facecam) @뮤직뱅크(Music Bank) 260206",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/DjHfNJ3Fs_U",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2026-02-07T19:32:50",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/DjHfNJ3Fs_U/maxresdefault.jpg",
+  "alt": "《쇼!음악중심》 i-dle (아이들) - Mono (feat. skaiwater) | Show! MusicCore | MBC260207방송",
+  "title": "《쇼!음악중심》 i-dle (아이들) - Mono (feat. skaiwater) | Show! MusicCore | MBC260207방송",
+  "subtag": "무대"
+},
+{
+  "link": "https://youtu.be/bu4x0QoApYQ",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2026-02-08T16:43:45",
+  "duration": "00:03:14",
+  "thumbnail": "https://i.ytimg.com/vi/bu4x0QoApYQ/maxresdefault.jpg",
+  "alt": "《인기가요》 Mono (feat. skaiwater) - i-dle (아이들) | SBS 260208 방송",
+  "title": "《인기가요》 Mono (feat. skaiwater) - i-dle (아이들) | SBS 260208 방송",
+  "subtag": "무대"
+},
+{
+  "link": "https://youtu.be/Q37mKlDDUig",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2026-02-08T16:43:46",
+  "duration": "00:03:05",
+  "thumbnail": "https://i.ytimg.com/vi/Q37mKlDDUig/maxresdefault.jpg",
+  "alt": "[안방1열 풀캠4K] 아이들 'Mono (feat. skaiwater)' (i-dle FullCam) @SBS Inkigayo 260208",
+  "title": "[안방1열 풀캠4K] 아이들 'Mono (feat. skaiwater)' (i-dle FullCam) @SBS Inkigayo 260208",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/0grLqmP1wV0",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2026-02-08T16:43:47",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/0grLqmP1wV0/maxresdefault.jpg",
+  "alt": "[안방1열 직캠4K] 아이들 미연 'Mono (feat. skaiwater)' (i-dle MIYEON FanCam) @SBS Inkigayo 260208",
+  "title": "[안방1열 직캠4K] 아이들 미연 'Mono (feat. skaiwater)' (i-dle MIYEON FanCam) @SBS Inkigayo 260208",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/cAxnKgHoRZI",
+  "category": "음악방송",
+  "member": "민니",
+  "date": "2026-02-08T16:43:48",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/cAxnKgHoRZI/maxresdefault.jpg",
+  "alt": "[안방1열 직캠4K] 아이들 민니 'Mono (feat. skaiwater)' (i-dle MINNIE FanCam) @SBS Inkigayo 260208",
+  "title": "[안방1열 직캠4K] 아이들 민니 'Mono (feat. skaiwater)' (i-dle MINNIE FanCam) @SBS Inkigayo 260208",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/tvWfYf619Og",
+  "category": "음악방송",
+  "member": "소연",
+  "date": "2026-02-08T16:43:49",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/tvWfYf619Og/maxresdefault.jpg",
+  "alt": "[안방1열 직캠4K] 아이들 소연 'Mono (feat. skaiwater)' (i-dle SOYEON FanCam) @SBS Inkigayo 260208",
+  "title": "[안방1열 직캠4K] 아이들 소연 'Mono (feat. skaiwater)' (i-dle SOYEON FanCam) @SBS Inkigayo 260208",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/OE_U9dWkIn0",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2026-02-08T16:43:50",
+  "duration": "00:03:12",
+  "thumbnail": "https://i.ytimg.com/vi/OE_U9dWkIn0/maxresdefault.jpg",
+  "alt": "[안방1열 직캠4K] 아이들 우기 'Mono (feat. skaiwater)' (i-dle YUQI FanCam) @SBS Inkigayo 260208",
+  "title": "[안방1열 직캠4K] 아이들 우기 'Mono (feat. skaiwater)' (i-dle YUQI FanCam) @SBS Inkigayo 260208",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/o-5tNQ7oXWs",
+  "category": "음악방송",
+  "member": "슈화",
+  "date": "2026-02-08T16:43:51",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/o-5tNQ7oXWs/maxresdefault.jpg",
+  "alt": "[안방1열 직캠4K] 아이들 슈화 'Mono (feat. skaiwater)' (i-dle SHUHUA FanCam) @SBS Inkigayo 260208",
+  "title": "[안방1열 직캠4K] 아이들 슈화 'Mono (feat. skaiwater)' (i-dle SHUHUA FanCam) @SBS Inkigayo 260208",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/AMVJHrftl0k",
+  "category": "음악방송",
+  "member": "미연",
+  "date": "2026-02-08T16:43:52",
+  "duration": "00:03:06",
+  "thumbnail": "https://i.ytimg.com/vi/AMVJHrftl0k/maxresdefault.jpg",
+  "alt": "[페이스캠4K] 아이들 미연 'Mono (feat. skaiwater)' (i-dle MIYEON FaceCam) @SBS Inkigayo 260208",
+  "title": "[페이스캠4K] 아이들 미연 'Mono (feat. skaiwater)' (i-dle MIYEON FaceCam) @SBS Inkigayo 260208",
+  "subtag": "직캠"
+},
+
+{
+  "link": "https://youtu.be/L5jDApu6h2s",
+  "category": "음악방송",
+  "member": "우기",
+  "date": "2026-02-08T16:43:53",
+  "duration": "00:03:17",
+  "thumbnail": "https://i.ytimg.com/vi/L5jDApu6h2s/maxresdefault.jpg",
+  "alt": "[페이스캠4K] 아이들 우기 'Mono (feat. skaiwater)' (i-dle YUQI FaceCam) @SBS Inkigayo 260208",
+  "title": "[페이스캠4K] 아이들 우기 'Mono (feat. skaiwater)' (i-dle YUQI FaceCam) @SBS Inkigayo 260208",
+  "subtag": "직캠"
+},
+{
+  "link": "https://youtu.be/G8zq-7Nya4w",
+  "category": "음악방송",
+  "member": "아이들",
+  "date": "2026-02-08T16:43:54",
+  "duration": "00:05:05",
+  "thumbnail": "https://i.ytimg.com/vi/G8zq-7Nya4w/maxresdefault.jpg",
+  "alt": "[앵콜캠4K] 아이들 'Mono (feat. skaiwater)' 인기가요 1위 앵콜 직캠 (i-dle Encore Fancam) @SBS Inkigayo 260208",
+  "title": "[앵콜캠4K] 아이들 'Mono (feat. skaiwater)' 인기가요 1위 앵콜 직캠 (i-dle Encore Fancam) @SBS Inkigayo 260208",
+  "subtag": "앵콜"
 }
+
+
+
+
 
 
 

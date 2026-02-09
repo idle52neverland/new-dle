@@ -18800,6 +18800,171 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/koJArX1juDU/maxresdefault.jpg",
   "alt": "Did CUBE make you guys do this?",
   "title": "Did CUBE make you guys do this?"
+},
+{
+  "link": "https://youtu.be/Tdc8Fgh4FS0",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2026-02-05T22:30:07",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/Tdc8Fgh4FS0/maxresdefault.jpg",
+  "alt": "@official_i_dle YUQI 님과 💗Really Like You💗 #BABYMONSTER #베이비몬스터 #AHYEON #아현",
+  "title": "@official_i_dle YUQI 님과 💗Really Like You💗 #BABYMONSTER #베이비몬스터 #AHYEON #아현"
+},
+
+{
+  "link": "https://youtu.be/ZyV2zauREo8",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2026-02-05T22:01:08",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/ZyV2zauREo8/maxresdefault.jpg",
+  "alt": "Okay, okay with @official_i_dle MINNIE 님 🫶 #BABYMONSTER #베이비몬스터 #PHARITA #파리타",
+  "title": "Okay, okay with @official_i_dle MINNIE 님 🫶 #BABYMONSTER #베이비몬스터 #PHARITA #파리타"
+},
+{
+  "link": "https://youtu.be/O1HnnhufMNU",
+  "category": "Shorts",
+  "member": "미연, 소연, 슈화",
+  "date": "2026-02-06T12:00:33",
+  "duration": "00:00:44",
+  "thumbnail": "https://i.ytimg.com/vi/O1HnnhufMNU/maxresdefault.jpg",
+  "alt": "👊👊 NG",
+  "title": "👊👊 NG"
+},
+{
+  "link": "https://youtu.be/He8BHQ8RYzQ",
+  "category": "Shorts",
+  "member": "미연, 민니, 슈화",
+  "date": "2026-02-06T13:00:13",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/He8BHQ8RYzQ/maxresdefault.jpg",
+  "alt": "뺏길 수 없어😙",
+  "title": "뺏길 수 없어😙"
+},
+{
+  "link": "https://youtu.be/feS2l9LSJdY",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2026-02-06T19:20:00",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/feS2l9LSJdY/maxresdefault.jpg",
+  "alt": "민니야 우리 1위했어🏆 네버버💜고마워",
+  "title": "민니야 우리 1위했어🏆 네버버💜고마워"
+},
+{
+  "link": "https://youtu.be/E7ktOzq5qFs",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2026-02-06T20:00:33",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/E7ktOzq5qFs/maxresdefault.jpg",
+  "alt": "𝙄 𝙩𝙝𝙞𝙣𝙠 𝙞𝙩'𝙨 𝙞𝙢𝙥𝙤𝙧𝙩𝙖𝙣𝙩 𝙩𝙤 𝙟𝙪𝙨𝙩 𝙗𝙚 𝙮𝙤𝙪𝙧𝙨𝙚𝙡𝙛 👖",
+  "title": "𝙄 𝙩𝙝𝙞𝙣𝙠 𝙞𝙩'𝙨 𝙞𝙢𝙥𝙤𝙧𝙩𝙖𝙣𝙩 𝙩𝙤 𝙟𝙪𝙨𝙩 𝙗𝙚 𝙮𝙤𝙪𝙧𝙨𝙚𝙡𝙛 👖"
+},
+{
+  "link": "https://youtu.be/d-nVhBbIz7g",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2026-02-06T21:01:17",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/d-nVhBbIz7g/maxresdefault.jpg",
+  "alt": "🤵‍♀️👩‍🍳🐼🐶👻",
+  "title": "🤵‍♀️👩‍🍳🐼🐶👻"
+},
+
+{
+  "link": "https://youtu.be/DSTWXb54j_0",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2026-02-06T21:30:18",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/DSTWXb54j_0/maxresdefault.jpg",
+  "alt": "조려보자 앙!😼🐾",
+  "title": "조려보자 앙!😼🐾"
+},
+
+{
+  "link": "https://youtu.be/Vg2FrHHRYas",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2026-02-06T22:00:54",
+  "duration": "00:00:11",
+  "thumbnail": "https://i.ytimg.com/vi/Vg2FrHHRYas/maxresdefault.jpg",
+  "alt": "우기! 산책갈까?!🐶",
+  "title": "우기! 산책갈까?!🐶"
+},
+{
+  "link": "https://youtu.be/JxbwANE8rXg",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2026-02-07T12:00:18",
+  "duration": "00:00:09",
+  "thumbnail": "https://i.ytimg.com/vi/JxbwANE8rXg/maxresdefault.jpg",
+  "alt": "👑 Get out of my way 👑",
+  "title": "👑 Get out of my way 👑"
+},
+{
+  "link": "https://youtu.be/OZOxQh7aTzo",
+  "category": "Shorts",
+  "member": "소연, 슈화",
+  "date": "2026-02-07T19:00:28",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/OZOxQh7aTzo/maxresdefault.jpg",
+  "alt": "리막즈 Mono hand sign🙌",
+  "title": "리막즈 Mono hand sign🙌"
+},
+{
+  "link": "https://youtu.be/UMNjB17zna8",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2026-02-07T20:00:45",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/UMNjB17zna8/maxresdefault.jpg",
+  "alt": "오늘도 고맙고 사랑해 💜 Mono Flower Hug💐",
+  "title": "오늘도 고맙고 사랑해 💜 Mono Flower Hug💐"
+},
+{
+  "link": "https://youtu.be/3WHuhGKuFU0",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2026-02-08T12:00:03",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/3WHuhGKuFU0/maxresdefault.jpg",
+  "alt": "Play the whole world in #Mono with  #BUS #ALANpasawee #NEXnattakit #JUNGT @bus.becauseofyouishine",
+  "title": "Play the whole world in #Mono with  #BUS #ALANpasawee #NEXnattakit #JUNGT @bus.becauseofyouishine"
+},
+
+{
+  "link": "https://youtu.be/9n0yH5l1qqw",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2026-02-08T17:00:09",
+  "duration": "00:00:36",
+  "thumbnail": "https://i.ytimg.com/vi/9n0yH5l1qqw/maxresdefault.jpg",
+  "alt": "네버버 덕분에 행복했던 Mono 막방까지🖤🤍",
+  "title": "네버버 덕분에 행복했던 Mono 막방까지🖤🤍"
+},
+
+{
+  "link": "https://youtu.be/Tzg4zaFI2CA",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2026-02-08T18:00:39",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/Tzg4zaFI2CA/maxresdefault.jpg",
+  "alt": "Fiction Rewind 🤍🖤",
+  "title": "Fiction Rewind 🤍🖤"
+},
+{
+  "link": "https://youtu.be/jX4u2fnRz3s",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2026-02-09T18:01:05",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/jX4u2fnRz3s/maxresdefault.jpg",
+  "alt": "하루 종일 네버버 생각 뿐이야💛",
+  "title": "하루 종일 네버버 생각 뿐이야💛"
 }
 
 

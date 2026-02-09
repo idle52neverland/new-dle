@@ -6590,17 +6590,6 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/du28NxB0SGo",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2025-05-31T23:49:39",
-  "duration": "00:24:04",
-  "thumbnail": "https://i.ytimg.com/vi/du28NxB0SGo/sddefault.jpg",
-  "alt": "[FULL] i-dle's Most Unfiltered & Unstoppable Spotify House Party | K-Pop ON Video Podcast",
-  "title": "[FULL] i-dle's Most Unfiltered & Unstoppable Spotify House Party | K-Pop ON Video Podcast"
-},
-
-{
   "link": "https://youtu.be/BVbKS6fJQOU",
   "category": "출연콘텐츠",
   "member": "미연",

@@ -3584,7 +3584,16 @@ const 노래클립Cards = [
   "alt": "홍이삭(Isaac Hong)&미연(MIYEON)의 목소리로 전하는 달달 로맨스💞 '사랑인가 봐'♬｜비긴어게인 오픈마이크",
   "title": "홍이삭(Isaac Hong)&미연(MIYEON)의 목소리로 전하는 달달 로맨스💞 '사랑인가 봐'♬｜비긴어게인 오픈마이크"
 },
-
+{
+  "link": "https://youtu.be/CWfap7cmKmk",
+  "category": "노래클립",
+  "member": "미연",
+  "date": "2025-12-08T18:00:47",
+  "duration": "00:03:08",
+  "thumbnail": "https://i.ytimg.com/vi/CWfap7cmKmk/maxresdefault.jpg",
+  "alt": "[포커스캠] 홍이삭·미연 포커스캠 (Isaac Hong·MIYEON fancam) ♬ '사랑인가 봐' | 비긴어게인 오픈마이크",
+  "title": "[포커스캠] 홍이삭·미연 포커스캠 (Isaac Hong·MIYEON fancam) ♬ '사랑인가 봐' | 비긴어게인 오픈마이크"
+},
 {
   "link": "https://youtu.be/x5XvD5VgjSE",
   "category": "노래클립",
