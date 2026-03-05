@@ -283,8 +283,33 @@ function renderCards(reset = false) {
       `;
 
       card.addEventListener("click", () => {
-        if (item.link) window.open(item.link, "_blank");
-      });
+  if (item.link) {
+    // 1. 베리즈 링크인지 확인
+    if (item.link.includes('berriz.in')) {
+      const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+      
+      // 2. 미디어 ID 추출 (주소에서 고유 값만 따오기)
+      // 기존 앱 링크와 웹 표준 주소 모두에서 ID를 추출할 수 있도록 정규식 적용
+      const idMatch = item.link.match(/replay\/([a-zA-Z0-9-]+)/);
+      const mediaId = idMatch ? idMatch[1] : "";
+      const artistId = "i-dle"; // 아티스트 ID 설정
+
+      if (mediaId) {
+        if (isMobile) {
+          // 모바일이면 앱 링크로 연결
+          window.open(`https://link.berriz.in/app/main/${artistId}/live/replay/${mediaId}`, "_blank");
+        } else {
+          // PC면 웹 표준 주소로 연결 (로그인 유지용)
+          window.open(`https://berriz.in/en/${artistId}/live/replay/${mediaId}/`, "_blank");
+        }
+        return; // 처리를 마쳤으므로 아래 기본 open은 실행하지 않음
+      }
+    }
+    
+    // 베리즈가 아니거나 ID 추출 실패 시 기존 방식대로 이동
+    window.open(item.link, "_blank");
+  }
+});
     }
 
     allCardsContainer.appendChild(card);
