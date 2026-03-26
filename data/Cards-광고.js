@@ -122,124 +122,14 @@ const 광고Cards = [
 },
 
 {
-  "link": "https://youtu.be/WjhlsIiYE3w",
-  "category": "광고",
-  "member": "아이들",
-  "date": "2020-03-03T14:15:23",
-  "duration": "00:01:50",
-  "thumbnail": "https://i.ytimg.com/vi/WjhlsIiYE3w/sddefault.jpg",
-  "alt": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM FULL.ver",
-  "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM FULL.ver"
-},
-
-{
-  "link": "https://youtu.be/OO302DhvEBk",
-  "category": "광고",
-  "member": "아이들",
-  "date": "2020-03-05T16:55:19",
-  "duration": "00:00:21",
-  "thumbnail": "https://i.ytimg.com/vi/OO302DhvEBk/sddefault.jpg",
-  "alt": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM ver.2",
-  "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM ver.2"
-},
-
-{
-  "link": "https://youtu.be/Dq0P_nHGbR8",
-  "category": "광고",
-  "member": "아이들",
-  "date": "2020-03-17T13:10:17",
-  "duration": "00:00:34",
-  "thumbnail": "https://i.ytimg.com/vi/Dq0P_nHGbR8/sddefault.jpg",
-  "alt": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM  ver.3",
-  "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM  ver.3"
-},
-
-{
-  "link": "https://youtu.be/i5T_CLGdA7U",
-  "category": "광고",
-  "member": "아이들",
-  "date": "2020-06-03T13:56:30",
-  "duration": "00:01:13",
-  "thumbnail": "https://i.ytimg.com/vi/i5T_CLGdA7U/sddefault.jpg",
-  "alt": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 SUMMER LOOKBOOK BRAND FILM FULL.ver",
-  "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 SUMMER LOOKBOOK BRAND FILM FULL.ver"
-},
-
-{
-  "link": "https://youtu.be/i5T_CLGdA7U",
-  "category": "광고",
-  "member": "아이들",
-  "date": "2020-06-03T13:56:30",
-  "duration": "00:01:13",
-  "thumbnail": "https://i.ytimg.com/vi/i5T_CLGdA7U/maxresdefault.jpg",
-  "alt": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 SUMMER LOOKBOOK BRAND FILM FULL.ver",
-  "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 SUMMER LOOKBOOK BRAND FILM FULL.ver"
-},
-
-{
-  "link": "https://youtu.be/65JVSCqUeCg",
-  "category": "광고",
-  "member": "아이들",
-  "date": "2020-06-16T18:05:48",
-  "duration": "00:00:29",
-  "thumbnail": "https://i.ytimg.com/vi/65JVSCqUeCg/maxresdefault.jpg",
-  "alt": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK BRAND FILM ver.2",
-  "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK BRAND FILM ver.2"
-},
-
-{
-  "link": "https://youtu.be/zLEd-ZGQR0w",
-  "category": "광고",
-  "member": "아이들",
-  "date": "2020-09-29T17:56:57",
-  "duration": "00:01:36",
-  "thumbnail": "https://i.ytimg.com/vi/zLEd-ZGQR0w/hqdefault.jpg",
-  "alt": "아키클래식 X (여자)아이들 (G)I-DLE 이번 가을 겨울은 컬러지!",
-  "title": "아키클래식 X (여자)아이들 (G)I-DLE 이번 가을 겨울은 컬러지!"
-},
-
-{
-  "link": "https://youtu.be/mUBHyck-lzs",
-  "category": "광고",
-  "member": "아이들",
-  "date": "2020-10-08T17:54:24",
-  "duration": "00:00:23",
-  "thumbnail": "https://i.ytimg.com/vi/mUBHyck-lzs/maxresdefault.jpg",
-  "alt": "아키클래식 X (여자)아이들 'ALL DAY AKIII'",
-  "title": "아키클래식 X (여자)아이들 'ALL DAY AKIII'"
-},
-
-{
-  "link": "https://youtu.be/kz5-_M3dMqA",
-  "category": "광고",
-  "member": "아이들",
-  "date": "2020-11-12T11:29:20",
-  "duration": "00:00:33",
-  "thumbnail": "https://i.ytimg.com/vi/kz5-_M3dMqA/sddefault.jpg",
-  "alt": "[메이킹필름] 20FW 아키클래식 X (여자)아이들 '컬러로 취향저격",
-  "title": "[메이킹필름] 20FW 아키클래식 X (여자)아이들 '컬러로 취향저격"
-},
-
-{
-  "link": "https://youtu.be/IfG4ThS55Wc",
-  "category": "광고",
-  "member": "아이들",
-  "date": "2021-01-21T15:00:02",
-  "duration": "00:01:00",
-  "thumbnail": "https://i.ytimg.com/vi/IfG4ThS55Wc/maxresdefault.jpg",
-  "alt": "(여자)아이들 1분순삭 될 준비 된 사람?✨ (G)I-DLE X AKIII CLASSIC Who is ready to be in one minute?✨",
-  "title": "(여자)아이들 1분순삭 될 준비 된 사람?✨ (G)I-DLE X AKIII CLASSIC Who is ready to be in one minute?✨"
-},
-
-{
   "link": "https://youtu.be/9iKRkGeDo1E",
   "category": "광고",
   "member": "우기",
-  "date": "2021-05-09T22:22:47",
+  "date": "2021-05-08T22:22:47",
   "duration": "00:00:23",
   "thumbnail": "https://i.ytimg.com/vi/9iKRkGeDo1E/maxresdefault.jpg",
-  "alt": "210508 Kiehls Weibo With Yuqi",
-  "title": "210508 Kiehls Weibo With Yuqi"
+  "alt": "▫️Kiehls Weibo With Yuqi",
+  "title": "▫️Kiehls Weibo With Yuqi"
 },
 
 {
@@ -416,17 +306,6 @@ const 광고Cards = [
   "thumbnail": "https://i.ytimg.com/vi/cLqIxOMNI5o/maxresdefault.jpg",
   "alt": "ห้ามพลาด! เว็บตูน 3 เรื่องดังที่ MINNIE อ่าน",
   "title": "ห้ามพลาด! เว็บตูน 3 เรื่องดังที่ MINNIE อ่าน"
-},
-
-{
-  "link": "https://youtu.be/n9oti9orTuM",
-  "category": "광고",
-  "member": "소연",
-  "date": "2022-07-21T18:00:18",
-  "duration": "00:01:29",
-  "thumbnail": "https://i.ytimg.com/vi/n9oti9orTuM/sddefault.jpg",
-  "alt": "[쉐이크쉑 X 전소연] 아따 맛있다(Ah-dda, It's delicious)(Shake Shack Korea) MV",
-  "title": "[쉐이크쉑 X 전소연] 아따 맛있다(Ah-dda, It's delicious)(Shake Shack Korea) MV"
 },
 
 {
@@ -1230,7 +1109,363 @@ const 광고Cards = [
   "thumbnail": "https://i.ytimg.com/vi/NRoTPe55kGQ/maxresdefault.jpg",
   "alt": "來桃園，舒華的家鄉｜桃園觀光形象影片",
   "title": "來桃園，舒華的家鄉｜桃園觀光形象影片 | 타오위안 홍보대사"
+},
+{
+  "link": "https://youtu.be/aKg0gs---vc",
+  "category": "광고",
+  "member": "우기",
+  "date": "2020-10-05T17:48:03",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/aKg0gs---vc/maxresdefault.jpg",
+  "alt": "아키클래식 X (여자)아이들 (G)I-DLE 우기는 보라 패딩~ 촬영도 생기발랄하게!",
+  "title": "아키클래식 X (여자)아이들 (G)I-DLE 우기는 보라 패딩~ 촬영도 생기발랄하게! | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/v-vawM46n3Y",
+  "category": "광고",
+  "member": "소연",
+  "date": "2020-10-05T17:10:48",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/v-vawM46n3Y/maxresdefault.jpg",
+  "alt": "아키클래식 X (여자)아이들 (G)I-DLE 소연은 보라? 이번엔 오렌지 취향저격!!",
+  "title": "아키클래식 X (여자)아이들 (G)I-DLE 소연은 보라? 이번엔 오렌지 취향저격!! | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/g0IXqYilYjs",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2020-10-05T15:20:58",
+  "duration": "00:00:41",
+  "thumbnail": "https://i.ytimg.com/vi/g0IXqYilYjs/maxresdefault.jpg",
+  "alt": "아키클래식 X (여자)아이들 (G)I-DLE 패딩댄스 최소 20번 돌려보는 영상!",
+  "title": "아키클래식 X (여자)아이들 (G)I-DLE 패딩댄스 최소 20번 돌려보는 영상! | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/zLEd-ZGQR0w",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2020-09-29T17:56:57",
+  "duration": "00:01:36",
+  "thumbnail": "https://i.ytimg.com/vi/zLEd-ZGQR0w/hqdefault.jpg",
+  "alt": "아키클래식 X (여자)아이들 (G)I-DLE 이번 가을 겨울은 컬러지!",
+  "title": "아키클래식 X (여자)아이들 (G)I-DLE 이번 가을 겨울은 컬러지! | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/BUGFZofhjmQ",
+  "category": "광고",
+  "member": "미연",
+  "date": "2020-06-25T11:18:02",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/BUGFZofhjmQ/maxresdefault.jpg",
+  "alt": "아키클래식 래쉬가드 미연 ver. / AKIIICLASSIC Rash guard miyeon ver.",
+  "title": "아키클래식 래쉬가드 미연 ver. / AKIIICLASSIC Rash guard miyeon ver. | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/pO9QDfR4KWU",
+  "category": "광고",
+  "member": "민니",
+  "date": "2020-06-25T11:15:06",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/pO9QDfR4KWU/maxresdefault.jpg",
+  "alt": "아키클래식 래쉬가드 민니 ver. / AKIIICLASSIC Rash guard minnie ver.",
+  "title": "아키클래식 래쉬가드 민니 ver. / AKIIICLASSIC Rash guard minnie ver. | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/eNkEJyKVIvg",
+  "category": "광고",
+  "member": "우기",
+  "date": "2020-06-25T11:13:01",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/eNkEJyKVIvg/maxresdefault.jpg",
+  "alt": "아키클래식 래쉬가드 우기 ver. / AKIIICLASSIC Rash guard yuqi ver.",
+  "title": "아키클래식 래쉬가드 우기 ver. / AKIIICLASSIC Rash guard yuqi ver. | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/fC_mmdzEpPA",
+  "category": "광고",
+  "member": "슈화",
+  "date": "2020-06-25T11:10:34",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/fC_mmdzEpPA/maxresdefault.jpg",
+  "alt": "아키클래식 래쉬가드 슈화 ver. / AKIIICLASSIC Rash guard SHUHUA ver.",
+  "title": "아키클래식 래쉬가드 슈화 ver. / AKIIICLASSIC Rash guard SHUHUA ver. | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/7iRfdELelnI",
+  "category": "광고",
+  "member": "소연",
+  "date": "2020-06-25T11:05:26",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/7iRfdELelnI/maxresdefault.jpg",
+  "alt": "아키클래식 래쉬가드 소연 ver. / AKIIICLASSIC Rash guard So-Yeon ver.",
+  "title": "아키클래식 래쉬가드 소연 ver. / AKIIICLASSIC Rash guard So-Yeon ver. | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/65JVSCqUeCg",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2020-06-16T18:05:48",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/65JVSCqUeCg/maxresdefault.jpg",
+  "alt": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK BRAND FILM ver.2",
+  "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK BRAND FILM ver.2 | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/sXX1Qu6kMTI",
+  "category": "광고",
+  "member": "우기",
+  "date": "2020-06-08T17:24:04",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/sXX1Qu6kMTI/maxresdefault.jpg",
+  "alt": "아키클래식 샌들 우기의 픽 퀵 슬라이드/ Sandal QUICK-SLIDE, picked by yuqi , an exclusive model of the AKIII CLASSIC.",
+  "title": "아키클래식 샌들 우기의 픽 퀵 슬라이드/ Sandal QUICK-SLIDE, picked by yuqi , an exclusive model of the AKIII CLASSIC. | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/fxWrMNZ8VQU",
+  "category": "광고",
+  "member": "민니",
+  "date": "2020-06-08T16:58:02",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/fxWrMNZ8VQU/maxresdefault.jpg",
+  "alt": "아키클래식 샌들 민니의 픽 보고타 / Sandal BOGOTA, picked by MINNIE, an exclusive model of the AKIII CLASSIC.",
+  "title": "아키클래식 샌들 민니의 픽 보고타 / Sandal BOGOTA, picked by MINNIE, an exclusive model of the AKIII CLASSIC. | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/MSSWLWRfp_w",
+  "category": "광고",
+  "member": "미연",
+  "date": "2020-06-08T16:53:10",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/MSSWLWRfp_w/maxresdefault.jpg",
+  "alt": "아키클래식 샌들 미연의 픽 크루즈 / Sandal CRUISE, picked by Mi-Yeon, an exclusive model of the AKIII CLASSIC.",
+  "title": "아키클래식 샌들 미연의 픽 크루즈 / Sandal CRUISE, picked by Mi-Yeon, an exclusive model of the AKIII CLASSIC. | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/3--VFLvepME",
+  "category": "광고",
+  "member": "슈화",
+  "date": "2020-06-08T16:56:09",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/3--VFLvepME/maxresdefault.jpg",
+  "alt": "아키클래식 샌들 퀴즈이벤트 슈화의 픽 아테네 /Sandal ATHENE, picked by SHUHUA, an exclusive model of the AKIII CLASSIC..",
+  "title": "아키클래식 샌들 퀴즈이벤트 슈화의 픽 아테네 /Sandal ATHENE, picked by SHUHUA, an exclusive model of the AKIII CLASSIC.. | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/LJ31UMUB-zU",
+  "category": "광고",
+  "member": "소연",
+  "date": "2020-06-08T16:20:11",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/LJ31UMUB-zU/maxresdefault.jpg",
+  "alt": "아키클래식 샌들 퀴즈이벤트 소연의 픽 베가스 / Sandal VEGAS, picked by So-Yeon, an exclusive model of the AKIII CLASSIC.",
+  "title": "아키클래식 샌들 퀴즈이벤트 소연의 픽 베가스 / Sandal VEGAS, picked by So-Yeon, an exclusive model of the AKIII CLASSIC. | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/uxePXv83IYo",
+  "category": "광고",
+  "member": "소연",
+  "date": "2020-06-04T13:22:44",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/uxePXv83IYo/maxresdefault.jpg",
+  "alt": "아키클래식 퀴즈이벤트 소연의 픽 힌트",
+  "title": "아키클래식 퀴즈이벤트 소연의 픽 힌트 | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/i5T_CLGdA7U",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2020-06-03T13:56:30",
+  "duration": "00:01:13",
+  "thumbnail": "https://i.ytimg.com/vi/i5T_CLGdA7U/maxresdefault.jpg",
+  "alt": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 SUMMER LOOKBOOK BRAND FILM FULL.ver",
+  "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 SUMMER LOOKBOOK BRAND FILM FULL.ver | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/Dq0P_nHGbR8",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2020-03-17T13:10:17",
+  "duration": "00:00:34",
+  "thumbnail": "https://i.ytimg.com/vi/Dq0P_nHGbR8/maxresdefault.jpg",
+  "alt": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM  ver.3",
+  "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM  ver.3 | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/OO302DhvEBk",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2020-03-05T16:55:19",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/OO302DhvEBk/maxresdefault.jpg",
+  "alt": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM ver.2",
+  "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM ver.2 | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/WjhlsIiYE3w",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2020-03-03T14:15:23",
+  "duration": "00:01:50",
+  "thumbnail": "https://i.ytimg.com/vi/WjhlsIiYE3w/maxresdefault.jpg",
+  "alt": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM FULL.ver",
+  "title": "AKIIICLASSIC X (G)I-DLE / 아키클래식 X (여자)아이들 2020 S/S LOOKBOOK MAKING FILM FULL.ver | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/a9qzONj6hn0",
+  "category": "광고",
+  "member": "슈화",
+  "date": "2020-10-06T17:02:20",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/a9qzONj6hn0/maxresdefault.jpg",
+  "alt": "아키클래식 X (여자)아이들 (G)I-DLE 패션여자 슈화 인증 이번 신상도 예뻐요~ 미쳤어요",
+  "title": "아키클래식 X (여자)아이들 (G)I-DLE 패션여자 슈화 인증 이번 신상도 예뻐요~ 미쳤어요 | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/cW31GzmcvFY",
+  "category": "광고",
+  "member": "민니",
+  "date": "2020-10-07T17:48:45",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/cW31GzmcvFY/maxresdefault.jpg",
+  "alt": "아키클래식 X (여자)아이들 (G)I-DLE 민니 헤어 컬러하고 플리스색을 함께 보자!",
+  "title": "아키클래식 X (여자)아이들 (G)I-DLE 민니 헤어 컬러하고 플리스색을 함께 보자! | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/mUBHyck-lzs",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2020-10-08T17:54:24",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/mUBHyck-lzs/maxresdefault.jpg",
+  "alt": "아키클래식 X (여자)아이들 'ALL DAY AKIII'",
+  "title": "아키클래식 X (여자)아이들 'ALL DAY AKIII' | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/kz5-_M3dMqA",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2020-11-12T11:29:20",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/kz5-_M3dMqA/maxresdefault.jpg",
+  "alt": "[메이킹필름] 20FW 아키클래식 X (여자)아이들 '컬러로 취향저격'",
+  "title": "[메이킹필름] 20FW 아키클래식 X (여자)아이들 '컬러로 취향저격' | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/Q52cUK1cuaU",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2021-01-18T15:00:03",
+  "duration": "00:00:49",
+  "thumbnail": "https://i.ytimg.com/vi/Q52cUK1cuaU/maxresdefault.jpg",
+  "alt": "(여자)아이들 (G)I-DLE 컴백기념 타이틀곡 릴레이댄스로 복습📝",
+  "title": "(여자)아이들 (G)I-DLE 컴백기념 타이틀곡 릴레이댄스로 복습📝 | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/IfG4ThS55Wc",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2021-01-21T15:00:02",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/IfG4ThS55Wc/maxresdefault.jpg",
+  "alt": "(여자)아이들 1분순삭 될 준비 된 사람?✨ (G)I-DLE X AKIII CLASSIC Who is ready to be in one minute?✨",
+  "title": "(여자)아이들 1분순삭 될 준비 된 사람?✨ (G)I-DLE X AKIII CLASSIC Who is ready to be in one minute?✨ | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/tHE5pOyDfVs",
+  "category": "광고",
+  "member": "아이들",
+  "date": "2021-01-25T15:00:07",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/tHE5pOyDfVs/maxresdefault.jpg",
+  "alt": "아키클래식 X (여자)아이들  21SS_MAIKNG FILM / Akiii classic X (G)-IDLE 21SS_MAIKNG FILM",
+  "title": "아키클래식 X (여자)아이들  21SS_MAIKNG FILM / Akiii classic X (G)-IDLE 21SS_MAIKNG FILM | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/h5AflSlHK_8",
+  "category": "광고",
+  "member": "슈화",
+  "date": "2021-01-27T16:00:08",
+  "duration": "00:00:47",
+  "thumbnail": "https://i.ytimg.com/vi/h5AflSlHK_8/maxresdefault.jpg",
+  "alt": "(G)I-DLE (여자)아이들 슈화의 Q&A, 슈화가 하고 싶은 커플템은⁉💜 SHUHUA's Q&A, which couple item is SHUHUA's choice?",
+  "title": "(G)I-DLE (여자)아이들 슈화의 Q&A, 슈화가 하고 싶은 커플템은⁉💜 SHUHUA's Q&A, which couple item is SHUHUA's choice? | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/4fzUWeKNRok",
+  "category": "광고",
+  "member": "소연",
+  "date": "2021-01-28T15:07:52",
+  "duration": "00:00:52",
+  "thumbnail": "https://i.ytimg.com/vi/4fzUWeKNRok/maxresdefault.jpg",
+  "alt": "(G)I-DLE (여자)아이들 소연의 최애템 스타일링 법💯 (G)I-DLE Soyeon's favorite item, Styling method.💯",
+  "title": "(G)I-DLE (여자)아이들 소연의 최애템 스타일링 법💯 (G)I-DLE Soyeon's favorite item, Styling method.💯 | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/yzxToNDc6P4",
+  "category": "광고",
+  "member": "민니",
+  "date": "2021-01-29T15:00:08",
+  "duration": "00:00:47",
+  "thumbnail": "https://i.ytimg.com/vi/yzxToNDc6P4/maxresdefault.jpg",
+  "alt": "(G)I-DLE (여자)아이들 민니의 마음을 빼앗은 한 가지는 무엇⁉ (G)I-DLE, What's the one thing that stole Minnie's heart⁉",
+  "title": "(G)I-DLE (여자)아이들 민니의 마음을 빼앗은 한 가지는 무엇⁉ (G)I-DLE, What's the one thing that stole Minnie's heart⁉ | AKIII CLASSIC 아키클래식"
+},
+
+{
+  "link": "https://youtu.be/2km9SUP9g1w",
+  "category": "광고",
+  "member": "미연",
+  "date": "2021-02-02T16:20:08",
+  "duration": "00:00:47",
+  "thumbnail": "https://i.ytimg.com/vi/2km9SUP9g1w/maxresdefault.jpg",
+  "alt": "(G)I-DLE (여자)아이들 미연이는 네버랜드가 빨리 만나고 싶어😊 Miyeon wants to meet Neverland soon!😊",
+  "title": "(G)I-DLE (여자)아이들 미연이는 네버랜드가 빨리 만나고 싶어😊 Miyeon wants to meet Neverland soon!😊 | AKIII CLASSIC 아키클래식"
+},
+{
+  "link": "https://youtu.be/hP1b71xLeCk",
+  "category": "광고",
+  "member": "미연",
+  "date": "2026-03-13T15:36:50",
+  "duration": "00:53:28",
+  "thumbnail": "https://i.ytimg.com/vi/hP1b71xLeCk/maxresdefault.jpg",
+  "alt": "i-dle 曺薇娟現身台北 A11！植村秀 NO.1 底妝快閃店全紀錄",
+  "title": "i-dle 曺薇娟現身台北 A11！植村秀 NO.1 底妝快閃店全紀錄"
 }
+
+
+
+
+
+
 
 
 ];

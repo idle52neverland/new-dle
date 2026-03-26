@@ -40,14 +40,36 @@ const 라디오오디오쇼Cards = [
   "link": "https://naver.me/xR22F96t",
   "category": "라디오오디오쇼",
   "member": "아이들",
-  "date": "2020-04-08T18:00:00",
+  "date": "2020-04-08T19:00:00",
   "duration": "01:06:31",
   "thumbnail": "https://phinf.pstatic.net/tvcast/20220721_136/GXGvj_1658394173634RGqli_JPEG/50f9449b-08cb-11ed-b77c-48df379cca40_03.jpg?type=now720b",
-  "alt": "아이들이랑 같이 쓰자 헤이즈 일기",
-  "title": "아이들이랑 같이 쓰자 헤이즈 일기",
-  "subtag": "오디오"
+  "alt": "아이들이랑 같이 쓰자 헤이즈 일기 | 네이버 NOW (오디오쇼)",
+  "title": "아이들이랑 같이 쓰자 헤이즈 일기 | 네이버 NOW (오디오쇼)",
+  "subtag": "네이버NOW"
+},
+{
+  "link": "https://youtu.be/oQ_Y1IWH1FI",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2020-04-08T19:00:01",
+  "duration": "00:07:44",
+  "thumbnail": "https://i.ytimg.com/vi/oQ_Y1IWH1FI/maxresdefault.jpg",
+  "alt": "[Bonus Clip] 헤이즈일기 - 여자아이들과 함께한 귀염터지는 대화모음집 。",
+  "title": "[Bonus Clip] 헤이즈일기 - 여자아이들과 함께한 귀염터지는 대화모음집 。",
+  "subtag": "네이버NOW"
 },
 
+{
+  "link": "https://youtu.be/fJH7OdfMDEM",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2020-04-08T19:00:02",
+  "duration": "00:05:38",
+  "thumbnail": "https://i.ytimg.com/vi/fJH7OdfMDEM/maxresdefault.jpg",
+  "alt": "[Bonus Clip] 헤이즈일기 - 여자아이들 과 함께 쓰는 일기 。",
+  "title": "[Bonus Clip] 헤이즈일기 - 여자아이들 과 함께 쓰는 일기 。",
+  "subtag": "네이버NOW"
+},
 {
   "link": "https://youtu.be/rclhcbOIcHc",
   "category": "라디오오디오쇼",
@@ -83,7 +105,28 @@ const 라디오오디오쇼Cards = [
   "title": "[박소현의 러브게임] 🌟에라오 단독공개🌟(여자)아이들((G)I-DLE) 수진(Soojin), 소연(Soyeon) | K-pop special",
   "subtag": "라디오"
 },
-
+{
+  "link": "https://youtu.be/rdAQnfkpgRI",
+  "category": "라디오오디오쇼",
+  "member": "미연",
+  "date": "2020-04-28T09:43:04",
+  "duration": "01:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/rdAQnfkpgRI/hqdefault.jpg",
+  "alt": "[어벤걸스] Oh my god (여자)아이들 미연이 쟤벤걸스에 놀러와쏘 (Audio) | 네이버 NOW 。",
+  "title": "[어벤걸스] Oh my god (여자)아이들 미연이 쟤벤걸스에 놀러와쏘 (Audio) | 네이버 NOW 。",
+  "subtag": "네이버NOW"
+},
+{
+  "link": "https://youtu.be/_K2tE0NjHLc",
+  "category": "라디오오디오쇼",
+  "member": "미연",
+  "date": "2020-04-28T09:43:05",
+  "duration": "00:17:54",
+  "thumbnail": "https://i.ytimg.com/vi/_K2tE0NjHLc/maxresdefault.jpg",
+  "alt": "[어벤걸스] Oh my god (여자)아이들 미연이 쟤벤걸스에 놀러와쏘 (하이라이트) | 네이버 NOW 。",
+  "title": "[어벤걸스] Oh my god (여자)아이들 미연이 쟤벤걸스에 놀러와쏘 (하이라이트) | 네이버 NOW 。",
+  "subtag": "네이버NOW"
+},
 {
   "link": "https://youtu.be/7l2FpaYWP4Q",
   "category": "라디오오디오쇼",
@@ -95,7 +138,17 @@ const 라디오오디오쇼Cards = [
   "title": "[박소현의 러브게임][4K]🌟에라오 단독공개🌟 금주의 인기가요 톱텐 | (여자)아이들((G)I-DLE) 소연,우기 | The K-pop Stars Radio",
   "subtag": "라디오"
 },
-
+{
+  "link": "https://youtu.be/RvgNO2r-gsw",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2020-08-17T13:34:24",
+  "duration": "01:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/RvgNO2r-gsw/maxresdefault.jpg",
+  "alt": "하성운의 심야아이돌 (Voice Only) | 네이버 NOW。",
+  "title": "하성운의 심야아이돌 (Voice Only) | 네이버 NOW。",
+  "subtag": "네이버NOW"
+},
 {
   "link": "https://youtu.be/-nuwY7zCK-k",
   "category": "라디오오디오쇼",
@@ -115,8 +168,8 @@ const 라디오오디오쇼Cards = [
   "date": "2021-01-05T14:08:48",
   "duration": "01:13:44",
   "thumbnail": "https://i.ytimg.com/vi/70wjr0SDDGg/hqdefault.jpg",
-  "alt": "[소문의 아이들 3부작 컴백 프로젝트] EP.1 - 너네 소문 들었어? 여자아이들이 NOW에 왔대!▫️",
-  "title": "[소문의 아이들 3부작 컴백 프로젝트] EP.1 - 너네 소문 들었어? 여자아이들이 NOW에 왔대!▫️",
+  "alt": "[소문의 아이들 3부작 컴백 프로젝트] EP.1 - 너네 소문 들었어? 여자아이들이 NOW에 왔대! 。",
+  "title": "[소문의 아이들 3부작 컴백 프로젝트] EP.1 - 너네 소문 들었어? 여자아이들이 NOW에 왔대! 。",
   "subtag": "네이버NOW"
 },
 
@@ -127,8 +180,8 @@ const 라디오오디오쇼Cards = [
   "date": "2021-01-12T14:10:33",
   "duration": "01:27:36",
   "thumbnail": "https://i.ytimg.com/vi/QVYvU8oBza0/maxresdefault.jpg",
-  "alt": "[소문의 아이들 3부작 컴백 프로젝트] EP.2 - 너네 소문 들었지 여자아이들의 컴백 PARTY NOW▫️",
-  "title": "[소문의 아이들 3부작 컴백 프로젝트] EP.2 - 너네 소문 들었지 여자아이들의 컴백 PARTY NOW▫️",
+  "alt": "[소문의 아이들 3부작 컴백 프로젝트] EP.2 - 너네 소문 들었지 여자아이들의 컴백 PARTY NOW 。",
+  "title": "[소문의 아이들 3부작 컴백 프로젝트] EP.2 - 너네 소문 들었지 여자아이들의 컴백 PARTY NOW 。",
   "subtag": "네이버NOW"
 },
 
@@ -157,14 +210,14 @@ const 라디오오디오쇼Cards = [
 },
 
 {
-  "link": "https://naver.me/5ZSfUBBW",
+  "link": "https://youtu.be/YfAHqA2hu74",
   "category": "라디오오디오쇼",
   "member": "민니",
-  "date": "2021-01-18T18:00:00",
-  "duration": "01:17:14",
-  "thumbnail": "https://phinf.pstatic.net/tvcast/20220708_144/hrvnD_1657270019793RkrLT_JPEG/1f66fc88-6121-11eb-a4d6-48df37ae3dc4_03.jpg?type=now720b",
-  "alt": "[어벤걸스] 쩡이가 사랑하는 동생민니가 왔어효 | 네이버 NOW",
-  "title": "[어벤걸스] 쩡이가 사랑하는 동생민니가 왔어효 | 네이버 NOW",
+  "date": "2021-01-18T10:56:49",
+  "duration": "01:17:15",
+  "thumbnail": "https://i.ytimg.com/vi/YfAHqA2hu74/maxresdefault.jpg",
+  "alt": "[효정의 어벤걸스] 쩡이가 사랑하는 동생민니가 왔어효 | 네이버 NOW。",
+  "title": "[효정의 어벤걸스] 쩡이가 사랑하는 동생민니가 왔어효 | 네이버 NOW。",
   "subtag": "네이버NOW"
 },
 
@@ -175,8 +228,8 @@ const 라디오오디오쇼Cards = [
   "date": "2021-01-19T14:11:58",
   "duration": "01:20:09",
   "thumbnail": "https://i.ytimg.com/vi/ozDUL9uq0Po/maxresdefault.jpg",
-  "alt": "[소문의 아이들 3부작 컴백 프로젝트] EP.3 - 오늘 같이 열어볼까 여자아이들과 소문의 빨간 캐비넷!▫️",
-  "title": "[소문의 아이들 3부작 컴백 프로젝트] EP.3 - 오늘 같이 열어볼까 여자아이들과 소문의 빨간 캐비넷!▫️",
+  "alt": "[소문의 아이들 3부작 컴백 프로젝트] EP.3 - 오늘 같이 열어볼까 여자아이들과 소문의 빨간 캐비넷! 。",
+  "title": "[소문의 아이들 3부작 컴백 프로젝트] EP.3 - 오늘 같이 열어볼까 여자아이들과 소문의 빨간 캐비넷! 。",
   "subtag": "네이버NOW"
 },
 
@@ -191,7 +244,17 @@ const 라디오오디오쇼Cards = [
   "title": "[FULL] 1위하고 달려온 (여자)아이들((G)I-DLE))🎉 보는 라디오 | 이준의 영스트리트 | (광고, 음악삭제)",
   "subtag": "라디오"
 },
-
+{
+  "link": "https://youtu.be/FsY5YWiVLSA",
+  "category": "라디오오디오쇼",
+  "member": "미연, 민니",
+  "date": "2021-01-22T20:57:52",
+  "duration": "01:13:01",
+  "thumbnail": "https://i.ytimg.com/vi/FsY5YWiVLSA/hqdefault.jpg",
+  "alt": "[라비의 퀘스천마크] 퀘마 화력 충전 완료! 아이들 미연, 민니 | 네이버 NOW 。",
+  "title": "[라비의 퀘스천마크] 퀘마 화력 충전 완료! 아이들 미연, 민니 | 네이버 NOW 。",
+  "subtag": "네이버NOW"
+}, 
 {
   "link": "https://youtu.be/3tVxtSw1Juk",
   "category": "라디오오디오쇼",
@@ -475,8 +538,8 @@ const 라디오오디오쇼Cards = [
   "date": "2021-07-05T14:24:59",
   "duration": "01:25:43",
   "thumbnail": "https://i.ytimg.com/vi/lPXok8P9XHc/maxresdefault.jpg",
-  "alt": "#OUTNOW 전소연솔로앨범 'Windy' 라이브 첫 공개 | 네이버 NOW▫️",
-  "title": "#OUTNOW 전소연솔로앨범 'Windy' 라이브 첫 공개 | 네이버 NOW▫️",
+  "alt": "#OUTNOW 전소연솔로앨범 'Windy' 라이브 첫 공개 | 네이버 NOW 。",
+  "title": "#OUTNOW 전소연솔로앨범 'Windy' 라이브 첫 공개 | 네이버 NOW 。",
   "subtag": "네이버NOW"
 },
 
@@ -1069,14 +1132,14 @@ const 라디오오디오쇼Cards = [
 },
 
 {
-  "link": "https://naver.me/Gl7UFGvx",
+  "link": "https://youtu.be/1zq6hO32dUg",
   "category": "라디오오디오쇼",
   "member": "소연",
-  "date": "2022-03-30T18:00:00",
-  "duration": "01:09:08",
-  "thumbnail": "https://phinf.pstatic.net/tvcast/20220923_200/izvjr_1663900655011iK6nD_JPEG/73ec3f38-affa-11ec-aa4b-d4f5ef5906a4_03.jpg?type=now720b",
-  "alt": "윤상과 전소연 in 너에게 음악 | 네이버 NOW",
-  "title": "윤상과 전소연 in 너에게 음악 | 네이버 NOW",
+  "date": "2022-03-30T10:59:34",
+  "duration": "01:09:09",
+  "thumbnail": "https://i.ytimg.com/vi/1zq6hO32dUg/maxresdefault.jpg",
+  "alt": "윤상과 전소연 in 너에게 음악 | 네이버 NOW。",
+  "title": "윤상과 전소연 in 너에게 음악 | 네이버 NOW。",
   "subtag": "네이버NOW"
 },
 
@@ -1247,7 +1310,17 @@ const 라디오오디오쇼Cards = [
   "title": "[소문의 아이들] ep.66 - 소문의 골든벨🔔미연 vs 궁물이",
   "subtag": "네이버NOW"
 },
-
+{
+  "link": "https://youtu.be/wGNJjW13QKI",
+  "category": "라디오오디오쇼",
+  "member": "미연",
+  "date": "2022-05-13T01:18:35",
+  "duration": "01:11:47",
+  "thumbnail": "https://i.ytimg.com/vi/wGNJjW13QKI/maxresdefault.jpg",
+  "alt": "▫️[비투비 현식의 야간작업실] 한 잔만 해 with 미연((여자)아이들) | 네이버 NOW",
+  "title": "▫️[비투비 현식의 야간작업실] 한 잔만 해 with 미연((여자)아이들) | 네이버 NOW",
+  "subtag": "네이버NOW"
+},
 {
   "link": "https://naver.me/xpBcBa6o",
   "category": "라디오오디오쇼",
@@ -1933,28 +2006,6 @@ const 라디오오디오쇼Cards = [
 },
 
 {
-  "link": "https://youtu.be/KXDUSvFO23Y",
-  "category": "라디오오디오쇼",
-  "member": "아이들",
-  "date": "2025-05-30T19:00:07",
-  "duration": "00:07:40",
-  "thumbnail": "https://i.ytimg.com/vi/KXDUSvFO23Y/sddefault.jpg",
-  "alt": "i-dle’s Most Unfiltered & Unstoppable Spotify House PartyㅣHighlights",
-  "title": "i-dle’s Most Unfiltered & Unstoppable Spotify House PartyㅣHighlights",
-  "subtag": "라디오"
-},
-{
-  "link": "https://youtu.be/du28NxB0SGo",
-  "category": "라디오오디오쇼",
-  "member": "아이들",
-  "date": "2025-05-31T23:49:39",
-  "duration": "00:24:04",
-  "thumbnail": "https://i.ytimg.com/vi/du28NxB0SGo/sddefault.jpg",
-  "alt": "[FULL] i-dle's Most Unfiltered & Unstoppable Spotify House Party | K-Pop ON Video Podcast",
-  "title": "[FULL] i-dle's Most Unfiltered & Unstoppable Spotify House Party | K-Pop ON Video Podcast",
-  "subtag": "라디오"
-},
-{
   "link": "https://youtu.be/AsjBiO1gsJs",
   "category": "라디오오디오쇼",
   "member": "미연, 민니",
@@ -2199,8 +2250,101 @@ const 라디오오디오쇼Cards = [
   "alt": "가광 초대석, 누구세요? with 아이들 소연, 우기 full ver. / [이은지의 가요광장] I KBS 260201 방송",
   "title": "가광 초대석, 누구세요? with 아이들 소연, 우기 full ver. / [이은지의 가요광장] I KBS 260201 방송",
   "subtag": "라디오"
-}
+},
+{
+  "link": "https://youtu.be/6AaBbCuXp7I",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2021-02-08T23:36:42",
+  "duration": "02:17:10",
+  "thumbnail": "https://i.ytimg.com/vi/6AaBbCuXp7I/hqdefault.jpg",
+  "alt": "들친한사이 EP. 01~10 | UNIVERSE RADIO。",
+  "title": "들친한사이 EP. 01~10 | UNIVERSE RADIO。",
+  "subtag": "그 외"
+},
 
+{
+  "link": "https://youtu.be/nPs3V5Q0iak",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2021-04-23T23:44:18",
+  "duration": "02:22:00",
+  "thumbnail": "https://i.ytimg.com/vi/nPs3V5Q0iak/hqdefault.jpg",
+  "alt": "들친한사이 EP. 11~20 | UNIVERSE RADIO。",
+  "title": "들친한사이 EP. 11~20 | UNIVERSE RADIO。",
+  "subtag": "그 외"
+},
+
+{
+  "link": "https://youtu.be/AmSf81155cg",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2021-07-02T23:45:12",
+  "duration": "02:11:15",
+  "thumbnail": "https://i.ytimg.com/vi/AmSf81155cg/hqdefault.jpg",
+  "alt": "들친한사이 EP. 21~30 | UNIVERSE RADIO。",
+  "title": "들친한사이 EP. 21~30 | UNIVERSE RADIO。",
+  "subtag": "그 외"
+},
+
+{
+  "link": "https://youtu.be/Ku7OrF2g71I",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2021-09-24T23:46:16",
+  "duration": "02:01:56",
+  "thumbnail": "https://i.ytimg.com/vi/Ku7OrF2g71I/hqdefault.jpg",
+  "alt": "들친한사이 EP. 31~40 | UNIVERSE RADIO。",
+  "title": "들친한사이 EP. 31~40 | UNIVERSE RADIO。",
+  "subtag": "그 외"
+},
+
+{
+  "link": "https://youtu.be/I9fUQS77TQw",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2021-12-11T23:47:10",
+  "duration": "01:14:12",
+  "thumbnail": "https://i.ytimg.com/vi/I9fUQS77TQw/hqdefault.jpg",
+  "alt": "들친한사이 EP. 41~47 | UNIVERSE RADIO。",
+  "title": "들친한사이 EP. 41~47 | UNIVERSE RADIO。",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/oHvDNaLkfcI",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2025-10-21T21:35:15",
+  "duration": "02:37:00",
+  "thumbnail": "https://i.ytimg.com/vi/oHvDNaLkfcI/maxresdefault.jpg",
+  "alt": "HELLO 네버랜드 EP. 01~30 | UNIVERSE RADIO。",
+  "title": "HELLO 네버랜드 EP. 01~30 | UNIVERSE RADIO。",
+  "subtag": "그 외"
+},
+
+{
+  "link": "https://youtu.be/zZBHpPZ1GVI",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2025-10-21T21:36:21",
+  "duration": "02:36:09",
+  "thumbnail": "https://i.ytimg.com/vi/zZBHpPZ1GVI/maxresdefault.jpg",
+  "alt": "HELLO 네버랜드 EP. 31~60 | UNIVERSE RADIO。",
+  "title": "HELLO 네버랜드 EP. 31~60 | UNIVERSE RADIO。",
+  "subtag": "그 외"
+},
+
+{
+  "link": "https://youtu.be/SEk8NOECjto",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2025-10-21T21:37:07",
+  "duration": "02:25:08",
+  "thumbnail": "https://i.ytimg.com/vi/SEk8NOECjto/maxresdefault.jpg",
+  "alt": "HELLO 네버랜드 EP. 61~80 | UNIVERSE RADIO。",
+  "title": "HELLO 네버랜드 EP. 61~80 | UNIVERSE RADIO。",
+  "subtag": "그 외"
+}
 
   ];
 window.라디오오디오쇼Cards = 라디오오디오쇼Cards;

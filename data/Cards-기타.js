@@ -1,6 +1,16 @@
 const 기타Cards = [
 
 {
+  "link": "https://youtu.be/OYYXxhFpHE0",
+  "category": "기타",
+  "member": "아이들",
+  "date": "2018-10-14T00:09:39",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/OYYXxhFpHE0/maxresdefault.jpg",
+  "alt": "181014 [강남 페스티벌 K-POP 콘서트] (여자)아이들 - 한(一)",
+  "title": "181014 [강남 페스티벌 K-POP 콘서트] (여자)아이들 - 한(一)"
+},
+{
   "link": "https://youtu.be/SkyM0aRrBvw",
   "category": "기타",
   "member": "아이들",
@@ -87,7 +97,16 @@ const 기타Cards = [
   "alt": "[놀토: Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 |",
   "title": "[놀토: Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 |"
 },
-
+{
+  "link": "https://youtu.be/VCUZ_YYrDiI",
+  "category": "기타",
+  "member": "아이들",
+  "date": "2020-06-12T05:19:46",
+  "duration": "00:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/VCUZ_YYrDiI/maxresdefault.jpg",
+  "alt": "(K-Pop) Saludo especial para Argentina de parte de (G)I-DLE | 한국문화원",
+  "title": "(K-Pop) Saludo especial para Argentina de parte de (G)I-DLE | 한국문화원"
+},
 {
   "link": "https://youtu.be/2klT62iu3pU",
   "category": "기타",
@@ -890,25 +909,34 @@ const 기타Cards = [
 },
 
 {
+  "link": "https://youtu.be/pp39oKWK1ag",
+  "category": "기타",
+  "member": "소연",
+  "date": "2025-10-24T16:00:01",
+  "duration": "00:02:05",
+  "thumbnail": "https://i.ytimg.com/vi/pp39oKWK1ag/maxresdefault.jpg",
+  "alt": "가수 아이들 '전소연' 레드카펫 현장✨ [제16회 대한민국 대중문화예술상]",
+  "title": "가수 아이들 '전소연' 레드카펫 현장✨ [제16회 대한민국 대중문화예술상]"
+},
+{
   "link": "https://youtu.be/BgQcO_EJEfk",
   "category": "기타",
   "member": "소연",
-  "date": "2025-10-23T18:51:51",
+  "date": "2025-10-24T16:00:02",
   "duration": "00:08:09",
   "thumbnail": "https://i.ytimg.com/vi/BgQcO_EJEfk/maxresdefault.jpg",
-  "alt": "[제16회 대한민국 대중문화예술상] 문화체육부관광부장관표창",
-  "title": "[제16회 대한민국 대중문화예술상] 문화체육부관광부장관표창"
+  "alt": "아이들 | 문화체육부관광부장관표창 [제16회 대한민국 대중문화예술상]",
+  "title": "아이들 | 문화체육부관광부장관표창 [제16회 대한민국 대중문화예술상]"
 },
-
 {
-  "link": "https://youtu.be/BSU02XjrBBA",
+  "link": "https://youtu.be/x9bm1dGHZHY",
   "category": "기타",
   "member": "소연",
-  "date": "2025-10-23T20:22:46",
-  "duration": "00:02:22",
-  "thumbnail": "https://i.ytimg.com/vi/BSU02XjrBBA/maxresdefault.jpg",
-  "alt": "[제16회 대한민국 대중문화예술상] 시상식 레드카펫",
-  "title": "[제16회 대한민국 대중문화예술상] 시상식 레드카펫"
+  "date": "2025-10-24T16:00:03",
+  "duration": "01:40:58",
+  "thumbnail": "https://i.ytimg.com/vi/x9bm1dGHZHY/maxresdefault.jpg",
+  "alt": "[FULL VER] 제16회 대한민국 대중문화 예술상 시상식 | The 16th Korea Popular Culture and Arts Awards",
+  "title": "[FULL VER] 제16회 대한민국 대중문화 예술상 시상식 | The 16th Korea Popular Culture and Arts Awards"
 },
 
 {
@@ -1026,7 +1054,70 @@ const 기타Cards = [
   "thumbnail": "https://i.ytimg.com/vi/XP-QNotCMKo/maxresdefault.jpg",
   "alt": "舒華出席品牌代言活動　Mavis瑪菲司創立HALO MAVIS BEAUTY品牌記者會",
   "title": "舒華出席品牌代言活動　Mavis瑪菲司創立HALO MAVIS BEAUTY品牌記者會"
-}
+},
+{
+  "link": "https://youtu.be/UlvlDBoFjKU",
+  "category": "기타",
+  "member": "슈화",
+  "date": "2026-02-14T12:30:19",
+  "duration": "00:01:53",
+  "thumbnail": "https://i.ytimg.com/vi/UlvlDBoFjKU/maxresdefault.jpg",
+  "alt": "[워크돌] 새해 인사 끝에… 큰 거 온다",
+  "title": "[워크돌] 새해 인사 끝에… 큰 거 온다"
+},
+{
+  "link": "https://youtu.be/5fIsM_dBZa4?t=02m52s",
+  "category": "기타",
+  "member": "아이들",
+  "date": "2026-02-12T21:20:28",
+  "duration": "00:04:04",
+  "thumbnail": "https://i.ytimg.com/vi/5fIsM_dBZa4/maxresdefault.jpg",
+  "alt": "💌 띵-동🔔 1박 2일 유튜브 오픈 축하 메시지가 도착했습니다. | 1박 2일 시즌4ㅣKBS 방송",
+  "title": "💌 띵-동🔔 1박 2일 유튜브 오픈 축하 메시지가 도착했습니다. | 1박 2일 시즌4ㅣKBS 방송"
+},
+{
+  "link": "https://youtu.be/WRRShqxO6Sw?t=10m53s",
+  "category": "기타",
+  "member": "우기",
+  "date": "2026-02-13T18:00:00",
+  "duration": "00:14:34",
+  "thumbnail": "https://i.ytimg.com/vi/WRRShqxO6Sw/maxresdefault.jpg",
+  "alt": "[10:57~11:24] RYEOWOOK'S AGIT CONCERT : Special Rucky draW EP.4",
+  "title": "[10:57~11:24] RYEOWOOK'S AGIT CONCERT : Special Rucky draW EP.4"
+},
+{
+  "link": "https://youtu.be/JSSsQ44r928?t=16m56s",
+  "category": "기타",
+  "member": "소연, 슈화",
+  "date": "2026-02-20T19:00:09",
+  "duration": "00:20:31",
+  "thumbnail": "https://i.ytimg.com/vi/JSSsQ44r928/maxresdefault.jpg",
+  "alt": "[16:56~17:44] [KiiiPoiiint] 미니 팬미팅까지 너무 너무 재밌었어✨ | '404 (New Era)' 음악방송 Behind #2",
+  "title": "[16:56~17:44] [KiiiPoiiint] 미니 팬미팅까지 너무 너무 재밌었어✨ | '404 (New Era)' 음악방송 Behind #2"
+},
+{
+  "link": "https://youtu.be/W7HIKNpWAdY?t=12m18s",
+  "category": "기타",
+  "member": "민니",
+  "date": "2025-11-20T20:01:08",
+  "duration": "00:24:28",
+  "thumbnail": "https://i.ytimg.com/vi/W7HIKNpWAdY/maxresdefault.jpg",
+  "alt": "[12:18~] Collaboration | I-KNOW.zip #4",
+  "title": "[12:18~] Collaboration | I-KNOW.zip #4"
+},
+{
+  "link": "https://youtu.be/dI00C8k189I?t=24m47s  ",
+  "category": "기타",
+  "member": "소연",
+  "date": "2026-02-27T21:00:05",
+  "duration": "00:28:58",
+  "thumbnail": "https://i.ytimg.com/vi/dI00C8k189I/maxresdefault.jpg",
+  "alt": "(24:47~25:50) LNGSHOT - DEBUT EP [SHOT CALLERS] Musicshow Behind the Scenes",
+  "title": "(24:47~25:50) LNGSHOT - DEBUT EP [SHOT CALLERS] Musicshow Behind the Scenes"
+},
+
+
+
 
 ];
 window.기타Cards = 기타Cards;

@@ -62,10 +62,19 @@ const 녹음비하인드Cards = [
   "date": "2021-05-21T21:20:01",
   "duration": "00:03:13",
   "thumbnail": "https://i.ytimg.com/vi/6buVI3G8LZ8/maxresdefault.jpg",
-  "alt": "(여자)아이들 -  Last Dance (Prod. GroovyRoom) 녹음 비하인드▫️",
-  "title": "(여자)아이들 -  Last Dance (Prod. GroovyRoom) 녹음 비하인드▫️"
+  "alt": "(여자)아이들 -  Last Dance (Prod. GroovyRoom) 녹음 비하인드 。",
+  "title": "(여자)아이들 -  Last Dance (Prod. GroovyRoom) 녹음 비하인드 。"
 },
-
+{
+  "link": "https://youtu.be/dwDlAg7fPx4",
+  "category": "녹음비하인드",
+  "member": "미연",
+  "date": "2021-05-28T15:22:23",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/dwDlAg7fPx4/hqdefault.jpg",
+  "alt": "미연 '너는 나의 숨이였다' 녹음실 메이킹 영상 。",
+  "title": "미연 '너는 나의 숨이였다' 녹음실 메이킹 영상 。"
+},
 {
   "link": "https://youtu.be/rI-88uYZNyE?t=07m17s",
   "category": "녹음비하인드",
@@ -691,6 +700,16 @@ const 녹음비하인드Cards = [
   "thumbnail": "https://i.ytimg.com/vi/KklkJGkvTmc/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 2nd Mini Album [MY, Lover] 수록곡 Recording Behind #2ㅣSUB",
   "title": "미연 (MIYEON) 2nd Mini Album [MY, Lover] 수록곡 Recording Behind #2ㅣSUB"
+},
+{
+  "link": "https://youtu.be/EPhi3L_UZSA",
+  "category": "녹음비하인드",
+  "member": "아이들",
+  "date": "2026-02-24T22:00:21",
+  "duration": "00:18:11",
+  "thumbnail": "https://i.ytimg.com/vi/EPhi3L_UZSA/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' Recording BehindㅣSUB",
+  "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Recording BehindㅣSUB"
 }
 
 

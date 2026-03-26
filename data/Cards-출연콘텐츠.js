@@ -201,12 +201,12 @@ const 출연콘텐츠Cards = [
 {
   "link": "https://youtu.be/2cg4Mc0-4tM",
   "category": "출연콘텐츠",
-  "member": "우기",
+  "member": "아이들",
   "date": "2019-07-03T20:00:01",
   "duration": "00:04:11",
   "thumbnail": "https://i.ytimg.com/vi/2cg4Mc0-4tM/sddefault.jpg",
-  "alt": "(G)I-DLE, Temperature Difference of 'SO Reader' (feat. Hip YUQI) [business of my members]",
-  "title": "(G)I-DLE, Temperature Difference of 'SO Reader' (feat. Hip YUQI) [business of my members]"
+  "alt": "(여자)아이들, 쏘리더의 온도차 (feat. 힙우기의 동물 사전) [내 멤버의 비즈니스]",
+  "title": "(여자)아이들, 쏘리더의 온도차 (feat. 힙우기의 동물 사전) [내 멤버의 비즈니스]"
 },
 
 {
@@ -249,8 +249,8 @@ const 출연콘텐츠Cards = [
   "date": "2019-07-11T15:47:07",
   "duration": "00:07:30",
   "thumbnail": "https://i.ytimg.com/vi/9svWxaXSEGI/sddefault.jpg",
-  "alt": "(G)I-DLE, MBTI place where God-So-teacher's Korean class opened. [MBTI of My Members]",
-  "title": "(G)I-DLE, MBTI place where God-So-teacher's Korean class opened. [MBTI of My Members]"
+  "alt": "(여자)아이들, 갓소쌤의 한국어 교실이 열린 MBTI 현장 [내 멤버의 MBTI]",
+  "title": "(여자)아이들, 갓소쌤의 한국어 교실이 열린 MBTI 현장 [내 멤버의 MBTI]"
 },
 
 {
@@ -315,10 +315,40 @@ const 출연콘텐츠Cards = [
   "date": "2019-07-24T20:00:02",
   "duration": "00:01:47",
   "thumbnail": "https://i.ytimg.com/vi/Mtt9Hoz_o3Q/sddefault.jpg",
-  "alt": "(G)I-DLE, What's the identity of the new cutie and the chic youngest? [business of my members]",
-  "title": "(G)I-DLE, What's the identity of the new cutie and the chic youngest? [business of my members]"
+  "alt": "(여자)아이들, 새로운 큐티담당과 시크막내의 정체는? [내 멤버의 비즈니스]",
+  "title": "(여자)아이들, 새로운 큐티담당과 시크막내의 정체는? [내 멤버의 비즈니스]"
+},
+{
+  "link": "https://youtu.be/Hr9QlBrAx14",
+  "category": "출연콘텐츠",
+  "member": "소연, 우기",
+  "date": "2019-07-25T16:17:34",
+  "duration": "00:09:51",
+  "thumbnail": "https://i.ytimg.com/vi/Hr9QlBrAx14/maxresdefault.jpg",
+  "alt": "[스타가든] part 1 - 아이들 우기 VS 소연의 폭로전 한판! STAR GARDEN 。",
+  "title": "[스타가든] part 1 - 아이들 우기 VS 소연의 폭로전 한판! STAR GARDEN 。"
+},
+{
+  "link": "https://youtu.be/cQlfTlQfFCU",
+  "category": "출연콘텐츠",
+  "member": "소연, 우기",
+  "date": "2019-07-30T16:18:22",
+  "duration": "00:10:12",
+  "thumbnail": "https://i.ytimg.com/vi/cQlfTlQfFCU/maxresdefault.jpg",
+  "alt": "[스타가든] part 2 - 아이들 우연커플이 컨닝을❓! STAR GARDEN 。",
+  "title": "[스타가든] part 2 - 아이들 우연커플이 컨닝을❓! STAR GARDEN 。"
 },
 
+{
+  "link": "https://youtu.be/RY3_la4qaVA",
+  "category": "출연콘텐츠",
+  "member": "소연, 우기",
+  "date": "2019-08-01T16:19:06",
+  "duration": "00:04:48",
+  "thumbnail": "https://i.ytimg.com/vi/RY3_la4qaVA/maxresdefault.jpg",
+  "alt": "[스타가든] behind - 최초 공개예요 우연커플 개인기 대방출! STAR GARDEN 。",
+  "title": "[스타가든] behind - 최초 공개예요 우연커플 개인기 대방출! STAR GARDEN 。"
+},
 {
   "link": "https://youtu.be/mP71e4hFfL0",
   "category": "출연콘텐츠",
@@ -339,17 +369,6 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/hWtqH3i3QFo/sddefault.jpg",
   "alt": "[뽀짝포착] 천재돌 (여자)아이들의 귀염뽀짝 리허설 현장! / (여자)아이들 IDOL RADIO 비하인드 / (G)I-DLE IDOL RADIO BEHIND",
   "title": "[뽀짝포착] 천재돌 (여자)아이들의 귀염뽀짝 리허설 현장! / (여자)아이들 IDOL RADIO 비하인드 / (G)I-DLE IDOL RADIO BEHIND"
-},
-
-{
-  "link": "https://youtu.be/uaqNcr1UH5A",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2019-10-28T22:00:18",
-  "duration": "00:53:55",
-  "thumbnail": "https://i.ytimg.com/vi/uaqNcr1UH5A/sddefault.jpg",
-  "alt": "[Full ver.] (G)I-DLE, (여자)아이들 [스쿨어택 2019]",
-  "title": "[Full ver.] (G)I-DLE, (여자)아이들 [스쿨어택 2019]"
 },
 
 {
@@ -381,8 +400,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-01-02T15:54:19",
   "duration": "00:22:19",
   "thumbnail": "https://i.ytimg.com/vi/HUFHR54-iHE/maxresdefault.jpg",
-  "alt": "Seezn 아이돌다방2 여자아이들 PART 1▫️",
-  "title": "Seezn 아이돌다방2 여자아이들 PART 1▫️"
+  "alt": "Seezn 아이돌다방 시즌2 여자아이들 1부 。",
+  "title": "Seezn 아이돌다방 시즌2 여자아이들 1부 。"
 },
 
 {
@@ -392,8 +411,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-01-09T15:56:07",
   "duration": "00:27:24",
   "thumbnail": "https://i.ytimg.com/vi/zWXihT14ng0/maxresdefault.jpg",
-  "alt": "Seezn 아이돌다방2 여자아이들 PART 2▫️",
-  "title": "Seezn 아이돌다방2 여자아이들 PART 2▫️"
+  "alt": "Seezn 아이돌다방 시즌2 여자아이들 2부 。",
+  "title": "Seezn 아이돌다방 시즌2 여자아이들 2부 。"
 },
 
 {
@@ -1322,8 +1341,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-11-03T08:43:18",
   "duration": "00:16:17",
   "thumbnail": "https://i.ytimg.com/vi/HMTwHw_xUsU/maxresdefault.jpg",
-  "alt": "㈜아이돌워크숍 (여자)아이들 1회 [IDOL WORKSHOP]▫️",
-  "title": "㈜아이돌워크숍 (여자)아이들 1회 [IDOL WORKSHOP]▫️"
+  "alt": "㈜아이돌워크숍 (여자)아이들 1회 [IDOL WORKSHOP] 。",
+  "title": "㈜아이돌워크숍 (여자)아이들 1회 [IDOL WORKSHOP] 。"
 },
 
 {
@@ -1333,8 +1352,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-11-03T08:45:03",
   "duration": "00:14:57",
   "thumbnail": "https://i.ytimg.com/vi/hQrINiWZO2Y/maxresdefault.jpg",
-  "alt": "㈜아이돌워크숍 (여자)아이들 2회 [IDOL WORKSHOP]▫️",
-  "title": "㈜아이돌워크숍 (여자)아이들 2회 [IDOL WORKSHOP]▫️"
+  "alt": "㈜아이돌워크숍 (여자)아이들 2회 [IDOL WORKSHOP] 。",
+  "title": "㈜아이돌워크숍 (여자)아이들 2회 [IDOL WORKSHOP] 。"
 },
 
 {
@@ -1344,8 +1363,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-11-03T08:45:56",
   "duration": "00:16:14",
   "thumbnail": "https://i.ytimg.com/vi/lne1qliw7mc/maxresdefault.jpg",
-  "alt": "㈜아이돌워크숍 (여자)아이들 3회 [IDOL WORKSHOP]▫️",
-  "title": "㈜아이돌워크숍 (여자)아이들 3회 [IDOL WORKSHOP]▫️"
+  "alt": "㈜아이돌워크숍 (여자)아이들 3회 [IDOL WORKSHOP] 。",
+  "title": "㈜아이돌워크숍 (여자)아이들 3회 [IDOL WORKSHOP] 。"
 },
 
 {
@@ -1355,8 +1374,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-11-03T08:46:42",
   "duration": "00:16:29",
   "thumbnail": "https://i.ytimg.com/vi/q4RFecmETn4/maxresdefault.jpg",
-  "alt": "㈜아이돌워크숍 (여자)아이들 4회 [IDOL WORKSHOP]▫️",
-  "title": "㈜아이돌워크숍 (여자)아이들 4회 [IDOL WORKSHOP]▫️"
+  "alt": "㈜아이돌워크숍 (여자)아이들 4회 [IDOL WORKSHOP] 。",
+  "title": "㈜아이돌워크숍 (여자)아이들 4회 [IDOL WORKSHOP] 。"
 },
 
 {
@@ -1366,8 +1385,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-11-03T08:47:35",
   "duration": "00:16:17",
   "thumbnail": "https://i.ytimg.com/vi/byYqjdNYJdQ/maxresdefault.jpg",
-  "alt": "㈜아이돌워크숍 (여자)아이들 5회 [IDOL WORKSHOP]▫️",
-  "title": "㈜아이돌워크숍 (여자)아이들 5회 [IDOL WORKSHOP]▫️"
+  "alt": "㈜아이돌워크숍 (여자)아이들 5회 [IDOL WORKSHOP] 。",
+  "title": "㈜아이돌워크숍 (여자)아이들 5회 [IDOL WORKSHOP] 。"
 },
 
 {
@@ -1377,8 +1396,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-11-03T08:48:23",
   "duration": "00:08:54",
   "thumbnail": "https://i.ytimg.com/vi/qlFCijYqZQc/maxresdefault.jpg",
-  "alt": "㈜아이돌워크숍 (여자)아이들 Behind [IDOL WORKSHOP]▫️",
-  "title": "㈜아이돌워크숍 (여자)아이들 Behind [IDOL WORKSHOP]▫️"
+  "alt": "㈜아이돌워크숍 (여자)아이들 Behind [IDOL WORKSHOP] 。",
+  "title": "㈜아이돌워크숍 (여자)아이들 Behind [IDOL WORKSHOP] 。"
 },
 
 {
@@ -1388,8 +1407,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-11-03T20:21:04",
   "duration": "01:25:58",
   "thumbnail": "https://i.ytimg.com/vi/qOrguvoInHs/maxresdefault.jpg",
-  "alt": "㈜아이돌워크숍  Full ver. [IDOL WORKSHOP]▫️",
-  "title": "㈜아이돌워크숍  Full ver. [IDOL WORKSHOP]▫️"
+  "alt": "㈜아이돌워크숍  Full ver. [IDOL WORKSHOP] 。",
+  "title": "㈜아이돌워크숍  Full ver. [IDOL WORKSHOP] 。"
 },
 
 {
@@ -1509,8 +1528,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-11-30T02:53:31",
   "duration": "00:48:46",
   "thumbnail": "https://i.ytimg.com/vi/_xwWJdsdtB8/maxresdefault.jpg",
-  "alt": "아이돌Pick크닉 EP.14▫️",
-  "title": "아이돌Pick크닉 EP.14▫️"
+  "alt": "아이돌Pick크닉 EP.14 。",
+  "title": "아이돌Pick크닉 EP.14 。"
 },
 
 {
@@ -1520,8 +1539,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-11-30T02:54:37",
   "duration": "00:05:58",
   "thumbnail": "https://i.ytimg.com/vi/7pfPnyewIZg/maxresdefault.jpg",
-  "alt": "아이돌Pick크닉 EP.14 Behind▫️",
-  "title": "아이돌Pick크닉 EP.14 Behind▫️"
+  "alt": "아이돌Pick크닉 EP.14 Behind 。",
+  "title": "아이돌Pick크닉 EP.14 Behind 。"
 },
 
 {
@@ -1586,8 +1605,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-12-07T02:55:25",
   "duration": "00:48:16",
   "thumbnail": "https://i.ytimg.com/vi/ei7xAOEqtas/maxresdefault.jpg",
-  "alt": "아이돌Pick크닉 EP.15▫️",
-  "title": "아이돌Pick크닉 EP.15▫️"
+  "alt": "아이돌Pick크닉 EP.15 。",
+  "title": "아이돌Pick크닉 EP.15 。"
 },
 
 {
@@ -1597,8 +1616,8 @@ const 출연콘텐츠Cards = [
   "date": "2020-12-07T02:56:03",
   "duration": "00:05:47",
   "thumbnail": "https://i.ytimg.com/vi/-xQ27c-ejuI/maxresdefault.jpg",
-  "alt": "아이돌Pick크닉 EP.15 Behind▫️",
-  "title": "아이돌Pick크닉 EP.15 Behind▫️"
+  "alt": "아이돌Pick크닉 EP.15 Behind 。",
+  "title": "아이돌Pick크닉 EP.15 Behind 。"
 },
 
 {
@@ -1820,7 +1839,16 @@ const 출연콘텐츠Cards = [
   "alt": "(여자)아이들 우기 X 영평티비 이세영 = 애드리브 레전드 탄생⭐ 송우기 진짜 개그우먼 아니냐고 ㅋㅋㅋ | (G)I-DLE YUQI |런웨이 (LEARN WAY) EP.16",
   "title": "[런웨이 EP.16] (여자)아이들 우기 X 영평티비 이세영 = 애드리브 레전드 탄생⭐ 송우기 진짜 개그우먼 아니냐고 ㅋㅋㅋ | LEARN WAY"
 },
-
+{
+  "link": "https://youtu.be/XyUPzjWwBPM",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2021-01-25T15:00:00",
+  "duration": "01:07:51",
+  "thumbnail": "https://i.ytimg.com/vi/ur9AWpZlrro/sddefault.jpg",
+  "alt": "페이스아이디(FACE ID) - Full ver. 。",
+  "title": "페이스아이디(FACE ID) - Full ver. 。"
+},
 {
   "link": "https://youtu.be/gS-xf49asmA",
   "category": "출연콘텐츠",
@@ -1828,73 +1856,62 @@ const 출연콘텐츠Cards = [
   "date": "2021-01-25T15:00:01",
   "duration": "00:20:06",
   "thumbnail": "https://i.ytimg.com/vi/gS-xf49asmA/hqdefault.jpg",
-  "alt": "페이스아이디(FACE ID) - EP.20▫️",
-  "title": "페이스아이디(FACE ID) - EP.20▫️"
+  "alt": "페이스아이디(FACE ID) EP.20 - (여자)아이들 소연, 사랑앓이 중?! 。",
+  "title": "페이스아이디(FACE ID) EP.20 - (여자)아이들 소연, 사랑앓이 중?! 。"
 },
 {
   "link": "https://youtu.be/FCqLVy4NK0c",
   "category": "출연콘텐츠",
   "member": "아이들",
-  "date": "2021-01-25T15:00:02",
+  "date": "2021-01-27T15:00:02",
   "duration": "00:02:49",
   "thumbnail": "https://i.ytimg.com/vi/FCqLVy4NK0c/hqdefault.jpg",
-  "alt": "페이스아이디(FACE ID) - EP.20 Behind▫️",
-  "title": "페이스아이디(FACE ID) - EP.20 Behind▫️"
+  "alt": "페이스아이디(FACE ID) EP.20 [비하인드] - 소연이 폰 혹시 좀비폰…? 。",
+  "title": "페이스아이디(FACE ID) EP.20 [비하인드] - 소연이 폰 혹시 좀비폰…? 。"
 },
 
 {
   "link": "https://youtu.be/EEqRE06OeFw",
   "category": "출연콘텐츠",
   "member": "아이들",
-  "date": "2021-01-25T15:00:03",
+  "date": "2021-02-01T15:00:03",
   "duration": "00:19:18",
   "thumbnail": "https://i.ytimg.com/vi/EEqRE06OeFw/sddefault.jpg",
-  "alt": "페이스아이디(FACE ID) - EP.21▫️",
-  "title": "페이스아이디(FACE ID) - EP.21▫️"
+  "alt": "페이스아이디(FACE ID) EP.21 - (여자)아이들 소연, 그룹 내에서 소외감을 느끼다?! 。",
+  "title": "페이스아이디(FACE ID) EP.21 - (여자)아이들 소연, 그룹 내에서 소외감을 느끼다?! 。"
 },
 
 {
   "link": "https://youtu.be/r4DitsfNqtw",
   "category": "출연콘텐츠",
   "member": "아이들",
-  "date": "2021-01-25T15:00:04",
+  "date": "2021-02-03T15:00:04",
   "duration": "00:02:10",
   "thumbnail": "https://i.ytimg.com/vi/r4DitsfNqtw/hqdefault.jpg",
-  "alt": "페이스아이디(FACE ID) - EP.21 Behind 1▫️",
-  "title": "페이스아이디(FACE ID) - EP.21 Behind 1▫️"
+  "alt": "페이스아이디(FACE ID) EP.21 [비하인드] - 원래 (여자)아이들의 리더는 수진이었다?! 。",
+  "title": "페이스아이디(FACE ID) EP.21 [비하인드] - 원래 (여자)아이들의 리더는 수진이었다?! 。"
 },
 
 {
   "link": "https://youtu.be/7LRMSaUFI7A",
   "category": "출연콘텐츠",
   "member": "아이들",
-  "date": "2021-01-25T15:00:05",
+  "date": "2021-02-05T15:00:05",
   "duration": "00:06:14",
   "thumbnail": "https://i.ytimg.com/vi/7LRMSaUFI7A/hqdefault.jpg",
-  "alt": "페이스아이디(FACE ID) - EP.21 Behind 2▫️",
-  "title": "페이스아이디(FACE ID) - EP.21 Behind 2▫️"
+  "alt": "페이스아이디(FACE ID) EP.21 [비하인드] - 대기실에서 여돌이 노는법 。",
+  "title": "페이스아이디(FACE ID) EP.21 [비하인드] - 대기실에서 여돌이 노는법 。"
 },
 
 {
   "link": "https://youtu.be/VKi5HTLn-HA",
   "category": "출연콘텐츠",
   "member": "아이들",
-  "date": "2021-01-25T15:00:06",
+  "date": "2021-02-08T15:00:06",
   "duration": "00:17:15",
   "thumbnail": "https://i.ytimg.com/vi/VKi5HTLn-HA/sddefault.jpg",
-  "alt": "페이스아이디(FACE ID) - EP.22▫️",
-  "title": "페이스아이디(FACE ID) - EP.22▫️"
-},
-
-{
-  "link": "https://youtu.be/XyUPzjWwBPM",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2021-01-25T15:00:07",
-  "duration": "01:07:51",
-  "thumbnail": "https://i.ytimg.com/vi/ur9AWpZlrro/sddefault.jpg",
-  "alt": "페이스아이디(FACE ID) - Full ver.▫️",
-  "title": "페이스아이디(FACE ID) - Full ver.▫️"
+  "alt": "페이스아이디(FACE ID) EP.22 - (여자)아이들의 운명을 점치다?! 。",
+  "title": "페이스아이디(FACE ID) EP.22 - (여자)아이들의 운명을 점치다?! 。"
 },
 
 {
@@ -3025,8 +3042,8 @@ const 출연콘텐츠Cards = [
   "date": "2022-02-09T16:07:48",
   "duration": "00:14:44",
   "thumbnail": "https://i.ytimg.com/vi/QE8q09KTMI8/maxresdefault.jpg",
-  "alt": "민니의 스노우월드 EP.01 - 여자아이들 민니, 모나파크 용평리조트에서 놀다 온 썰!! 눈사람 찾으면 소원 들어 준다냥 (feat.⛄)▫️",
-  "title": "민니의 스노우월드 EP.01 - 여자아이들 민니, 모나파크 용평리조트에서 놀다 온 썰!! 눈사람 찾으면 소원 들어 준다냥 (feat.⛄)▫️"
+  "alt": "민니의 스노우월드 EP.01 - 여자아이들 민니, 모나파크 용평리조트에서 놀다 온 썰!! 눈사람 찾으면 소원 들어 준다냥 (feat.⛄) 。",
+  "title": "민니의 스노우월드 EP.01 - 여자아이들 민니, 모나파크 용평리조트에서 놀다 온 썰!! 눈사람 찾으면 소원 들어 준다냥 (feat.⛄) 。"
 },
 
 {
@@ -3036,8 +3053,8 @@ const 출연콘텐츠Cards = [
   "date": "2022-02-16T16:10:02",
   "duration": "00:11:35",
   "thumbnail": "https://i.ytimg.com/vi/fjlvhCIWFLc/maxresdefault.jpg",
-  "alt": "민니의 스노우월드 EP.02 - 휘닉스 평창에 무제한 패키지가 있다고뷔페, 맥주!!😮⁉ 민니의 휘닉스 평창 씹고x뜯고x맛보고 즐기기▫️",
-  "title": "민니의 스노우월드 EP.02 - 휘닉스 평창에 무제한 패키지가 있다고뷔페, 맥주!!😮⁉ 민니의 휘닉스 평창 씹고x뜯고x맛보고 즐기기▫️"
+  "alt": "민니의 스노우월드 EP.02 - 휘닉스 평창에 무제한 패키지가 있다고뷔페, 맥주!!😮⁉ 민니의 휘닉스 평창 씹고x뜯고x맛보고 즐기기 。",
+  "title": "민니의 스노우월드 EP.02 - 휘닉스 평창에 무제한 패키지가 있다고뷔페, 맥주!!😮⁉ 민니의 휘닉스 평창 씹고x뜯고x맛보고 즐기기 。"
 },
 
 {
@@ -3058,8 +3075,8 @@ const 출연콘텐츠Cards = [
   "date": "2022-02-23T16:11:03",
   "duration": "00:11:21",
   "thumbnail": "https://i.ytimg.com/vi/HFMiTyAGj9M/maxresdefault.jpg",
-  "alt": "민니의 스노우월드 EP.03 - 하이원리조트! 즐길게 너무 많아~스노우월드 🏖워터월드🌊  뭐가 더 좋냐고요 (feat.일석이조)▫️",
-  "title": "민니의 스노우월드 EP.03 - 하이원리조트! 즐길게 너무 많아~스노우월드 🏖워터월드🌊  뭐가 더 좋냐고요 (feat.일석이조)▫️"
+  "alt": "민니의 스노우월드 EP.03 - 하이원리조트! 즐길게 너무 많아~스노우월드 🏖워터월드🌊  뭐가 더 좋냐고요 (feat.일석이조) 。",
+  "title": "민니의 스노우월드 EP.03 - 하이원리조트! 즐길게 너무 많아~스노우월드 🏖워터월드🌊  뭐가 더 좋냐고요 (feat.일석이조) 。"
 },
 
 {
@@ -3069,8 +3086,8 @@ const 출연콘텐츠Cards = [
   "date": "2022-03-02T16:12:02",
   "duration": "00:11:28",
   "thumbnail": "https://i.ytimg.com/vi/QW_7oTMBhbo/maxresdefault.jpg",
-  "alt": "민니의 스노우월드 EP.04 - 스키 초보 민니가 좋아하는 엘리시안 강촌❗ 🐍🐍뱀뱀은 좋지만 🐍뱀은 싫어! 뱀과 짜릿한 스킨십에 😫찐텐션 나와버린 튀밥냥▫️",
-  "title": "민니의 스노우월드 EP.04 - 스키 초보 민니가 좋아하는 엘리시안 강촌❗ 🐍🐍뱀뱀은 좋지만 🐍뱀은 싫어! 뱀과 짜릿한 스킨십에 😫찐텐션 나와버린 튀밥냥▫️"
+  "alt": "민니의 스노우월드 EP.04 - 스키 초보 민니가 좋아하는 엘리시안 강촌❗ 🐍🐍뱀뱀은 좋지만 🐍뱀은 싫어! 뱀과 짜릿한 스킨십에 😫찐텐션 나와버린 튀밥냥 。",
+  "title": "민니의 스노우월드 EP.04 - 스키 초보 민니가 좋아하는 엘리시안 강촌❗ 🐍🐍뱀뱀은 좋지만 🐍뱀은 싫어! 뱀과 짜릿한 스킨십에 😫찐텐션 나와버린 튀밥냥 。"
 },
 
 {
@@ -3091,8 +3108,8 @@ const 출연콘텐츠Cards = [
   "date": "2022-03-09T16:12:58",
   "duration": "00:00:34",
   "thumbnail": "https://i.ytimg.com/vi/HbGmjiyxtII/maxresdefault.jpg",
-  "alt": "민니의 스노우월드 EP.05 - 🐱민니의 초대!! 우석유토의 스노우월드!! 비발디파크 없는게 없잖아!! 눈썰매도 타고 놀이기구도 타고 온 썰▫️",
-  "title": "민니의 스노우월드 EP.05 - 🐱민니의 초대!! 우석유토의 스노우월드!! 비발디파크 없는게 없잖아!! 눈썰매도 타고 놀이기구도 타고 온 썰▫️"
+  "alt": "민니의 스노우월드 EP.05 - 🐱민니의 초대!! 우석유토의 스노우월드!! 비발디파크 없는게 없잖아!! 눈썰매도 타고 놀이기구도 타고 온 썰 。",
+  "title": "민니의 스노우월드 EP.05 - 🐱민니의 초대!! 우석유토의 스노우월드!! 비발디파크 없는게 없잖아!! 눈썰매도 타고 놀이기구도 타고 온 썰 。"
 },
 
 {
@@ -3234,8 +3251,8 @@ const 출연콘텐츠Cards = [
   "date": "2022-04-18T17:00:02",
   "duration": "00:05:11",
   "thumbnail": "https://i.ytimg.com/vi/41cInEM1HbA/sddefault.jpg",
-  "alt": "(Idol_Challenge - (G)I-DLE) 네버랜드야~ 아이들 챌린지, 여기바바!! (ENG sub)",
-  "title": "(Idol_Challenge - (G)I-DLE) 네버랜드야~ 아이들 챌린지, 여기바바!! (ENG sub)"
+  "alt": "(Idol_Challenge - (G)I-DLE) 네버랜드야~ 아이들 챌린지, 여기바바!! (ENG sub) | 아이돌챌린지 어나더클라스",
+  "title": "(Idol_Challenge - (G)I-DLE) 네버랜드야~ 아이들 챌린지, 여기바바!! (ENG sub) | 아이돌챌린지 어나더클라스"
 },
 
 {
@@ -3256,8 +3273,8 @@ const 출연콘텐츠Cards = [
   "date": "2022-04-22T17:00:07",
   "duration": "00:17:51",
   "thumbnail": "https://i.ytimg.com/vi/L6I-mYAVI_A/sddefault.jpg",
-  "alt": "(Idol_Challenge - (G)I-DLE ep-1) 네버버~ “드루와!! 나보여나??” (여자)아이들이얌 (ENG sub)",
-  "title": "(Idol_Challenge - (G)I-DLE ep-1) 네버버~ “드루와!! 나보여나??” (여자)아이들이얌 (ENG sub)"
+  "alt": "(Idol_Challenge - (G)I-DLE ep-1) 네버버~ “드루와!! 나보여나??” (여자)아이들이얌 (ENG sub) | 아이돌챌린지 어나더클라스",
+  "title": "(Idol_Challenge - (G)I-DLE ep-1) 네버버~ “드루와!! 나보여나??” (여자)아이들이얌 (ENG sub) | 아이돌챌린지 어나더클라스"
 },
 
 {
@@ -3267,8 +3284,8 @@ const 출연콘텐츠Cards = [
   "date": "2022-04-29T17:01:29",
   "duration": "00:23:42",
   "thumbnail": "https://i.ytimg.com/vi/oHS1LtikV0s/sddefault.jpg",
-  "alt": "(Idol_Challenge - (G)I-DLE ep-2) 네버버ㅋㅋ이번 챌린지도 참지 않긔… (ENG sub)",
-  "title": "(Idol_Challenge - (G)I-DLE ep-2) 네버버ㅋㅋ이번 챌린지도 참지 않긔… (ENG sub)"
+  "alt": "(Idol_Challenge - (G)I-DLE ep-2) 네버버ㅋㅋ이번 챌린지도 참지 않긔… (ENG sub)  | 아이돌챌린지 어나더클라스",
+  "title": "(Idol_Challenge - (G)I-DLE ep-2) 네버버ㅋㅋ이번 챌린지도 참지 않긔… (ENG sub)  | 아이돌챌린지 어나더클라스"
 },
 
 {
@@ -3509,8 +3526,8 @@ const 출연콘텐츠Cards = [
   "date": "2022-06-28T17:40:56",
   "duration": "01:33:06",
   "thumbnail": "https://i.ytimg.com/vi/hWyNf-4smog/sddefault.jpg",
-  "alt": "Seezn 마이 플레이리스트(MY PLAYLIST)▫️",
-  "title": "Seezn 마이 플레이리스트(MY PLAYLIST)▫️"
+  "alt": "Seezn 마이 플레이리스트(MY PLAYLIST) 。",
+  "title": "Seezn 마이 플레이리스트(MY PLAYLIST) 。"
 },
 
 {
@@ -3564,8 +3581,8 @@ const 출연콘텐츠Cards = [
   "date": "2022-07-20T17:40:54",
   "duration": "00:13:26",
   "thumbnail": "https://i.ytimg.com/vi/260zHeIhbkA/maxresdefault.jpg",
-  "alt": "[좋광고2] EP.2 잣막걸리｜미연이와 함께 배워보는 술자리 예절▫️",
-  "title": "[좋광고2] EP.2 잣막걸리｜미연이와 함께 배워보는 술자리 예절▫️"
+  "alt": "[좋광고2] EP.2 잣막걸리｜미연이와 함께 배워보는 술자리 예절 。",
+  "title": "[좋광고2] EP.2 잣막걸리｜미연이와 함께 배워보는 술자리 예절 。"
 },
 
 {
@@ -4326,7 +4343,16 @@ const 출연콘텐츠Cards = [
   "alt": "[EN/CN] 알바 첫날 이 정도면 약과지ㅣK-디저트ㅣ워크돌ㅣ슈화",
   "title": "ㅣ워크돌 | [EN/CN] 알바 첫날 이 정도면 약과지ㅣK-디저트ㅣ워크돌ㅣ슈화"
 },
-
+{
+  "link": "https://youtu.be/3alVhUqJNLE",
+  "category": "출연콘텐츠",
+  "member": "소연",
+  "date": "2023-05-25T22:48:52",
+  "duration": "00:11:44",
+  "thumbnail": "https://i.ytimg.com/vi/3alVhUqJNLE/maxresdefault.jpg",
+  "alt": "좋아하는 연예인의 노래를 들을 때, 눈앞에 나타난다면? #소연 | 수고했어 오늘도 2023 | 딩고스토리/dingo story 。",
+  "title": "좋아하는 연예인의 노래를 들을 때, 눈앞에 나타난다면? #소연 | 수고했어 오늘도 2023 | 딩고스토리/dingo story 。"
+},
 {
   "link": "https://youtu.be/Ca_vDKnMHaQ",
   "category": "출연콘텐츠",
@@ -4476,8 +4502,8 @@ const 출연콘텐츠Cards = [
   "date": "2023-06-30T04:54:27",
   "duration": "00:03:37",
   "thumbnail": "https://i.ytimg.com/vi/pIuncb8tNyc/maxresdefault.jpg",
-  "alt": "'셀러브리티' 9화 우기 컷 | 넷플릭스｜Celebrity YUQI cut | Netflix",
-  "title": "'셀러브리티' 9화 우기 컷 | 넷플릭스｜Celebrity YUQI cut | Netflix"
+  "alt": "▫️'셀러브리티' 9화 우기 컷 | 넷플릭스｜Celebrity YUQI cut | Netflix",
+  "title": "▫️'셀러브리티' 9화 우기 컷 | 넷플릭스｜Celebrity YUQI cut | Netflix"
 },
 
 
@@ -5097,6 +5123,16 @@ const 출연콘텐츠Cards = [
   "title": "📛미스태리 영업 종료📛 짐 싸고 썰 푼다🫣I 미스태리"
 },
 {
+  "link": "https://youtu.be/fzgtLOU97kw",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2024-02-09T18:00:35",
+  "duration": "00:07:33",
+  "thumbnail": "https://i.ytimg.com/vi/fzgtLOU97kw/maxresdefault.jpg",
+  "alt": "[Gotcha37] (여자)아이들이 녹음하면서 가장 많이 들은 말은? Random Q&A | (G)I-DLE 편 | Performance37 (Behind) (ENG/JPN)",
+  "title": "[Gotcha37] (여자)아이들이 녹음하면서 가장 많이 들은 말은? Random Q&A | (G)I-DLE 편 | Performance37 (Behind) (ENG/JPN)"
+},
+{
   "link": "https://youtu.be/vYBQtJ37VJ8",
   "category": "출연콘텐츠",
   "member": "아이들",
@@ -5698,60 +5734,6 @@ const 출연콘텐츠Cards = [
   "title": "[ENG SUB] (여자)아이들 미연💙의 뜬금 페이크?! 월드클래스의 기묘했던 시축 도전기✨(G)I-DLE MIYEON's Ceremonial kick-off Behind"
 },
 
-{
-  "link": "https://youtu.be/je19F-V_WPg",
-  "category": "출연콘텐츠",
-  "member": "민니",
-  "date": "2024-10-09T20:00:46",
-  "duration": "00:33:52",
-  "thumbnail": "https://i.ytimg.com/vi/je19F-V_WPg/sddefault.jpg",
-  "alt": "[ENG SUB] มินนี่ ทำดีดีลูก! หนูเป็นศิลปิน | ปากต่อปาก EP.33 | (G)I-DLE MINNIE",
-  "title": "[ENG SUB] มินนี่ ทำดีดีลูก! หนูเป็นศิลปิน | ปากต่อปาก EP.33 | (G)I-DLE MINNIE"
-},
-
-{
-  "link": "https://youtu.be/npr7MDAUAoU",
-  "category": "출연콘텐츠",
-  "member": "민니",
-  "date": "2024-10-16T21:01:03",
-  "duration": "00:41:09",
-  "thumbnail": "https://i.ytimg.com/vi/npr7MDAUAoU/sddefault.jpg",
-  "alt": "นัด “มินนี่ (G)I-DLE” ตั้งวงจกส้มตำปลาร้ากลางกรุงฯ @ตำกระเทยสาเกต | กี้ซดโอปโซ้ย EP.133",
-  "title": "(민니) นัด “มินนี่ (G)I-DLE” ตั้งวงจกส้มตำปลาร้ากลางกรุงฯ @ตำกระเทยสาเกต | กี้ซดโอปโซ้ย EP.133"
-},
-
-{
-  "link": "https://youtu.be/0jAUa7APMX4",
-  "category": "출연콘텐츠",
-  "member": "민니",
-  "date": "2024-10-17T10:26:55",
-  "duration": "02:03:34",
-  "thumbnail": "https://i.ytimg.com/vi/0jAUa7APMX4/sddefault.jpg",
-  "alt": "Live \"กรรมกรข่าว คุยนอกจอ\" 17 ตุลาคม 2567",
-  "title": "Live \"กรรมกรข่าว คุยนอกจอ\" 17 ตุลาคม 2567"
-},
-
-{
-  "link": "https://youtu.be/K1pNJbqu9_c",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2024-10-17T13:35:56",
-  "duration": "00:55:06",
-  "thumbnail": "https://i.ytimg.com/vi/K1pNJbqu9_c/sddefault.jpg",
-  "alt": "กรรมกรข่าวลุกเป็นไฟ คาลิสม่ากระจาย กับ \"(G)I-DLE\" 5 สาวหลากสัญชาติ สุดร้อนแรง",
-  "title": "กรรมกรข่าวลุกเป็นไฟ คาลิสม่ากระจาย กับ \"(G)I-DLE\" 5 สาวหลากสัญชาติ สุดร้อนแรง"
-},
-
-{
-  "link": "https://youtu.be/sh_FEpfNfuE",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2024-10-29T20:01:06",
-  "duration": "00:23:36",
-  "thumbnail": "https://i.ytimg.com/vi/sh_FEpfNfuE/sddefault.jpg",
-  "alt": "พา (G)I-DLE กินข้าวแกง! [GoyNattyDream]",
-  "title": "พา (G)I-DLE กินข้าวแกง! [GoyNattyDream]"
-},
 
 {
   "link": "https://youtu.be/V1l1MMVmrjM",
@@ -6423,7 +6405,16 @@ const 출연콘텐츠Cards = [
   "alt": "*밤늦게 시청 주의* 라면 4봉 먹방🔥 최현석&윤남노 셰프님에게 내민 도전장?!👩‍🍳ㅣ유퀴즈 불닭볶음면, 짜파게티",
   "title": "[미연.zip📁] *밤늦게 시청 주의* 라면 4봉 먹방🔥 최현석&윤남노 셰프님에게 내민 도전장?!👩‍🍳ㅣ유퀴즈 불닭볶음면, 짜파게티"
 },
-
+{
+  "link": "https://youtu.be/AxieRRnXsbs",
+  "category": "출연콘텐츠",
+  "member": "미연, 슈화",
+  "date": "2025-05-12T23:27:04",
+  "duration": "00:40:47",
+  "thumbnail": "https://i.ytimg.com/vi/AxieRRnXsbs/maxresdefault.jpg",
+  "alt": "Lemino [ZEROBASEONEの万能オフィス] 만능오피스 EP.03 - 미연 슈화  。",
+  "title": "Lemino [ZEROBASEONEの万能オフィス] 만능오피스 EP.03 - 미연 슈화  。"
+},
 {
   "link": "https://youtu.be/eh170Gs1qTc",
   "category": "출연콘텐츠",
@@ -6544,7 +6535,16 @@ const 출연콘텐츠Cards = [
   "alt": "[미연.zip📁] *텐션 주의* 미연 기 빨리는 아이들 완전체의 들망진창 토크🫨 | 노래 라이브, Good Thing",
   "title": "[미연.zip📁] *텐션 주의* 미연 기 빨리는 아이들 완전체의 들망진창 토크🫨 | 노래 라이브, Good Thing"
 },
-
+{
+  "link": "https://youtu.be/fz6F27IsVKU",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2025-05-25T14:00:45",
+  "duration": "00:07:30",
+  "thumbnail": "https://i.ytimg.com/vi/fz6F27IsVKU/maxresdefault.jpg",
+  "alt": "▫️[미방분] 250525 미연.zip deleted",
+  "title": "▫️[미방분] 250525 미연.zip deleted"
+},
 {
   "link": "https://youtu.be/3po5N8EHSVc",
   "category": "출연콘텐츠",
@@ -6554,6 +6554,16 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/3po5N8EHSVc/sddefault.jpg",
   "alt": "‘마피아’ 미연, 조용히 런닝맨 멤버들 암살 후 윙크 세리머니★",
   "title": "‘마피아’ 미연, 조용히 런닝맨 멤버들 암살 후 윙크 세리머니★"
+},
+{
+  "link": "https://youtu.be/fkhexSy7BkU",
+  "category": "출연콘텐츠",
+  "member": "미연, 슈화",
+  "date": "2025-05-26T23:27:38",
+  "duration": "00:38:55",
+  "thumbnail": "https://i.ytimg.com/vi/fkhexSy7BkU/maxresdefault.jpg",
+  "alt": "Lemino [ZEROBASEONEの万能オフィス] 만능오피스 EP.04 - 미연 슈화  。",
+  "title": "Lemino [ZEROBASEONEの万能オフィス] 만능오피스 EP.04 - 미연 슈화  。"
 },
 
 {
@@ -6587,6 +6597,28 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/sJFegjopCRA/sddefault.jpg",
   "alt": "[ENG SUB] 십년지기 동생과 또 다른 동생의 대환장 달팽이관 공격 👂🏻🙉 l EP11 l 조현아의 평범한 목요일 밤",
   "title": "[ENG SUB] 십년지기 동생과 또 다른 동생의 대환장 달팽이관 공격 👂🏻🙉 l EP11 l 조현아의 평범한 목요일 밤"
+},
+
+{
+  "link": "https://youtu.be/rhQh6m74DGU",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2025-05-30T04:16:31",
+  "duration": "00:24:40",
+  "thumbnail": "https://i.ytimg.com/vi/rhQh6m74DGU/hqdefault.jpg",
+  "alt": "[FULL] i-dle’s Most Unfiltered & Unstoppable Spotify House Party。",
+  "title": "[FULL] i-dle’s Most Unfiltered & Unstoppable Spotify House Party。"
+},
+
+{
+  "link": "https://youtu.be/pVZmyo0kgxQ",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2025-06-01T04:17:08",
+  "duration": "00:15:37",
+  "thumbnail": "https://i.ytimg.com/vi/pVZmyo0kgxQ/hqdefault.jpg",
+  "alt": "i-dle rolls the dice with their contracts on the line? | Spotify Roll & Rock: Dice Challenge。",
+  "title": "i-dle rolls the dice with their contracts on the line? | Spotify Roll & Rock: Dice Challenge。"
 },
 
 {
@@ -6882,8 +6914,8 @@ const 출연콘텐츠Cards = [
   "date": "2025-08-26T02:30:57",
   "duration": "00:04:43",
   "thumbnail": "https://i.ytimg.com/vi/G1h2hXoqDXE/maxresdefault.jpg",
-  "alt": "(ENG/한) 景德鎮 VLOG (小红书 슈화 브이로그 ep.1)◾️",
-  "title": "(ENG/한) 景德鎮 VLOG (小红书 슈화 브이로그 ep.1)◾️"
+  "alt": "▫️(ENG/한) 景德鎮 VLOG (小红书 슈화 브이로그 ep.1)",
+  "title": "▫️(ENG/한) 景德鎮 VLOG (小红书 슈화 브이로그 ep.1)"
 },
 {
   "link": "https://youtu.be/1LndTUQb6zw",
@@ -6892,8 +6924,8 @@ const 출연콘텐츠Cards = [
   "date": "2025-08-26T02:30:58",
   "duration": "00:04:43",
   "thumbnail": "https://i.ytimg.com/vi/1LndTUQb6zw/maxresdefault.jpg",
-  "alt": "(NO SUB) 景德镇vlog💕 (小红书  슈화 브이로그 ep.1)▫️",
-  "title": "(NO SUB) 景德镇vlog💕 (小红书  슈화 브이로그 ep.1)▫️"
+  "alt": "(NO SUB) 景德镇vlog💕 (小红书  슈화 브이로그 ep.1) 。",
+  "title": "(NO SUB) 景德镇vlog💕 (小红书  슈화 브이로그 ep.1) 。"
 },
 {
   "link": "https://youtu.be/Bq9MDmeQQgs",
@@ -6924,8 +6956,8 @@ const 출연콘텐츠Cards = [
   "date": "2025-08-28T08:53:47",
   "duration": "00:04:08",
   "thumbnail": "https://i.ytimg.com/vi/254Da8pg0X8/maxresdefault.jpg",
-  "alt": "(ENG/한) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)◾️",
-  "title": "(ENG/한) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)◾️"
+  "alt": "▫️(ENG/한) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)",
+  "title": "▫️(ENG/한) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)"
 },
 {
   "link": "https://youtu.be/254Da8pg0X8",
@@ -6934,8 +6966,8 @@ const 출연콘텐츠Cards = [
   "date": "2025-08-28T08:53:48",
   "duration": "00:04:08",
   "thumbnail": "https://i.ytimg.com/vi/254Da8pg0X8/maxresdefault.jpg",
-  "alt": "(NO SUB) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)▫️",
-  "title": "(NO SUB) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)▫️"
+  "alt": "(NO SUB) Vlog 2~💕 (小红书  슈화 브이로그 ep.2) 。",
+  "title": "(NO SUB) Vlog 2~💕 (小红书  슈화 브이로그 ep.2) 。"
 },
 {
   "link": "https://youtu.be/z9P6Px9w9r0",
@@ -6955,8 +6987,8 @@ const 출연콘텐츠Cards = [
   "date": "2025-08-30T08:54:06",
   "duration": "00:05:38",
   "thumbnail": "https://i.ytimg.com/vi/8rcYiXwVtC4/maxresdefault.jpg",
-  "alt": "(ENG/한) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)◾️",
-  "title": "(ENG/한) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)◾️"
+  "alt": "▫️(ENG/한) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)",
+  "title": "▫️(ENG/한) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)"
 },
 
 {
@@ -6966,8 +6998,8 @@ const 출연콘텐츠Cards = [
   "date": "2025-08-30T20:10:53",
   "duration": "00:05:38",
   "thumbnail": "https://i.ytimg.com/vi/8rcYiXwVtC4/maxresdefault.jpg",
-  "alt": "(NO SUB) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)▫️",
-  "title": "(NO SUB) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)▫️"
+  "alt": "(NO SUB) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3) 。",
+  "title": "(NO SUB) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3) 。"
 },
 
 {
@@ -7065,8 +7097,8 @@ const 출연콘텐츠Cards = [
   "date": "2025-09-19T01:43:49",
   "duration": "00:30:04",
   "thumbnail": "https://i.ytimg.com/vi/WPwwmjTm9nk/maxresdefault.jpg",
-  "alt": "[FULL SUB] 「歌謡大典が終わったら売店歌謡」 인기가요 끝나면 매점가요 | 2025 SBS 가요대전 Summer",
-  "title": "[FULL SUB] 「歌謡大典が終わったら売店歌謡」 인기가요 끝나면 매점가요 | 2025 SBS 가요대전 Summer"
+  "alt": "▫️[FULL SUB] 「歌謡大典が終わったら売店歌謡」 인기가요 끝나면 매점가요 | 2025 SBS 가요대전 Summer",
+  "title": "▫️[FULL SUB] 「歌謡大典が終わったら売店歌謡」 인기가요 끝나면 매점가요 | 2025 SBS 가요대전 Summer"
 },
 
 {
@@ -7221,6 +7253,16 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/Wwvk3BCbgeU/maxresdefault.jpg",
   "alt": "[SUB] 范少勳, 本來是為了宣傳才來的.. 結果卻公開告白了💝 | 鑑定師 Global EP.5 | i-dle 舒華 #감별사",
   "title": "[SUB] 范少勳, 本來是為了宣傳才來的.. 結果卻公開告白了💝 | 鑑定師 Global EP.5 | i-dle 舒華 #감별사"
+},
+{
+  "link": "https://youtu.be/ucDZi3S6Qlk",
+  "category": "출연콘텐츠",
+  "member": "미연",
+  "date": "2025-10-09T16:43:21",
+  "duration": "00:00:47",
+  "thumbnail": "https://i.ytimg.com/vi/ucDZi3S6Qlk/maxresdefault.jpg",
+  "alt": "[Deleted] - [티저] 설렘만 가득한 여행만 기대하셨다면, 크나큰 오산입니다 | TRIPKODE 。",
+  "title": "[Deleted] - [티저] 설렘만 가득한 여행만 기대하셨다면, 크나큰 오산입니다 | TRIPKODE 。"
 },
 
 {
@@ -7410,14 +7452,14 @@ const 출연콘텐츠Cards = [
   "title": "👑 ‘공주’ 미연의 가방 공개! 미연이 절대 없으면 안 되는 10가지 아이템은 뭘까?! [MLB Korea]"
 },
 {
-  "link": "https://youtu.be/I_q1y7bhsoc",
+  "link": "https://youtu.be/p_MpRzcP0KY",
   "category": "출연콘텐츠",
   "member": "미연",
   "date": "2025-11-16T23:55:33",
   "duration": "00:03:06",
-  "thumbnail": "https://i.ytimg.com/vi/I_q1y7bhsoc/maxresdefault.jpg",
-  "alt": "JTBC 예능 '최강야구' 미연 시구",
-  "title": "JTBC 예능 '최강야구' 미연 시구"
+  "thumbnail": "https://i.ytimg.com/vi/p_MpRzcP0KY/maxresdefault.jpg",
+  "alt": "JTBC 예능 '최강야구' 미연 시구 。",
+  "title": "JTBC 예능 '최강야구' 미연 시구 。"
 },
 {
   "link": "https://youtu.be/6w_rfwf5iLU",
@@ -7439,17 +7481,6 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/yyPoHBChrVg/maxresdefault.jpg",
   "alt": "미연이 직접 공개! 아이들 멤버들과 어떻게 친해졌는지 알려주는 썰 대방출! [MLB Korea]",
   "title": "미연이 직접 공개! 아이들 멤버들과 어떻게 친해졌는지 알려주는 썰 대방출! [MLB Korea]"
-},
-
-{
-  "link": "https://youtu.be/W7HIKNpWAdY",
-  "category": "출연콘텐츠",
-  "member": "민니",
-  "date": "2025-11-20T20:01:08",
-  "duration": "00:24:28",
-  "thumbnail": "https://i.ytimg.com/vi/W7HIKNpWAdY/maxresdefault.jpg",
-  "alt": "[12:18~] Collaboration | I-KNOW.zip #4",
-  "title": "[12:18~] Collaboration | I-KNOW.zip #4"
 },
 
 {
@@ -7565,6 +7596,87 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/1EeRmePfOEs/maxresdefault.jpg",
   "alt": "[EN] 이렇게까지 다 말할 줄 몰랐어 (feat. 거짓말탐지기) | EP.03 아이들 미연 민니 | 트루만쇼",
   "title": "[EN] 이렇게까지 다 말할 줄 몰랐어 (feat. 거짓말탐지기) | EP.03 아이들 미연 민니 | 트루만쇼"
+},
+{
+  "link": "https://youtu.be/IVQCHaW56m0",
+  "category": "OST참여곡",
+  "member": "소연",
+  "date": "2026-01-22T21:15:00",
+  "duration": "00:07:23",
+  "thumbnail": "https://i.ytimg.com/vi/IVQCHaW56m0/maxresdefault.jpg",
+  "alt": "[abyss]  abyss",
+  "title": "[abyss]  abyss"
+},
+{
+  "link": "https://youtu.be/vp63XKDFPKQ",
+  "category": "출연콘텐츠",
+  "member": "소연",
+  "date": "2026-02-19T22:26:13",
+  "duration": "00:26:08",
+  "thumbnail": "https://i.ytimg.com/vi/vp63XKDFPKQ/maxresdefault.jpg",
+  "alt": "[abyss]  녹음",
+  "title": "[abyss]  녹음"
+},
+{
+  "link": "https://youtu.be/ROZ-lDPaQjk",
+  "category": "출연콘텐츠",
+  "member": "미연",
+  "date": "2026-02-24T12:56:42",
+  "duration": "00:23:21",
+  "thumbnail": "https://i.ytimg.com/vi/ROZ-lDPaQjk/maxresdefault.jpg",
+  "alt": "💗초미녀 시구요정💗 등장에 브레이커스 불펜장 집합✨ㅣ직관 스페셜 매치 비하인드⚾",
+  "title": "💗초미녀 시구요정💗 등장에 브레이커스 불펜장 집합✨ㅣ직관 스페셜 매치 비하인드⚾"
+},
+{
+  "link": "https://youtu.be/xXIhlT45_J4",
+  "category": "출연콘텐츠",
+  "member": "미연",
+  "date": "2026-02-24T00:39:40",
+  "duration": "00:11:46",
+  "thumbnail": "https://i.ytimg.com/vi/xXIhlT45_J4/maxresdefault.jpg",
+  "alt": "[미공개] 이제는 완성형 시구자❣ 오늘의 '승리 요정' 미연 비하인드🎬 | 최강야구",
+  "title": "[미공개] 이제는 완성형 시구자❣ 오늘의 '승리 요정' 미연 비하인드🎬 | 최강야구"
+},
+{
+  "link": "https://youtu.be/ZI9hcaOXtpM",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2026-02-27T18:55:06",
+  "duration": "00:28:22",
+  "thumbnail": "https://i.ytimg.com/vi/ZI9hcaOXtpM/maxresdefault.jpg",
+  "alt": "아이들 제대로 🤍모🤍셨습니다 오늘은 마음껏 🖤노🖤올자🥳 소확행 만땅☘️ 매점 회식〰️🎤 #인기가요끝나면매점가요2 EP.2 #idle |SUB",
+  "title": "아이들 제대로 🤍모🤍셨습니다 오늘은 마음껏 🖤노🖤올자🥳 소확행 만땅☘️ 매점 회식〰️🎤 #인기가요끝나면매점가요2 EP.2 #idle |SUB"
+},
+
+{
+  "link": "https://youtu.be/Ge2wqrITfbo",
+  "category": "출연콘텐츠",
+  "member": "소연",
+  "date": "2026-03-02T21:00:00",
+  "duration": "00:11:29",
+  "thumbnail": "https://i.ytimg.com/vi/Ge2wqrITfbo/maxresdefault.jpg",
+  "alt": "[abyss]  Red Hot Chili Peppers",
+  "title": "[abyss]  Red Hot Chili Peppers"
+},
+{
+  "link": "https://youtu.be/V0eEifvMpdc",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2019-03-15T11:00:01",
+  "duration": "00:55:27",
+  "thumbnail": "https://i.ytimg.com/vi/V0eEifvMpdc/sddefault.jpg",
+  "alt": "[MEET&GREET] 190315 (G)I-DLE ((여자)아이들) 2ND MINI ALBUM 'I MADE' (ENG SUB / FULL)",
+  "title": "[MEET&GREET] 190315 (G)I-DLE ((여자)아이들) 2ND MINI ALBUM 'I MADE' (ENG SUB / FULL)"
+},
+{
+  "link": "https://youtu.be/Gu2ogHxUrq4",
+  "category": "출연콘텐츠",
+  "member": "소연",
+  "date": "2026-03-17T19:00:00",
+  "duration": "00:02:22",
+  "thumbnail": "https://i.ytimg.com/vi/Gu2ogHxUrq4/maxresdefault.jpg",
+  "alt": "[abyss] 아이스블루래빗 연습영상",
+  "title": "[abyss] 아이스블루래빗 연습영상"
 }
 
 

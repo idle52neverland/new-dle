@@ -505,14 +505,14 @@ const 공식채널Cards = [
 },
 
 {
-  "link": "https://weverse.io/i-dle/media/0-111421921?hl=ko",
+  "link": "https://youtu.be/lEDNk0tiY6Y",
   "category": "공식채널",
   "member": "아이들",
-  "date": "2018-08-22T18:00:00",
-  "duration": "00:08:00",
-  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfNjcg/MDAxNjcyODkxNDMxODI3.KK6FBgAKWm8JzgfMekWDHla26xLKrgQVPnkPOzFMbxEg.jwCxcpheXuCs8TfNhNpwtl5Q9EgyjVhs-I-2tSWV9D8g.JPEG/upload_thu.jpg?type=f640_360",
-  "alt": "(여자)아이들 - VLOG in NEW YORK #1 : 뉴욕 가는 (여자)아이들 [weverse]",
-  "title": "(여자)아이들 - VLOG in NEW YORK #1 : 뉴욕 가는 (여자)아이들 [weverse]",
+  "date": "2018-08-22T19:35:07",
+  "duration": "00:08:01",
+  "thumbnail": "https://i.ytimg.com/vi/lEDNk0tiY6Y/hqdefault.jpg",
+  "alt": "(여자)아이들 - VLOG in NEW YORK #1  뉴욕 가는 여자아이들 。",
+  "title": "(여자)아이들 - VLOG in NEW YORK #1  뉴욕 가는 여자아이들 。",
   "subtag": "I-LOG"
 },
 
@@ -529,26 +529,26 @@ const 공식채널Cards = [
 },
 
 {
-  "link": "https://weverse.io/i-dle/media/4-110663454?hl=ko",
+  "link": "https://youtu.be/bgNpyFJTseQ",
   "category": "공식채널",
   "member": "아이들",
-  "date": "2018-08-29T18:00:00",
-  "duration": "00:10:18",
-  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfNjMg/MDAxNjcyODkxNDMyMzM0.P3QlBLSAVo-wkmv-iGx3yIrvJt7yGziLnwPYr31VARQg.axUYy8WaHu5CVlHQBrNjgljuGL1p6lowJXg60NBVPXkg.JPEG/upload_whats_on_cube_featurette_thumbnail.jpg?type=f640_360",
-  "alt": "(여자)아이들 - VLOG in NEW YORK #2 : 뉴욕 팬과의 깜짝만남! [weverse]",
-  "title": "(여자)아이들 - VLOG in NEW YORK #2 : 뉴욕 팬과의 깜짝만남! [weverse]",
+  "date": "2018-08-29T19:36:45",
+  "duration": "00:10:20",
+  "thumbnail": "https://i.ytimg.com/vi/bgNpyFJTseQ/hqdefault.jpg",
+  "alt": "(여자)아이들 - VLOG in NEW YORK #2  뉴욕 팬과의 깜짝만남! 。",
+  "title": "(여자)아이들 - VLOG in NEW YORK #2  뉴욕 팬과의 깜짝만남! 。",
   "subtag": "I-LOG"
 },
 
 {
-  "link": "https://weverse.io/i-dle/media/0-111421923?hl=ko",
+  "link": "https://youtu.be/WYRa-yCIcgw",
   "category": "공식채널",
   "member": "아이들",
-  "date": "2018-09-05T18:00:00",
-  "duration": "00:14:37",
-  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfODcg/MDAxNjcyODkxNDMyODAx.cLbUHeUkpI2g9WaPECt_s6Y2IO0e89jRiSadPaGuiPcg.CgSYbiwN_jKPNh7kqqlhysAspjraI5sT0I9J5eL3HSMg.JPEG/upload_whats_on_cube_featurette_thumbnail.jpg?type=f640_360",
-  "alt": "(여자)아이들 - VLOG in NEW YORK #3 : (여자)아이들의 위시리스트 [weverse]",
-  "title": "(여자)아이들 - VLOG in NEW YORK #3 : (여자)아이들의 위시리스트 [weverse]",
+  "date": "2018-09-05T19:38:23",
+  "duration": "00:14:38",
+  "thumbnail": "https://i.ytimg.com/vi/WYRa-yCIcgw/hqdefault.jpg",
+  "alt": "(여자)아이들 - VLOG in NEW YORK #3  여자아이들의 위시리스트 。",
+  "title": "(여자)아이들 - VLOG in NEW YORK #3  여자아이들의 위시리스트 。",
   "subtag": "I-LOG"
 },
 
@@ -907,11 +907,21 @@ const 공식채널Cards = [
   "date": "2019-02-28T19:00:12",
   "duration": "00:10:13",
   "thumbnail": "https://i.ytimg.com/vi/nLKPXoxPGfI/maxresdefault.jpg",
-  "alt": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON'",
-  "title": "소연 - (여자)아이들((G)I-DLE) - 'MADE by SOYEON'",
+  "alt": "(여자)아이들((G)I-DLE) - 'MADE by SOYEON'",
+  "title": "(여자)아이들((G)I-DLE) - 'MADE by SOYEON'",
   "subtag": "스페셜 콘텐츠"
 },
-
+{
+  "link": "https://youtu.be/3XBonxDWnQY",
+  "category": "공식채널",
+  "member": "소연",
+  "date": "2019-03-01T19:58:32",
+  "duration": "00:16:44",
+  "thumbnail": "https://i.ytimg.com/vi/3XBonxDWnQY/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) 'MADE by SOYEON' Part 2  。",
+  "title": "(여자)아이들((G)I-DLE) 'MADE by SOYEON' Part 2  。",
+  "subtag": "스페셜 콘텐츠"
+},
 {
   "link": "https://youtu.be/rhBa2_-qw00",
   "category": "공식채널",
@@ -1063,8 +1073,8 @@ const 공식채널Cards = [
   "date": "2019-06-18T19:39:36",
   "duration": "00:15:24",
   "thumbnail": "https://i.ytimg.com/vi/4wts4pUvZFg/hqdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기▫️",
-  "title": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기▫️",
+  "alt": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기 。",
+  "title": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기 。",
   "subtag": "스페셜 콘텐츠"
 },
 
@@ -1369,14 +1379,14 @@ const 공식채널Cards = [
 },
 
 {
-  "link": "https://weverse.io/i-dle/media/3-110666558",
+  "link": "https://youtu.be/J_tZkikgm2o",
   "category": "공식채널",
   "member": "아이들",
-  "date": "2019-09-15T18:00:00",
-  "duration": "00:10:19",
-  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfMjYx/MDAxNjcyODkxNDI4MTI4.3Um-OgLNANH4KD8y7Z4mXxM2g07L5v4WEVzOWShYvUQg.f0dNIuiVGfyIOeiiVhWcGzOh4GJ6zlZPpmsmyQo93okg.JPEG/upload_28G29I-DLE_I-TALK2341_Soribada_Awards_BTS_Thumbnail.jpg?type=f640_360",
-  "alt": "(여자)아이들 - I-TALK #41 : 2019 소리바다 어워즈 비하인드 [weverse]",
-  "title": "(여자)아이들 - I-TALK #41 : 2019 소리바다 어워즈 비하인드 [weverse]",
+  "date": "2019-09-15T19:42:30",
+  "duration": "00:10:20",
+  "thumbnail": "https://i.ytimg.com/vi/J_tZkikgm2o/hqdefault.jpg",
+  "alt": "(여자)아이들 - I TALK #41  2019 소리바다 어워즈 비하인드 。",
+  "title": "(여자)아이들 - I TALK #41  2019 소리바다 어워즈 비하인드 。",
   "subtag": "I-TALK"
 },
 
@@ -11638,7 +11648,164 @@ const 공식채널Cards = [
   "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video",
   "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video",
   "subtag": "Music Videos"
+},
+{
+  "link": "https://youtu.be/qXXR1ggyAIA",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-02-10T10:01:09",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/qXXR1ggyAIA/maxresdefault.jpg",
+  "alt": "2026 i-dle WORLD TOUR [Syncopation] SPOT",
+  "title": "2026 i-dle WORLD TOUR [Syncopation] SPOT",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/xH554IQXTU8",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-02-10T19:01:30",
+  "duration": "00:07:45",
+  "thumbnail": "https://i.ytimg.com/vi/xH554IQXTU8/maxresdefault.jpg",
+  "alt": "'Mono (Feat. skaiwater)' Mega Crew Performance Video 촬영 비하인드 [i-talk] #237 | i-dle (아이들)ㅣSUB",
+  "title": "'Mono (Feat. skaiwater)' Mega Crew Performance Video 촬영 비하인드 [i-talk] #237 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/6_Qv2ZQqDz0",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-02-11T17:30:05",
+  "duration": "00:00:36",
+  "thumbnail": "https://i.ytimg.com/vi/6_Qv2ZQqDz0/maxresdefault.jpg",
+  "alt": "i-dle (아이들) OFFICIAL LIGHT STICK VER.3 TEASER VIDEO 💜💍",
+  "title": "i-dle (아이들) OFFICIAL LIGHT STICK VER.3 TEASER VIDEO 💜💍",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/4A3BdwWcYrU",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-02-11T18:00:07",
+  "duration": "00:02:50",
+  "thumbnail": "https://i.ytimg.com/vi/4A3BdwWcYrU/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' LIVE CLIP (Split Screen Ver.)",
+  "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' LIVE CLIP (Split Screen Ver.)",
+  "subtag": "Performance"
+},
+{
+  "link": "https://youtu.be/E2syjjP8IxU",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-02-14T19:00:17",
+  "duration": "00:08:56",
+  "thumbnail": "https://i.ytimg.com/vi/E2syjjP8IxU/maxresdefault.jpg",
+  "alt": "'Mono (Feat. skaiwater)' Choreography Practice Video 촬영 비하인드 [i-talk] #238 | i-dle (아이들)ㅣSUB",
+  "title": "'Mono (Feat. skaiwater)' Choreography Practice Video 촬영 비하인드 [i-talk] #238 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/iy5q8EYFvPE",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-02-17T18:00:54",
+  "duration": "00:02:51",
+  "thumbnail": "https://i.ytimg.com/vi/iy5q8EYFvPE/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Mono (Feat. skaiwater)' Vertical Performance Video",
+  "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Vertical Performance Video",
+  "subtag": "Performance"
+},
+{
+  "link": "https://youtu.be/oU_J0lmN2CU",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-02-20T19:01:25",
+  "duration": "00:24:03",
+  "thumbnail": "https://i.ytimg.com/vi/oU_J0lmN2CU/maxresdefault.jpg",
+  "alt": "'Mono (Feat. skaiwater)' 음악방송 비하인드 PART 1 [i-talk] #239 | i-dle (아이들)ㅣSUB",
+  "title": "'Mono (Feat. skaiwater)' 음악방송 비하인드 PART 1 [i-talk] #239 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/dFLEs2W-q2Y",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-02-23T19:01:02",
+  "duration": "00:28:38",
+  "thumbnail": "https://i.ytimg.com/vi/dFLEs2W-q2Y/maxresdefault.jpg",
+  "alt": "'Mono (Feat. skaiwater)' M/V 촬영 비하인드 [i-talk] #240 | i-dle (아이들)ㅣSUB",
+  "title": "'Mono (Feat. skaiwater)' M/V 촬영 비하인드 [i-talk] #240 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/9TCK3Sbohbg",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-02-27T19:00:23",
+  "duration": "00:21:14",
+  "thumbnail": "https://i.ytimg.com/vi/9TCK3Sbohbg/maxresdefault.jpg",
+  "alt": "'Mono (Feat. skaiwater)' 음악방송 비하인드 PART 2 [i-talk] #241 | i-dle (아이들)ㅣSUB",
+  "title": "'Mono (Feat. skaiwater)' 음악방송 비하인드 PART 2 [i-talk] #241 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/-jaDrUS_AcA",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2026-03-10T22:00:01",
+  "duration": "00:06:56",
+  "thumbnail": "https://i.ytimg.com/vi/-jaDrUS_AcA/maxresdefault.jpg",
+  "alt": "미연 공주의 Marni FW26 패션쇼 비하인드 현장 💕 [#HASHTALK] EP.47ㅣi-dle (아이들)ㅣSUB",
+  "title": "미연 공주의 Marni FW26 패션쇼 비하인드 현장 💕 [#HASHTALK] EP.47ㅣi-dle (아이들)ㅣSUB",
+  "subtag": "HASHTALK"
+},
+{
+  "link": "https://youtu.be/sYY2egj-YXc",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-03-15T19:01:16",
+  "duration": "00:20:12",
+  "thumbnail": "https://i.ytimg.com/vi/sYY2egj-YXc/maxresdefault.jpg",
+  "alt": "2026 i-dle WORLD TOUR [Syncopation] Behind the Rhythm EP.01 | i-dle (아이들)ㅣSUB",
+  "title": "2026 i-dle WORLD TOUR [Syncopation] Behind the Rhythm EP.01 | i-dle (아이들)ㅣSUB",
+  "subtag": "콘서트 비하인드"
+},
+{
+  "link": "https://youtu.be/jGEdl8Nw7oU",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2026-03-17T22:01:26",
+  "duration": "00:05:41",
+  "thumbnail": "https://i.ytimg.com/vi/jGEdl8Nw7oU/maxresdefault.jpg",
+  "alt": "우기의 LA DAY OFF (Feat. LA 레이커스 경기 직관) [i-log] #46 🏀 | i-dle (아이들)ㅣSUB",
+  "title": "우기의 LA DAY OFF (Feat. LA 레이커스 경기 직관) [i-log] #46 🏀 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-LOG"
+},
+{
+  "link": "https://youtu.be/xweftIorbF8",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-03-19T19:01:38",
+  "duration": "00:07:51",
+  "thumbnail": "https://i.ytimg.com/vi/xweftIorbF8/maxresdefault.jpg",
+  "alt": "'The Kelly Clarkson Show' 촬영 비하인드 [i-talk] #242 | i-dle (아이들)ㅣSUB",
+  "title": "'The Kelly Clarkson Show' 촬영 비하인드 [i-talk] #242 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/DEofhN7oun0",
+  "category": "공식채널",
+  "member": "민니",
+  "date": "2026-03-24T22:00:23",
+  "duration": "00:06:14",
+  "thumbnail": "https://i.ytimg.com/vi/DEofhN7oun0/maxresdefault.jpg",
+  "alt": "민니의 LA DAY OFF [i-log] #47 😋 | i-dle (아이들)ㅣSUB",
+  "title": "민니의 LA DAY OFF [i-log] #47 😋 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-LOG"
 }
+
+
+
 
 ];
 window.공식채널Cards = 공식채널Cards;

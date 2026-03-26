@@ -199,17 +199,6 @@ const 매거진인터뷰Cards = [
 },
 
 {
-  "link": "https://youtu.be/V0eEifvMpdc",
-  "category": "매거진인터뷰",
-  "member": "아이들",
-  "date": "2019-03-29T11:08:39",
-  "duration": "00:55:27",
-  "thumbnail": "https://i.ytimg.com/vi/V0eEifvMpdc/sddefault.jpg",
-  "alt": "[MEET&GREET] 190315 (G)I-DLE ((여자)아이들) 2ND MINI ALBUM 'I MADE' (ENG SUB / FULL)",
-  "title": "[MEET&GREET] 190315 (G)I-DLE ((여자)아이들) 2ND MINI ALBUM 'I MADE' (ENG SUB / FULL)"
-},
-
-{
   "link": "https://youtu.be/r7egXBZRM7o",
   "category": "매거진인터뷰",
   "member": "아이들",
@@ -340,7 +329,16 @@ const 매거진인터뷰Cards = [
   "alt": "(G)I-DLE Reviews Latin American SnacksㅣSnack Talk",
   "title": "(G)I-DLE Reviews Latin American SnacksㅣSnack Talk"
 },
-
+{
+  "link": "https://youtu.be/L2v6BuomIlU",
+  "category": "매거진인터뷰",
+  "member": "아이들",
+  "date": "2019-06-26T18:23:11",
+  "duration": "00:07:50",
+  "thumbnail": "https://i.ytimg.com/vi/L2v6BuomIlU/maxresdefault.jpg",
+  "alt": "(G)I-DLE chats to Andy Trieu about culture shock & guess Aussie slang",
+  "title": "(G)I-DLE chats to Andy Trieu about culture shock & guess Aussie slang"
+},
 {
   "link": "https://youtu.be/jfzm4KxmPyA",
   "category": "매거진인터뷰",
@@ -383,6 +381,17 @@ const 매거진인터뷰Cards = [
   "thumbnail": "https://i.ytimg.com/vi/sce5ct7nCVE/sddefault.jpg",
   "alt": "[ENG SUB] (여자)아이들과의 TMI 인터뷰 (TMI interview with (여자)아이들)",
   "title": "[ENG SUB] (여자)아이들과의 TMI 인터뷰 (TMI interview with (여자)아이들)"
+},
+
+{
+  "link": "https://youtu.be/ACvL3hHpFbw",
+  "category": "매거진인터뷰",
+  "member": "민니",
+  "date": "2020-01-13T17:27:13",
+  "duration": "00:04:53",
+  "thumbnail": "https://i.ytimg.com/vi/ACvL3hHpFbw/maxresdefault.jpg",
+  "alt": "Marie Claire Korea | Pop Quiz 。",
+  "title": "Marie Claire Korea | Pop Quiz 。"
 },
 
 {
@@ -472,7 +481,16 @@ const 매거진인터뷰Cards = [
   "alt": "(G)I-DLE Reveals Who Has the Most Aegyo, Who's the Best Singer, and More | Superlatives",
   "title": "(G)I-DLE Reveals Who Has the Most Aegyo, Who's the Best Singer, and More | Superlatives"
 },
-
+{
+  "link": "https://youtu.be/eQm4vAdFCQU",
+  "category": "매거진인터뷰",
+  "member": "아이들",
+  "date": "2020-05-26T01:00:24",
+  "duration": "00:04:03",
+  "thumbnail": "https://i.ytimg.com/vi/eQm4vAdFCQU/maxresdefault.jpg",
+  "alt": "(G)I-DLE Sings \"Oh my god,\" TWICE, and Jackson Wang in a Game of Song Association | ELLE",
+  "title": "(G)I-DLE Sings \"Oh my god,\" TWICE, and Jackson Wang in a Game of Song Association | ELLE"
+},
 {
   "link": "https://youtu.be/-ZeDaxqB8BM",
   "category": "매거진인터뷰",
@@ -1041,8 +1059,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-04-01T23:30:35",
   "duration": "01:05:38",
   "thumbnail": "https://i.ytimg.com/vi/c8780vEbx1k/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8◾️",
-  "title": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8◾️"
+  "alt": "▫️[ENG] Mindset (마인드셋) | MINNIE Ep.0–8",
+  "title": "▫️[ENG] Mindset (마인드셋) | MINNIE Ep.0–8"
 },
 
 {
@@ -1261,8 +1279,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-07-29T22:47:06",
   "duration": "01:26:36",
   "thumbnail": "https://i.ytimg.com/vi/srJWnrV_6bw/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8◾️",
-  "title": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8◾️"
+  "alt": "▫️[ENG] Mindset (마인드셋) | SOYEON Ep.0–8",
+  "title": "▫️[ENG] Mindset (마인드셋) | SOYEON Ep.0–8"
 },
 
 {
@@ -1613,8 +1631,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-04-14T07:41:53",
   "duration": "00:42:51",
   "thumbnail": "https://i.ytimg.com/vi/ipoZi84MvCM/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6◾️",
-  "title": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6◾️"
+  "alt": "▫️[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6",
+  "title": "▫️[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6"
 },
 
 {
@@ -2031,8 +2049,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-03-15T18:16:44",
   "duration": "01:03:07",
   "thumbnail": "https://i.ytimg.com/vi/FcaH7yrYWgY/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6◾️",
-  "title": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6◾️"
+  "alt": "▫️[ENG] Mindset (마인드셋) | YUQI Ep.0–6",
+  "title": "▫️[ENG] Mindset (마인드셋) | YUQI Ep.0–6"
 },
 
 {
@@ -2097,8 +2115,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-09-02T18:43:52",
   "duration": "00:53:10",
   "thumbnail": "https://i.ytimg.com/vi/O2QV5HM8SYw/hqdefault.jpg",
-  "alt": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6◾️",
-  "title": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6◾️"
+  "alt": "▫️[ENG] Mindset (마인드셋) | MIYEON Ep.0–6",
+  "title": "▫️[ENG] Mindset (마인드셋) | MIYEON Ep.0–6"
 },
 
 {
@@ -2361,8 +2379,8 @@ const 매거진인터뷰Cards = [
   "date": "2025-09-18T19:11:04",
   "duration": "00:36:24",
   "thumbnail": "https://i.ytimg.com/vi/pySD0POVCVA/maxresdefault.jpg",
-  "alt": "중앙일보 창간 60주년 글로벌 미디어 컨퍼런스 스피치 소연",
-  "title": "중앙일보 창간 60주년 글로벌 미디어 컨퍼런스 스피치 소연"
+  "alt": "▫️중앙일보 창간 60주년 글로벌 미디어 컨퍼런스 스피치 소연",
+  "title": "▫️중앙일보 창간 60주년 글로벌 미디어 컨퍼런스 스피치 소연"
 },
 
 {
@@ -2492,6 +2510,56 @@ const 매거진인터뷰Cards = [
   "thumbnail": "https://i.ytimg.com/vi/xsYuvAupSHQ/maxresdefault.jpg",
   "alt": "[ENG/JPN/풀영상] '베일드 컵' 제작발표회｜티파니 영 Tiffany SNSD·미연 Miyeon I-dle·권정열 10CM·에일리 Ailee·폴킴 Paul Kim",
   "title": "[ENG/JPN/풀영상] '베일드 컵' 제작발표회｜티파니 영 Tiffany SNSD·미연 Miyeon I-dle·권정열 10CM·에일리 Ailee·폴킴 Paul Kim"
+},
+{
+  "link": "https://youtu.be/nyzzBNHdZ0s",
+  "category": "매거진인터뷰",
+  "member": "아이들",
+  "date": "2026-01-30T13:26:41",
+  "duration": "00:01:24",
+  "thumbnail": "https://i.ytimg.com/vi/nyzzBNHdZ0s/maxresdefault.jpg",
+  "alt": "[단독] i-dle (아이들)이 직접 말하는 신곡 'Mono' 비하인드",
+  "title": "[단독] i-dle (아이들)이 직접 말하는 신곡 'Mono' 비하인드"
+},
+{
+  "link": "https://youtu.be/whr79zOPVYU",
+  "category": "매거진인터뷰",
+  "member": "아이들",
+  "date": "2026-02-14T20:01:23",
+  "duration": "00:01:17",
+  "thumbnail": "https://i.ytimg.com/vi/whr79zOPVYU/maxresdefault.jpg",
+  "alt": "【アニメ「オタクに優しいギャルはいない!?」】i-dleコメント ｜ 2026年4月8日（水）より放送開始！",
+  "title": "【アニメ「オタクに優しいギャルはいない!?」】i-dleコメント ｜ 2026年4月8日（水）より放送開始！"
+},
+{
+  "link": "https://youtu.be/NSoogvbizGQ",
+  "category": "매거진인터뷰",
+  "member": "아이들",
+  "date": "2026-02-27T19:35:42",
+  "duration": "00:03:10",
+  "thumbnail": "https://i.ytimg.com/vi/NSoogvbizGQ/maxresdefault.jpg",
+  "alt": "專訪超人氣韓國女團 i-dle， 暢談關於成員與粉絲們之間的兩三事| Chatroom | Vogue Hong Kong Interview",
+  "title": "專訪超人氣韓國女團 i-dle， 暢談關於成員與粉絲們之間的兩三事| Chatroom | Vogue Hong Kong Interview"
+},
+{
+  "link": "https://youtu.be/ytTo05JoA9U",
+  "category": "매거진인터뷰",
+  "member": "아이들",
+  "date": "2026-03-06T02:00:00",
+  "duration": "00:14:32",
+  "thumbnail": "https://i.ytimg.com/vi/ytTo05JoA9U/maxresdefault.jpg",
+  "alt": "I-dle: Our Dream For 2026 Is...? | Interview With MuchMusic",
+  "title": "I-dle: Our Dream For 2026 Is...? | Interview With MuchMusic"
+},
+{
+  "link": "https://youtu.be/ES4MWSzNfyE",
+  "category": "매거진인터뷰",
+  "member": "아이들",
+  "date": "2026-02-06T20:30:02",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/ES4MWSzNfyE/maxresdefault.jpg",
+  "alt": "단독! #idle과의 특별 인터뷰에서 최신 디지털 싱글 'Mono (Feat. skaiwater)'에 대해 이야기를 나눠보세요.",
+  "title": "단독! #idle과의 특별 인터뷰에서 최신 디지털 싱글 'Mono (Feat. skaiwater)'에 대해 이야기를 나눠보세요."
 }
 
 

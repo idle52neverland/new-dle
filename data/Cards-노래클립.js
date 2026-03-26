@@ -57,6 +57,17 @@ const 노래클립Cards = [
 },
 
 {
+  "link": "https://youtu.be/Hnfbq6U4KO8",
+  "category": "노래클립",
+  "member": "소연",
+  "date": "2018-03-25T16:12:04",
+  "duration": "00:02:15",
+  "thumbnail": "https://i.ytimg.com/vi/Hnfbq6U4KO8/hqdefault.jpg",
+  "alt": "전소연 Cover - 니가 뭔데(WHO YOU?) (원곡: G-DRAGON)。",
+  "title": "전소연 Cover - 니가 뭔데(WHO YOU?) (원곡: G-DRAGON)。"
+},
+
+{
   "link": "https://youtu.be/WUK4X97Fzzc",
   "category": "노래클립",
   "member": "아이들",
@@ -248,6 +259,16 @@ const 노래클립Cards = [
   "thumbnail": "https://i.ytimg.com/vi/nhgEO_A3BdI/sddefault.jpg",
   "alt": "(여자)아이들 (G)I-DLE \"Senorita\" Performance video | MOVE REC | 4K",
   "title": "(여자)아이들 (G)I-DLE \"Senorita\" Performance video | MOVE REC | 4K"
+},
+{
+  "link": "https://youtu.be/hcdhDyb0cKk",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2019-03-15T11:00:02",
+  "duration": "00:03:44",
+  "thumbnail": "https://i.ytimg.com/vi/hcdhDyb0cKk/maxresdefault.jpg",
+  "alt": "[MEET&GREET] [MEET&STAGE] (여자)아이들에게 네버랜드의 사랑을 '주세요'~ 나 진짜 좋아하나봐♥",
+  "title": "[MEET&GREET] [MEET&STAGE] (여자)아이들에게 네버랜드의 사랑을 '주세요'~ 나 진짜 좋아하나봐♥"
 },
 {
   "link": "https://youtu.be/cGd8KDbDcVA",
@@ -791,8 +812,8 @@ const 노래클립Cards = [
   "date": "2020-12-28T08:00:17",
   "duration": "00:03:18",
   "thumbnail": "https://i.ytimg.com/vi/IgoqikBnGF4/sddefault.jpg",
-  "alt": "💜 유하가 직접 불러봤어요 💜 '웬디(Wendy) - Good bye (뷰티인사이드 OST)' 커버 영상 || U HI 유하이",
-  "title": "💜 유하가 직접 불러봤어요 💜 '웬디(Wendy) - Good bye (뷰티인사이드 OST)' 커버 영상 || U HI 유하이"
+  "alt": "(Cover) 💜 유하가 직접 불러봤어요 💜 '웬디(Wendy) - Good bye (뷰티인사이드 OST)' 커버 영상 || U HI 유하이",
+  "title": "(Cover) 💜 유하가 직접 불러봤어요 💜 '웬디(Wendy) - Good bye (뷰티인사이드 OST)' 커버 영상 || U HI 유하이"
 },
 
 {
@@ -1188,16 +1209,6 @@ const 노래클립Cards = [
   "thumbnail": "https://i.ytimg.com/vi/WnyFE3_i-vA/maxresdefault.jpg",
   "alt": "纯享：(G)I-DLE宋雨琦/VAVA《火车驶向云外，梦安魂于九霄》唱出摇滚态度 “一代人终将老去，但总有人正年轻” | 爆裂舞台 EP05 | Stage Boom | iQiyi精选",
   "title": "纯享：(G)I-DLE宋雨琦/VAVA《火车驶向云外，梦安魂于九霄》唱出摇滚态度 “一代人终将老去，但总有人正年轻” | 爆裂舞台 EP05 | Stage Boom | iQiyi精选"
-},
-{
-  "link": "https://youtu.be/WC4l1d8AKU4",
-  "category": "노래클립",
-  "member": "민니",
-  "date": "2021-10-06T22:12:09",
-  "duration": "00:03:49",
-  "thumbnail": "https://i.ytimg.com/vi/WC4l1d8AKU4/sddefault.jpg",
-  "alt": "[Center Camera] MONEY HONEY - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) | 21",
-  "title": "[Center Camera] MONEY HONEY - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) | 21"
 },
 
 {
@@ -1792,11 +1803,11 @@ const 노래클립Cards = [
   "link": "https://youtu.be/Wxa-2Z-B4KI",
   "category": "노래클립",
   "member": "민니",
-  "date": "2022-10-05T18:00:15",
+  "date": "2022-09-02T18:00:15",
   "duration": "00:04:35",
   "thumbnail": "https://i.ytimg.com/vi/Wxa-2Z-B4KI/maxresdefault.jpg",
-  "alt": "민니 COVER - 1001가지의 소원 (일천령일개원망 一千零一个愿望) [중국어 번역] ",
-  "title": "민니 COVER - 1001가지의 소원 (일천령일개원망 一千零一个愿望) [중국어 번역] "
+  "alt": "▫️220902 민니 - 1001가지의 소원 (일천령일개원망 一千零一个愿望) [중국어 번역] ",
+  "title": "▫️220902 민니 - 1001가지의 소원 (일천령일개원망 一千零一个愿望) [중국어 번역] "
 },
 
 {
@@ -2306,13 +2317,76 @@ const 노래클립Cards = [
   "link": "https://youtu.be/ZIRhmDkjoXM",
   "category": "노래클립",
   "member": "아이들",
-  "date": "2024-02-02T20:00:55",
+  "date": "2024-02-02T20:00:00",
   "duration": "00:02:53",
   "thumbnail": "https://i.ytimg.com/vi/ZIRhmDkjoXM/sddefault.jpg",
   "alt": "[Performance37] (G)I-DLE((여자)아이들) 'Super Lady' (4K)",
   "title": "[Performance37] (G)I-DLE((여자)아이들) 'Super Lady' (4K)"
 },
+{
+  "link": "https://youtu.be/zpQ60PutUbk",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2024-02-02T20:00:01",
+  "duration": "00:02:50",
+  "thumbnail": "https://i.ytimg.com/vi/zpQ60PutUbk/maxresdefault.jpg",
+  "alt": "[Full Shot] (여자)아이들((G)I-DLE) - Super Lady (4K) l Performance37",
+  "title": "[Full Shot] (여자)아이들((G)I-DLE) - Super Lady (4K) l Performance37"
+},
+{
+  "link": "https://youtu.be/9JjR4s_CKDM",
+  "category": "노래클립",
+  "member": "미연",
+  "date": "2024-02-02T20:00:02",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/9JjR4s_CKDM/maxresdefault.jpg",
+  "alt": "[FanCam37] (G)I-DLE MIYEON(미연) 직캠 'Super Lady' | Performance37 (4K)",
+  "title": "[FanCam37] (G)I-DLE MIYEON(미연) 직캠 'Super Lady' | Performance37 (4K)"
+},
 
+{
+  "link": "https://youtu.be/FO90Q1C58Lo",
+  "category": "노래클립",
+  "member": "민니",
+  "date": "2024-02-02T20:00:03",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/FO90Q1C58Lo/maxresdefault.jpg",
+  "alt": "[FanCam37] (G)I-DLE MINNIE(민니) 직캠 'Super Lady' | Performance37 (4K)",
+  "title": "[FanCam37] (G)I-DLE MINNIE(민니) 직캠 'Super Lady' | Performance37 (4K)"
+},
+
+{
+  "link": "https://youtu.be/qVLTx8TT0KE",
+  "category": "노래클립",
+  "member": "소연",
+  "date": "2024-02-02T20:00:04",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/qVLTx8TT0KE/maxresdefault.jpg",
+  "alt": "[FanCam37] (G)I-DLE SOYEON(소연) 직캠 'Super Lady' | Performance37 (4K)",
+  "title": "[FanCam37] (G)I-DLE SOYEON(소연) 직캠 'Super Lady' | Performance37 (4K)"
+},
+
+{
+  "link": "https://youtu.be/HQZ5-TmpvRY",
+  "category": "노래클립",
+  "member": "우기",
+  "date": "2024-02-02T20:00:05",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/HQZ5-TmpvRY/maxresdefault.jpg",
+  "alt": "[FanCam37] (G)I-DLE YUQI(우기) 직캠 'Super Lady' | Performance37 (4K)",
+  "title": "[FanCam37] (G)I-DLE YUQI(우기) 직캠 'Super Lady' | Performance37 (4K)"
+},
+
+{
+  "link": "https://youtu.be/Co6kCYIvOzc",
+  "category": "노래클립",
+  "member": "슈화",
+  "date": "2024-02-02T20:00:06",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/Co6kCYIvOzc/maxresdefault.jpg",
+  "alt": "[FanCam37] (G)I-DLE SHUHUA(슈화) 직캠 'Super Lady' | Performance37 (4K)",
+  "title": "[FanCam37] (G)I-DLE SHUHUA(슈화) 직캠 'Super Lady' | Performance37 (4K)"
+},
 {
   "link": "https://youtu.be/r4sUpfOk7DM",
   "category": "노래클립",
@@ -2912,8 +2986,8 @@ const 노래클립Cards = [
   "date": "2025-05-22T02:09:16",
   "duration": "00:03:10",
   "thumbnail": "https://i.ytimg.com/vi/0W9typBAv0s/maxresdefault.jpg",
-  "alt": "i-dle (아이들) - Coin (코인) | 아이유의 팔레트🎨◾️",
-  "title": "i-dle (아이들) - Coin (코인) | 아이유의 팔레트🎨◾️"
+  "alt": "▫️i-dle (아이들) - Coin (코인) | 아이유의 팔레트🎨",
+  "title": "▫️i-dle (아이들) - Coin (코인) | 아이유의 팔레트🎨"
 },
 
 {
@@ -3551,7 +3625,16 @@ const 노래클립Cards = [
   "alt": "미연(MIYEON)의 애절한 음색으로 말하는 가슴 아픈 이별..💧 '그런 일은'♬｜비긴어게인 오픈마이크",
   "title": "미연(MIYEON)의 애절한 음색으로 말하는 가슴 아픈 이별..💧 '그런 일은'♬｜비긴어게인 오픈마이크"
 },
-
+{
+  "link": "https://youtu.be/EbTtyh2j5Hs",
+  "category": "노래클립",
+  "member": "미연",
+  "date": "2025-11-24T18:00:44",
+  "duration": "00:04:33",
+  "thumbnail": "https://i.ytimg.com/vi/EbTtyh2j5Hs/maxresdefault.jpg",
+  "alt": "[포커스캠] 미연 포커스캠 (MIYEON fancam) ♬ '그런 일은' | 비긴어게인 오픈마이크",
+  "title": "[포커스캠] 미연 포커스캠 (MIYEON fancam) ♬ '그런 일은' | 비긴어게인 오픈마이크"
+},
 {
   "link": "https://youtu.be/YKkdo7h6vZ0",
   "category": "노래클립",
@@ -3730,6 +3813,16 @@ const 노래클립Cards = [
   "title": "[UNFILTERED CAM] i-dle SHUHUA(슈화) 'Mono (Feat. skaiwater)' 4K | STUDIO CHOOM ORIGINAL"
 },
 {
+  "link": "https://youtu.be/FjCX8NVEIbM",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-01-28T22:00:46",
+  "duration": "00:11:38",
+  "thumbnail": "https://i.ytimg.com/vi/FjCX8NVEIbM/maxresdefault.jpg",
+  "alt": "(Videodump) i-dle(아이들) 'Mono (Feat. skaiwater)' | STUDIO CHOOM ORIGINAL (JPN SUB)",
+  "title": "(Videodump) i-dle(아이들) 'Mono (Feat. skaiwater)' | STUDIO CHOOM ORIGINAL (JPN SUB)"
+},
+{
   "link": "https://youtu.be/M1GrPemu7vk",
   "category": "노래클립",
   "member": "아이들",
@@ -3841,6 +3934,26 @@ const 노래클립Cards = [
   "thumbnail": "https://i.ytimg.com/vi/IpxMpYwm7l8/maxresdefault.jpg",
   "alt": "기안84 & 소연 - 스물아홉 M/V (영종도 ver.)",
   "title": "기안84 & 소연 - 스물아홉 M/V (영종도 ver.)"
+},
+{
+  "link": "https://youtu.be/CWnTQzcbjEk",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-03-14T08:00:14",
+  "duration": "00:03:38",
+  "thumbnail": "https://i.ytimg.com/vi/CWnTQzcbjEk/maxresdefault.jpg",
+  "alt": "'Mono' By i-dle | Kelly Clarkson Show",
+  "title": "'Mono' By i-dle | Kelly Clarkson Show"
+},
+{
+  "link": "https://youtu.be/5bAg_5bhOCY",
+  "category": "노래클립",
+  "member": "아이들",
+  "date": "2026-03-15T16:00:04",
+  "duration": "00:00:49",
+  "thumbnail": "https://i.ytimg.com/vi/5bAg_5bhOCY/maxresdefault.jpg",
+  "alt": "[INTRO] i-dle (아이들) 'Mono' in Kelly Clarkson Show | NPOP",
+  "title": "[INTRO] i-dle (아이들) 'Mono' in Kelly Clarkson Show | NPOP"
 }
 
 

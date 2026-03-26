@@ -7,8 +7,8 @@ const 공연축제Cards = [
   "date": "2016-10-08T17:16:29",
   "duration": "00:22:20",
   "thumbnail": "https://i.ytimg.com/vi/sHQNmyB4Cfc/maxresdefault.jpg",
-  "alt": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스 (cover)",
-  "title": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스 (cover)"
+  "alt": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스 (Cover)",
+  "title": "▫️(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스 (Cover)"
 },
 
 {
@@ -19,7 +19,7 @@ const 공연축제Cards = [
   "duration": "00:03:48",
   "thumbnail": "https://i.ytimg.com/vi/6kcFXF5VQPY/maxresdefault.jpg",
   "alt": "언프리티랩스타3 대구콘서트 소연&민니 '웃어' 직캠",
-  "title": "언프리티랩스타3 대구콘서트 소연&민니 '웃어' 직캠"
+  "title": "▫️언프리티랩스타3 대구콘서트 소연&민니 '웃어' 직캠"
 },
 
 {
@@ -30,7 +30,7 @@ const 공연축제Cards = [
   "duration": "00:34:38",
   "thumbnail": "https://i.ytimg.com/vi/9ssS4ubfeOE/sddefault.jpg",
   "alt": "음악중심 미니팬미팅 @상암 물빛공원",
-  "title": "음악중심 미니팬미팅 @상암 물빛공원"
+  "title": "▫️음악중심 미니팬미팅 @상암 물빛공원"
 },
 
 {
@@ -41,29 +41,18 @@ const 공연축제Cards = [
   "duration": "00:12:33",
   "thumbnail": "https://i.ytimg.com/vi/aj1WQSNfwL0/maxresdefault.jpg",
   "alt": "[SBS러브FM 월드컵 공개방송 풀캠] (여자)아이들 - LATATA + MAZE",
-  "title": "[SBS러브FM 월드컵 공개방송 풀캠] (여자)아이들 - LATATA + MAZE"
-},
-
-{
-  "link": "https://youtu.be/0Ckkwip13mc",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2018-07-18T15:00:53",
-  "duration": "00:03:20",
-  "thumbnail": "https://i.ytimg.com/vi/0Ckkwip13mc/sddefault.jpg",
-  "alt": "[KCON 2018 Taipei] (여자)아이들 - Maze",
-  "title": "[KCON 2018 Taipei] (여자)아이들 - Maze"
+  "title": "▫️[SBS러브FM 월드컵 공개방송 풀캠] (여자)아이들 - LATATA + MAZE"
 },
 
 {
   "link": "https://youtu.be/dU4JD7bYVyg",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-09-02T03:04:59",
+  "date": "2018-09-01T03:04:59",
   "duration": "00:03:28",
   "thumbnail": "https://i.ytimg.com/vi/dU4JD7bYVyg/maxresdefault.jpg",
   "alt": "[인천 한류관광 콘서트] (여자)아이들 - 한 (一)(Alone) 직캠  #INK CONCERT",
-  "title": "[인천 한류관광 콘서트] (여자)아이들 - 한 (一)(Alone) 직캠  #INK CONCERT"
+  "title": "▫️[인천 한류관광 콘서트] (여자)아이들 - 한 (一)(Alone) 직캠  #INK CONCERT"
 },
 
 {
@@ -74,7 +63,7 @@ const 공연축제Cards = [
   "duration": "00:03:20",
   "thumbnail": "https://i.ytimg.com/vi/iyaMD5t2TdQ/maxresdefault.jpg",
   "alt": "[DMC페스티벌 코뮤웨] (여자)아이들 - 한(一) 리허설  #Korean Music Wave DMCF",
-  "title": "[DMC페스티벌 코뮤웨] (여자)아이들 - 한(一) 리허설  #Korean Music Wave DMCF"
+  "title": "▫️[DMC페스티벌 코뮤웨] (여자)아이들 - 한(一) 리허설  #Korean Music Wave DMCF"
 },
 
 {
@@ -85,7 +74,7 @@ const 공연축제Cards = [
   "duration": "00:01:36",
   "thumbnail": "https://i.ytimg.com/vi/B_cTe3pLM0E/maxresdefault.jpg",
   "alt": "[DMC페스티벌 코뮤웨] (여자)아이들  - Hot Issue (Cover) 리허설  #Korean Music Wave DMCF",
-  "title": "[DMC페스티벌 코뮤웨] (여자)아이들 - Hot Issue (Cover) 리허설  #Korean Music Wave DMCF"
+  "title": "▫️[DMC페스티벌 코뮤웨] (여자)아이들 - Hot Issue (Cover) 리허설  #Korean Music Wave DMCF"
 },
 
 {
@@ -140,7 +129,7 @@ const 공연축제Cards = [
   "duration": "00:03:21",
   "thumbnail": "https://i.ytimg.com/vi/RX6r7MDAnfU/maxresdefault.jpg",
   "alt": "[숙명여대 방송제] 여자아이들 Latata SMWU Sbs방송국 축제",
-  "title": "[숙명여대 방송제] 여자아이들 Latata SMWU Sbs방송국 축제"
+  "title": "▫️[숙명여대 방송제] 여자아이들 Latata SMWU Sbs방송국 축제"
 },
 
 {
@@ -151,7 +140,7 @@ const 공연축제Cards = [
   "duration": "00:01:58",
   "thumbnail": "https://i.ytimg.com/vi/nuYPCVCGgfA/maxresdefault.jpg",
   "alt": "[숙명여대 방송제] 여자아이들 무대 인사 SMWU SBS방송국 축제",
-  "title": "[숙명여대 방송제] 여자아이들 무대 인사 SMWU SBS방송국 축제"
+  "title": "▫️[숙명여대 방송제] 여자아이들 무대 인사 SMWU SBS방송국 축제"
 },
 
 {
@@ -162,7 +151,7 @@ const 공연축제Cards = [
   "duration": "00:03:25",
   "thumbnail": "https://i.ytimg.com/vi/ZxKaTuoxxWk/maxresdefault.jpg",
   "alt": "[숙명여대 방송제] 여자아이들 MAZE SMWU SBS 방송국 축제",
-  "title": "[숙명여대 방송제] 여자아이들 MAZE SMWU SBS 방송국 축제"
+  "title": "▫️[숙명여대 방송제] 여자아이들 MAZE SMWU SBS 방송국 축제"
 },
 
 {
@@ -173,7 +162,7 @@ const 공연축제Cards = [
   "duration": "00:03:10",
   "thumbnail": "https://i.ytimg.com/vi/tIVWDu2_C-8/maxresdefault.jpg",
   "alt": "[숙명여대 방송제] 여자아이들 Light my body up",
-  "title": "[숙명여대 방송제] 여자아이들 Light my body up"
+  "title": "▫️[숙명여대 방송제] 여자아이들 Light my body up"
 },
 
 {
@@ -184,7 +173,7 @@ const 공연축제Cards = [
   "duration": "00:06:05",
   "thumbnail": "https://i.ytimg.com/vi/5iW7_krya9c/maxresdefault.jpg",
   "alt": "[숙명여대 방송제] 여자아이들 토크1 SMWU 방송국 축제",
-  "title": "[숙명여대 방송제] 여자아이들 토크1 SMWU 방송국 축제"
+  "title": "▫️[숙명여대 방송제] 여자아이들 토크1 SMWU 방송국 축제"
 },
 
 {
@@ -195,7 +184,7 @@ const 공연축제Cards = [
   "duration": "00:11:00",
   "thumbnail": "https://i.ytimg.com/vi/ebSB8F_GFh4/maxresdefault.jpg",
   "alt": "[숙명여대 방송제] 여자아이들 토크2 SMWU SBS 방송국 축제",
-  "title": "[숙명여대 방송제] 여자아이들 토크2 SMWU SBS 방송국 축제"
+  "title": "▫️[숙명여대 방송제] 여자아이들 토크2 SMWU SBS 방송국 축제"
 },
 
 {
@@ -206,7 +195,7 @@ const 공연축제Cards = [
   "duration": "00:04:12",
   "thumbnail": "https://i.ytimg.com/vi/lKnPrWy8X4E/maxresdefault.jpg",
   "alt": "[숙명여대 방송제] 여자아이들 한(—) SMWU SBS 방송국 축제",
-  "title": "[숙명여대 방송제] 여자아이들 한(—) SMWU SBS 방송국 축제"
+  "title": "▫️[숙명여대 방송제] 여자아이들 한(—) SMWU SBS 방송국 축제"
 },
 
 {
@@ -217,7 +206,7 @@ const 공연축제Cards = [
   "duration": "00:00:24",
   "thumbnail": "https://i.ytimg.com/vi/b1MENuubAqI/maxresdefault.jpg",
   "alt": "[숙명여대 방송제] 여자아이들 마지막 인사 SMWU SBS 방송국 축제",
-  "title": "[숙명여대 방송제] 여자아이들 마지막 인사 SMWU SBS 방송국 축제"
+  "title": "▫️[숙명여대 방송제] 여자아이들 마지막 인사 SMWU SBS 방송국 축제"
 },
 
 {
@@ -228,7 +217,7 @@ const 공연축제Cards = [
   "duration": "00:03:27",
   "thumbnail": "https://i.ytimg.com/vi/kRlDzBqFWpE/maxresdefault.jpg",
   "alt": "여자아이들 ( Latata ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( Latata ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( Latata ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -239,7 +228,7 @@ const 공연축제Cards = [
   "duration": "00:03:27",
   "thumbnail": "https://i.ytimg.com/vi/kRlDzBqFWpE/maxresdefault.jpg",
   "alt": "여자아이들 ( Latata ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( Latata ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( Latata ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -250,7 +239,7 @@ const 공연축제Cards = [
   "duration": "00:02:24",
   "thumbnail": "https://i.ytimg.com/vi/rw-Xf2wjhaQ/maxresdefault.jpg",
   "alt": "여자아이들 ( 토크 ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( 토크 ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( 토크 ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -261,7 +250,7 @@ const 공연축제Cards = [
   "duration": "00:02:24",
   "thumbnail": "https://i.ytimg.com/vi/rw-Xf2wjhaQ/maxresdefault.jpg",
   "alt": "여자아이들 ( 토크 ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( 토크 ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( 토크 ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -272,7 +261,7 @@ const 공연축제Cards = [
   "duration": "00:03:32",
   "thumbnail": "https://i.ytimg.com/vi/Uvz9X0tlK6U/maxresdefault.jpg",
   "alt": "여자아이들 ( Maze ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( Maze ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( Maze ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -283,7 +272,7 @@ const 공연축제Cards = [
   "duration": "00:03:32",
   "thumbnail": "https://i.ytimg.com/vi/Uvz9X0tlK6U/maxresdefault.jpg",
   "alt": "여자아이들 ( Maze ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( Maze ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( Maze ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -294,7 +283,7 @@ const 공연축제Cards = [
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/1cLfhypo7xU/maxresdefault.jpg",
   "alt": "여자아이들 ( Light my body up ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( Light my body up ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( Light my body up ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -305,7 +294,7 @@ const 공연축제Cards = [
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/1cLfhypo7xU/maxresdefault.jpg",
   "alt": "여자아이들 ( Light my body up ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( Light my body up ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( Light my body up ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -316,7 +305,7 @@ const 공연축제Cards = [
   "duration": "00:02:30",
   "thumbnail": "https://i.ytimg.com/vi/9mSiSmIczWA/maxresdefault.jpg",
   "alt": "여자아이들 ( 토크2 ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( 토크2 ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( 토크2 ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -327,7 +316,7 @@ const 공연축제Cards = [
   "duration": "00:02:30",
   "thumbnail": "https://i.ytimg.com/vi/9mSiSmIczWA/maxresdefault.jpg",
   "alt": "여자아이들 ( 토크2 ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( 토크2 ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( 토크2 ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -338,7 +327,7 @@ const 공연축제Cards = [
   "duration": "00:02:27",
   "thumbnail": "https://i.ytimg.com/vi/X8BHzcPbWK4/maxresdefault.jpg",
   "alt": "여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -349,7 +338,7 @@ const 공연축제Cards = [
   "duration": "00:02:27",
   "thumbnail": "https://i.ytimg.com/vi/X8BHzcPbWK4/maxresdefault.jpg",
   "alt": "여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K",
-  "title": "여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K"
+  "title": "▫️여자아이들 ( 한 ) 중앙대학교 안성캠퍼스 축제 4K"
 },
 
 {
@@ -360,7 +349,7 @@ const 공연축제Cards = [
   "duration": "00:08:13",
   "thumbnail": "https://i.ytimg.com/vi/IY1Rhl2Rvsg/maxresdefault.jpg",
   "alt": "2018 강남페스티벌 영동대로 K-POP 콘서트 Full ver. (한 + LATATA)",
-  "title": "2018 강남페스티벌 영동대로 K-POP 콘서트 Full ver. (한 + LATATA)"
+  "title": "▫️2018 강남페스티벌 영동대로 K-POP 콘서트 Full ver. (한 + LATATA)"
 },
 
 {
@@ -371,18 +360,7 @@ const 공연축제Cards = [
   "duration": "00:05:11",
   "thumbnail": "https://i.ytimg.com/vi/D6hiNwSRZcs/maxresdefault.jpg",
   "alt": "[2018 강남페스티벌 영동대로 K-POP 콘서트] 다리 부상으로 MC 보는 우기(Yuqi)",
-  "title": "[2018 강남페스티벌 영동대로 K-POP 콘서트] 다리 부상으로 MC 보는 우기(Yuqi)"
-},
-
-{
-  "link": "https://youtu.be/mxlqvIAmDRY",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2018-10-11T20:15:01",
-  "duration": "00:01:48",
-  "thumbnail": "https://i.ytimg.com/vi/mxlqvIAmDRY/sddefault.jpg",
-  "alt": "[KCON2018TH x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera",
-  "title": "[KCON2018TH x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera"
+  "title": "▫️[2018 강남페스티벌 영동대로 K-POP 콘서트] 다리 부상으로 MC 보는 우기(Yuqi)"
 },
 
 {
@@ -403,10 +381,20 @@ const 공연축제Cards = [
   "date": "2018-10-11T20:56:45",
   "duration": "00:02:10",
   "thumbnail": "https://i.ytimg.com/vi/OHIobUitIOg/maxresdefault.jpg",
-  "alt": "[KCON 2018 THAILAND] (G)I-DLE - Brand New (cover)ㅣKCON 2018 THAILAND x M COUNTDOWN",
-  "title": "[KCON 2018 THAILAND] (G)I-DLE - Brand New (cover)ㅣKCON 2018 THAILAND x M COUNTDOWN"
+  "alt": "[KCON 2018 THAILAND] (G)I-DLE - Brand New (Cover)ㅣKCON 2018 THAILAND x M COUNTDOWN",
+  "title": "[KCON 2018 THAILAND] (G)I-DLE - Brand New (Cover)ㅣKCON 2018 THAILAND x M COUNTDOWN"
 },
 
+{
+  "link": "https://youtu.be/mxlqvIAmDRY",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-10-11T20:56:46",
+  "duration": "00:01:48",
+  "thumbnail": "https://i.ytimg.com/vi/mxlqvIAmDRY/sddefault.jpg",
+  "alt": "[KCON2018TH x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera",
+  "title": "[KCON2018TH x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera"
+},
 {
   "link": "https://youtu.be/D2p2htqV5EE",
   "category": "공연축제",
@@ -415,7 +403,7 @@ const 공연축제Cards = [
   "duration": "00:13:18",
   "thumbnail": "https://i.ytimg.com/vi/D2p2htqV5EE/maxresdefault.jpg",
   "alt": "[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LATATA)",
-  "title": "[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LATATA)"
+  "title": "▫️[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LATATA)"
 },
 
 {
@@ -452,25 +440,24 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/vSBqBJgSEgA",
+  "link": "https://youtu.be/Ms2IZnRjewQ",
   "category": "공연축제",
   "member": "아이들",
   "date": "2018-11-06T19:00:07",
   "duration": "00:04:13",
-  "thumbnail": "https://i.ytimg.com/vi/vSBqBJgSEgA/maxresdefault.jpg",
-  "alt": "[2018 MGA] RED CARPET (여자)아이들((G)-I-DLE) 지니뮤직 어워드",
-  "title": "[2018 MGA] RED CARPET (여자)아이들((G)-I-DLE) 지니뮤직 어워드"
+  "thumbnail": "https://i.ytimg.com/vi/Ms2IZnRjewQ/maxresdefault.jpg",
+  "alt": "[2018 MGA RED CARPET] (여자)아이들((G)-I-DLE) 인터뷰 | 지니뮤직 어워드",
+  "title": "[2018 MGA RED CARPET] (여자)아이들((G)-I-DLE) 인터뷰 | 지니뮤직 어워드"
 },
-
 {
-  "link": "https://youtu.be/80Fm2EMNH0M",
+  "link": "https://youtu.be/vdffpbP4RBE",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-11-06T20:00:01",
+  "date": "2018-11-06T19:00:08",
   "duration": "00:02:45",
-  "thumbnail": "https://i.ytimg.com/vi/80Fm2EMNH0M/maxresdefault.jpg",
-  "alt": "[2018 MGA] 여자 신인상 (여자)아이들((G)-I-DLE) 지니뮤직 어워드",
-  "title": "[2018 MGA] 여자 신인상 (여자)아이들((G)-I-DLE) 지니뮤직 어워드"
+  "thumbnail": "https://i.ytimg.com/vi/vdffpbP4RBE/maxresdefault.jpg",
+  "alt": "[2018 MGA] 여자 신인상 (여자)아이들((G)-I-DLE) | 지니뮤직 어워드",
+  "title": "[2018 MGA] 여자 신인상 (여자)아이들((G)-I-DLE) | 지니뮤직 어워드"
 },
 
 {
@@ -481,36 +468,64 @@ const 공연축제Cards = [
   "duration": "00:07:41",
   "thumbnail": "https://i.ytimg.com/vi/L1X1IcFtdyg/maxresdefault.jpg",
   "alt": "[MBN HERO 콘서트] (여자)아이들((G)I-DLE) - Full cam (한(一), LATATA)",
-  "title": "[MBN HERO 콘서트] (여자)아이들((G)I-DLE) - Full cam (한(一), LATATA)"
+  "title": "▫️[MBN HERO 콘서트] (여자)아이들((G)I-DLE) - Full cam (한(一), LATATA)"
 },
-
 {
-  "link": "https://youtu.be/QGNTS-3uf2k",
+  "link": "https://youtu.be/Ac7nyxlJieY",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-12-01T16:48:25",
-  "duration": "00:07:16",
-  "thumbnail": "https://i.ytimg.com/vi/QGNTS-3uf2k/maxresdefault.jpg",
-  "alt": "[MMA2018] (여자)아이들 - HANN(Alone) (한(一)) + LATATA(라타타)",
-  "title": "[MMA2018] (여자)아이들 - HANN(Alone) (한(一)) + LATATA(라타타)"
+  "date": "2018-11-28T16:33:14",
+  "duration": "00:00:52",
+  "thumbnail": "https://i.ytimg.com/vi/Ac7nyxlJieY/maxresdefault.jpg",
+  "alt": "[AAA2018] (여자)아이들 레드카펫",
+  "title": "[AAA2018] (여자)아이들 레드카펫"
+},
+{
+  "link": "https://youtu.be/H_qMIEDjvWU",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-11-28T16:33:15",
+  "duration": "00:04:41",
+  "thumbnail": "https://i.ytimg.com/vi/H_qMIEDjvWU/maxresdefault.jpg",
+  "alt": "▫️[AAA2018] (여자)아이들 신인상 수상소감",
+  "title": "▫️[AAA2018] (여자)아이들 신인상 수상소감"
+},
+{
+  "link": "https://youtu.be/eiGyXMDjYuk",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-11-28T16:33:16",
+  "duration": "00:04:35",
+  "thumbnail": "https://i.ytimg.com/vi/eiGyXMDjYuk/maxresdefault.jpg",
+  "alt": "[AAA2018] (여자)아이들 - 미공개 수상소감 + '한(一)' 무대",
+  "title": "[AAA2018] (여자)아이들 - 미공개 수상소감 + '한(一)' 무대"
 },
 
 {
   "link": "https://youtu.be/6i7PeKkAIaA",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-12-01T18:21:09",
+  "date": "2018-12-01T18:21:01",
   "duration": "00:02:59",
   "thumbnail": "https://i.ytimg.com/vi/6i7PeKkAIaA/hqdefault.jpg",
   "alt": "[MMA2018] (여자)아이들 RED CARPET",
-  "title": "[MMA2018] (여자)아이들 RED CARPET"
+  "title": "▫️[MMA2018] (여자)아이들 RED CARPET"
 },
-
+{
+  "link": "https://youtu.be/QGNTS-3uf2k",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-12-01T18:21:02",
+  "duration": "00:07:16",
+  "thumbnail": "https://i.ytimg.com/vi/QGNTS-3uf2k/maxresdefault.jpg",
+  "alt": "[MMA2018] (여자)아이들 - HANN(Alone) (한(一)) + LATATA(라타타)",
+  "title": "▫️[MMA2018] (여자)아이들 - HANN(Alone) (한(一)) + LATATA(라타타)"
+},
 {
   "link": "https://youtu.be/y2s7C-m62MA",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-12-01T21:00:06",
+  "date": "2018-12-01T18:21:03",
   "duration": "00:06:48",
   "thumbnail": "https://i.ytimg.com/vi/y2s7C-m62MA/maxresdefault.jpg",
   "alt": "[MMA2018] (G)I-DLE Fancam - HANN (Alone)(한(一)) + LATATA [MMA X 1theK]",
@@ -521,11 +536,11 @@ const 공연축제Cards = [
   "link": "https://youtu.be/5JlQVPT8wSw",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-12-01T22:47:33",
+  "date": "2018-12-01T18:21:04",
   "duration": "00:03:08",
   "thumbnail": "https://i.ytimg.com/vi/5JlQVPT8wSw/maxresdefault.jpg",
   "alt": "[MMA2018] (여자)아이들 - 신인상_여자 수상소감",
-  "title": "[MMA2018] (여자)아이들 - 신인상_여자 수상소감"
+  "title": "▫️[MMA2018] (여자)아이들 - 신인상_여자 수상소감"
 },
 
 {
@@ -536,7 +551,7 @@ const 공연축제Cards = [
   "duration": "00:03:35",
   "thumbnail": "https://i.ytimg.com/vi/jq2B4wS6ZOQ/maxresdefault.jpg",
   "alt": "[MBN HERO 콘서트-방송분] (여자)아이들 (G-IDLE) - HANN(Alone) (한(一))",
-  "title": "[MBN HERO 콘서트-방송분] (여자)아이들 (G-IDLE) - HANN(Alone) (한(一))"
+  "title": "▫️[MBN HERO 콘서트-방송분] (여자)아이들 (G-IDLE) - HANN(Alone) (한(一))"
 },
 
 {
@@ -604,6 +619,26 @@ const 공연축제Cards = [
   "alt": "[2018 MAMA x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera in KOREA (2018-12-10)",
   "title": "[2018 MAMA x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera in KOREA (2018-12-10)"
 },
+{
+  "link": "https://youtu.be/uYMPR3bt_aM",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-12-20T17:00:01",
+  "duration": "00:03:32",
+  "thumbnail": "https://i.ytimg.com/vi/uYMPR3bt_aM/maxresdefault.jpg",
+  "alt": "▫️[2018 KPMA] (여자)아이들 레드카펫 | 대한민국대중음악시상식",
+  "title": "▫️[2018 KPMA] (여자)아이들 레드카펫 | 대한민국대중음악시상식"
+},
+{
+  "link": "https://youtu.be/t1pZMWmXNZg",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-12-20T17:00:02",
+  "duration": "00:03:37",
+  "thumbnail": "https://i.ytimg.com/vi/t1pZMWmXNZg/hqdefault.jpg",
+  "alt": "▫️[2018 KPMA] (여자)아이들 - LATATA | 대한민국대중음악시상식",
+  "title": "▫️[2018 KPMA] (여자)아이들 - LATATA | 대한민국대중음악시상식"
+},
 
 {
   "link": "https://youtu.be/mDiZFM97uUo",
@@ -615,7 +650,16 @@ const 공연축제Cards = [
   "alt": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB)",
   "title": "[MAMA TALK] (여자)아이들((G)I-DLE) 님과의 채팅방에 초대되셨습니다 | 2018MAMAxM2(ENG SUB)"
 },
-
+{
+  "link": "https://youtu.be/x3PxKbPs_hQ",
+  "category": "공연축제",
+  "member": "소연, 우기",
+  "date": "2018-12-27T15:15:56",
+  "duration": "00:01:25",
+  "thumbnail": "https://i.ytimg.com/vi/x3PxKbPs_hQ/maxresdefault.jpg",
+  "alt": "[2018 가요대전] Stray Kids × (G)I-DLE × The Boyz - New Wave Opening Performance",
+  "title": "[2018 가요대전] Stray Kids × (G)I-DLE × The Boyz - New Wave Opening Performance"
+},
 {
   "link": "https://youtu.be/iESof_jwfRo",
   "category": "공연축제",
@@ -634,30 +678,112 @@ const 공연축제Cards = [
   "date": "2018-12-28T21:04:49",
   "duration": "00:03:44",
   "thumbnail": "https://i.ytimg.com/vi/CX9hz18ZPco/maxresdefault.jpg",
-  "alt": "[2018 가요대축제] 여자 아이들 - Intro, LATATA",
-  "title": "[2018 가요대축제] 여자 아이들 - Intro, LATATA"
+  "alt": "[2018 가요대축제] 여자 아이들 - Intro + LATATA",
+  "title": "[2018 가요대축제] 여자 아이들 - Intro + LATATA"
 },
-
+{
+  "link": "https://youtu.be/vwEjsV_3SBQ",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2018-12-28T21:04:50",
+  "duration": "00:03:36",
+  "thumbnail": "https://i.ytimg.com/vi/vwEjsV_3SBQ/maxresdefault.jpg",
+  "alt": "[2018 가요대축제] 우기X예리X케이X엄지X아린X다현 - Kissing You♥ (원곡: 소녀시대) (Cover)",
+  "title": "[2018 가요대축제] 우기X예리X케이X엄지X아린X다현 - Kissing You♥ (원곡: 소녀시대) (Cover)"
+},
+{
+  "link": "https://youtu.be/sSY2hAO1IoA",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-12-31T22:00:00",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/sSY2hAO1IoA/maxresdefault.jpg",
+  "alt": "[2018 가요대제전] (여자)아이들 - LATATA(House Ver)",
+  "title": "[2018 가요대제전] (여자)아이들 - LATATA(House Ver)"
+},
+{
+  "link": "https://youtu.be/5BmWJxMeoEk",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-01-05T17:59:38",
+  "duration": "00:03:40",
+  "thumbnail": "https://i.ytimg.com/vi/5BmWJxMeoEk/maxresdefault.jpg",
+  "alt": "[제33회 골든디스크 레드카펫] (여자)아이들 (GoldenDiscAwards2019)",
+  "title": "[제33회 골든디스크 레드카펫] (여자)아이들 (GoldenDiscAwards2019)"
+},
+{
+  "link": "https://youtu.be/hSyxa4PUh84",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-01-05T17:59:39",
+  "duration": "00:01:43",
+  "thumbnail": "https://i.ytimg.com/vi/hSyxa4PUh84/maxresdefault.jpg",
+  "alt": "[제33회 골든디스크] 디지털음원부문 신인상 - (여자)아이들",
+  "title": "[제33회 골든디스크] 디지털음원부문 신인상 - (여자)아이들"
+},
 {
   "link": "https://youtu.be/yJGW0Xay0z0",
   "category": "공연축제",
   "member": "아이들",
   "date": "2019-01-23T14:00:19",
   "duration": "00:06:04",
-  "thumbnail": "https://i.ytimg.com/vi/yJGW0Xay0z0/maxresdefault.jpg",
-  "alt": "[가온차트뮤직어워즈] (여자)아이들 신인상 수상소감 & LATATA",
-  "title": "[가온차트뮤직어워즈] (여자)아이들 신인상 수상소감 & LATATA"
+  "thumbnail": "https://i.ytimg.com/vi/Avzymt0pCXQ/maxresdefault.jpg",
+  "alt": "[2018 가온차트 뮤직어워즈] (여자)아이들 신인상 수상소감 & LATATA 무대 | (GAONCHART MUSIC AWARDS 2018)",
+  "title": "[2018 가온차트 뮤직어워즈] (여자)아이들 신인상 수상소감 & LATATA 무대 | (GAONCHART MUSIC AWARDS 2018)"
 },
 
 {
-  "link": "https://youtu.be/fuwPJ9AhRBU",
+  "link": "https://youtu.be/nIm65iDUeRg",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-02-20T22:21:27",
-  "duration": "00:03:51",
-  "thumbnail": "https://i.ytimg.com/vi/fuwPJ9AhRBU/hqdefault.jpg",
-  "alt": "(여자)아이들 - 들어줘요 라이브",
-  "title": "(여자)아이들 - 들어줘요 라이브"
+  "date": "2019-02-09T22:00:01",
+  "duration": "00:28:43",
+  "thumbnail": "https://i.ytimg.com/vi/nIm65iDUeRg/maxresdefault.jpg",
+  "alt": "[11th K-POP FESTIVAL 2019] LATATA + MAZE  + Light My Body Up(Cover) + HANN (Alone) + 들어줘요(Hear me) @ 삿포로눈축제。",
+  "title": "[11th K-POP FESTIVAL 2019] LATATA + MAZE  + Light My Body Up(Cover) + HANN (Alone) + 들어줘요(Hear me) @ 삿포로눈축제。"
+},
+{
+  "link": "https://youtu.be/7gdT2Bxqf8w",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-02-09T22:00:02",
+  "duration": "00:04:09",
+  "thumbnail": "https://i.ytimg.com/vi/7gdT2Bxqf8w/maxresdefault.jpg",
+  "alt": "[11th K-POP FESTIVAL 2019] (여자)아이들 - 들어줘요 (Hear me) CUT @ 삿포로눈축제。",
+  "title": "[11th K-POP FESTIVAL 2019] (여자)아이들 - 들어줘요 (Hear me) CUT @ 삿포로눈축제。"
+},
+{
+  "link": "https://youtu.be/NyEIqIvcYpg",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-02-09T22:00:03",
+  "duration": "00:15:17",
+  "thumbnail": "https://i.ytimg.com/vi/NyEIqIvcYpg/maxresdefault.jpg",
+  "alt": "[11th K-POP FESTIVAL 2019] #BEHIND @ 삿포로눈축제。",
+  "title": "[11th K-POP FESTIVAL 2019] #BEHIND @ 삿포로눈축제。"
+},
+
+
+{
+  "link": "https://youtu.be/zj569nIZItM",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-03-01T22:00:01",
+  "duration": "00:03:25",
+  "thumbnail": "https://i.ytimg.com/vi/zj569nIZItM/maxresdefault.jpg",
+  "alt": "2019 원 케이 콘서트 (G)I-DLE, Senorita [One K Concert 2019]",
+  "title": "2019 원 케이 콘서트 (G)I-DLE, Senorita [One K Concert 2019]"
+},
+
+{
+  "link": "https://youtu.be/PsQsJ0SpUO0",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-03-01T22:00:02",
+  "duration": "00:03:19",
+  "thumbnail": "https://i.ytimg.com/vi/PsQsJ0SpUO0/maxresdefault.jpg",
+  "alt": "2019 원 케이 콘서트 (G)I-DLE, Senorita [One K Concert, Fancam]",
+  "title": "2019 원 케이 콘서트 (G)I-DLE, Senorita [One K Concert, Fancam]"
 },
 
 {
@@ -668,7 +794,7 @@ const 공연축제Cards = [
   "duration": "00:15:52",
   "thumbnail": "https://i.ytimg.com/vi/dRYkKNmAsRI/maxresdefault.jpg",
   "alt": "음악중심 미니팬미팅 직캠 - 여자아이들 ( 질문응답 )",
-  "title": "음악중심 미니팬미팅 직캠 - 여자아이들 ( 질문응답 )"
+  "title": "▫️음악중심 미니팬미팅 직캠 - 여자아이들 ( 질문응답 )"
 },
 
 {
@@ -679,7 +805,18 @@ const 공연축제Cards = [
   "duration": "00:04:03",
   "thumbnail": "https://i.ytimg.com/vi/hT-Vr2kq-W4/hqdefault.jpg",
   "alt": "이민혁 단독콘서트 TWONIGHT - 너도? 나도! (feat. 소연 of 여자아이들)",
-  "title": "이민혁 단독콘서트 TWONIGHT - 너도? 나도! (feat. 소연 of 여자아이들)"
+  "title": "▫️이민혁 단독콘서트 TWONIGHT - 너도? 나도! (feat. 소연 of 여자아이들)"
+},
+
+{
+  "link": "https://youtu.be/a4vZDIXN5nw",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-04-06T02:05:44",
+  "duration": "01:12:44",
+  "thumbnail": "https://i.ytimg.com/vi/a4vZDIXN5nw/maxresdefault.jpg",
+  "alt": "(여자)아이들 그리팅데이 | (G)I-DLE with Neverland [Greeting Day]",
+  "title": "▫️(여자)아이들 그리팅데이 | (G)I-DLE with Neverland [Greeting Day]"
 },
 
 {
@@ -690,7 +827,7 @@ const 공연축제Cards = [
   "duration": "00:20:17",
   "thumbnail": "https://i.ytimg.com/vi/lIqd9jNVqUk/maxresdefault.jpg",
   "alt": "[함께 걷자 INCHEON FESTA] 여자아이들 (G)I-DLE Full Ver. (HANN + LATATA + MAZE + Senorita)",
-  "title": "[함께 걷자 INCHEON FESTA] 여자아이들 (G)I-DLE Full Ver. (HANN + LATATA + MAZE + Senorita)"
+  "title": "▫️[함께 걷자 INCHEON FESTA] 여자아이들 (G)I-DLE Full Ver. (HANN + LATATA + MAZE + Senorita)"
 },
 
 {
@@ -701,29 +838,40 @@ const 공연축제Cards = [
   "duration": "00:20:29",
   "thumbnail": "https://i.ytimg.com/vi/lVMrzeONk-s/maxresdefault.jpg",
   "alt": "[의령 청소년 한마음 축제] 공연 직캠 (여자)아이들 (G)I-DLE",
-  "title": "[의령 청소년 한마음 축제] 공연 직캠 (여자)아이들 (G)I-DLE"
+  "title": "▫️[의령 청소년 한마음 축제] 공연 직캠 (여자)아이들 (G)I-DLE"
+},
+
+{
+  "link": "https://youtu.be/1qfTBR7DJOw",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-04-24T19:05:16",
+  "duration": "00:03:14",
+  "thumbnail": "https://i.ytimg.com/vi/1qfTBR7DJOw/maxresdefault.jpg",
+  "alt": "TMA 더팩트뮤직어워즈 레드카펫 (여자)아이들 (THE FACT MUSIC AWARDS)",
+  "title": "TMA 더팩트뮤직어워즈 레드카펫 (여자)아이들 (THE FACT MUSIC AWARDS)"
 },
 
 {
   "link": "https://youtu.be/AXcpPS71f5Y",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-05-06T02:18:48",
+  "date": "2019-05-05T02:18:48",
   "duration": "00:20:30",
   "thumbnail": "https://i.ytimg.com/vi/AXcpPS71f5Y/maxresdefault.jpg",
   "alt": "[의왕 철도축제] (여자)아이들 (G) I-DLE Fullcam Nocut",
-  "title": "[의왕 철도축제] (여자)아이들 (G) I-DLE Fullcam Nocut"
+  "title": "▫️[의왕 철도축제] (여자)아이들 (G) I-DLE Fullcam Nocut"
 },
 
 {
   "link": "https://youtu.be/Lxwx2IwW0Kg",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-05-06T03:47:36",
+  "date": "2019-05-05T03:47:36",
   "duration": "00:20:32",
   "thumbnail": "https://i.ytimg.com/vi/Lxwx2IwW0Kg/maxresdefault.jpg",
   "alt": "[의왕 철도축제] 여자아이들 전체영상, Full Pictures, 의왕철도축제",
-  "title": "[의왕 철도축제] 여자아이들 전체영상, Full Pictures, 의왕철도축제"
+  "title": "▫️[의왕 철도축제] 여자아이들 전체영상, Full Pictures, 의왕철도축제"
 },
 
 {
@@ -734,7 +882,7 @@ const 공연축제Cards = [
   "duration": "00:14:17",
   "thumbnail": "https://i.ytimg.com/vi/o0pL9ae-3dU/maxresdefault.jpg",
   "alt": "고창 전라북도민체육대회 개막공연 - (여자)아이들 전체직캠",
-  "title": "고창 전라북도민체육대회 개막공연 - (여자)아이들 전체직캠"
+  "title": "▫️고창 전라북도민체육대회 개막공연 - (여자)아이들 전체직캠"
 },
 
 {
@@ -756,7 +904,7 @@ const 공연축제Cards = [
   "duration": "00:12:15",
   "thumbnail": "https://i.ytimg.com/vi/IWmbpekrdgM/maxresdefault.jpg",
   "alt": "경희공대 - 여자아이들 한+MAZE+LATATA+Senorita",
-  "title": "경희공대 -여자아이들 한+MAZE+LATATA+Senorita"
+  "title": "▫️경희공대 -여자아이들 한+MAZE+LATATA+Senorita"
 },
 
 {
@@ -767,7 +915,7 @@ const 공연축제Cards = [
   "duration": "00:21:04",
   "thumbnail": "https://i.ytimg.com/vi/79gTEE8sSyU/maxresdefault.jpg",
   "alt": "[단국대학교] (여자)아이들((G)I-DLE) 고정 전체 캠 (Fixed Whole Cam) - Full Ver",
-  "title": "[단국대학교] (여자)아이들((G)I-DLE) 고정 전체 캠 (Fixed Whole Cam) - Full Ver"
+  "title": "▫️[단국대학교] (여자)아이들((G)I-DLE) 고정 전체 캠 (Fixed Whole Cam) - Full Ver"
 },
 
 {
@@ -778,7 +926,7 @@ const 공연축제Cards = [
   "duration": "00:18:26",
   "thumbnail": "https://i.ytimg.com/vi/T4vay2dAbyA/maxresdefault.jpg",
   "alt": "[서강대학교 축제] (G)I-DLE ((여자)아이들) 'Senorita' + '한(一)(HANN(Alone))' + 'MAZE' + 'LATATA'",
-  "title": "[서강대학교 축제] (G)I-DLE ((여자)아이들) 'Senorita' + '한(一)(HANN(Alone))' + 'MAZE' + 'LATATA'"
+  "title": "▫️[서강대학교 축제] (G)I-DLE ((여자)아이들) 'Senorita' + '한(一)(HANN(Alone))' + 'MAZE' + 'LATATA'"
 },
 
 {
@@ -789,7 +937,7 @@ const 공연축제Cards = [
   "duration": "00:03:18",
   "thumbnail": "https://i.ytimg.com/vi/-DfTpsPXGLk/maxresdefault.jpg",
   "alt": "광운대학교 (여자)아이들 (G)I-DLE :: Senorita",
-  "title": "광운대학교 (여자)아이들 (G)I-DLE :: Senorita"
+  "title": "▫️광운대학교 (여자)아이들 (G)I-DLE :: Senorita"
 },
 
 {
@@ -800,7 +948,7 @@ const 공연축제Cards = [
   "duration": "00:03:29",
   "thumbnail": "https://i.ytimg.com/vi/9rA5tqTSyEA/maxresdefault.jpg",
   "alt": "광운대학교 (여자)아이들 (G)I-DLE :: 한",
-  "title": "광운대학교 (여자)아이들 (G)I-DLE :: 한"
+  "title": "▫️광운대학교 (여자)아이들 (G)I-DLE :: 한"
 },
 
 {
@@ -811,7 +959,7 @@ const 공연축제Cards = [
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/yXYlv6UJrHs/maxresdefault.jpg",
   "alt": "광운대학교 (여자)아이들 (G)I-DLE :: MAZE",
-  "title": "광운대학교 (여자)아이들 (G)I-DLE :: MAZE"
+  "title": "▫️광운대학교 (여자)아이들 (G)I-DLE :: MAZE"
 },
 
 {
@@ -822,25 +970,37 @@ const 공연축제Cards = [
   "duration": "00:03:27",
   "thumbnail": "https://i.ytimg.com/vi/ytDSAIyn6WY/maxresdefault.jpg",
   "alt": "광운대학교 (여자)아이들 (G)I-DLE :: 라타타(LATATA)",
-  "title": "광운대학교 (여자)아이들 (G)I-DLE :: 라타타(LATATA)"
+  "title": "▫️광운대학교 (여자)아이들 (G)I-DLE :: 라타타(LATATA)"
 },
 
 {
-  "link": "https://youtu.be/dFoXDP1E_Mo",
+  "link": "https://youtu.be/KLfU9Wdwobc",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-05-18T14:48:25",
-  "duration": "00:01:29",
-  "thumbnail": "https://i.ytimg.com/vi/dFoXDP1E_Mo/sddefault.jpg",
-  "alt": "[드림콘서트2019 비하인드] (여자)아이들, 인싸대결 5탄 | Dream Concert 2019",
-  "title": "[드림콘서트2019 비하인드] (여자)아이들, 인싸대결 5탄 | Dream Concert 2019"
+  "date": "2019-05-18T20:00:01",
+  "duration": "00:03:42",
+  "thumbnail": "https://i.ytimg.com/vi/KLfU9Wdwobc/sddefault.jpg",
+  "alt": "[드림콘서트2019] 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼 | Dream Concert 2019",
+  "title": "[드림콘서트2019] 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼 | Dream Concert 2019"
+},
+
+{
+  "link": "https://youtu.be/vqXw5tf9RiA",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-05-18T20:00:02",
+  "duration": "00:03:19",
+  "thumbnail": "https://i.ytimg.com/vi/vqXw5tf9RiA/maxresdefault.jpg",
+  "alt": "[드림콘서트2019] (G)I-DLE, Senorita | Dream Concert 2019",
+  "title": "[드림콘서트2019] (G)I-DLE, Senorita | Dream Concert 2019",
+  "subtag": "대학축제"
 },
 
 {
   "link": "https://youtu.be/KL_mKVw2uHY",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-05-18T15:20:18",
+  "date": "2019-05-18T20:00:03",
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/KL_mKVw2uHY/maxresdefault.jpg",
   "alt": "[드림콘서트2019] (G)I-DLE, Senorita  Fancam | Dream Concert 2019",
@@ -848,10 +1008,21 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/rJjMP4stNg0",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2019-05-18T20:00:04",
+  "duration": "00:03:28",
+  "thumbnail": "https://i.ytimg.com/vi/rJjMP4stNg0/maxresdefault.jpg",
+  "alt": "[드림콘서트2019] (여자)아이들, 하늘에서 선녀님이 내려오셔 [Dream Concert 2019, Self-cam]",
+  "title": "[드림콘서트2019] (여자)아이들, 하늘에서 선녀님이 내려오셔 [Dream Concert 2019, Self-cam]"
+},
+
+{
   "link": "https://youtu.be/rBnlxgfGGTI",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-05-18T16:16:54",
+  "date": "2019-05-18T20:00:05",
   "duration": "00:04:20",
   "thumbnail": "https://i.ytimg.com/vi/rBnlxgfGGTI/sddefault.jpg",
   "alt": "[드림콘서트2019 비하인드] (여자)아이들, 너무 감미로워서 고막이 녹아버린 아이들의 큐브 패밀리 메들리! | Dream Concert 2019",
@@ -859,25 +1030,16 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/KLfU9Wdwobc",
+  "link": "https://youtu.be/dFoXDP1E_Mo",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-05-18T21:23:16",
-  "duration": "00:03:42",
-  "thumbnail": "https://i.ytimg.com/vi/KLfU9Wdwobc/sddefault.jpg",
-  "alt": "[드림콘서트2019] 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼 | Dream Concert 2019",
-  "title": "[드림콘서트2019] 포토월 (여자)아이들((G)I-DLE), 빛나는 인형 비주얼 | Dream Concert 2019"
+  "date": "2019-05-18T20:00:06",
+  "duration": "00:01:29",
+  "thumbnail": "https://i.ytimg.com/vi/dFoXDP1E_Mo/sddefault.jpg",
+  "alt": "[드림콘서트2019 비하인드] (여자)아이들, 인싸대결 5탄 | Dream Concert 2019",
+  "title": "[드림콘서트2019 비하인드] (여자)아이들, 인싸대결 5탄 | Dream Concert 2019"
 },
-{
-  "link": "https://youtu.be/rJjMP4stNg0",
-  "category": "공식채널",
-  "member": "아이들",
-  "date": "2019-05-18T15:46:10",
-  "duration": "00:03:28",
-  "thumbnail": "https://i.ytimg.com/vi/rJjMP4stNg0/maxresdefault.jpg",
-  "alt": "[드림콘서트2019] (G)I-DLE, The Good Lady comes down from heaven [Dream Concert 2019, Self-cam]",
-  "title": "[드림콘서트2019] (G)I-DLE, The Good Lady comes down from heaven [Dream Concert 2019, Self-cam]"
-},
+
 {
   "link": "https://youtu.be/K9FLUx3LtVQ",
   "category": "공연축제",
@@ -886,7 +1048,7 @@ const 공연축제Cards = [
   "duration": "00:19:04",
   "thumbnail": "https://i.ytimg.com/vi/K9FLUx3LtVQ/sddefault.jpg",
   "alt": "[동아방송대 대동제] (여자)아이들((G)I-DLE) Full Ver. (Senorita & HANN & MAZE & LATATA)",
-  "title": "[동아방송대 대동제 (여자)아이들((G)I-DLE) Full Ver. (Senorita & HANN & MAZE & LATATA)"
+  "title": "▫️[동아방송대 대동제 (여자)아이들((G)I-DLE) Full Ver. (Senorita & HANN & MAZE & LATATA)"
 },
 
 {
@@ -897,7 +1059,7 @@ const 공연축제Cards = [
   "duration": "00:22:13",
   "thumbnail": "https://i.ytimg.com/vi/G7sK-WzaVZw/maxresdefault.jpg",
   "alt": "[고려대학교 석탑대동제] (여자)아이들((G)I-DLE) 고려대학교 축제 FULL VER.",
-  "title": "[고려대학교 석탑대동제] (여자)아이들((G)I-DLE) 고려대학교 축제 FULL VER."
+  "title": "▫️[고려대학교 석탑대동제] (여자)아이들((G)I-DLE) 고려대학교 축제 FULL VER."
 },
 
 {
@@ -908,7 +1070,7 @@ const 공연축제Cards = [
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/Gxg2o5UBVbQ/maxresdefault.jpg",
   "alt": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ Senorita 라이브 공연",
-  "title": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ Senorita 라이브 공연"
+  "title": "▫️대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ Senorita 라이브 공연"
 },
 
 {
@@ -919,7 +1081,7 @@ const 공연축제Cards = [
   "duration": "00:03:21",
   "thumbnail": "https://i.ytimg.com/vi/AhZZnxnArsU/maxresdefault.jpg",
   "alt": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ '한(一)(HANN(Alone))' 라이브 공연",
-  "title": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ '한(一)(HANN(Alone))' 라이브 공연"
+  "title": "▫️대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ '한(一)(HANN(Alone))' 라이브 공연"
 },
 
 {
@@ -930,7 +1092,7 @@ const 공연축제Cards = [
   "duration": "00:03:35",
   "thumbnail": "https://i.ytimg.com/vi/VVT1b1eWCxo/maxresdefault.jpg",
   "alt": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ 'Maze'  라이브 공연",
-  "title": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ 'Maze'  라이브 공연"
+  "title": "▫️대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ 'Maze'  라이브 공연"
 },
 
 {
@@ -941,7 +1103,7 @@ const 공연축제Cards = [
   "duration": "00:03:29",
   "thumbnail": "https://i.ytimg.com/vi/oRglnJaBBwI/maxresdefault.jpg",
   "alt": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ LATATA 라이브 공연",
-  "title": "대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ LATATA 라이브 공연"
+  "title": "▫️대진대학교 왕방 축제 (G)I-DLE((여자)아이들) _ LATATA 라이브 공연"
 },
 
 {
@@ -952,7 +1114,7 @@ const 공연축제Cards = [
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/AMZ7nED8iyE/maxresdefault.jpg",
   "alt": "K-POP Artist Festival (여자)아이들 - Senorita 2019 케이팝 아티스트 페스티벌",
-  "title": "K-POP Artist Festival (여자)아이들 - Senorita 2019 케이팝 아티스트 페스티벌"
+  "title": "▫️K-POP Artist Festival (여자)아이들 - Senorita 2019 케이팝 아티스트 페스티벌"
 },
 
 {
@@ -963,7 +1125,7 @@ const 공연축제Cards = [
   "duration": "00:03:41",
   "thumbnail": "https://i.ytimg.com/vi/trvLZSystqc/maxresdefault.jpg",
   "alt": "K-POP Artist Festival (여자)아이들 - 한(一) 2019 케이팝 아티스트 페스티벌",
-  "title": "K-POP Artist Festival (여자)아이들 - 한(一) 2019 케이팝 아티스트 페스티벌"
+  "title": "▫️K-POP Artist Festival (여자)아이들 - 한(一) 2019 케이팝 아티스트 페스티벌"
 },
 
 {
@@ -974,7 +1136,7 @@ const 공연축제Cards = [
   "duration": "00:01:29",
   "thumbnail": "https://i.ytimg.com/vi/UaT269sT63k/maxresdefault.jpg",
   "alt": "K-POP Artist Festival (여자)아이들 - ment 2019 케이팝 아티스트 페스티벌",
-  "title": "K-POP Artist Festival (여자)아이들 - ment 2019 케이팝 아티스트 페스티벌"
+  "title": "▫️K-POP Artist Festival (여자)아이들 - ment 2019 케이팝 아티스트 페스티벌"
 },
 
 {
@@ -985,7 +1147,7 @@ const 공연축제Cards = [
   "duration": "00:03:29",
   "thumbnail": "https://i.ytimg.com/vi/TTmZyc0TPbc/maxresdefault.jpg",
   "alt": "K-POP Artist Festival (여자)아이들 - Maze 2019 케이팝 아티스트 페스티벌",
-  "title": "K-POP Artist Festival (여자)아이들 - Maze 2019 케이팝 아티스트 페스티벌"
+  "title": "▫️K-POP Artist Festival (여자)아이들 - Maze 2019 케이팝 아티스트 페스티벌"
 },
 
 {
@@ -996,7 +1158,7 @@ const 공연축제Cards = [
   "duration": "00:03:51",
   "thumbnail": "https://i.ytimg.com/vi/ttUZqyG-REM/maxresdefault.jpg",
   "alt": "K-POP Artist Festival (여자)아이들 - LATATA 2019 케이팝 아티스트 페스티벌",
-  "title": "K-POP Artist Festival (여자)아이들 - LATATA 2019 케이팝 아티스트 페스티벌"
+  "title": "▫️K-POP Artist Festival (여자)아이들 - LATATA 2019 케이팝 아티스트 페스티벌"
 },
 
 {
@@ -1031,29 +1193,36 @@ const 공연축제Cards = [
   "alt": "아시아모델어워즈 (G)I-DLE - Senorita  |  (여자)아이들 - 세뇨리따 [Asia Model Awards, AMA]",
   "title": "아시아모델어워즈 (G)I-DLE - Senorita  |  (여자)아이들 - 세뇨리따 [Asia Model Awards, AMA]"
 },
-
 {
-  "link": "https://youtu.be/VHpCo5vzkkw",
+  "link": "https://youtu.be/aPUWSgtOGsU",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-07-07T12:13:26",
-  "duration": "00:11:48",
-  "thumbnail": "https://i.ytimg.com/vi/VHpCo5vzkkw/maxresdefault.jpg",
-  "alt": "[KCON 2019 NY] 여자아이들  Uh Oh + HANN + LATATA + Senorita",
-  "title": "[KCON 2019 NY] 여자아이들  Uh Oh + HANN + LATATA + Senorita"
+  "date": "2019-06-17T12:42:52",
+  "duration": "00:05:15",
+  "thumbnail": "https://i.ytimg.com/vi/aPUWSgtOGsU/maxresdefault.jpg",
+  "alt": "[#KCON 2019 NY] STAR COUNTDOWN D-20: (G)I-DLE",
+  "title": "[#KCON 2019 NY] STAR COUNTDOWN D-20: (G)I-DLE"
 },
-
 {
   "link": "https://youtu.be/JY-Ai-MnhMk",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-07-25T19:24:24",
+  "date": "2019-07-07T19:00:01",
   "duration": "00:03:55",
   "thumbnail": "https://i.ytimg.com/vi/JY-Ai-MnhMk/maxresdefault.jpg",
-  "alt": "[KCON 2019 NY] (G)I-DLE - Uh-OhㅣKCON 2019 NY × M COUNTDOWN",
-  "title": "[KCON 2019 NY] (G)I-DLE - Uh-OhㅣKCON 2019 NY × M COUNTDOWN"
+  "alt": "[KCON 2019 NY] (G)I-DLE - Uh-Oh",
+  "title": "[KCON 2019 NY] (G)I-DLE - Uh-Oh"
 },
-
+{
+  "link": "https://youtu.be/gbPP3MokCbk",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-07-07T19:00:02",
+  "duration": "00:07:36",
+  "thumbnail": "https://i.ytimg.com/vi/gbPP3MokCbk/maxresdefault.jpg",
+  "alt": "[KCON 2019 NY] TALK + HANN (Alone) + LATATA + Senorita。",
+  "title": "[KCON 2019 NY] TALK + HANN (Alone) + LATATA + Senorita。"
+},
 {
   "link": "https://youtu.be/-oSAz0n1CeQ",
   "category": "공연축제",
@@ -1073,7 +1242,7 @@ const 공연축제Cards = [
   "duration": "00:03:25",
   "thumbnail": "https://i.ytimg.com/vi/Kylswv4pCBY/sddefault.jpg",
   "alt": "[소리바다 어워즈] (G)I-dle ((여자)아이들) - Uh-Oh  ( SORIBADA BEST K-MUSIC AWARDS 2019)",
-  "title": "[소리바다 어워즈] (G)I-dle ((여자)아이들) - Uh-Oh  ( SORIBADA BEST K-MUSIC AWARDS 2019)"
+  "title": "▫️[소리바다 어워즈] (G)I-dle ((여자)아이들) - Uh-Oh  ( SORIBADA BEST K-MUSIC AWARDS 2019)"
 },
 
 {
@@ -1084,7 +1253,7 @@ const 공연축제Cards = [
   "duration": "00:03:43",
   "thumbnail": "https://i.ytimg.com/vi/FEKVN8nM8_E/maxresdefault.jpg",
   "alt": "여자아이들 G-IDLE ( Uh Oh ) 서울대학교 공대 축제 4K 직캠 Fancam",
-  "title": "여자아이들 G-IDLE ( Uh Oh ) 서울대학교 공대 축제 4K 직캠 Fancam"
+  "title": "▫️여자아이들 G-IDLE ( Uh Oh ) 서울대학교 공대 축제 4K 직캠 Fancam"
 },
 
 {
@@ -1095,7 +1264,7 @@ const 공연축제Cards = [
   "duration": "00:01:50",
   "thumbnail": "https://i.ytimg.com/vi/-O2C2voZr4E/maxresdefault.jpg",
   "alt": "여자아이들 G-IDLE ( 토크 ) 서울대학교 공대 축제 4K 직캠 Fancam",
-  "title": "여자아이들 G-IDLE ( 토크 ) 서울대학교 공대 축제 4K 직캠 Fancam"
+  "title": "▫️여자아이들 G-IDLE ( 토크 ) 서울대학교 공대 축제 4K 직캠 Fancam"
 },
 
 {
@@ -1106,7 +1275,7 @@ const 공연축제Cards = [
   "duration": "00:03:30",
   "thumbnail": "https://i.ytimg.com/vi/mlGm4mwzA3w/maxresdefault.jpg",
   "alt": "여자아이들 G-IDLE ( Senorita ) 서울대학교 공대 축제 4K 직캠 Fancam",
-  "title": "여자아이들 G-IDLE ( Senorita ) 서울대학교 공대 축제 4K 직캠 Fancam"
+  "title": "▫️여자아이들 G-IDLE ( Senorita ) 서울대학교 공대 축제 4K 직캠 Fancam"
 },
 
 {
@@ -1117,7 +1286,7 @@ const 공연축제Cards = [
   "duration": "00:03:33",
   "thumbnail": "https://i.ytimg.com/vi/xH-CxDZ9fuo/maxresdefault.jpg",
   "alt": "여자아이들 G-IDLE ( 한 ) 서울대학교 공대 축제 4K 직캠 Fancam",
-  "title": "여자아이들 G-IDLE ( 한 ) 서울대학교 공대 축제 4K 직캠 Fancam"
+  "title": "▫️여자아이들 G-IDLE ( 한 ) 서울대학교 공대 축제 4K 직캠 Fancam"
 },
 
 {
@@ -1128,7 +1297,7 @@ const 공연축제Cards = [
   "duration": "00:03:34",
   "thumbnail": "https://i.ytimg.com/vi/kTx6pL09Ugs/maxresdefault.jpg",
   "alt": "여자아이들 G-IDLE ( 토크2 ) 서울대학교 공대 축제 4K 직캠 Fancam",
-  "title": "여자아이들 G-IDLE ( 토크2 ) 서울대학교 공대 축제 4K 직캠 Fancam"
+  "title": "▫️여자아이들 G-IDLE ( 토크2 ) 서울대학교 공대 축제 4K 직캠 Fancam"
 },
 
 {
@@ -1139,7 +1308,7 @@ const 공연축제Cards = [
   "duration": "00:03:56",
   "thumbnail": "https://i.ytimg.com/vi/7p2Jxw1Qngw/maxresdefault.jpg",
   "alt": "여자아이들 G-IDLE ( Latata ) 서울대학교 공대 축제 4K 직캠 Fancam",
-  "title": "여자아이들 G-IDLE ( Latata ) 서울대학교 공대 축제 4K 직캠 Fancam"
+  "title": "▫️여자아이들 G-IDLE ( Latata ) 서울대학교 공대 축제 4K 직캠 Fancam"
 },
 
 {
@@ -1150,7 +1319,7 @@ const 공연축제Cards = [
   "duration": "00:03:39",
   "thumbnail": "https://i.ytimg.com/vi/B2_Gz_7KKDc/maxresdefault.jpg",
   "alt": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'Uh-Oh'",
-  "title": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'Uh-Oh'"
+  "title": "▫️[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'Uh-Oh'"
 },
 
 {
@@ -1161,7 +1330,7 @@ const 공연축제Cards = [
   "duration": "00:03:19",
   "thumbnail": "https://i.ytimg.com/vi/zLc-IhXa8Mo/maxresdefault.jpg",
   "alt": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'Senorita'",
-  "title": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'Senorita'"
+  "title": "▫️[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'Senorita'"
 },
 
 {
@@ -1172,7 +1341,7 @@ const 공연축제Cards = [
   "duration": "00:03:37",
   "thumbnail": "https://i.ytimg.com/vi/SvPFq7HZiXM/maxresdefault.jpg",
   "alt": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE '한 HANN'",
-  "title": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE '한 HANN'"
+  "title": "▫️[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE '한 HANN'"
 },
 
 {
@@ -1183,20 +1352,69 @@ const 공연축제Cards = [
   "duration": "00:03:31",
   "thumbnail": "https://i.ytimg.com/vi/pdvIU0jKAaM/maxresdefault.jpg",
   "alt": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'LATATA'",
-  "title": "[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'LATATA'"
+  "title": "▫️[청주 중국인 유학생 페스티벌] (여자)아이들 (G)I-DLE 'LATATA'"
 },
 
 {
-  "link": "https://youtu.be/V7TLsMTGtiI",
+  "link": "https://youtu.be/2faAvzVxJSk",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-09-26T02:29:45",
-  "duration": "00:14:06",
-  "thumbnail": "https://i.ytimg.com/vi/V7TLsMTGtiI/maxresdefault.jpg",
-  "alt": "[천안 흥타령 춤축제] 여자아이들 (G) I-DLE  Full Ver. (Uh-Oh + Senorita + LATATA)",
-  "title": "[천안 흥타령 춤축제] 여자아이들 (G) I-DLE Full Ver. (Uh-Oh + Senorita + LATATA)"
+  "date": "2019-09-25T17:00:00",
+  "duration": "00:10:12",
+  "thumbnail": "https://i.ytimg.com/vi/2faAvzVxJSk/hqdefault.jpg",
+  "alt": "[천안흥타령춤축제] (여자)아이들 - Uh-oh × Senorita × Latata (Cheonan World Dance Festival)",
+  "title": "[천안흥타령춤축제] (여자)아이들 - Uh-oh × Senorita × Latata (Cheonan World Dance Festival)"
 },
-
+{
+  "link": "https://youtu.be/wJ63VZzHbaE",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-09-25T17:00:01",
+  "duration": "00:05:08",
+  "thumbnail": "https://i.ytimg.com/vi/wJ63VZzHbaE/maxresdefault.jpg",
+  "alt": "[천안흥타령춤축제] (여자)아이들 (G)I-DLE / 토크&멤버소개 Talk&Introduction",
+  "title": "[천안흥타령춤축제] (여자)아이들 (G)I-DLE / 토크&멤버소개 Talk&Introduction"
+},
+{
+  "link": "https://youtu.be/jFUmjwaxCyU",
+  "category": "공연축제",
+  "member": "소연",
+  "date": "2019-09-25T17:00:02",
+  "duration": "00:03:28",
+  "thumbnail": "https://i.ytimg.com/vi/jFUmjwaxCyU/maxresdefault.jpg",
+  "alt": "[천안흥타령춤축제] (여자)아이들 소연 (G)I-DLE/ Soyeon - Uh Oh 세로캠 Vertical cam",
+  "title": "[천안흥타령춤축제] (여자)아이들 소연 (G)I-DLE/ Soyeon - Uh Oh 세로캠 Vertical cam"
+},
+{
+  "link": "https://youtu.be/rzR0GPONcVA",
+  "category": "공연축제",
+  "member": "",
+  "date": "2019-09-25T17:00:03",
+  "duration": "00:03:28",
+  "thumbnail": "https://i.ytimg.com/vi/rzR0GPONcVA/maxresdefault.jpg",
+  "alt": "[천안흥타령춤축제] (여자)아이들 수진 (G)I-DLE Sujin - Uh Oh 세로캠",
+  "title": "[천안흥타령춤축제] (여자)아이들 수진 (G)I-DLE Sujin - Uh Oh 세로캠"
+},
+{
+  "link": "https://youtu.be/Rt6mhqBeaJI",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2019-09-25T17:00:04",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/Rt6mhqBeaJI/maxresdefault.jpg",
+  "alt": "[천안흥타령춤축제] (여자)아이들 미연 (G)I-DLE/  Miyeon - LATATA 세로캠 Vertical cam",
+  "title": "[천안흥타령춤축제] (여자)아이들 미연 (G)I-DLE/  Miyeon - LATATA 세로캠 Vertical cam"
+},
+{
+  "link": "https://youtu.be/SPKehwJlZuE",
+  "category": "공연축제",
+  "member": "민니",
+  "date": "2019-09-25T17:00:05",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/SPKehwJlZuE/maxresdefault.jpg",
+  "alt": "[천안흥타령춤축제] (여자)아이들 민니 (G)I-DLE Minnie - LATATA 세로캠",
+  "title": "[천안흥타령춤축제] (여자)아이들 민니 (G)I-DLE Minnie - LATATA 세로캠"
+},
 {
   "link": "https://youtu.be/uvIu-MMtRYg",
   "category": "공연축제",
@@ -1205,106 +1423,116 @@ const 공연축제Cards = [
   "duration": "00:09:55",
   "thumbnail": "https://i.ytimg.com/vi/uvIu-MMtRYg/maxresdefault.jpg",
   "alt": "남원 춘향제 제89회 전국춘향선발대회 축하공연 - 아이들 / Senorita, LATATA",
-  "title": "남원 춘향제 제89회 전국춘향선발대회 축하공연 - 아이들 / Senorita, LATATA"
+  "title": "▫️남원 춘향제 제89회 전국춘향선발대회 축하공연 - 아이들 / Senorita, LATATA"
+},
+
+{
+  "link": "https://youtu.be/UcoeWqIzOfg",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-09-28T10:31:37",
+  "duration": "00:11:20",
+  "thumbnail": "https://i.ytimg.com/vi/UcoeWqIzOfg/maxresdefault.jpg",
+  "alt": "[라쿠텐 걸즈 어워드] Uh-Oh + HANN + LATATA | Rakuten Girls Award 2019 A/W。",
+  "title": "[라쿠텐 걸즈 어워드] Uh-Oh + HANN + LATATA | Rakuten Girls Award 2019 A/W。"
 },
 
 {
   "link": "https://youtu.be/aSUhlqYsDFg",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-10-08T23:19:14",
+  "date": "2019-10-08T14:50:00",
   "duration": "00:19:18",
   "thumbnail": "https://i.ytimg.com/vi/aSUhlqYsDFg/maxresdefault.jpg",
   "alt": "[2019 인제군 군장병 한마음 대회] 여자아이들 FULL VER",
-  "title": "[2019 인제군 군장병 한마음 대회] 여자아이들 FULL VER"
+  "title": "▫️[2019 인제군 군장병 한마음 대회] 여자아이들 FULL VER"
 },
 
 {
   "link": "https://youtu.be/0A3d78AQV5o",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-10-09T14:50:01",
+  "date": "2019-10-08T14:50:01",
   "duration": "00:03:27",
   "thumbnail": "https://i.ytimg.com/vi/0A3d78AQV5o/maxresdefault.jpg",
   "alt": "여자아이들 ( UhOh ) 인제 군장병 한마음대회 4K 직캠 Fancam",
-  "title": "여자아이들 ( UhOh ) 인제 군장병 한마음대회 4K 직캠 Fancam"
+  "title": "▫️여자아이들 ( UhOh ) 인제 군장병 한마음대회 4K 직캠 Fancam"
 },
 
 {
   "link": "https://youtu.be/J0z4IcK6zyQ",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-10-09T14:50:11",
+  "date": "2019-10-08T14:50:11",
   "duration": "00:01:23",
   "thumbnail": "https://i.ytimg.com/vi/J0z4IcK6zyQ/maxresdefault.jpg",
   "alt": "여자아이들 ( 토크 ) 인제 군장병 한마음대회 4K 직캠 Fancam",
-  "title": "여자아이들 ( 토크 ) 인제 군장병 한마음대회 4K 직캠 Fancam"
+  "title": "▫️여자아이들 ( 토크 ) 인제 군장병 한마음대회 4K 직캠 Fancam"
 },
 
 {
   "link": "https://youtu.be/BWpVY1QkBNs",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-10-09T14:50:24",
+  "date": "2019-10-08T14:50:24",
   "duration": "00:03:24",
   "thumbnail": "https://i.ytimg.com/vi/BWpVY1QkBNs/maxresdefault.jpg",
   "alt": "여자아이들 ( Senorita ) 인제 군장병 한마음대회 4K 직캠 Fancam",
-  "title": "여자아이들 ( Senorita ) 인제 군장병 한마음대회 4K 직캠 Fancam"
+  "title": "▫️여자아이들 ( Senorita ) 인제 군장병 한마음대회 4K 직캠 Fancam"
 },
 
 {
   "link": "https://youtu.be/ZoElkZRlxr4",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-10-09T14:50:38",
+  "date": "2019-10-08T14:50:38",
   "duration": "00:03:18",
   "thumbnail": "https://i.ytimg.com/vi/ZoElkZRlxr4/maxresdefault.jpg",
   "alt": "여자아이들 ( 한 ) 인제 군장병 한마음대회 4K 직캠 Fancam",
-  "title": "여자아이들 ( 한 ) 인제 군장병 한마음대회 4K 직캠 Fancam"
+  "title": "▫️여자아이들 ( 한 ) 인제 군장병 한마음대회 4K 직캠 Fancam"
 },
 
 {
   "link": "https://youtu.be/-IZShLfC8bY",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-10-09T14:51:04",
+  "date": "2019-10-08T14:51:04",
   "duration": "00:03:34",
   "thumbnail": "https://i.ytimg.com/vi/-IZShLfC8bY/maxresdefault.jpg",
   "alt": "여자아이들 ( 토크2 ) 인제 군장병 한마음대회 4K 직캠 Fancam",
-  "title": "여자아이들 ( 토크2 ) 인제 군장병 한마음대회 4K 직캠 Fancam"
+  "title": "▫️여자아이들 ( 토크2 ) 인제 군장병 한마음대회 4K 직캠 Fancam"
 },
 
 {
   "link": "https://youtu.be/B9-wi_CP7gA",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2019-10-09T14:51:17",
+  "date": "2019-10-08T14:51:17",
   "duration": "00:01:48",
   "thumbnail": "https://i.ytimg.com/vi/B9-wi_CP7gA/maxresdefault.jpg",
   "alt": "여자아이들 ( Latata ) 인제 군장병 한마음대회 4K 직캠 Fancam",
-  "title": "여자아이들 ( Latata ) 인제 군장병 한마음대회 4K 직캠 Fancam"
-},
-
-{
-  "link": "https://youtu.be/NC_7gUfJJIw",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2019-10-17T19:44:05",
-  "duration": "00:04:01",
-  "thumbnail": "https://i.ytimg.com/vi/NC_7gUfJJIw/maxresdefault.jpg",
-  "alt": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN",
-  "title": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN"
+  "title": "▫️여자아이들 ( Latata ) 인제 군장병 한마음대회 4K 직캠 Fancam"
 },
 
 {
   "link": "https://youtu.be/7ywDxAFq9gw",
   "category": "공연축제",
   "member": "소연",
-  "date": "2019-10-17T22:47:07",
+  "date": "2019-09-29T19:44:04",
   "duration": "00:00:39",
   "thumbnail": "https://i.ytimg.com/vi/7ywDxAFq9gw/maxresdefault.jpg",
   "alt": "[KCON 2019 THAILAND] (G)I-DLE SOYEON - Dollar",
   "title": "[KCON 2019 THAILAND] (G)I-DLE SOYEON - Dollar"
+},
+{
+  "link": "https://youtu.be/NC_7gUfJJIw",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-09-29T19:44:05",
+  "duration": "00:04:01",
+  "thumbnail": "https://i.ytimg.com/vi/NC_7gUfJJIw/maxresdefault.jpg",
+  "alt": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN",
+  "title": "[KCON 2019 THAILAND] (G)I-DLE - Uh-OhㅣKCON 2019 THAILAND × M COUNTDOWN"
 },
 
 {
@@ -1314,8 +1542,8 @@ const 공연축제Cards = [
   "date": "2019-10-19T21:00:20",
   "duration": "00:06:54",
   "thumbnail": "https://i.ytimg.com/vi/JBlGL3KkUAM/maxresdefault.jpg",
-  "alt": "2019 부산 원아시아 페스티벌 개막공연 - (여자)아이들((G)I-DLE) - Uh-Oh + LATATA(라타타) KBS",
-  "title": "2019 부산 원아시아 페스티벌 개막공연 - (여자)아이들((G)I-DLE) - Uh-Oh + LATATA(라타타) KBS"
+  "alt": "2019 부산 원아시아 페스티벌(BOF) 개막공연 - (여자)아이들 'Uh-Oh + LATATA'",
+  "title": "2019 부산 원아시아 페스티벌(BOF) 개막공연 - (여자)아이들 'Uh-Oh + LATATA'"
 },
 
 {
@@ -1337,7 +1565,7 @@ const 공연축제Cards = [
   "duration": "00:03:46",
   "thumbnail": "https://i.ytimg.com/vi/QrPojXXuYlY/maxresdefault.jpg",
   "alt": "[동아스포츠대상] 0.75배속?! 음향사고 완벽 대처한 (여자)아이들 (G)I-DLE 'Uh-Oh'",
-  "title": "[동아스포츠대상] 0.75배속?! 음향사고 완벽 대처한 (여자)아이들 (G)I-DLE 'Uh-Oh'"
+  "title": "▫️[동아스포츠대상] 0.75배속?! 음향사고 완벽 대처한 (여자)아이들 (G)I-DLE 'Uh-Oh'"
 },
 
 {
@@ -1348,7 +1576,7 @@ const 공연축제Cards = [
   "duration": "00:29:15",
   "thumbnail": "https://i.ytimg.com/vi/Ee1PWWxZH6M/maxresdefault.jpg",
   "alt": "[타이난 크리스마스 콘서트] (여자)아이들 (G)I-DLE-台南耶誕晚會 Full Ver. in TAINAN",
-  "title": "[타이난 크리스마스 콘서트] (여자)아이들 (G)I-DLE-台南耶誕晚會 Full Ver. in TAINAN"
+  "title": "▫️[타이난 크리스마스 콘서트] (여자)아이들 (G)I-DLE-台南耶誕晚會 Full Ver. in TAINAN"
 },
 
 {
@@ -1370,14 +1598,44 @@ const 공연축제Cards = [
   "duration": "00:03:01",
   "thumbnail": "https://i.ytimg.com/vi/Th2NdWZDPKE/maxresdefault.jpg",
   "alt": "[2019 가요대제전] (여자)아이들 X ITZY - Diva + dance performance",
-  "title": "[2019 가요대제전] (여자)아이들 X ITZY - Diva + dance performance"
+  "title": "▫️[2019 가요대제전] (여자)아이들 X ITZY - Diva + dance performance"
 },
 
+{
+  "link": "https://youtu.be/xiq1hrECre8",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2019-12-31T21:58:50",
+  "duration": "00:01:42",
+  "thumbnail": "https://i.ytimg.com/vi/xiq1hrECre8/maxresdefault.jpg",
+  "alt": "[2019 가요대제전] (여자)아이들 X ITZY - 비하인드 。",
+  "title": "[2019 가요대제전] (여자)아이들 X ITZY - 비하인드 。"
+},
+{
+  "link": "https://youtu.be/e098g5shHrQ",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-01-05T13:27:20",
+  "duration": "00:02:39",
+  "thumbnail": "https://i.ytimg.com/vi/e098g5shHrQ/maxresdefault.jpg",
+  "alt": "[제34회 골든디스크 레드카펫] (여자)아이들",
+  "title": "[제34회 골든디스크 레드카펫] (여자)아이들"
+},
+{
+  "link": "https://youtu.be/8IXqf3Ple7s",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-01-05T13:27:21",
+  "duration": "00:04:12",
+  "thumbnail": "https://i.ytimg.com/vi/8IXqf3Ple7s/maxresdefault.jpg",
+  "alt": "[제34회 골든디스크] 남녀 베스트 퍼포먼스 - (여자)아이들 ＆ 아스트로",
+  "title": "[제34회 골든디스크] 남녀 베스트 퍼포먼스 - (여자)아이들 ＆ 아스트로"
+},
 {
   "link": "https://youtu.be/EMxUmV3ls8w",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2020-01-06T16:02:04",
+  "date": "2020-01-05T13:27:22",
   "duration": "00:04:59",
   "thumbnail": "https://i.ytimg.com/vi/EMxUmV3ls8w/maxresdefault.jpg",
   "alt": "[제34회 골든디스크] (여자)아이들 - ′Lion′♪ | Golden Disc Awards",
@@ -1385,36 +1643,14 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/N1YSkN7BQcM",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2020-01-08T23:29:50",
-  "duration": "00:03:58",
-  "thumbnail": "https://i.ytimg.com/vi/N1YSkN7BQcM/maxresdefault.jpg",
-  "alt": "[가온차트 뮤직 어워즈] ITZY (있지) (여자)아이들 (G)I-DLE 친목 단체 사진 직캠",
-  "title": "[가온차트 뮤직 어워즈] ITZY (있지) (여자)아이들 (G)I-DLE 친목 단체 사진 직캠"
-},
-
-{
-  "link": "https://youtu.be/X_xvS7usduo",
-  "category": "공연축제",
-  "member": "우기, 슈화",
-  "date": "2020-01-08T23:46:13",
-  "duration": "00:08:12",
-  "thumbnail": "https://i.ytimg.com/vi/X_xvS7usduo/maxresdefault.jpg",
-  "alt": "[가온차트 뮤직 어워즈] (여자)아이들 우기 슈화 물병 가지고 놀기",
-  "title": "[가온차트 뮤직 어워즈] (여자)아이들 우기 슈화 물병 가지고 놀기"
-},
-
-{
   "link": "https://youtu.be/etXuuyLj0Jc",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2020-01-10T15:09:20",
+  "date": "2020-01-08T15:09:20",
   "duration": "00:06:31",
   "thumbnail": "https://i.ytimg.com/vi/etXuuyLj0Jc/sddefault.jpg",
-  "alt": "[가온차트 뮤직어워즈] (G)I-DLE (여자아이들)_ Uh-Oh + 수상소감 Gaon Chart Music Awards 2020",
-  "title": "[가온차트 뮤직어워즈] (G)I-DLE (여자아이들)_ Uh-Oh + 수상소감 Gaon Chart Music Awards 2020"
+  "alt": "[2019 가온차트 뮤직어워즈] (여자)아이들 - 'INTRO + Uh-Oh' / 수상소감 | (GAONCHART MUSIC AWARDS 2019)",
+  "title": "▫️[2019 가온차트 뮤직어워즈] (여자)아이들 - 'INTRO + Uh-Oh' / 수상소감 | (GAONCHART MUSIC AWARDS 2019)"
 },
 
 {
@@ -1436,7 +1672,7 @@ const 공연축제Cards = [
   "duration": "00:03:29",
   "thumbnail": "https://i.ytimg.com/vi/LmZ-HuMaqOY/maxresdefault.jpg",
   "alt": "[성결대학교 축제] 아이들 Uh oh",
-  "title": "[성결대학교 축제] 아이들 Uh oh"
+  "title": "▫️[성결대학교 축제] 아이들 Uh oh"
 },
 
 {
@@ -1447,7 +1683,7 @@ const 공연축제Cards = [
   "duration": "00:03:00",
   "thumbnail": "https://i.ytimg.com/vi/tbjI8gGpej4/maxresdefault.jpg",
   "alt": "[성결대학교 축제] 아이들 세뇨리타",
-  "title": "[성결대학교 축제] 아이들 세뇨리타"
+  "title": "▫️[성결대학교 축제] 아이들 세뇨리타"
 },
 
 {
@@ -1458,7 +1694,7 @@ const 공연축제Cards = [
   "duration": "00:02:41",
   "thumbnail": "https://i.ytimg.com/vi/joOtTtxO6IY/maxresdefault.jpg",
   "alt": "[성결대학교 축제] 아이들 라타타",
-  "title": "[성결대학교 축제] 아이들 라타타"
+  "title": "▫️[성결대학교 축제] 아이들 라타타"
 },
 
 {
@@ -1501,8 +1737,8 @@ const 공연축제Cards = [
   "date": "2020-05-06T19:18:11",
   "duration": "00:03:52",
   "thumbnail": "https://i.ytimg.com/vi/wFEzKwYq2ag/maxresdefault.jpg",
-  "alt": "[한류 팝페스트] (G)I-DLE - GIVE ME YOUR | HALLYUPOPFEST in Singapore 2019 - DAY 2",
-  "title": "[한류 팝페스트] (G)I-DLE - GIVE ME YOUR | HALLYUPOPFEST in Singapore 2019 - DAY 2"
+  "alt": "[한류 팝페스트] (G)I-DLE - GIVE ME YOUR (주세요) | HALLYUPOPFEST in Singapore 2019 - DAY 2",
+  "title": "[한류 팝페스트] (G)I-DLE - GIVE ME YOUR (주세요) | HALLYUPOPFEST in Singapore 2019 - DAY 2"
 },
 
 {
@@ -1528,17 +1764,6 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/r6Qs3okZbus",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2020-05-23T01:16:37",
-  "duration": "00:30:19",
-  "thumbnail": "https://i.ytimg.com/vi/r6Qs3okZbus/maxresdefault.jpg",
-  "alt": "11th KPOP FESTIVAL 2019 IN SAPPORO",
-  "title": "11th KPOP FESTIVAL 2019 IN SAPPORO"
-},
-
-{
   "link": "https://youtu.be/GoRZX2NAuaY",
   "category": "공연축제",
   "member": "아이들",
@@ -1546,18 +1771,79 @@ const 공연축제Cards = [
   "duration": "00:11:20",
   "thumbnail": "https://i.ytimg.com/vi/GoRZX2NAuaY/maxresdefault.jpg",
   "alt": "(Japanese ver.) 라쿠텐 걸즈 어워드 | 楽天ガールズアワード 2019 | Rakuten Girls Award 2019 A/W",
-  "title": "(Japanese ver.) 라쿠텐 걸즈 어워드 | 楽天ガールズアワード 2019 | Rakuten Girls Award 2019 A/W"
+  "title": "▫️(Japanese ver.) 라쿠텐 걸즈 어워드 | 楽天ガールズアワード 2019 | Rakuten Girls Award 2019 A/W"
 },
 
 {
   "link": "https://youtu.be/ZbslugCz81U",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2020-06-27T03:06:10",
+  "date": "2020-06-23T18:00:00",
   "duration": "00:05:44",
   "thumbnail": "https://i.ytimg.com/vi/ZbslugCz81U/maxresdefault.jpg",
   "alt": "[KCON:TACT 2020 SUMMER] WE are all here TOGETHER: To you | 그대에게 | 케이콘택트 | 200827 방송",
   "title": "[KCON:TACT 2020 SUMMER] WE are all here TOGETHER: To you | 그대에게 | 케이콘택트 | 200827 방송"
+},
+{
+  "link": "https://youtu.be/UIPVqcS1bbo",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-06-23T18:00:01",
+  "duration": "00:04:25",
+  "thumbnail": "https://i.ytimg.com/vi/UIPVqcS1bbo/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] ARTIST DAILY INTERVIEW  | (여자)아이들 | (G)I-DLE",
+  "title": "[KCON:TACT 2020 SUMMER] ARTIST DAILY INTERVIEW  | (여자)아이들 | (G)I-DLE"
+},
+
+{
+  "link": "https://youtu.be/O5_gGdOuHOc",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-06-23T18:00:02",
+  "duration": "00:14:02",
+  "thumbnail": "https://i.ytimg.com/vi/O5_gGdOuHOc/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] [All Stage🎁] (여자)아이들 | 케이콘택트 | 200827 방송",
+  "title": "[KCON:TACT 2020 SUMMER] [All Stage🎁] (여자)아이들 | 케이콘택트 | 200827 방송"
+},
+{
+  "link": "https://youtu.be/gW8bekyLUS0",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-06-23T18:00:03",
+  "duration": "00:03:37",
+  "thumbnail": "https://i.ytimg.com/vi/gW8bekyLUS0/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LATATA | 케이콘택트 | 200827 방송",
+  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LATATA | 케이콘택트 | 200827 방송"
+},
+{
+  "link": "https://youtu.be/gqZQGP_psKA",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-06-23T18:00:04",
+  "duration": "00:03:46",
+  "thumbnail": "https://i.ytimg.com/vi/gqZQGP_psKA/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LION | 케이콘택트 | 200827 방송",
+  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LION | 케이콘택트 | 200827 방송"
+},
+{
+  "link": "https://youtu.be/gGXGYhWquOU",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-06-23T18:00:05",
+  "duration": "00:03:48",
+  "thumbnail": "https://i.ytimg.com/vi/gGXGYhWquOU/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - Luv U (사랑해) | 케이콘택트 | 200827 방송",
+  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - Luv U (사랑해) | 케이콘택트 | 200827 방송"
+},
+{
+  "link": "https://youtu.be/qG6PL66yKVM",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-06-23T18:00:06",
+  "duration": "00:03:38",
+  "thumbnail": "https://i.ytimg.com/vi/qG6PL66yKVM/maxresdefault.jpg",
+  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - oh my god | 케이콘택트 | 200827 방송",
+  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - oh my god | 케이콘택트 | 200827 방송"
 },
 
 {
@@ -1567,10 +1853,19 @@ const 공연축제Cards = [
   "date": "2020-07-05T16:38:51",
   "duration": "02:11:48",
   "thumbnail": "https://i.ytimg.com/vi/0lxAoJZvSEo/maxresdefault.jpg",
-  "alt": "(G)I-DLE Online Concert 'I-Land : Who Am I'",
-  "title": "(G)I-DLE Online Concert 'I-Land : Who Am I'"
+  "alt": "▫️2020 (G)I-DLE Online Concert 'I-Land : Who Am I'",
+  "title": "▫️2020 (G)I-DLE Online Concert 'I-Land : Who Am I'"
 },
-
+{
+  "link": "https://youtu.be/8XAHZpAjFQo",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-11-08T02:34:05",
+  "duration": "02:25:19",
+  "thumbnail": "https://i.ytimg.com/vi/8XAHZpAjFQo/maxresdefault.jpg",
+  "alt": "GBC in the NEVERLAND 2기 팬미팅 。",
+  "title": "GBC in the NEVERLAND 2기 팬미팅 。"
+},
 {
   "link": "https://youtu.be/Z_PTvR25eUE",
   "category": "공연축제",
@@ -1579,14 +1874,14 @@ const 공연축제Cards = [
   "duration": "00:18:21",
   "thumbnail": "https://i.ytimg.com/vi/Z_PTvR25eUE/maxresdefault.jpg",
   "alt": "[2020 KCF] (G)I-DLE - Q&A TALK [2020 K-COMMUNITY FESTIVAL]",
-  "title": "[2020 KCF] (G)I-DLE - Q&A TALK [2020 K-COMMUNITY FESTIVAL]"
+  "title": "▫️[2020 KCF] (G)I-DLE - Q&A TALK [2020 K-COMMUNITY FESTIVAL]"
 },
 
 {
   "link": "https://youtu.be/fhgIbuy_OQQ",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2020-12-04T17:00:07",
+  "date": "2020-11-29T17:00:07",
   "duration": "00:03:27",
   "thumbnail": "https://i.ytimg.com/vi/fhgIbuy_OQQ/maxresdefault.jpg",
   "alt": "《2020 K-컬처 페스티벌 IN 안동 K-PERFORMANCE CITY》 (여자)아이들 - Uh-Oh | 201129방송",
@@ -1594,21 +1889,10 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/fhgIbuy_OQQ",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2020-12-04T17:00:07",
-  "duration": "00:03:27",
-  "thumbnail": "https://i.ytimg.com/vi/fhgIbuy_OQQ/maxresdefault.jpg",
-  "alt": "(여자)아이들 - Uh-Oh [2020 K-컬처 페스티벌 IN 안동 K-PERFORMANCE CITY]",
-  "title": "(여자)아이들 - Uh-Oh [2020 K-컬처 페스티벌 IN 안동 K-PERFORMANCE CITY]"
-},
-
-{
   "link": "https://youtu.be/w2zRsjU2R70",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2020-12-04T17:00:09",
+  "date": "2020-11-29T17:00:09",
   "duration": "00:03:29",
   "thumbnail": "https://i.ytimg.com/vi/w2zRsjU2R70/maxresdefault.jpg",
   "alt": "《2020 K-컬처 페스티벌 IN 안동 K-PERFORMANCE CITY》 (여자)아이들 - 덤디덤디(DUMDi DUMDi) | 201129방송",
@@ -1682,10 +1966,32 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/XGdztIcD65E",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-12-18T22:00:01",
+  "duration": "00:04:35",
+  "thumbnail": "https://i.ytimg.com/vi/XGdztIcD65E/maxresdefault.jpg",
+  "alt": "[2020 가요대축제] (여자)아이들 (G)I-DLE - INTRO + Oh my god",
+  "title": "[2020 가요대축제] (여자)아이들 (G)I-DLE - INTRO + Oh my god"
+},
+
+{
+  "link": "https://youtu.be/kvbzh9Iu4YI",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-12-18T22:00:02",
+  "duration": "00:04:46",
+  "thumbnail": "https://i.ytimg.com/vi/kvbzh9Iu4YI/maxresdefault.jpg",
+  "alt": "[2020 가요대축제] (G)I-DLE((여자)아이들 ジーアイドゥル) - INTRO + Oh my god",
+  "title": "[2020 가요대축제] (G)I-DLE((여자)아이들 ジーアイドゥル) - INTRO + Oh my god"
+},
+
+{
   "link": "https://youtu.be/vDnhKLZXA70",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2020-12-18T11:09:13",
+  "date": "2020-12-18T22:00:03",
   "duration": "00:04:22",
   "thumbnail": "https://i.ytimg.com/vi/vDnhKLZXA70/maxresdefault.jpg",
   "alt": "[2020 가요대축제] [K-Choreo 8K] (여자)아이들 직캠 'INTRO+Oh My God' ((G)I-DLE Choreography)",
@@ -1696,7 +2002,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/ctBgVEhgva4",
   "category": "공연축제",
   "member": "미연",
-  "date": "2020-12-18T11:09:22",
+  "date": "2020-12-18T22:00:04",
   "duration": "00:04:22",
   "thumbnail": "https://i.ytimg.com/vi/ctBgVEhgva4/maxresdefault.jpg",
   "alt": "[2020 가요대축제] [K-Fancam] (여자)아이들 미연 직캠 'INTRO+Oh My God' ((G)I-DLE MIYEON Fancam)",
@@ -1704,21 +2010,10 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/2pWebxYmj5Q",
-  "category": "공연축제",
-  "member": "소연",
-  "date": "2020-12-18T11:09:26",
-  "duration": "00:04:22",
-  "thumbnail": "https://i.ytimg.com/vi/2pWebxYmj5Q/maxresdefault.jpg",
-  "alt": "[2020 가요대축제] [K-Fancam] (여자)아이들 소연 직캠 'INTRO+Oh My God' ((G)I-DLE SOYEON Fancam)",
-  "title": "[2020 가요대축제] [K-Fancam] (여자)아이들 소연 직캠 'INTRO+Oh My God' ((G)I-DLE SOYEON Fancam)"
-},
-
-{
   "link": "https://youtu.be/N8-xQHCt0Kc",
   "category": "공연축제",
   "member": "민니",
-  "date": "2020-12-18T11:09:29",
+  "date": "2020-12-18T22:00:05",
   "duration": "00:04:22",
   "thumbnail": "https://i.ytimg.com/vi/N8-xQHCt0Kc/maxresdefault.jpg",
   "alt": "[2020 가요대축제] [K-Fancam] (여자)아이들 민니 직캠 'INTRO+Oh My God' ((G)I-DLE MINNIE Fancam)",
@@ -1726,10 +2021,21 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/2pWebxYmj5Q",
+  "category": "공연축제",
+  "member": "소연",
+  "date": "2020-12-18T22:00:06",
+  "duration": "00:04:22",
+  "thumbnail": "https://i.ytimg.com/vi/2pWebxYmj5Q/maxresdefault.jpg",
+  "alt": "[2020 가요대축제] [K-Fancam] (여자)아이들 소연 직캠 'INTRO+Oh My God' ((G)I-DLE SOYEON Fancam)",
+  "title": "[2020 가요대축제] [K-Fancam] (여자)아이들 소연 직캠 'INTRO+Oh My God' ((G)I-DLE SOYEON Fancam)"
+},
+
+{
   "link": "https://youtu.be/qn1dxhm2IX4",
   "category": "공연축제",
   "member": "우기",
-  "date": "2020-12-18T11:09:53",
+  "date": "2020-12-18T22:00:07",
   "duration": "00:04:22",
   "thumbnail": "https://i.ytimg.com/vi/qn1dxhm2IX4/maxresdefault.jpg",
   "alt": "[2020 가요대축제] [K-Fancam] (여자)아이들 우기 직캠 'INTRO+Oh My God' ((G)I-DLE YUQI Fancam)",
@@ -1737,10 +2043,32 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/q0zYw9hOCUE",
+  "category": "공연축제",
+  "member": "슈화",
+  "date": "2020-12-18T22:00:08",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/q0zYw9hOCUE/maxresdefault.jpg",
+  "alt": "Interview with MAKNAES(OH MY GIRL, (G)I-DLE, IZ*ONE, ITZY) I KBS WORLD TV 201218",
+  "title": "[2020 가요대축제] 막내즈 인터뷰 Interview with MAKNAES(OH MY GIRL, (G)I-DLE, IZ*ONE, ITZY)"
+},
+
+{
+  "link": "https://youtu.be/AFJDfT-ODcE",
+  "category": "공연축제",
+  "member": "슈화",
+  "date": "2020-12-18T22:00:09",
+  "duration": "00:04:00",
+  "thumbnail": "https://i.ytimg.com/vi/AFJDfT-ODcE/maxresdefault.jpg",
+  "alt": "[2020 가요대축제] 아린X슈화X장원영X유나 - 몰라요 (원곡: 에이핑크(Apink) | Arin, Shuhua, Jang Wonyoung, Yuna",
+  "title": "[2020 가요대축제] 아린X슈화X장원영X유나 - 몰라요 (원곡: 에이핑크(Apink) | Arin, Shuhua, Jang Wonyoung, Yuna"
+},
+
+{
   "link": "https://youtu.be/xuH4YbWQBug",
   "category": "공연축제",
   "member": "슈화",
-  "date": "2020-12-18T12:52:57",
+  "date": "2020-12-18T22:00:10",
   "duration": "00:03:35",
   "thumbnail": "https://i.ytimg.com/vi/xuH4YbWQBug/maxresdefault.jpg",
   "alt": "[2020 가요대축제] [K-Choreo 8K] 막내즈 직캠 '몰라요' (원곡:에이핑크(Apink))",
@@ -1751,7 +2079,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/ch5iMs9mWwk",
   "category": "공연축제",
   "member": "슈화",
-  "date": "2020-12-18T12:53:12",
+  "date": "2020-12-18T22:00:11",
   "duration": "00:03:34",
   "thumbnail": "https://i.ytimg.com/vi/ch5iMs9mWwk/maxresdefault.jpg",
   "alt": "[2020 가요대축제] [K-Fancam] 막내즈 슈화 직캠 '몰라요 (원곡:에이핑크(Apink))' (Shuhua Fancam)",
@@ -1781,58 +2109,14 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/kvbzh9Iu4YI",
+  "link": "https://youtu.be/4XdcoZuzAnc",
   "category": "공연축제",
-  "member": "아이들",
-  "date": "2020-12-18T22:00:02",
-  "duration": "00:04:46",
-  "thumbnail": "https://i.ytimg.com/vi/kvbzh9Iu4YI/maxresdefault.jpg",
-  "alt": "[2020 가요대축제] (G)I-DLE((여자)아이들 ジーアイドゥル) - INTRO + Oh my god",
-  "title": "[2020 가요대축제] (G)I-DLE((여자)아이들 ジーアイドゥル) - INTRO + Oh my god"
-},
-
-{
-  "link": "https://youtu.be/q0zYw9hOCUE",
-  "category": "공연축제",
-  "member": "슈화",
-  "date": "2020-12-18T22:03:38",
-  "duration": "00:03:18",
-  "thumbnail": "https://i.ytimg.com/vi/q0zYw9hOCUE/maxresdefault.jpg",
-  "alt": "Interview with MAKNAES(OH MY GIRL, (G)I-DLE, IZ*ONE, ITZY) I KBS WORLD TV 201218",
-  "title": "[2020 가요대축제] 막내즈 인터뷰 Interview with MAKNAES(OH MY GIRL, (G)I-DLE, IZ*ONE, ITZY)"
-},
-
-{
-  "link": "https://youtu.be/XGdztIcD65E",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2020-12-18T22:20:44",
-  "duration": "00:04:35",
-  "thumbnail": "https://i.ytimg.com/vi/XGdztIcD65E/maxresdefault.jpg",
-  "alt": "[2020 가요대축제] (여자)아이들 (G)I-DLE - INTRO + Oh my god",
-  "title": "[2020 가요대축제] (여자)아이들 (G)I-DLE - INTRO + Oh my god"
-},
-
-{
-  "link": "https://youtu.be/AFJDfT-ODcE",
-  "category": "공연축제",
-  "member": "슈화",
-  "date": "2020-12-18T22:26:22",
-  "duration": "00:04:00",
-  "thumbnail": "https://i.ytimg.com/vi/AFJDfT-ODcE/maxresdefault.jpg",
-  "alt": "[2020 가요대축제] 아린X슈화X장원영X유나 - 몰라요 (원곡: 에이핑크(Apink) | Arin, Shuhua, Jang Wonyoung, Yuna",
-  "title": "[2020 가요대축제] 아린X슈화X장원영X유나 - 몰라요 (원곡: 에이핑크(Apink) | Arin, Shuhua, Jang Wonyoung, Yuna"
-},
-
-{
-  "link": "https://youtu.be/t8vJzVgegfc",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2020-12-19T20:00:32",
-  "duration": "00:05:12",
-  "thumbnail": "https://i.ytimg.com/vi/t8vJzVgegfc/maxresdefault.jpg",
-  "alt": "다시봐도 레전드 무대였던 가온차트뮤직어워즈 (여자)아이들 'uh-oh'",
-  "title": "다시봐도 레전드 무대였던 가온차트뮤직어워즈 (여자)아이들 'uh-oh'"
+  "member": "미연, 우기",
+  "date": "2020-12-25T18:00:13",
+  "duration": "00:01:57",
+  "thumbnail": "https://i.ytimg.com/vi/4XdcoZuzAnc/maxresdefault.jpg",
+  "alt": "[2020 가요대전] 미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞ (Cover)",
+  "title": "[2020 가요대전] 미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞ (Cover)"
 },
 
 {
@@ -1842,43 +2126,41 @@ const 공연축제Cards = [
   "date": "2020-12-25T18:00:14",
   "duration": "00:02:14",
   "thumbnail": "https://i.ytimg.com/vi/P8ey4vF9Kvw/maxresdefault.jpg",
-  "alt": "[2020 가요대전] (여자)아이들 미연x우기 '바람이 불어오는 곳' 풀캠 (Miyeon X Yuqi Special Full Cam) (cover)",
-  "title": "[2020 가요대전] (여자)아이들 미연x우기 '바람이 불어오는 곳' 풀캠 (Miyeon X Yuqi Special Full Cam) (cover)"
-},
-
-{
-  "link": "https://youtu.be/Mr5ddZQMC4E",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2020-12-25T21:17:36",
-  "duration": "00:04:03",
-  "thumbnail": "https://i.ytimg.com/vi/Mr5ddZQMC4E/maxresdefault.jpg",
-  "alt": "[2020 가요대전] (여자)아이들, 야생 카리스마 뿜뿜 ‘덤디덤디’",
-  "title": "[2020 가요대전] (여자)아이들, 야생 카리스마 뿜뿜 ‘덤디덤디’"
-},
-
-{
-  "link": "https://youtu.be/4XdcoZuzAnc",
-  "category": "공연축제",
-  "member": "미연, 우기",
-  "date": "2020-12-25T22:49:34",
-  "duration": "00:01:57",
-  "thumbnail": "https://i.ytimg.com/vi/4XdcoZuzAnc/maxresdefault.jpg",
-  "alt": "[2020 가요대전] 미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞ cover",
-  "title": "[2020 가요대전] 미연×우기, 어쿠스틱 감성 무대 ＜바람이 불어오는 곳＞ cover"
+  "alt": "[2020 가요대전] (여자)아이들 미연x우기 '바람이 불어오는 곳' 풀캠 (Miyeon X Yuqi Special Full Cam) (Cover)",
+  "title": "[2020 가요대전] (여자)아이들 미연x우기 '바람이 불어오는 곳' 풀캠 (Miyeon X Yuqi Special Full Cam) (Cover)"
 },
 
 {
   "link": "https://youtu.be/D67AqGE4rRU",
   "category": "공연축제",
   "member": "미연, 우기",
-  "date": "2020-12-25T22:56:08",
+  "date": "2020-12-25T18:00:15",
   "duration": "00:02:12",
   "thumbnail": "https://i.ytimg.com/vi/D67AqGE4rRU/maxresdefault.jpg",
   "alt": "[2020 가요대전] 뉴·영훈·상연·기현·유주·미연·우기, 함께 부른 ‘나의 노래’",
   "title": "[2020 가요대전] 뉴·영훈·상연·기현·유주·미연·우기, 함께 부른 ‘나의 노래’"
 },
 
+{
+  "link": "https://youtu.be/Mr5ddZQMC4E",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-12-25T18:00:15",
+  "duration": "00:04:03",
+  "thumbnail": "https://i.ytimg.com/vi/Mr5ddZQMC4E/maxresdefault.jpg",
+  "alt": "[2020 가요대전] (여자)아이들, 야생 카리스마 뿜뿜 ‘덤디덤디’",
+  "title": "[2020 가요대전] (여자)아이들, 야생 카리스마 뿜뿜 ‘덤디덤디’"
+},
+{
+  "link": "https://youtu.be/KFufKII1nK0",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2020-12-28T19:06:00",
+  "duration": "00:11:02",
+  "thumbnail": "https://i.ytimg.com/vi/KFufKII1nK0/maxresdefault.jpg",
+  "alt": "▫️[KBA: 협곡의 선수들 스페셜 매치] 오프닝 무대 'DUMDi DUMDi + LATATA'  #롤스타, 야구스타 그리고 K팝스타!",
+  "title": "▫️[KBA: 협곡의 선수들 스페셜 매치] 오프닝 무대 'DUMDi DUMDi + LATATA'  #롤스타, 야구스타 그리고 K팝스타!"
+},
 {
   "link": "https://youtu.be/Fpx1xuzWE0M",
   "category": "공연축제",
@@ -1902,6 +2184,17 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/Fezb4k0DK2A",
+  "category": "공연축제",
+  "member": "소연",
+  "date": "2020-12-31T21:59:19",
+  "duration": "00:01:30",
+  "thumbnail": "https://i.ytimg.com/vi/Fezb4k0DK2A/maxresdefault.jpg",
+  "alt": "[2020 가요대제전] 수진&소연 X 유리&민주 X 예지&류진 - Reflection 비하인드 。",
+  "title": "[2020 가요대제전] 수진&소연 X 유리&민주 X 예지&류진 - Reflection 비하인드 。"
+},
+
+{
   "link": "https://youtu.be/mQftiLy7hsI",
   "category": "공연축제",
   "member": "아이들",
@@ -1919,31 +2212,62 @@ const 공연축제Cards = [
   "date": "2020-12-31T23:33:01",
   "duration": "00:02:44",
   "thumbnail": "https://i.ytimg.com/vi/SCu2WNw2joo/maxresdefault.jpg",
-  "alt": "[2020 가요대제전] 효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너 (cover)",
-  "title": "[2020 가요대제전] 효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너 (cover)"
+  "alt": "[2020 가요대제전] 효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너 (Cover)",
+  "title": "[2020 가요대제전] 효정(오마이걸) X 민니((여자)아이들) X 채원(아이즈원) - 우주를 건너 (Cover)"
 },
 
 {
   "link": "https://youtu.be/0eZpPPVRMHE",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2021-01-10T17:33:43",
+  "date": "2021-01-10T17:33:40",
   "duration": "00:03:46",
   "thumbnail": "https://i.ytimg.com/vi/0eZpPPVRMHE/maxresdefault.jpg",
   "alt": "[제35회 골든디스크] (여자)아이들 - 'INTRO' + 'Oh my god'♪ | Golden Disc Awards",
   "title": "[제35회 골든디스크] (여자)아이들 - 'INTRO' + 'Oh my god'♪ | Golden Disc Awards"
 },
-
 {
-  "link": "https://youtu.be/O5_gGdOuHOc",
+  "link": "https://youtu.be/4oiq4m4jLUc",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2021-05-26T18:00:09",
-  "duration": "00:14:02",
-  "thumbnail": "https://i.ytimg.com/vi/O5_gGdOuHOc/maxresdefault.jpg",
-  "alt": "[KCON:TACT 2020 SUMMER] [All Stage🎁] (G)I-DLE ((여자)아이들) | 케이콘택트 | 200827 방송",
-  "title": "[KCON:TACT 2020 SUMMER] [All Stage🎁] (G)I-DLE ((여자)아이들) | 케이콘택트 | 200827 방송"
+  "date": "2021-01-10T17:33:41",
+  "duration": "00:03:56",
+  "thumbnail": "https://i.ytimg.com/vi/4oiq4m4jLUc/maxresdefault.jpg",
+  "alt": "[제35회 골든디스크] 베스트 퍼포먼스 - (여자)아이들&스트레이 키즈｜JTBC 210110 방송",
+  "title": "[제35회 골든디스크] 베스트 퍼포먼스 - (여자)아이들&스트레이 키즈｜JTBC 210110 방송"
 },
+
+{
+  "link": "https://youtu.be/WUUBtfSn4BY",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2021-01-10T17:33:42",
+  "duration": "00:05:28",
+  "thumbnail": "https://i.ytimg.com/vi/WUUBtfSn4BY/maxresdefault.jpg",
+  "alt": "[제35회 골든디스크 백스테이지] (여자)아이들((G)I-DLE)",
+  "title": "[제35회 골든디스크 백스테이지] (여자)아이들((G)I-DLE)"
+},
+{
+  "link": "https://youtu.be/qHPwdKkvq_M",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2021-02-14T16:00:01",
+  "duration": "00:14:26",
+  "thumbnail": "https://i.ytimg.com/vi/qHPwdKkvq_M/maxresdefault.jpg",
+  "alt": "▫️유니버스 콘서트 (여자)아이들 [UNI-KON (G)I-DLE] | UNIVERSE",
+  "title": "▫️유니버스 콘서트 (여자)아이들 [UNI-KON (G)I-DLE] | UNIVERSE"
+},
+{
+  "link": "https://youtu.be/MrbUl9IoU6M",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2021-02-14T16:00:02",
+  "duration": "00:20:56",
+  "thumbnail": "https://i.ytimg.com/vi/MrbUl9IoU6M/maxresdefault.jpg",
+  "alt": "▫️유니버스 콘서트 리허설 [UNI-KON Rehearsal] | UNIVERSE",
+  "title": "▫️유니버스 콘서트 리허설 [UNI-KON Rehearsal] | UNIVERSE"
+},
+
 {
   "link": "https://youtu.be/f9vMaQaofvs",
   "category": "공연축제",
@@ -1954,6 +2278,7 @@ const 공연축제Cards = [
   "alt": "宋雨琦《巨人》 散发闪亮光芒 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]",
   "title": "宋雨琦《巨人》 散发闪亮光芒 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]"
 },
+
 {
   "link": "https://youtu.be/OqcFxctnO0c",
   "category": "공연축제",
@@ -1964,6 +2289,7 @@ const 공연축제Cards = [
   "alt": "宋雨琦《巨人》 散发闪亮光芒 + 与乃万比赛蹦床游戏 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]",
   "title": "宋雨琦《巨人》 散发闪亮光芒 + 与乃万比赛蹦床游戏 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]"
 },
+
 {
   "link": "https://youtu.be/X4n6G8E4RlA",
   "category": "공연축제",
@@ -1974,6 +2300,7 @@ const 공연축제Cards = [
   "alt": "宋雨琦/乃万 《怪美的》 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]",
   "title": "宋雨琦/乃万 《怪美的》 | 臻美闪耀盛典 /Mageline 7주년 기념 행사 [浙江卫视官方HD]"
 },
+
 {
   "link": "https://youtu.be/KYTRzpa0rtw",
   "category": "공연축제",
@@ -1984,6 +2311,7 @@ const 공연축제Cards = [
   "alt": "宋雨琦YUQI 《 Bonnie & Clyde》  | 百度潮盛典 [浙江卫视官方HD]",
   "title": "宋雨琦YUQI 《 Bonnie & Clyde》  | 百度潮盛典 [浙江卫视官方HD]"
 },
+
 {
   "link": "https://youtu.be/-ZgQPLsfvqQ",
   "category": "공연축제",
@@ -2007,76 +2335,10 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/gW8bekyLUS0",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2021-08-04T18:00:15",
-  "duration": "00:03:37",
-  "thumbnail": "https://i.ytimg.com/vi/gW8bekyLUS0/maxresdefault.jpg",
-  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LATATA | 케이콘택트 | 200827 방송",
-  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LATATA | 케이콘택트 | 200827 방송"
-},
-
-{
-  "link": "https://youtu.be/gqZQGP_psKA",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2021-08-04T18:00:19",
-  "duration": "00:03:46",
-  "thumbnail": "https://i.ytimg.com/vi/gqZQGP_psKA/maxresdefault.jpg",
-  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LION | 케이콘택트 | 200827 방송",
-  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - LION | 케이콘택트 | 200827 방송"
-},
-
-{
-  "link": "https://youtu.be/gGXGYhWquOU",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2021-08-04T18:00:30",
-  "duration": "00:03:48",
-  "thumbnail": "https://i.ytimg.com/vi/gGXGYhWquOU/maxresdefault.jpg",
-  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - Luv U (사랑해) | 케이콘택트 | 200827 방송",
-  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - Luv U (사랑해) | 케이콘택트 | 200827 방송"
-},
-
-{
-  "link": "https://youtu.be/qG6PL66yKVM",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2021-08-04T18:00:32",
-  "duration": "00:03:38",
-  "thumbnail": "https://i.ytimg.com/vi/qG6PL66yKVM/maxresdefault.jpg",
-  "alt": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - oh my god | 케이콘택트 | 200827 방송",
-  "title": "[KCON:TACT 2020 SUMMER] (G)I-DLE ((여자)아이들) - oh my god | 케이콘택트 | 200827 방송"
-},
-
-{
-  "link": "https://youtu.be/pnW2Lexomds",
-  "category": "공연축제",
-  "member": "민니",
-  "date": "2021-10-03T00:30:14",
-  "duration": "00:04:11",
-  "thumbnail": "https://i.ytimg.com/vi/pnW2Lexomds/maxresdefault.jpg",
-  "alt": "MONEY HONEY - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) | T-POP STAGE SHOW",
-  "title": "MONEY HONEY - F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) | T-POP STAGE SHOW"
-},
-
-{
-  "link": "https://youtu.be/cfJVQrrOanc",
-  "category": "공연축제",
-  "member": "민니",
-  "date": "2021-12-25T19:10:52",
-  "duration": "00:04:03",
-  "thumbnail": "https://i.ytimg.com/vi/cfJVQrrOanc/maxresdefault.jpg",
-  "alt": "[2021 가요대전 4K] 여자스페셜 'Fiction' 풀캠 (Special stage Full Cam)",
-  "title": "[2021 가요대전 4K] 여자스페셜 'Fiction' 풀캠 (Special stage Full Cam)"
-},
-
-{
   "link": "https://youtu.be/jQNEiHzIcX4",
   "category": "공연축제",
   "member": "민니",
-  "date": "2021-12-25T19:21:08",
+  "date": "2021-12-25T19:21:01",
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/jQNEiHzIcX4/maxresdefault.jpg",
   "alt": "[2021 가요대전] 민니×이채연×류진×아이사, 스페셜 무대 ‘Fiction (원곡 : 비스트 BEAST)’",
@@ -2084,10 +2346,21 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/cfJVQrrOanc",
+  "category": "공연축제",
+  "member": "민니",
+  "date": "2021-12-25T19:21:03",
+  "duration": "00:04:03",
+  "thumbnail": "https://i.ytimg.com/vi/cfJVQrrOanc/maxresdefault.jpg",
+  "alt": "[2021 가요대전 4K] 여자스페셜 'Fiction' 풀캠 (Special stage Full Cam)",
+  "title": "[2021 가요대전 4K] 여자스페셜 'Fiction' 풀캠 (Special stage Full Cam)"
+},
+
+{
   "link": "https://youtu.be/0e4Nwr3zHf0",
   "category": "공연축제",
   "member": "민니",
-  "date": "2021-12-26T18:00:00",
+  "date": "2021-12-25T19:21:04",
   "duration": "00:04:37",
   "thumbnail": "https://i.ytimg.com/vi/0e4Nwr3zHf0/maxresdefault.jpg",
   "alt": "[2021 가요대전 4K] 여자스페셜 민니 'Fiction' (Special Stage Minnie FanCam)",
@@ -2190,7 +2463,7 @@ const 공연축제Cards = [
   "duration": "00:20:30",
   "thumbnail": "https://i.ytimg.com/vi/9WcaA4JeziQ/maxresdefault.jpg",
   "alt": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI)",
-  "title": "2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI)"
+  "title": "▫️2020 두바이엑스포 케이팝콘서트 - Oh my god + 화(火花)(HWAA) + DUMDi DUMDi + LATATA (EXPO 2020 DUBAI)"
 },
 
 {
@@ -2212,7 +2485,7 @@ const 공연축제Cards = [
   "duration": "00:27:23",
   "thumbnail": "https://i.ytimg.com/vi/e77gOLv-FKE/maxresdefault.jpg",
   "alt": "[계명대 대동제] (여자)아이들 ((G)-IDLE) 전체캠 FULL VER.",
-  "title": "[계명대 대동제] (여자)아이들 ((G)-IDLE) 전체캠 FULL VER."
+  "title": "▫️[계명대 대동제] (여자)아이들 ((G)-IDLE) 전체캠 FULL VER."
 },
 
 {
@@ -2223,7 +2496,7 @@ const 공연축제Cards = [
   "duration": "00:23:25",
   "thumbnail": "https://i.ytimg.com/vi/8XeKU7074UA/maxresdefault.jpg",
   "alt": "[단국대 천안캠퍼스]  Oh my god / 덤디덤디 / LATATA / TOMBOY / MY BAG",
-  "title": "[단국대 천안캠퍼스] Oh my god / 덤디덤디 / LATATA / TOMBOY / MY BAG"
+  "title": "▫️[단국대 천안캠퍼스] Oh my god / 덤디덤디 / LATATA / TOMBOY / MY BAG"
 },
 
 {
@@ -2234,7 +2507,7 @@ const 공연축제Cards = [
   "duration": "00:27:39",
   "thumbnail": "https://i.ytimg.com/vi/T5RcbiWkWGc/maxresdefault.jpg",
   "alt": "[경희대 국제캠퍼스 봄 대동제 '경리해제] (G)I-DLE (여자)아이들 Full Ver.",
-  "title": "[경희대 국제캠퍼스 봄 대동제 '경리해제] (G)I-DLE (여자)아이들 Full Ver."
+  "title": "▫️[경희대 국제캠퍼스 봄 대동제 '경리해제] (G)I-DLE (여자)아이들 Full Ver."
 },
 
 {
@@ -2245,7 +2518,7 @@ const 공연축제Cards = [
   "duration": "00:25:55",
   "thumbnail": "https://i.ytimg.com/vi/X47sO3ZXgVg/maxresdefault.jpg",
   "alt": "[2022 고려대 입실렌티] (여자)아이들 (G)I-DLE 직캠 Full ver.",
-  "title": "[2022 고려대 입실렌티] (여자)아이들 (G)I-DLE 직캠 Full ver."
+  "title": "▫️[2022 고려대 입실렌티] (여자)아이들 (G)I-DLE 직캠 Full ver."
 },
 
 {
@@ -2256,7 +2529,7 @@ const 공연축제Cards = [
   "duration": "00:07:21",
   "thumbnail": "https://i.ytimg.com/vi/-cwl7DyF1Yg/maxresdefault.jpg",
   "alt": "[2022 부산 포세이돈 워터 뮤직 페스티벌] 아이들 - my bag, tomboy",
-  "title": "[2022 부산 포세이돈 워터 뮤직 페스티벌] 아이들 - my bag, tomboy"
+  "title": "▫️[2022 부산 포세이돈 워터 뮤직 페스티벌] 아이들 - my bag, tomboy"
 },
 
 {
@@ -2267,7 +2540,7 @@ const 공연축제Cards = [
   "duration": "00:03:30",
   "thumbnail": "https://i.ytimg.com/vi/S8xqr3eT3p4/maxresdefault.jpg",
   "alt": "[2022 부산 포세이돈 워터 뮤직 페스티벌] 아이들 - 말리지마",
-  "title": "[2022 부산 포세이돈 워터 뮤직 페스티벌] 아이들 - 말리지마"
+  "title": "▫️[2022 부산 포세이돈 워터 뮤직 페스티벌] 아이들 - 말리지마"
 },
 
 {
@@ -2278,7 +2551,7 @@ const 공연축제Cards = [
   "duration": "00:02:49",
   "thumbnail": "https://i.ytimg.com/vi/O64n5sI5sYY/maxresdefault.jpg",
   "alt": "[2022 부산 포세이돈 워터 뮤직 페스티벌] (G)I-DLE LATATA",
-  "title": "[2022 부산 포세이돈 워터 뮤직 페스티벌] (G)I-DLE LATATA"
+  "title": "▫️[2022 부산 포세이돈 워터 뮤직 페스티벌] (G)I-DLE LATATA"
 },
 
 {
@@ -2289,7 +2562,7 @@ const 공연축제Cards = [
   "duration": "00:02:41",
   "thumbnail": "https://i.ytimg.com/vi/MGWTHGz2osY/maxresdefault.jpg",
   "alt": "[2022 부산 포세이돈 워터 뮤직 페스티벌] (G)I-DLE 멘트 후 덤디덤디 (DUMDi DUMDi)",
-  "title": "[2022 부산 포세이돈 워터 뮤직 페스티벌] (G)I-DLE 멘트 후 덤디덤디 (DUMDi DUMDi)"
+  "title": "▫️[2022 부산 포세이돈 워터 뮤직 페스티벌] (G)I-DLE 멘트 후 덤디덤디 (DUMDi DUMDi)"
 },
 
 {
@@ -2300,18 +2573,18 @@ const 공연축제Cards = [
   "duration": "00:09:50",
   "thumbnail": "https://i.ytimg.com/vi/IJUwlZiybJI/maxresdefault.jpg",
   "alt": "[2022 부산 포세이돈 워터 뮤직 페스티벌] (G)I-DLE 말리지마 + MY BAG + TOMBOY",
-  "title": "[2022 부산 포세이돈 워터 뮤직 페스티벌] (G)I-DLE 말리지마 + MY BAG + TOMBOY"
+  "title": "▫️[2022 부산 포세이돈 워터 뮤직 페스티벌] (G)I-DLE 말리지마 + MY BAG + TOMBOY"
 },
 
 {
-  "link": "https://youtu.be/kKNDR0492G4",
+  "link": "https://youtu.be/qPNKaK4_9oc",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2022-07-26T01:45:33",
-  "duration": "00:23:04",
-  "thumbnail": "https://i.ytimg.com/vi/kKNDR0492G4/maxresdefault.jpg",
-  "alt": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE▫️",
-  "title": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE▫️"
+  "date": "2022-07-26T15:00:29",
+  "duration": "00:23:03",
+  "thumbnail": "https://i.ytimg.com/vi/qPNKaK4_9oc/maxresdefault.jpg",
+  "alt": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE",
+  "title": "[워터밤 2022 서울] WATERBOMB 2022 SEOUL - (G)I-DLE"
 },
 
 {
@@ -2333,18 +2606,18 @@ const 공연축제Cards = [
   "duration": "00:23:59",
   "thumbnail": "https://i.ytimg.com/vi/BNwOea2PiPc/maxresdefault.jpg",
   "alt": "[명지대학교 자연캠] (여자)아이들 LION, LATATA, MY BAG, POP/STARS, TOMBOY 직캠(Fancam) [4K 60p]",
-  "title": "[명지대학교 자연캠] (여자)아이들 LION, LATATA, MY BAG, POP/STARS, TOMBOY 직캠(Fancam) [4K 60p]"
+  "title": "▫️[명지대학교 자연캠] (여자)아이들 LION, LATATA, MY BAG, POP/STARS, TOMBOY 직캠(Fancam) [4K 60p]"
 },
 
 {
-  "link": "https://youtu.be/73N5V3Rdi1Y",
+  "link": "https://youtu.be/p7cPxc5YbRs",
   "category": "공연축제",
   "member": "아이들",
   "date": "2022-10-08T21:52:42",
-  "duration": "00:03:52",
-  "thumbnail": "https://i.ytimg.com/vi/73N5V3Rdi1Y/maxresdefault.jpg",
-  "alt": "2022 더팩트 뮤직 어워즈 (여자)아이들 TOMBOY [더팩트뮤직어워즈/TMA]",
-  "title": "2022 더팩트 뮤직 어워즈 (여자)아이들 TOMBOY [더팩트뮤직어워즈/TMA]"
+  "duration": "00:03:51",
+  "thumbnail": "https://i.ytimg.com/vi/p7cPxc5YbRs/maxresdefault.jpg",
+  "alt": "[2022 더팩트 뮤직 어워즈] (여자)아이들 'TOMBOY' @TMA",
+  "title": "[2022 더팩트 뮤직 어워즈] (여자)아이들 'TOMBOY' @TMA"
 },
 
 {
@@ -2355,7 +2628,7 @@ const 공연축제Cards = [
   "duration": "00:03:39",
   "thumbnail": "https://i.ytimg.com/vi/65GIz-j-W-4/maxresdefault.jpg",
   "alt": "[2022 TMA 더팩트뮤직어워즈 The Fact Music Awards] (G)I-DLE (여자)아이들 Full 4K 60p 직캠 (Fancam) @올림픽공원체조경기장",
-  "title": "[2022 TMA 더팩트뮤직어워즈 The Fact Music Awards] (G)I-DLE (여자)아이들 Full 4K 60p 직캠 (Fancam) @올림픽공원체조경기장"
+  "title": "▫️[2022 TMA 더팩트뮤직어워즈 The Fact Music Awards] (G)I-DLE (여자)아이들 Full 4K 60p 직캠 (Fancam) @올림픽공원체조경기장"
 },
 
 {
@@ -2377,7 +2650,7 @@ const 공연축제Cards = [
   "duration": "00:10:36",
   "thumbnail": "https://i.ytimg.com/vi/mgCBoa_P2vM/maxresdefault.jpg",
   "alt": "음악중심 미니팬미팅 직캠- (여자)아이들 (G)I-DLE",
-  "title": "음악중심 미니팬미팅 직캠- (여자)아이들 (G)I-DLE"
+  "title": "▫️음악중심 미니팬미팅 직캠- (여자)아이들 (G)I-DLE"
 },
 
 {
@@ -2388,7 +2661,7 @@ const 공연축제Cards = [
   "duration": "00:25:23",
   "thumbnail": "https://i.ytimg.com/vi/s66atCzyeEc/sddefault.jpg",
   "alt": "[한국체대 천마축제] (여자)아이들((G)I-DLE) - Full Cam",
-  "title": "[한국체대 천마축제] (여자)아이들((G)I-DLE) - Full Cam"
+  "title": "▫️[한국체대 천마축제] (여자)아이들((G)I-DLE) - Full Cam"
 },
 
 {
@@ -2511,6 +2784,7 @@ const 공연축제Cards = [
   "alt": "[2022 MAMA] STAR COUNTDOWN D-8 by (G)I-DLE",
   "title": "[2022 MAMA] STAR COUNTDOWN D-8 by (G)I-DLE"
 },
+
 {
   "link": "https://youtu.be/c-mx6bNkZ-c",
   "category": "공연축제",
@@ -2518,9 +2792,10 @@ const 공연축제Cards = [
   "date": "2022-11-26T23:17:50",
   "duration": "00:12:27",
   "thumbnail": "https://i.ytimg.com/vi/c-mx6bNkZ-c/maxresdefault.jpg",
-  "alt": "[MMA2022 축하공연] (여자)아이들 - Intro(Villain Dies) + Nxde + Change(VCR) + TOMBOY◾️",
-  "title": "[MMA2022 축하공연] (여자)아이들 - Intro(Villain Dies) + Nxde + Change(VCR) + TOMBOY◾️"
+  "alt": "[MMA2022 축하공연] (여자)아이들 - Intro(Villain Dies) + Nxde + Change(VCR) + TOMBOY",
+  "title": "▫️[MMA2022 축하공연] (여자)아이들 - Intro(Villain Dies) + Nxde + Change(VCR) + TOMBOY"
 },
+
 {
   "link": "https://youtu.be/ABZYhlFir1s",
   "category": "공연축제",
@@ -2531,6 +2806,7 @@ const 공연축제Cards = [
   "alt": "[MMA2022 축하공연] (여자)아이들 - Intro + Nxde",
   "title": "[MMA2022 축하공연] (여자)아이들 - Intro + Nxde"
 },
+
 {
   "link": "https://youtu.be/KWCmFH77HF8",
   "category": "공연축제",
@@ -2563,7 +2839,6 @@ const 공연축제Cards = [
   "alt": "[MMA2022 | 수상소감] 올해의 뮤직비디오 - (여자)아이들",
   "title": "[MMA2022 | 수상소감] 올해의 뮤직비디오 - (여자)아이들"
 },
-
 
 {
   "link": "https://youtu.be/C_ezCY2jXCM",
@@ -2792,8 +3067,8 @@ const 공연축제Cards = [
   "date": "2023-01-01T00:29:54",
   "duration": "00:03:19",
   "thumbnail": "https://i.ytimg.com/vi/OHS1PYKoGuQ/maxresdefault.jpg",
-  "alt": "[2022 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP) cover",
-  "title": "[2022 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP) cover"
+  "alt": "[2022 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP) (Cover)",
+  "title": "[2022 가요대제전] 99즈 (우기,아린,유정,츄,예나) - 스텝 (STEP) (Cover)"
 },
 
 {
@@ -2803,8 +3078,8 @@ const 공연축제Cards = [
   "date": "2023-01-02T17:00:12",
   "duration": "00:03:42",
   "thumbnail": "https://i.ytimg.com/vi/dI8GzxGKehM/sddefault.jpg",
-  "alt": "[2022 GMA] Peder EliasX우기_If I Ain't Got You (cover)",
-  "title": "[2022 GMA] Peder EliasX우기_If I Ain't Got You (cover)"
+  "alt": "[2022 GMA] Peder EliasX우기_If I Ain't Got You (Cover)",
+  "title": "[2022 GMA] Peder EliasX우기_If I Ain't Got You (Cover)"
 },
 
 {
@@ -2817,12 +3092,21 @@ const 공연축제Cards = [
   "alt": "[2022 GMA] (여자)아이들_Intro + Nxde",
   "title": "[2022 GMA] (여자)아이들_Intro + Nxde"
 },
-
+{
+  "link": "https://youtu.be/edUDN0UBVtQ",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2023-01-07T22:30:01",
+  "duration": "00:04:27",
+  "thumbnail": "https://i.ytimg.com/vi/edUDN0UBVtQ/maxresdefault.jpg",
+  "alt": "[제37회 골든디스크 레드카펫] (여자)아이들",
+  "title": "[제37회 골든디스크 레드카펫] (여자)아이들"
+},
 {
   "link": "https://youtu.be/Njr105AHYbQ",
   "category": "공연축제",
   "member": "소연",
-  "date": "2023-01-07T22:33:40",
+  "date": "2023-01-07T22:30:02",
   "duration": "00:02:59",
   "thumbnail": "https://i.ytimg.com/vi/Njr105AHYbQ/maxresdefault.jpg",
   "alt": "[제37회 골든디스크] 박재범 & 소연 & BIG Naughty - 'L3GEND' ♪ | Golden Disc Awards",
@@ -2833,7 +3117,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/6OnDlsmEIXw",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2023-01-07T23:09:05",
+  "date": "2023-01-07T22:30:03",
   "duration": "00:06:57",
   "thumbnail": "https://i.ytimg.com/vi/6OnDlsmEIXw/maxresdefault.jpg",
   "alt": "[제37회 골든디스크] (여자)아이들 - 'INTRO + VILLAIN DIES + TOMBOY' ♪ | Golden Disc Awards",
@@ -2892,7 +3176,51 @@ const 공연축제Cards = [
   "duration": "00:22:12",
   "thumbnail": "https://i.ytimg.com/vi/7OT2AthqsQE/maxresdefault.jpg",
   "alt": "[강남대 백양체전 KF22] (여자)아이들((G)I-DLE) full live - LION, LATATA, MY BAG, POP/STAR, TOMBOY",
-  "title": "[강남대 백양체전 KF22] (여자)아이들((G)I-DLE) full live - LION, LATATA, MY BAG, POP/STAR, TOMBOY"
+  "title": "▫️[강남대 백양체전 KF22] (여자)아이들((G)I-DLE) full live - LION, LATATA, MY BAG, POP/STAR, TOMBOY"
+},
+
+{
+  "link": "https://youtu.be/YyBxIB6SjdM",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2023-02-18T18:00:01",
+  "duration": "00:04:56",
+  "thumbnail": "https://i.ytimg.com/vi/YyBxIB6SjdM/maxresdefault.jpg",
+  "alt": "(여자)아이들 미연 레드카펫 I 써클차트 뮤직 어워즈 2022",
+  "title": "▫️(여자)아이들 미연 레드카펫 I 써클차트 뮤직 어워즈 2022"
+},
+
+{
+  "link": "https://youtu.be/V5p5u-IFyk8",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2023-02-18T18:00:02",
+  "duration": "00:02:12",
+  "thumbnail": "https://i.ytimg.com/vi/V5p5u-IFyk8/maxresdefault.jpg",
+  "alt": "올해의 음반 제작상 수상 (TOMBOY) I 써클차트 뮤직 어워즈 2022",
+  "title": "▫️올해의 음반 제작상 수상 (TOMBOY) I 써클차트 뮤직 어워즈 2022"
+},
+
+{
+  "link": "https://youtu.be/-oB3UqD7_XY",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2023-02-18T18:00:03",
+  "duration": "00:01:26",
+  "thumbnail": "https://i.ytimg.com/vi/-oB3UqD7_XY/maxresdefault.jpg",
+  "alt": "올해의 가수상 (디지털음원 부문 3월) 수상 I 써클차트 뮤직 어워즈 2022",
+  "title": "▫️올해의 가수상 (디지털음원 부문 3월) 수상 I 써클차트 뮤직 어워즈 2022"
+},
+
+{
+  "link": "https://youtu.be/FeNFC7pDFCE",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2023-02-18T18:00:04",
+  "duration": "00:00:36",
+  "thumbnail": "https://i.ytimg.com/vi/FeNFC7pDFCE/sddefault.jpg",
+  "alt": "(여자)아이들 미연 ((G)I-DLE Mi-yeon) Backstage Quiz Show I 써클차트 뮤직 어워즈 2022",
+  "title": "(여자)아이들 미연 ((G)I-DLE Mi-yeon) Backstage Quiz Show I 써클차트 뮤직 어워즈 2022"
 },
 
 {
@@ -2904,17 +3232,6 @@ const 공연축제Cards = [
   "thumbnail": "https://i.ytimg.com/vi/v0vqrTzBQCw/sddefault.jpg",
   "alt": "DREAM STAGE🌟 | (G)I-DLE ((여자)아이들) | KCON 2023 THAILAND",
   "title": "DREAM STAGE🌟 | (G)I-DLE ((여자)아이들) | KCON 2023 THAILAND"
-},
-
-{
-  "link": "https://youtu.be/FeNFC7pDFCE",
-  "category": "공연축제",
-  "member": "미연",
-  "date": "2023-02-28T18:00:09",
-  "duration": "00:00:36",
-  "thumbnail": "https://i.ytimg.com/vi/FeNFC7pDFCE/sddefault.jpg",
-  "alt": "(여자)아이들 미연 ((G)I-DLE Mi-yeon) Backstage Quiz Show I 써클차트 뮤직 어워즈 2022",
-  "title": "(여자)아이들 미연 ((G)I-DLE Mi-yeon) Backstage Quiz Show I 써클차트 뮤직 어워즈 2022"
 },
 
 {
@@ -2935,8 +3252,8 @@ const 공연축제Cards = [
   "date": "2023-04-06T18:39:00",
   "duration": "00:03:00",
   "thumbnail": "https://i.ytimg.com/vi/cXkw8DqJO4c/maxresdefault.jpg",
-  "alt": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) cover",
-  "title": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) cover"
+  "alt": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) (Cover)",
+  "title": "[KCON 2023 THAILAND] 민니((G)I-DLE) - 신호등 (원곡 : 이무진) (Cover)"
 },
 
 {
@@ -2958,7 +3275,7 @@ const 공연축제Cards = [
   "duration": "00:03:30",
   "thumbnail": "https://i.ytimg.com/vi/E9OiyABNmKo/maxresdefault.jpg",
   "alt": "(여자)아이들 - 'TOMBOY' 마이크 떨어진 우기 4K Cam #잠실야구장 #LG트윈스",
-  "title": "(여자)아이들 - 'TOMBOY' 마이크 떨어진 우기 4K Cam #잠실야구장 #LG트윈스"
+  "title": "▫️(여자)아이들 - 'TOMBOY' 마이크 떨어진 우기 4K Cam #잠실야구장 #LG트윈스"
 },
 
 {
@@ -2969,7 +3286,7 @@ const 공연축제Cards = [
   "duration": "00:25:47",
   "thumbnail": "https://i.ytimg.com/vi/h08lzfOb3PA/maxresdefault.jpg",
   "alt": "[인천대학교 축제] (여자)아이들 LION+LATATA+MY BAG+POP/STARS+TOMBOY",
-  "title": "[인천대학교 축제] (여자)아이들 LION+LATATA+MY BAG+POP/STARS+TOMBOY"
+  "title": "▫️[인천대학교 축제] (여자)아이들 LION+LATATA+MY BAG+POP/STARS+TOMBOY"
 },
 
 {
@@ -2980,7 +3297,7 @@ const 공연축제Cards = [
   "duration": "00:30:24",
   "thumbnail": "https://i.ytimg.com/vi/i5qaHBWjA6E/maxresdefault.jpg",
   "alt": "음악중심 미니팬미팅 직캠- (여자)아이들 (G)I-DLE",
-  "title": "음악중심 미니팬미팅 직캠- (여자)아이들 (G)I-DLE"
+  "title": "▫️음악중심 미니팬미팅 직캠- (여자)아이들 (G)I-DLE"
 },
 
 {
@@ -2991,7 +3308,7 @@ const 공연축제Cards = [
   "duration": "00:25:08",
   "thumbnail": "https://i.ytimg.com/vi/TvW-6b_0RqU/maxresdefault.jpg",
   "alt": "[2023 고려대 입실렌티] (여자)아이들 Full ver.",
-  "title": "[2023 고려대 입실렌티] (여자)아이들 Full ver."
+  "title": "▫️[2023 고려대 입실렌티] (여자)아이들 Full ver."
 },
 
 {
@@ -3002,7 +3319,7 @@ const 공연축제Cards = [
   "duration": "00:23:35",
   "thumbnail": "https://i.ytimg.com/vi/mr8AizeR3rM/maxresdefault.jpg",
   "alt": "[경희대학교 서울캠] 여자아이들 (LATATA, MY BAG, Allergy, 퀸카, TOMBOY)",
-  "title": "[경희대학교 서울캠] 여자아이들 (LATATA, MY BAG, Allergy, 퀸카, TOMBOY)"
+  "title": "▫️[경희대학교 서울캠] 여자아이들 (LATATA, MY BAG, Allergy, 퀸카, TOMBOY)"
 },
 
 {
@@ -3013,7 +3330,7 @@ const 공연축제Cards = [
   "duration": "00:27:26",
   "thumbnail": "https://i.ytimg.com/vi/tdGzeMjYupk/maxresdefault.jpg",
   "alt": "[한양대 축제 라치오스] full 4K 직캠 (LATATA, MY BAG, Allergy, 퀸카(Queen Card), 말리지마)",
-  "title": "[한양대 축제 라치오스] full 4K 직캠 (LATATA, MY BAG, Allergy, 퀸카(Queen Card), 말리지마)"
+  "title": "▫️[한양대 축제 라치오스] full 4K 직캠 (LATATA, MY BAG, Allergy, 퀸카(Queen Card), 말리지마)"
 },
 
 {
@@ -3024,7 +3341,7 @@ const 공연축제Cards = [
   "duration": "00:24:21",
   "thumbnail": "https://i.ytimg.com/vi/Q6Qd-Qleq3Q/maxresdefault.jpg",
   "alt": "[동국대 백상대동제] (여자)아이들 LATATA+MY BAG+Allergy+퀸카 queencard+TOMBOY+Never stop me",
-  "title": "[동국대 백상대동제] (여자)아이들 LATATA+MY BAG+Allergy+퀸카 queencard+TOMBOY+Never stop me"
+  "title": "▫️[동국대 백상대동제] (여자)아이들 LATATA+MY BAG+Allergy+퀸카 queencard+TOMBOY+Never stop me"
 },
 
 {
@@ -3035,7 +3352,7 @@ const 공연축제Cards = [
   "duration": "00:23:08",
   "thumbnail": "https://i.ytimg.com/vi/LSkTWquAS1k/maxresdefault.jpg",
   "alt": "[국민대학교 대동제] (여자)아이들((G)I-DLE) 직캠 Full ver.",
-  "title": "[국민대학교 대동제] (여자)아이들((G)I-DLE) 직캠 Full ver."
+  "title": "▫️[국민대학교 대동제] (여자)아이들((G)I-DLE) 직캠 Full ver."
 },
 
 {
@@ -3046,7 +3363,7 @@ const 공연축제Cards = [
   "duration": "00:35:55",
   "thumbnail": "https://i.ytimg.com/vi/F1dTAe_8Ttw/maxresdefault.jpg",
   "alt": "[전미주한인체육대회] Full Fancam @22nd Korean American Sports Festival Opening Ceremony",
-  "title": "[전미주한인체육대회] Full Fancam @22nd Korean American Sports Festival Opening Ceremony"
+  "title": "▫️[전미주한인체육대회] Full Fancam @22nd Korean American Sports Festival Opening Ceremony"
 },
 
 {
@@ -3056,8 +3373,8 @@ const 공연축제Cards = [
   "date": "2023-07-02T10:56:03",
   "duration": "00:03:40",
   "thumbnail": "https://i.ytimg.com/vi/FYU-KWvjsdM/maxresdefault.jpg",
-  "alt": "[COVER] (KOR) '想見你想見你想見你' (Miss You 3000) 상견니OST @(G)I-DLE WORLD TOUR [I am FREE-TY] IN TAIPEI",
-  "title": "[COVER] (KOR) '想見你想見你想見你' (Miss You 3000) 상견니OST @(G)I-DLE WORLD TOUR [I am FREE-TY] IN TAIPEI"
+  "alt": "▫️'想見你想見你想見你' (Miss You 3000) 상견니OST (Cover)  @(G)I-DLE WORLD TOUR [I am FREE-TY] IN TAIPEI",
+  "title": "▫️'想見你想見你想見你' (Miss You 3000) 상견니OST (Cover)  @(G)I-DLE WORLD TOUR [I am FREE-TY] IN TAIPEI"
 },
 
 {
@@ -3067,8 +3384,8 @@ const 공연축제Cards = [
   "date": "2023-07-16T00:25:33",
   "duration": "00:03:20",
   "thumbnail": "https://i.ytimg.com/vi/YwEYOXd_f-E/maxresdefault.jpg",
-  "alt": "[COVER] 'รักแรก (First Love)' @(G)I-DLE WORLD TOUR [I am FREE-TY] in Bangkok",
-  "title": "[COVER] 'รักแรก (First Love)' @(G)I-DLE WORLD TOUR [I am FREE-TY] in Bangkok"
+  "alt": "▫️'รักแรก (First Love)' (Cover)  @(G)I-DLE WORLD TOUR [I am FREE-TY] in Bangkok",
+  "title": "▫️'รักแรก (First Love)' (Cover)  @(G)I-DLE WORLD TOUR [I am FREE-TY] in Bangkok"
 },
 
 {
@@ -3078,8 +3395,8 @@ const 공연축제Cards = [
   "date": "2023-07-23T01:36:31",
   "duration": "00:03:53",
   "thumbnail": "https://i.ytimg.com/vi/jAsz1JNFS3s/maxresdefault.jpg",
-  "alt": "[COVER] '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG",
-  "title": "[COVER] '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG"
+  "alt": "▫️'喜歡你' (Cover) @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG",
+  "title": "▫️'喜歡你' (Cover) @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG"
 },
 
 {
@@ -3089,8 +3406,8 @@ const 공연축제Cards = [
   "date": "2023-07-23T12:18:55",
   "duration": "00:04:01",
   "thumbnail": "https://i.ytimg.com/vi/dmltDd4Fj18/maxresdefault.jpg",
-  "alt": "[COVER] (Full Cam) '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG",
-  "title": "[COVER] (Full Cam) '喜歡你' @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG"
+  "alt": "▫️'喜歡你' Full Cam (Cover)  @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG",
+  "title": "▫️'喜歡你' Full Cam (Cover)  @(G)I-DLE WORLD TOUR [I am FREE-TY] IN HONG KONG"
 },
 
 {
@@ -3101,7 +3418,7 @@ const 공연축제Cards = [
   "duration": "00:07:39",
   "thumbnail": "https://i.ytimg.com/vi/S4pOeur6JzE/maxresdefault.jpg",
   "alt": "팀 K리그 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈",
-  "title": "팀 K리그 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈"
+  "title": "▫️팀 K리그 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈"
 },
 
 {
@@ -3112,7 +3429,7 @@ const 공연축제Cards = [
   "duration": "00:06:25",
   "thumbnail": "https://i.ytimg.com/vi/gwbDsWLCy8g/maxresdefault.jpg",
   "alt": "맨시티 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈",
-  "title": "맨시티 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈"
+  "title": "▫️맨시티 vs 아틀레티코 마드리드 (여자)아이들 공연 | 쿠팡플레이 시리즈"
 },
 
 {
@@ -3123,7 +3440,7 @@ const 공연축제Cards = [
   "duration": "00:03:06",
   "thumbnail": "https://i.ytimg.com/vi/pGoMB9Yd_aY/maxresdefault.jpg",
   "alt": "[KCON LA 2023] Day 3 (G)I-DLE - Tomboy (fancam)",
-  "title": "[KCON LA 2023] Day 3 (G)I-DLE - Tomboy (fancam)"
+  "title": "▫️[KCON LA 2023] Day 3 (G)I-DLE - Tomboy (fancam)"
 },
 
 {
@@ -3134,7 +3451,7 @@ const 공연축제Cards = [
   "duration": "00:03:26",
   "thumbnail": "https://i.ytimg.com/vi/6L_cDjIcHVA/maxresdefault.jpg",
   "alt": "[KCON LA 2023] Day 3 (G)I-DLE - Queen Card (fancam)",
-  "title": "[KCON LA 2023] Day 3 (G)I-DLE - Queen Card (fancam)"
+  "title": "▫️[KCON LA 2023] Day 3 (G)I-DLE - Queen Card (fancam)"
 },
 
 {
@@ -3156,7 +3473,7 @@ const 공연축제Cards = [
   "duration": "00:02:49",
   "thumbnail": "https://i.ytimg.com/vi/msWd93pwdOA/maxresdefault.jpg",
   "alt": "[KCON LA 2023] Day 3 (G)I-DLE - MY BAG (fancam)",
-  "title": "[KCON LA 2023] Day 3 (G)I-DLE - MY BAG (fancam)"
+  "title": "▫️[KCON LA 2023] Day 3 (G)I-DLE - MY BAG (fancam)"
 },
 
 {
@@ -3167,7 +3484,7 @@ const 공연축제Cards = [
   "duration": "00:03:26",
   "thumbnail": "https://i.ytimg.com/vi/M4-ufJ_iYOg/maxresdefault.jpg",
   "alt": "[KCON LA 2023] X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard)",
-  "title": "[KCON LA 2023] X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard)"
+  "title": "▫️[KCON LA 2023] X M COUNTDOWN - (G)I-DLE - 퀸카(Queencard)"
 },
 
 {
@@ -3177,8 +3494,8 @@ const 공연축제Cards = [
   "date": "2023-10-14T06:25:04",
   "duration": "00:04:08",
   "thumbnail": "https://i.ytimg.com/vi/_wnNlWZFIhs/maxresdefault.jpg",
-  "alt": "[COVER] '不再猶豫' @(G)I-DLE WORLD TOUR [I am FREE-TY] In MACAU",
-  "title": "[COVER] '不再猶豫' @(G)I-DLE WORLD TOUR [I am FREE-TY] In MACAU"
+  "alt": "▫️'不再猶豫' (Cover) @(G)I-DLE WORLD TOUR [I am FREE-TY] In MACAU",
+  "title": "▫️'不再猶豫' (Cover) @(G)I-DLE WORLD TOUR [I am FREE-TY] In MACAU"
 },
 
 {
@@ -3189,7 +3506,7 @@ const 공연축제Cards = [
   "duration": "00:03:43",
   "thumbnail": "https://i.ytimg.com/vi/aRUb-zKJ4rg/maxresdefault.jpg",
   "alt": "(Japanese ver.) Tung Tung @(G)I-DLE WORLD TOUR [I am FREE-TY] In TOKYO",
-  "title": "(Japanese ver.) Tung Tung @(G)I-DLE WORLD TOUR [I am FREE-TY] In TOKYO"
+  "title": "▫️(Japanese ver.) Tung Tung @(G)I-DLE WORLD TOUR [I am FREE-TY] In TOKYO"
 },
 
 {
@@ -3200,7 +3517,7 @@ const 공연축제Cards = [
   "duration": "00:01:57",
   "thumbnail": "https://i.ytimg.com/vi/tMhhle6rI6Y/maxresdefault.jpg",
   "alt": "[#2023MAMA] 수상소감 | Favorite Global Performance Female Group",
-  "title": "[#2023MAMA] 수상소감 | Favorite Global Performance Female Group"
+  "title": "▫️[#2023MAMA] 수상소감 | Favorite Global Performance Female Group"
 },
 
 {
@@ -3255,7 +3572,7 @@ const 공연축제Cards = [
   "duration": "00:18:15",
   "thumbnail": "https://i.ytimg.com/vi/PzCTp-dQ05c/maxresdefault.jpg",
   "alt": "[2023 징글볼 투어 LA] Full Performance at Jingle Ball 2023 Los Angeles",
-  "title": "[2023 징글볼 투어 LA] Full Performance at Jingle Ball 2023 Los Angeles"
+  "title": "▫️[2023 징글볼 투어 LA] Full Performance at Jingle Ball 2023 Los Angeles"
 },
 
 {
@@ -3277,7 +3594,7 @@ const 공연축제Cards = [
   "duration": "00:18:15",
   "thumbnail": "https://i.ytimg.com/vi/lk8KVxvTYiU/hqdefault.jpg",
   "alt": "[2023 징글볼 투어 보스턴] iHeartRadio Jingle Ball 2023 Boston",
-  "title": "[2023 징글볼 투어 보스턴] iHeartRadio Jingle Ball 2023 Boston"
+  "title": "▫️[2023 징글볼 투어 보스턴] iHeartRadio Jingle Ball 2023 Boston"
 },
 
 {
@@ -3288,7 +3605,7 @@ const 공연축제Cards = [
   "duration": "00:11:16",
   "thumbnail": "https://i.ytimg.com/vi/XIq-wdlUrKM/maxresdefault.jpg",
   "alt": "[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 1",
-  "title": "[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 1"
+  "title": "▫️[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 1"
 },
 
 {
@@ -3299,7 +3616,7 @@ const 공연축제Cards = [
   "duration": "00:08:12",
   "thumbnail": "https://i.ytimg.com/vi/kdvFCt44Iiw/maxresdefault.jpg",
   "alt": "[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 2",
-  "title": "[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 2"
+  "title": "▫️[2023 징글볼 투어 디트로이트] iHeartRadio Jingle Ball 2023 Detroit -Part 2"
 },
 
 {
@@ -3310,7 +3627,7 @@ const 공연축제Cards = [
   "duration": "00:18:32",
   "thumbnail": "https://i.ytimg.com/vi/AA_3z-hf830/maxresdefault.jpg",
   "alt": "[2023 징글볼 투어 워싱턴] iHeartRadio Jingle Ball 2023 Washington DC",
-  "title": "[2023 징글볼 투어 워싱턴] iHeartRadio Jingle Ball 2023 Washington DC"
+  "title": "▫️[2023 징글볼 투어 워싱턴] iHeartRadio Jingle Ball 2023 Washington DC"
 },
 
 {
@@ -3321,7 +3638,7 @@ const 공연축제Cards = [
   "duration": "00:11:01",
   "thumbnail": "https://i.ytimg.com/vi/iLiqQ3fD6J0/maxresdefault.jpg",
   "alt": "[2023 징글볼 투어 필라델피아] iHeartRadio Jingle Ball 2023 Philadelphia",
-  "title": "[2023 징글볼 투어 필라델피아] iHeartRadio Jingle Ball 2023 Philadelphia"
+  "title": "▫️[2023 징글볼 투어 필라델피아] iHeartRadio Jingle Ball 2023 Philadelphia"
 },
 
 {
@@ -3332,7 +3649,7 @@ const 공연축제Cards = [
   "duration": "00:17:55",
   "thumbnail": "https://i.ytimg.com/vi/F_bWcI8SIvw/maxresdefault.jpg",
   "alt": "[2023 징글볼 투어 시카고] iHeartRadio Jingle Ball 2023 Chicago",
-  "title": "[2023 징글볼 투어 시카고] iHeartRadio Jingle Ball 2023 Chicago"
+  "title": "▫️[2023 징글볼 투어 시카고] iHeartRadio Jingle Ball 2023 Chicago"
 },
 
 {
@@ -3398,7 +3715,7 @@ const 공연축제Cards = [
   "duration": "00:03:41",
   "thumbnail": "https://i.ytimg.com/vi/XJqQzfniLYE/maxresdefault.jpg",
   "alt": "[2023 가요대제전] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White) cover",
-  "title": "[2023가요대제전 ] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White) cover"
+  "title": "[2023가요대제전] 폴킴 X 미연((여자)아이들) - 화이트 (Paul Kim X MIYEON - White) cover"
 },
 
 {
@@ -3420,7 +3737,7 @@ const 공연축제Cards = [
   "duration": "00:33:06",
   "thumbnail": "https://i.ytimg.com/vi/cUQgZ9VY90k/maxresdefault.jpg",
   "alt": "음악중심 미니팬미팅 직캠- (여자)아이들",
-  "title": "음악중심 미니팬미팅 직캠- (여자)아이들"
+  "title": "▫️음악중심 미니팬미팅 직캠- (여자)아이들"
 },
 
 {
@@ -3431,7 +3748,7 @@ const 공연축제Cards = [
   "duration": "00:04:07",
   "thumbnail": "https://i.ytimg.com/vi/ahBrgga6Hng/maxresdefault.jpg",
   "alt": "[이영지 1st ASIA TOUR ‘THE MAIN CHARACTER’ in SEOUL] 전소연 - WIFE",
-  "title": "[이영지 1st ASIA TOUR ‘THE MAIN CHARACTER’ in SEOUL] 전소연 - WIFE"
+  "title": "▫️[이영지 1st ASIA TOUR ‘THE MAIN CHARACTER’ in SEOUL] 전소연 - WIFE"
 },
 
 {
@@ -3442,7 +3759,7 @@ const 공연축제Cards = [
   "duration": "00:02:39",
   "thumbnail": "https://i.ytimg.com/vi/McvYnsrbyhk/maxresdefault.jpg",
   "alt": "[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - QUEENCARD (FANCAM)",
-  "title": "[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - QUEENCARD (FANCAM)"
+  "title": "▫️[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - QUEENCARD (FANCAM)"
 },
 
 {
@@ -3453,7 +3770,7 @@ const 공연축제Cards = [
   "duration": "00:02:59",
   "thumbnail": "https://i.ytimg.com/vi/phM_u4aPL1A/maxresdefault.jpg",
   "alt": "[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - NXDE (FANCAM)",
-  "title": "[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - NXDE (FANCAM)"
+  "title": "▫️[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - NXDE (FANCAM)"
 },
 
 {
@@ -3464,7 +3781,7 @@ const 공연축제Cards = [
   "duration": "00:05:52",
   "thumbnail": "https://i.ytimg.com/vi/WVHOvxvCu7s/hqdefault.jpg",
   "alt": "[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - POP STARS & MY BAG (FANCAM)",
-  "title": "[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - POP STARS & MY BAG (FANCAM)"
+  "title": "▫️[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - POP STARS & MY BAG (FANCAM)"
 },
 
 {
@@ -3475,7 +3792,7 @@ const 공연축제Cards = [
   "duration": "00:02:25",
   "thumbnail": "https://i.ytimg.com/vi/C68FMAczsqA/maxresdefault.jpg",
   "alt": "[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - NEVER STOP ME (FANCAM)",
-  "title": "[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - NEVER STOP ME (FANCAM)"
+  "title": "▫️[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - NEVER STOP ME (FANCAM)"
 },
 
 {
@@ -3486,7 +3803,7 @@ const 공연축제Cards = [
   "duration": "00:02:58",
   "thumbnail": "https://i.ytimg.com/vi/zCTSn-cwPzo/maxresdefault.jpg",
   "alt": "[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - TOMBOY (FANCAM)",
-  "title": "[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - TOMBOY (FANCAM)"
+  "title": "▫️[9 WAVE MUSIC FESTIVAL KL] (G)I-DLE - TOMBOY (FANCAM)"
 },
 
 {
@@ -3497,7 +3814,7 @@ const 공연축제Cards = [
   "duration": "00:10:06",
   "thumbnail": "https://i.ytimg.com/vi/bg9lH0oc090/sddefault.jpg",
   "alt": "(여자)아이들 메이저리그 MLB Seoul Series 축하공연 | 쿠팡플레이",
-  "title": "(여자)아이들 메이저리그 MLB Seoul Series 축하공연 | 쿠팡플레이"
+  "title": "▫️(여자)아이들 메이저리그 MLB Seoul Series 축하공연 | 쿠팡플레이"
 },
 
 {
@@ -3508,7 +3825,7 @@ const 공연축제Cards = [
   "duration": "00:01:53",
   "thumbnail": "https://i.ytimg.com/vi/zbzrXX9_bpk/maxresdefault.jpg",
   "alt": "Stage EP8： MINNIE 'Queencard' 【CHUANG ASIA】",
-  "title": "Stage EP8： MINNIE 'Queencard' 【CHUANG ASIA】"
+  "title": "▫️Stage EP8： MINNIE 'Queencard' 【CHUANG ASIA】"
 },
 
 {
@@ -3563,7 +3880,7 @@ const 공연축제Cards = [
   "duration": "00:50:14",
   "thumbnail": "https://i.ytimg.com/vi/HhB_ggdb_JA/maxresdefault.jpg",
   "alt": "[Head in the Clouds New York] (여자)아이들 (G)I-DLE - Full concert (14 songs) live 4K Fancam",
-  "title": "[Head in the Clouds New York] (여자)아이들 (G)I-DLE - Full concert (14 songs) live 4K Fancam"
+  "title": "▫️[Head in the Clouds New York] (여자)아이들 (G)I-DLE - Full concert (14 songs) live 4K Fancam"
 },
 
 {
@@ -3574,7 +3891,7 @@ const 공연축제Cards = [
   "duration": "00:27:54",
   "thumbnail": "https://i.ytimg.com/vi/B7tgQ5ooti0/maxresdefault.jpg",
   "alt": "[건국대 축제] (G)I-DLE, ♬ Super Lady+MY BAG+Queencard+TOMBOY+나는 아픈 건 딱 질색이니까+Allergy",
-  "title": "[건국대 축제] (G)I-DLE, ♬ Super Lady+MY BAG+Queencard+TOMBOY+나는 아픈 건 딱 질색이니까+Allergy"
+  "title": "▫️[건국대 축제] (G)I-DLE, ♬ Super Lady+MY BAG+Queencard+TOMBOY+나는 아픈 건 딱 질색이니까+Allergy"
 },
 
 {
@@ -3585,7 +3902,7 @@ const 공연축제Cards = [
   "duration": "00:42:10",
   "thumbnail": "https://i.ytimg.com/vi/9GVY-rdNhnc/sddefault.jpg",
   "alt": "[YUQI] 雨琦杭州草莓音乐节全场饭拍 | YUQI Hangzhou Strawberry Music Festival full-stage Fancam",
-  "title": "[YUQI] 雨琦杭州草莓音乐节全场饭拍 | YUQI Hangzhou Strawberry Music Festival full-stage Fancam"
+  "title": "▫️[YUQI] 雨琦杭州草莓音乐节全场饭拍 | YUQI Hangzhou Strawberry Music Festival full-stage Fancam"
 },
 
 {
@@ -3596,7 +3913,7 @@ const 공연축제Cards = [
   "duration": "00:26:54",
   "thumbnail": "https://i.ytimg.com/vi/uUH9qpcujNI/maxresdefault.jpg",
   "alt": "[인제대 축제] (여자)아이들 - Super Lady/LATATA/MY BAG/Queencard/TOMBOY/아딱질",
-  "title": "[인제대 축제] (여자)아이들 - Super Lady/LATATA/MY BAG/Queencard/TOMBOY/아딱질"
+  "title": "▫️[인제대 축제] (여자)아이들 - Super Lady/LATATA/MY BAG/Queencard/TOMBOY/아딱질"
 },
 
 {
@@ -3607,7 +3924,7 @@ const 공연축제Cards = [
   "duration": "00:35:25",
   "thumbnail": "https://i.ytimg.com/vi/haV9i4JwkB0/maxresdefault.jpg",
   "alt": "[한성대 축제] 소연 빠진 (여자)아이들 한성대학교 축제 35분 full 미니 콘서트",
-  "title": "[한성대 축제] 소연 빠진 (여자)아이들 한성대학교 축제 35분 full 미니 콘서트"
+  "title": "▫️[한성대 축제] 소연 빠진 (여자)아이들 한성대학교 축제 35분 full 미니 콘서트"
 },
 
 {
@@ -3618,7 +3935,7 @@ const 공연축제Cards = [
   "duration": "00:23:57",
   "thumbnail": "https://i.ytimg.com/vi/pRocyJyLEK0/maxresdefault.jpg",
   "alt": "[수원대학교 축제] (여자)아이들 축제 직캠 (G)I-DLE Fancam",
-  "title": "[수원대학교 축제] (여자)아이들 축제 직캠 (G)I-DLE Fancam"
+  "title": "▫️[수원대학교 축제] (여자)아이들 축제 직캠 (G)I-DLE Fancam"
 },
 
 {
@@ -3629,7 +3946,7 @@ const 공연축제Cards = [
   "duration": "00:28:43",
   "thumbnail": "https://i.ytimg.com/vi/ByC-2k9G4Ak/maxresdefault.jpg",
   "alt": "[연세대 아카라카] (G)-IDLE ((여자)아이들) | Live Ver.",
-  "title": "[연세대 아카라카] (G)-IDLE ((여자)아이들) | Live Ver."
+  "title": "▫️[연세대 아카라카] (G)-IDLE ((여자)아이들) | Live Ver."
 },
 
 {
@@ -3655,21 +3972,10 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/bUg14UaHSkQ",
-  "category": "공연축제",
-  "member": "미연, 민니",
-  "date": "2024-07-26T10:40:59",
-  "duration": "00:04:52",
-  "thumbnail": "https://i.ytimg.com/vi/bUg14UaHSkQ/maxresdefault.jpg",
-  "alt": "[2024 가요대전 Summer] JANNABI X Mi-yeon&Minnie(잔나비X미연&민니) - 뜨거운 여름밤은 가고 남은 건 볼품없지만 (cover) [GayoDaejeon]",
-  "title": "[2024 가요대전 Summer] JANNABI X Mi-yeon&Minnie(잔나비X미연&민니) - 뜨거운 여름밤은 가고 남은 건 볼품없지만 (cover) [GayoDaejeon]"
-},
-
-{
   "link": "https://youtu.be/rtE35QR9Vqk",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2024-07-27T01:40:46",
+  "date": "2024-07-21T01:00:01",
   "duration": "00:05:43",
   "thumbnail": "https://i.ytimg.com/vi/rtE35QR9Vqk/maxresdefault.jpg",
   "alt": "[2024 가요대전 Summer] (G)I-DLE ((여자)아이들) – Intro + Klaxon (클락션) 썸머 Summer [GayoDaejeon]",
@@ -3680,7 +3986,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/CvjLpI69rTI",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2024-07-27T02:00:07",
+  "date": "2024-07-21T01:00:02",
   "duration": "00:03:52",
   "thumbnail": "https://i.ytimg.com/vi/CvjLpI69rTI/maxresdefault.jpg",
   "alt": "[2024 가요대전 Summer] (여자)아이들 'Intro + Klaxon' ((G)I-DLE FullCam)│ [GayoDaejeon]",
@@ -3688,10 +3994,32 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/UA-XrQCgYP0",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2024-07-21T01:00:03",
+  "duration": "00:03:50",
+  "thumbnail": "https://i.ytimg.com/vi/UA-XrQCgYP0/maxresdefault.jpg",
+  "alt": "[2024 가요대전 Summer] (여자)아이들 미연 'Intro + 클락션'((G)I-DLE MIYEON 'Intro + Klaxon'FanCam) [GayoDaejeon]",
+  "title": "[2024 가요대전 Summer] (여자)아이들 미연 'Intro + 클락션'((G)I-DLE MIYEON 'Intro + Klaxon'FanCam) [GayoDaejeon]"
+},
+
+{
+  "link": "https://youtu.be/MYY9TUouRcQ",
+  "category": "공연축제",
+  "member": "민니",
+  "date": "2024-07-21T01:00:04",
+  "duration": "00:04:05",
+  "thumbnail": "https://i.ytimg.com/vi/MYY9TUouRcQ/maxresdefault.jpg",
+  "alt": "[2024 가요대전 Summer] (여자)아이들 민니 'Intro + 클락션'((G)I-DLE MINNIE 'Intro + Klaxon'FanCam) [GayoDaejeon]",
+  "title": "[2024 가요대전 Summer] (여자)아이들 민니 'Intro + 클락션'((G)I-DLE MINNIE 'Intro + Klaxon'FanCam) [GayoDaejeon]"
+},
+
+{
   "link": "https://youtu.be/0ASkMl8TMsw",
   "category": "공연축제",
   "member": "소연",
-  "date": "2024-07-27T18:30:00",
+  "date": "2024-07-21T01:00:05",
   "duration": "00:04:47",
   "thumbnail": "https://i.ytimg.com/vi/0ASkMl8TMsw/maxresdefault.jpg",
   "alt": "[2024 가요대전 Summer] (여자)아이들 소연 'Intro + 클락션' ((G)I-DLE SOYEON 'Klaxon' FanCam) [GayoDaejeon]",
@@ -3702,7 +4030,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/L0WjkSE2ZLo",
   "category": "공연축제",
   "member": "우기",
-  "date": "2024-07-27T18:30:05",
+  "date": "2024-07-21T01:00:06",
   "duration": "00:04:04",
   "thumbnail": "https://i.ytimg.com/vi/L0WjkSE2ZLo/maxresdefault.jpg",
   "alt": "[2024 가요대전 Summer] (여자)아이들 우기 'Intro + 클락션' ((G)I-DLE YUQI 'Klaxon' FanCam) [GayoDaejeon]",
@@ -3710,36 +4038,47 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/MYY9TUouRcQ",
-  "category": "공연축제",
-  "member": "민니",
-  "date": "2024-07-27T18:30:06",
-  "duration": "00:04:05",
-  "thumbnail": "https://i.ytimg.com/vi/MYY9TUouRcQ/maxresdefault.jpg",
-  "alt": "[2024 가요대전 Summer] (여자)아이들 민니 'Intro + 클락션'((G)I-DLE MINNIE 'Intro + Klaxon'FanCam) [GayoDaejeon]",
-  "title": "[2024 가요대전 Summer] (여자)아이들 민니 'Intro + 클락션'((G)I-DLE MINNIE 'Intro + Klaxon'FanCam) [GayoDaejeon]"
-},
-
-{
-  "link": "https://youtu.be/UA-XrQCgYP0",
-  "category": "공연축제",
-  "member": "미연",
-  "date": "2024-07-27T18:30:14",
-  "duration": "00:03:50",
-  "thumbnail": "https://i.ytimg.com/vi/UA-XrQCgYP0/maxresdefault.jpg",
-  "alt": "[2024 가요대전 Summer] (여자)아이들 미연 'Intro + 클락션'((G)I-DLE MIYEON 'Intro + Klaxon'FanCam) [GayoDaejeon]",
-  "title": "[2024 가요대전 Summer] (여자)아이들 미연 'Intro + 클락션'((G)I-DLE MIYEON 'Intro + Klaxon'FanCam) [GayoDaejeon]"
-},
-
-{
   "link": "https://youtu.be/tUcGzcB9IH8",
   "category": "공연축제",
   "member": "슈화",
-  "date": "2024-07-27T18:30:16",
+  "date": "2024-07-21T01:00:07",
   "duration": "00:04:41",
   "thumbnail": "https://i.ytimg.com/vi/tUcGzcB9IH8/maxresdefault.jpg",
   "alt": "[2024 가요대전 Summer] (여자)아이들 슈화 'Intro + 클락션' ((G)I-DLE SHUHUA 'Intro+Klaxon' FanCam) [GayoDaejeon]",
   "title": "[2024 가요대전 Summer] (여자)아이들 슈화 'Intro + 클락션' ((G)I-DLE SHUHUA 'Intro+Klaxon' FanCam) [GayoDaejeon]"
+},
+
+{
+  "link": "https://youtu.be/bUg14UaHSkQ",
+  "category": "공연축제",
+  "member": "미연, 민니",
+  "date": "2024-07-21T01:00:08",
+  "duration": "00:04:52",
+  "thumbnail": "https://i.ytimg.com/vi/bUg14UaHSkQ/maxresdefault.jpg",
+  "alt": "[2024 가요대전 Summer] JANNABI X Mi-yeon&Minnie(잔나비X미연&민니) - 뜨거운 여름밤은 가고 남은 건 볼품없지만 (Cover) [GayoDaejeon]",
+  "title": "[2024 가요대전 Summer] JANNABI X Mi-yeon&Minnie(잔나비X미연&민니) - 뜨거운 여름밤은 가고 남은 건 볼품없지만 (Cover) [GayoDaejeon]"
+},
+
+{
+  "link": "https://youtu.be/icpKDJGB8nk",
+  "category": "공연축제",
+  "member": "미연, 민니",
+  "date": "2024-07-21T01:00:09",
+  "duration": "00:04:53",
+  "thumbnail": "https://i.ytimg.com/vi/icpKDJGB8nk/maxresdefault.jpg",
+  "alt": "[2024 가요대전 Summer] 잔나비X민니&미연 '뜨거운 여름 밤은 가고 남은 건 볼품 없지만'(JANNABI X MINNIE&MIYEON FullCam)│@SBSGayoDaejeon",
+  "title": "[2024 가요대전 Summer] 잔나비X민니&미연 '뜨거운 여름 밤은 가고 남은 건 볼품 없지만'(JANNABI X MINNIE&MIYEON FullCam)│@SBSGayoDaejeon"
+},
+
+{
+  "link": "https://youtu.be/-vFzR2L8JdU",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2024-07-21T01:00:10",
+  "duration": "00:07:52",
+  "thumbnail": "https://i.ytimg.com/vi/-vFzR2L8JdU/maxresdefault.jpg",
+  "alt": "[2024 가요대전 Summer] NCT 127, (여자)아이들부터 잔나비까지! 2024 가요대전 Summer를 빛내줄 아티스트들의 스페셜 인터뷰💙 | 2024 가요대전 Summer | SBS",
+  "title": "[2024 가요대전 Summer] NCT 127, (여자)아이들부터 잔나비까지! 2024 가요대전 Summer를 빛내줄 아티스트들의 스페셜 인터뷰💙 | 2024 가요대전 Summer | SBS"
 },
 
 {
@@ -3749,8 +4088,8 @@ const 공연축제Cards = [
   "date": "2024-08-24T00:48:55",
   "duration": "00:03:06",
   "thumbnail": "https://i.ytimg.com/vi/XsZjPlEjTOg/maxresdefault.jpg",
-  "alt": "[COVER] 容祖兒- 我的驕傲 @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN HONG KONG",
-  "title": "[COVER] 容祖兒- 我的驕傲 @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN HONG KONG"
+  "alt": "▫️容祖兒 - '我的驕傲(My Pride)' (Cover)  @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN HONG KONG",
+  "title": "▫️容祖兒 - '我的驕傲(My Pride)' (Cover)  @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN HONG KONG"
 },
 
 {
@@ -3760,8 +4099,8 @@ const 공연축제Cards = [
   "date": "2024-09-04T13:44:00",
   "duration": "00:05:14",
   "thumbnail": "https://i.ytimg.com/vi/gdTq48dIBF8/maxresdefault.jpg",
-  "alt": "[COVER] あいみょん マリーゴールド(아이묭 마리골드) @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN TOKYO",
-  "title": "[COVER] あいみょん マリーゴールド(아이묭 마리골드) @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN TOKYO"
+  "alt": "▫️아이묭(Aimyon, あいみょん) - 'Marigold (マリーゴールド)' (Cover) @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN TOKYO",
+  "title": "▫️아이묭(Aimyon, あいみょん) - 'Marigold (マリーゴールド)' (Cover) @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN TOKYO"
 },
 
 {
@@ -3771,8 +4110,8 @@ const 공연축제Cards = [
   "date": "2024-10-05T06:34:02",
   "duration": "00:04:30",
   "thumbnail": "https://i.ytimg.com/vi/Sx8Ua_SPwLA/maxresdefault.jpg",
-  "alt": "[COVER] (KOR) '如果可以' 〈만약〉 @(G)I-DLE WORLD TOUR [iDOL] IN TAIPEI",
-  "title": "[COVER] (KOR) '如果可以' 〈만약〉 @(G)I-DLE WORLD TOUR [iDOL] IN TAIPEI"
+  "alt": "▫️'如果可以(만약)' (Cover)  @(G)I-DLE WORLD TOUR [iDOL] IN TAIPEI",
+  "title": "▫️'如果可以(만약)' (Cover)  @(G)I-DLE WORLD TOUR [iDOL] IN TAIPEI"
 },
 
 {
@@ -3782,8 +4121,8 @@ const 공연축제Cards = [
   "date": "2024-10-20T20:37:32",
   "duration": "00:04:24",
   "thumbnail": "https://i.ytimg.com/vi/AGLeEentGr8/maxresdefault.jpg",
-  "alt": "[COVER] พบรัก  @(G)I-DLE WORLD TOUR [iDOL] IN BANGKOK",
-  "title": "[COVER] พบรัก  @(G)I-DLE WORLD TOUR [iDOL] IN BANGKOK"
+  "alt": "▫️พบรัก (첫눈에 반한 사랑) (Cover)  @(G)I-DLE WORLD TOUR [iDOL] IN BANGKOK",
+  "title": "▫️พบรัก (첫눈에 반한 사랑) (Cover)  @(G)I-DLE WORLD TOUR [iDOL] IN BANGKOK"
 },
 
 {
@@ -3793,8 +4132,8 @@ const 공연축제Cards = [
   "date": "2024-10-27T01:43:58",
   "duration": "00:04:37",
   "thumbnail": "https://i.ytimg.com/vi/2VSgOtADl3A/maxresdefault.jpg",
-  "alt": "[COVER] 林憶蓮 - 至少還有你 At Least I've Got You @(G)I-DLE WORLD TOUR [iDOL] IN MACAU",
-  "title": "[COVER] 林憶蓮 - 至少還有你 At Least I've Got You @(G)I-DLE WORLD TOUR [iDOL] IN MACAU"
+  "alt": "▫️至少還有你 At Least I've Got You (Cover)  @(G)I-DLE WORLD TOUR [iDOL] IN MACAU",
+  "title": "▫️至少還有你 At Least I've Got You (Cover)  @(G)I-DLE WORLD TOUR [iDOL] IN MACAU"
 },
 
 {
@@ -3805,7 +4144,7 @@ const 공연축제Cards = [
   "duration": "00:04:21",
   "thumbnail": "https://i.ytimg.com/vi/IAxqNtwkLsk/maxresdefault.jpg",
   "alt": "[KCON GERMANY 2024] 미연(MIYEON) - Sky Walking  @Mnet KCON GERMANY 2024 X M COUNTDOWN",
-  "title": "[KCON GERMANY 2024] 미연(MIYEON) - Sky Walking  @Mnet KCON GERMANY 2024 X M COUNTDOWN"
+  "title": "▫️[KCON GERMANY 2024] 미연(MIYEON) - Sky Walking  @Mnet KCON GERMANY 2024 X M COUNTDOWN"
 },
 
 {
@@ -3860,7 +4199,7 @@ const 공연축제Cards = [
   "duration": "00:03:56",
   "thumbnail": "https://i.ytimg.com/vi/E-yNYbu1ZZs/maxresdefault.jpg",
   "alt": "[#MMA2024] 🏆 (여자)아이들 MMA 대상 수상소감 풀버전 MMA 베스트레코드상 수상🎉",
-  "title": "[#MMA2024] 🏆 (여자)아이들 MMA 대상 수상소감 풀버전 MMA 베스트레코드상 수상🎉"
+  "title": "▫️[#MMA2024] 🏆 (여자)아이들 MMA 대상 수상소감 풀버전 MMA 베스트레코드상 수상🎉"
 },
 
 {
@@ -3933,7 +4272,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/fndkyhCZDmI",
   "category": "공연축제",
   "member": "미연",
-  "date": "2024-12-20T23:16:58",
+  "date": "2024-12-20T23:16:00",
   "duration": "00:04:28",
   "thumbnail": "https://i.ytimg.com/vi/fndkyhCZDmI/maxresdefault.jpg",
   "alt": "[2024 가요대축제] 미연 & 정원 & 제이 & 리즈 & 성호 - 길 (원곡: god) cover",
@@ -3941,21 +4280,10 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/1ernZvy8wCM",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2024-12-21T00:23:12",
-  "duration": "00:04:42",
-  "thumbnail": "https://i.ytimg.com/vi/1ernZvy8wCM/maxresdefault.jpg",
-  "alt": "[2024 가요대축제] INTRO + Revenge + Super Lady - (여자)아이들",
-  "title": "[2024 가요대축제] INTRO + Revenge + Super Lady - (여자)아이들"
-},
-
-{
   "link": "https://youtu.be/NRgDdxbkv8M",
   "category": "공연축제",
   "member": "미연",
-  "date": "2024-12-21T22:40:09",
+  "date": "2024-12-20T23:16:01",
   "duration": "00:03:57",
   "thumbnail": "https://i.ytimg.com/vi/NRgDdxbkv8M/maxresdefault.jpg",
   "alt": "[2024 가요대축제] [K-Fancam] (여자)아이들 미연 직캠 '길 (원곡: god)' ((G)I-DLE MIYEON Fancam) cover",
@@ -3963,10 +4291,21 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/1ernZvy8wCM",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2024-12-20T23:16:02",
+  "duration": "00:04:42",
+  "thumbnail": "https://i.ytimg.com/vi/1ernZvy8wCM/maxresdefault.jpg",
+  "alt": "[2024 가요대축제] INTRO + Revenge + Super Lady - (여자)아이들",
+  "title": "[2024 가요대축제] INTRO + Revenge + Super Lady - (여자)아이들"
+},
+
+{
   "link": "https://youtu.be/Ev548nA0f1k",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2024-12-21T22:51:57",
+  "date": "2024-12-20T23:16:03",
   "duration": "00:04:57",
   "thumbnail": "https://i.ytimg.com/vi/Ev548nA0f1k/maxresdefault.jpg",
   "alt": "[K-Choreo 8K] (여자)아이들 직캠 'INTRO+Revenge+Super Lady' ((G)I-DLE Choreography) [2024 가요대축제]",
@@ -3977,7 +4316,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/j4pNzxqVcQw",
   "category": "공연축제",
   "member": "미연",
-  "date": "2024-12-21T22:52:22",
+  "date": "2024-12-20T23:16:04",
   "duration": "00:03:28",
   "thumbnail": "https://i.ytimg.com/vi/j4pNzxqVcQw/maxresdefault.jpg",
   "alt": "[K-Fancam] (여자)아이들 미연 직캠 'Super Lady' ((G)I-DLE MIYEON Fancam) [2024 가요대축제]",
@@ -3988,7 +4327,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/EAr4_8CNUtA",
   "category": "공연축제",
   "member": "민니",
-  "date": "2024-12-21T22:52:33",
+  "date": "2024-12-20T23:16:05",
   "duration": "00:03:28",
   "thumbnail": "https://i.ytimg.com/vi/EAr4_8CNUtA/maxresdefault.jpg",
   "alt": "[K-Fancam] (여자)아이들 민니 직캠 'Super Lady' ((G)I-DLE MINNIE Fancam) [2024 가요대축제]",
@@ -3996,21 +4335,21 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/Ga6REJA05Ks",
+  "link": "https://youtu.be/HInxguywc-A",
   "category": "공연축제",
-  "member": "슈화",
-  "date": "2024-12-21T22:52:42",
+  "member": "소연",
+  "date": "2024-12-20T23:16:06",
   "duration": "00:03:28",
-  "thumbnail": "https://i.ytimg.com/vi/Ga6REJA05Ks/maxresdefault.jpg",
-  "alt": "[K-Fancam] (여자)아이들 슈화 직캠 'Super Lady' ((G)I-DLE SHUHUA Fancam) [2024 가요대축제]",
-  "title": "[K-Fancam] (여자)아이들 슈화 직캠 'Super Lady' ((G)I-DLE SHUHUA Fancam) [2024 가요대축제]"
+  "thumbnail": "https://i.ytimg.com/vi/HInxguywc-A/maxresdefault.jpg",
+  "alt": "[K-Fancam] (여자)아이들 소연 직캠 'Super Lady' ((G)I-DLE SOYEON Fancam) [2024 가요대축제]",
+  "title": "[K-Fancam] (여자)아이들 소연 직캠 'Super Lady' ((G)I-DLE SOYEON Fancam) [2024 가요대축제]"
 },
 
 {
   "link": "https://youtu.be/5FtFg0tYOcA",
   "category": "공연축제",
   "member": "우기",
-  "date": "2024-12-21T22:52:50",
+  "date": "2024-12-20T23:16:07",
   "duration": "00:03:28",
   "thumbnail": "https://i.ytimg.com/vi/5FtFg0tYOcA/maxresdefault.jpg",
   "alt": "[K-Fancam] (여자)아이들 우기 직캠 'Super Lady' ((G)I-DLE YUQI Fancam) [2024 가요대축제]",
@@ -4018,14 +4357,14 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/HInxguywc-A",
+  "link": "https://youtu.be/Ga6REJA05Ks",
   "category": "공연축제",
-  "member": "소연",
-  "date": "2024-12-21T22:53:00",
+  "member": "슈화",
+  "date": "2024-12-20T23:16:08",
   "duration": "00:03:28",
-  "thumbnail": "https://i.ytimg.com/vi/HInxguywc-A/maxresdefault.jpg",
-  "alt": "[K-Fancam] (여자)아이들 소연 직캠 'Super Lady' ((G)I-DLE SOYEON Fancam) [2024 가요대축제]",
-  "title": "[K-Fancam] (여자)아이들 소연 직캠 'Super Lady' ((G)I-DLE SOYEON Fancam) [2024 가요대축제]"
+  "thumbnail": "https://i.ytimg.com/vi/Ga6REJA05Ks/maxresdefault.jpg",
+  "alt": "[K-Fancam] (여자)아이들 슈화 직캠 'Super Lady' ((G)I-DLE SHUHUA Fancam) [2024 가요대축제]",
+  "title": "[K-Fancam] (여자)아이들 슈화 직캠 'Super Lady' ((G)I-DLE SHUHUA Fancam) [2024 가요대축제]"
 },
 
 {
@@ -4060,6 +4399,7 @@ const 공연축제Cards = [
   "alt": "[2024 가요대전 4K] (여자)아이들 'Wife+Klaxon(클락션)(ChristmasVer.)' ((G)I-DLE FullCam)",
   "title": "[2024 가요대전 4K] (여자)아이들 'Wife+Klaxon(클락션)(ChristmasVer.)' ((G)I-DLE FullCam)"
 },
+
 {
   "link": "https://youtu.be/SHA-GXvhaFA",
   "category": "공연축제",
@@ -4070,6 +4410,7 @@ const 공연축제Cards = [
   "alt": "白鹿 & 宋雨琦 & 范丞丞 《干杯》 2024-2025浙江卫视跨年晚会 (절강위성TV 연말무대)",
   "title": "白鹿 & 宋雨琦 & 范丞丞 《干杯》 2024-2025浙江卫视跨年晚会 (절강위성TV 연말무대)"
 },
+
 {
   "link": "https://youtu.be/q0rY2KC7-sY",
   "category": "공연축제",
@@ -4080,6 +4421,7 @@ const 공연축제Cards = [
   "alt": "宋雨琦 《Radio+Freak》 | 2024-2025浙江卫视跨年晚会 (절강위성TV 연말무대)",
   "title": "宋雨琦 《Radio+Freak》 | 2024-2025浙江卫视跨年晚会 (절강위성TV 연말무대)"
 },
+
 {
   "link": "https://youtu.be/yOQVKhBEHI4",
   "category": "공연축제",
@@ -4089,17 +4431,6 @@ const 공연축제Cards = [
   "thumbnail": "https://i.ytimg.com/vi/yOQVKhBEHI4/maxresdefault.jpg",
   "alt": "[제39회 골든디스크] (G)I-DLE ((여자)아이들) - 'Intro + Super Lady + 나는 아픈 건 딱 질색이니까' ♪ [골든디스크어워즈/Golden Disc Awards]",
   "title": "[제39회 골든디스크] (G)I-DLE ((여자)아이들) - 'Intro + Super Lady + 나는 아픈 건 딱 질색이니까' ♪ [골든디스크어워즈/Golden Disc Awards]"
-},
-
-{
-  "link": "https://youtu.be/dEBPXEcYQAw",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2025-01-06T20:30:21",
-  "duration": "00:16:56",
-  "thumbnail": "https://i.ytimg.com/vi/dEBPXEcYQAw/maxresdefault.jpg",
-  "alt": "(G)I-DLE: Year-End Stage Highlights on Music Festival🔥 [가요대제전/GayoDaejejeon]",
-  "title": "(G)I-DLE: Year-End Stage Highlights on Music Festival🔥 [가요대제전/GayoDaejejeon]"
 },
 
 {
@@ -4134,6 +4465,7 @@ const 공연축제Cards = [
   "alt": "[2025春晚等着你]白鹿 程潇 宋雨琦即兴舞蹈 眼神巨有戏！ | CCTV春晚",
   "title": "[2025春晚等着你]白鹿 程潇 宋雨琦即兴舞蹈 眼神巨有戏！ | CCTV春晚"
 },
+
 {
   "link": "https://youtu.be/SR54xG5MJVI",
   "category": "공연축제",
@@ -4149,7 +4481,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/J78pcWY_dWQ",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2025-01-29T18:37:38",
+  "date": "2025-01-29T19:00:00",
   "duration": "00:01:24",
   "thumbnail": "https://i.ytimg.com/vi/J78pcWY_dWQ/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 - 라타타 ((G)I-DLE - LATATA)",
@@ -4157,21 +4489,10 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/7oDFUj0QClM",
-  "category": "공연축제",
-  "member": "소연",
-  "date": "2025-01-29T19:25:26",
-  "duration": "00:02:28",
-  "thumbnail": "https://i.ytimg.com/vi/7oDFUj0QClM/maxresdefault.jpg",
-  "alt": "[2024 가요대제전] 소연 - POWER (원곡: G-DRAGON) cover",
-  "title": "[2024 가요대제전] 소연 - POWER (원곡: G-DRAGON) cover"
-},
-
-{
   "link": "https://youtu.be/tZbOKNyTMtk",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2025-01-29T19:54:11",
+  "date": "2025-01-29T19:00:01",
   "duration": "00:01:40",
   "thumbnail": "https://i.ytimg.com/vi/tZbOKNyTMtk/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 – LATATA ((G)I-DLE Fullcam)",
@@ -4182,7 +4503,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/BbcXb-b1Teo",
   "category": "공연축제",
   "member": "미연",
-  "date": "2025-01-29T19:54:33",
+  "date": "2025-01-29T19:00:02",
   "duration": "00:03:08",
   "thumbnail": "https://i.ytimg.com/vi/BbcXb-b1Teo/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 미연 – LATATA 직캠 ((G)I-DLE MIYEON Fancam)",
@@ -4193,7 +4514,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/kqbHhJiwMn8",
   "category": "공연축제",
   "member": "민니",
-  "date": "2025-01-29T19:54:49",
+  "date": "2025-01-29T19:00:03",
   "duration": "00:03:29",
   "thumbnail": "https://i.ytimg.com/vi/kqbHhJiwMn8/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 민니 – LATATA 직캠 ((G)I-DLE MINNIE Fancam)",
@@ -4204,7 +4525,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/UGT7Wb71LpU",
   "category": "공연축제",
   "member": "소연",
-  "date": "2025-01-29T19:55:43",
+  "date": "2025-01-29T19:00:04",
   "duration": "00:03:03",
   "thumbnail": "https://i.ytimg.com/vi/UGT7Wb71LpU/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 소연 – LATATA 직캠 ((G)I-DLE SOYEON Fancam)",
@@ -4215,7 +4536,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/72fFqUBKdQw",
   "category": "공연축제",
   "member": "우기",
-  "date": "2025-01-29T19:56:02",
+  "date": "2025-01-29T19:00:05",
   "duration": "00:03:04",
   "thumbnail": "https://i.ytimg.com/vi/72fFqUBKdQw/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 우기 – LATATA 직캠 ((G)I-DLE YUQI Fancam)",
@@ -4226,7 +4547,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/-3Qlchg9OqA",
   "category": "공연축제",
   "member": "슈화",
-  "date": "2025-01-29T19:56:21",
+  "date": "2025-01-29T19:00:06",
   "duration": "00:03:05",
   "thumbnail": "https://i.ytimg.com/vi/-3Qlchg9OqA/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 슈화 – LATATA 직캠 ((G)I-DLE SHUHUA Fancam)",
@@ -4234,32 +4555,10 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/j7N-VOV4gFg",
-  "category": "공연축제",
-  "member": "소연",
-  "date": "2025-01-29T20:41:07",
-  "duration": "00:03:36",
-  "thumbnail": "https://i.ytimg.com/vi/j7N-VOV4gFg/maxresdefault.jpg",
-  "alt": "[2024 가요대제전] (여자)아이들 소연 – POWER (원곡: G-DRAGON) (SOYEON Fullcam) cover",
-  "title": "[2024 가요대제전] (여자)아이들 소연 – POWER (원곡: G-DRAGON) (SOYEON Fullcam) cover"
-},
-
-{
-  "link": "https://youtu.be/cJFIsWwKDME",
-  "category": "공연축제",
-  "member": "소연",
-  "date": "2025-01-29T20:41:26",
-  "duration": "00:03:03",
-  "thumbnail": "https://i.ytimg.com/vi/cJFIsWwKDME/maxresdefault.jpg",
-  "alt": "[2024 가요대제전] (여자)아이들 소연 – POWER 직캠 (원곡: G-DRAGON) (SOYEON Fancam) cover",
-  "title": "[2024 가요대제전] (여자)아이들 소연 – POWER 직캠 (원곡: G-DRAGON) (SOYEON Fancam) cover"
-},
-
-{
   "link": "https://youtu.be/-sW4e_DK_Eo",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2025-01-30T18:41:52",
+  "date": "2025-01-29T19:00:07",
   "duration": "00:05:53",
   "thumbnail": "https://i.ytimg.com/vi/-sW4e_DK_Eo/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 - 슈퍼 레이디 + 네버랜드 ((G)I-DLE - Super Lady + Neverland)",
@@ -4270,7 +4569,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/EhQNBNPLyiw",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2025-01-30T19:05:03",
+  "date": "2025-01-29T19:00:08",
   "duration": "00:05:59",
   "thumbnail": "https://i.ytimg.com/vi/EhQNBNPLyiw/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 – Super Lady + Neverland ((G)I-DLE Fullcam)",
@@ -4281,7 +4580,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/X2eUrWADmGI",
   "category": "공연축제",
   "member": "미연",
-  "date": "2025-01-30T19:05:19",
+  "date": "2025-01-29T19:00:09",
   "duration": "00:06:17",
   "thumbnail": "https://i.ytimg.com/vi/X2eUrWADmGI/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 미연 – Super Lady +Neverland 직캠 ((G)I-DLE MIYEON Fancam)",
@@ -4292,7 +4591,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/4NOzDr5w98A",
   "category": "공연축제",
   "member": "민니",
-  "date": "2025-01-30T19:05:36",
+  "date": "2025-01-29T19:00:10",
   "duration": "00:05:54",
   "thumbnail": "https://i.ytimg.com/vi/4NOzDr5w98A/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 민니 – Super Lady +Neverland 직캠 ((G)I-DLE MINNIE Fancam)",
@@ -4303,7 +4602,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/GOhtXDiJNh8",
   "category": "공연축제",
   "member": "소연",
-  "date": "2025-01-30T19:05:52",
+  "date": "2025-01-29T19:00:11",
   "duration": "00:05:41",
   "thumbnail": "https://i.ytimg.com/vi/GOhtXDiJNh8/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 소연 – Super Lady +Neverland 직캠 ((G)I-DLE SOYEON Fancam)",
@@ -4314,7 +4613,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/lb4ZTu2bLBI",
   "category": "공연축제",
   "member": "우기",
-  "date": "2025-01-30T19:06:17",
+  "date": "2025-01-29T19:00:12",
   "duration": "00:06:19",
   "thumbnail": "https://i.ytimg.com/vi/lb4ZTu2bLBI/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 우기 – Super Lady +Neverland 직캠 ((G)I-DLE YUQI Fancam)",
@@ -4325,7 +4624,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/wa4_wFNu1jo",
   "category": "공연축제",
   "member": "슈화",
-  "date": "2025-01-30T19:06:36",
+  "date": "2025-01-29T19:00:13",
   "duration": "00:05:40",
   "thumbnail": "https://i.ytimg.com/vi/wa4_wFNu1jo/maxresdefault.jpg",
   "alt": "[2024 가요대제전] (여자)아이들 슈화 – Super Lady +Neverland 직캠 ((G)I-DLE SHUHUA Fancam)",
@@ -4336,7 +4635,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/F_4ihQ7CcFQ",
   "category": "공연축제",
   "member": "미연",
-  "date": "2025-01-31T11:10:00",
+  "date": "2025-01-29T19:00:14",
   "duration": "00:05:46",
   "thumbnail": "https://i.ytimg.com/vi/F_4ihQ7CcFQ/maxresdefault.jpg",
   "alt": "[#최애직캠] (여자)아이들 미연 ((G)I-DLE MIYEON) – Super Lady + Neverland 2024 [가요대제전/GayoDaejejeon]",
@@ -4347,7 +4646,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/qHmUaM8tb5g",
   "category": "공연축제",
   "member": "우기",
-  "date": "2025-01-31T11:11:00",
+  "date": "2025-01-29T19:00:15",
   "duration": "00:06:05",
   "thumbnail": "https://i.ytimg.com/vi/qHmUaM8tb5g/maxresdefault.jpg",
   "alt": "[#최애직캠] (여자)아이들 우기 ((G)I-DLE YUQI) – Super Lady + Neverland 2024 [가요대제전/GayoDaejejeon]",
@@ -4358,11 +4657,44 @@ const 공연축제Cards = [
   "link": "https://youtu.be/GPsj_HSAEdM",
   "category": "공연축제",
   "member": "슈화",
-  "date": "2025-01-31T11:12:00",
+  "date": "2025-01-29T19:00:16",
   "duration": "00:06:12",
   "thumbnail": "https://i.ytimg.com/vi/GPsj_HSAEdM/maxresdefault.jpg",
   "alt": "[#최애직캠] (여자)아이들 슈화 ((G)I-DLE SHUHUA) – Super Lady + Neverland 2024 [가요대제전/GayoDaejejeon]",
   "title": "[#최애직캠] (여자)아이들 슈화 ((G)I-DLE SHUHUA) – Super Lady + Neverland 2024 [가요대제전/GayoDaejejeon]"
+},
+
+{
+  "link": "https://youtu.be/7oDFUj0QClM",
+  "category": "공연축제",
+  "member": "소연",
+  "date": "2025-01-29T19:00:17",
+  "duration": "00:02:28",
+  "thumbnail": "https://i.ytimg.com/vi/7oDFUj0QClM/maxresdefault.jpg",
+  "alt": "[2024 가요대제전] 소연 - POWER (원곡: G-DRAGON) cover",
+  "title": "[2024 가요대제전] 소연 - POWER (원곡: G-DRAGON) cover"
+},
+
+{
+  "link": "https://youtu.be/j7N-VOV4gFg",
+  "category": "공연축제",
+  "member": "소연",
+  "date": "2025-01-29T19:00:18",
+  "duration": "00:03:36",
+  "thumbnail": "https://i.ytimg.com/vi/j7N-VOV4gFg/maxresdefault.jpg",
+  "alt": "[2024 가요대제전] (여자)아이들 소연 – POWER (원곡: G-DRAGON) (SOYEON Fullcam) cover",
+  "title": "[2024 가요대제전] (여자)아이들 소연 – POWER (원곡: G-DRAGON) (SOYEON Fullcam) cover"
+},
+
+{
+  "link": "https://youtu.be/cJFIsWwKDME",
+  "category": "공연축제",
+  "member": "소연",
+  "date": "2025-01-29T19:00:19",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/cJFIsWwKDME/maxresdefault.jpg",
+  "alt": "[2024 가요대제전] (여자)아이들 소연 – POWER 직캠 (원곡: G-DRAGON) (SOYEON Fancam) cover",
+  "title": "[2024 가요대제전] (여자)아이들 소연 – POWER 직캠 (원곡: G-DRAGON) (SOYEON Fancam) cover"
 },
 
 {
@@ -4395,7 +4727,7 @@ const 공연축제Cards = [
   "duration": "00:29:31",
   "thumbnail": "https://i.ytimg.com/vi/GHCfSsJzbjQ/maxresdefault.jpg",
   "alt": "아이들((G)I-DLE) - Super Lady + LATATA + Wife +...아이들 컷 [The Performance 2025]",
-  "title": "아이들((G)I-DLE) - Super Lady + LATATA + Wife +...아이들 컷 [The Performance 2025]"
+  "title": "▫️아이들((G)I-DLE) - Super Lady + LATATA + Wife +...아이들 컷 [The Performance 2025]"
 },
 
 {
@@ -4439,7 +4771,7 @@ const 공연축제Cards = [
   "duration": "00:28:24",
   "thumbnail": "https://i.ytimg.com/vi/qOLG1zTQjeo/maxresdefault.jpg",
   "alt": "[한양대 에리카 축제] 아이들(i-dle) Full ver. (Good Thing + Queencard + TOMBOY + LATATA + Girlfriend)",
-  "title": "[한양대 에리카 축제] 아이들(i-dle) Full ver. (Good Thing + Queencard + TOMBOY + LATATA + Girlfriend)"
+  "title": "▫️[한양대 에리카 축제] 아이들(i-dle) Full ver. (Good Thing + Queencard + TOMBOY + LATATA + Girlfriend)"
 },
 
 {
@@ -4450,7 +4782,7 @@ const 공연축제Cards = [
   "duration": "00:25:49",
   "thumbnail": "https://i.ytimg.com/vi/G_3kBo6W3I4/maxresdefault.jpg",
   "alt": "[숭실대학교 봄축제 위량제] 아이들 idle 무대 직캠",
-  "title": "[숭실대학교 봄축제 위량제] 아이들 idle 무대 직캠"
+  "title": "▫️[숭실대학교 봄축제 위량제] 아이들 idle 무대 직캠"
 },
 
 {
@@ -4461,7 +4793,7 @@ const 공연축제Cards = [
   "duration": "00:30:46",
   "thumbnail": "https://i.ytimg.com/vi/P7vUYeSpDuw/maxresdefault.jpg",
   "alt": "음악중심 미니팬미팅- 여자아이들(idle) 토크 팬캠(fancam)",
-  "title": "음악중심 미니팬미팅- 여자아이들(idle) 토크 팬캠(fancam)"
+  "title": "▫️음악중심 미니팬미팅- 여자아이들(idle) 토크 팬캠(fancam)"
 },
 
 {
@@ -4472,7 +4804,7 @@ const 공연축제Cards = [
   "duration": "00:29:27",
   "thumbnail": "https://i.ytimg.com/vi/__tJvVTt6U8/maxresdefault.jpg",
   "alt": "[연세대 아카라카] MY BAG + Fate + Goodthing + TOMBOY + Queencard + Girlfriend",
-  "title": "[연세대 아카라카] MY BAG + Fate + Goodthing + TOMBOY + Queencard + Girlfriend"
+  "title": "▫️[연세대 아카라카] MY BAG + Fate + Goodthing + TOMBOY + Queencard + Girlfriend"
 },
 
 {
@@ -4483,7 +4815,7 @@ const 공연축제Cards = [
   "duration": "00:27:59",
   "thumbnail": "https://i.ytimg.com/vi/DE1-XC0CWKA/maxresdefault.jpg",
   "alt": "[한국외대 축제] 아이들(i-dle) 한국외국어대학교 글로벌캠퍼스(용인) Full Ver. (Girlfriend+ My bag + 굿띵 + TOMBOY + 퀸카 + 나는 아픈 건 딱 질색이니까)",
-  "title": "[한국외대 축제] 아이들(i-dle) 한국외국어대학교 글로벌캠퍼스(용인) Full Ver. (Girlfriend+ My bag + 굿띵 + TOMBOY + 퀸카 + 나는 아픈 건 딱 질색이니까)"
+  "title": "▫️[한국외대 축제] 아이들(i-dle) 한국외국어대학교 글로벌캠퍼스(용인) Full Ver. (Girlfriend+ My bag + 굿띵 + TOMBOY + 퀸카 + 나는 아픈 건 딱 질색이니까)"
 },
 
 {
@@ -4494,7 +4826,7 @@ const 공연축제Cards = [
   "duration": "00:13:02",
   "thumbnail": "https://i.ytimg.com/vi/8b2PkRYDUMc/maxresdefault.jpg",
   "alt": "[명지대 축제] i-dle Fancam 'Girlfriend + Wife + Good Thing + Tomboy + Queencard'",
-  "title": "[명지대 축제] i-dle Fancam 'Girlfriend + Wife + Good Thing + Tomboy + Queencard'"
+  "title": "▫️[명지대 축제] i-dle Fancam 'Girlfriend + Wife + Good Thing + Tomboy + Queencard'"
 },
 
 {
@@ -4505,7 +4837,7 @@ const 공연축제Cards = [
   "duration": "00:12:21",
   "thumbnail": "https://i.ytimg.com/vi/ZJEVy7UjFE0/maxresdefault.jpg",
   "alt": "[아주대 축제] i-dle (아이들) - ‘Good Thing + 퀸카 Queencard + TOMBOY + 아딱질’ 직캠",
-  "title": "[아주대 축제] i-dle (아이들) - ‘Good Thing + 퀸카 Queencard + TOMBOY + 아딱질’ 직캠"
+  "title": "▫️[아주대 축제] i-dle (아이들) - ‘Good Thing + 퀸카 Queencard + TOMBOY + 아딱질’ 직캠"
 },
 
 {
@@ -4553,14 +4885,14 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/1KwijomIOyA",
+  "link": "https://youtu.be/ptpGfTo7iME",
   "category": "공연축제",
   "member": "아이들",
   "date": "2025-05-29T21:26:18",
-  "duration": "00:09:28",
-  "thumbnail": "https://i.ytimg.com/vi/1KwijomIOyA/maxresdefault.jpg",
-  "alt": "[ASEA 2025] i-dle 아이들 - INTRO + Good Thing + Girlfriend + 나는 아픈 건 딱 질색이니까 (Fate)",
-  "title": "[ASEA 2025] i-dle 아이들 - INTRO + Good Thing + Girlfriend + 나는 아픈 건 딱 질색이니까 (Fate)"
+  "duration": "00:09:29",
+  "thumbnail": "https://i.ytimg.com/vi/ptpGfTo7iME/maxresdefault.jpg",
+  "alt": "[ASEA 2025] i-dle (아이들) - Intro + Good Thing + Girlfriend + 아딱질 (Fate) | ASIA STAR ENTERTAINER AWARDS",
+  "title": "[ASEA 2025] i-dle (아이들) - Intro + Good Thing + Girlfriend + 아딱질 (Fate) | ASIA STAR ENTERTAINER AWARDS"
 },
 
 {
@@ -4571,7 +4903,7 @@ const 공연축제Cards = [
   "duration": "00:02:58",
   "thumbnail": "https://i.ytimg.com/vi/x7j0frire9U/maxresdefault.jpg",
   "alt": "[ASEA 2025] i-dle 아이들 수상 후 앵콜무대 - 나는 아픈 건 딱 질색이니까 (ENCORE)",
-  "title": "[ASEA 2025] i-dle 아이들 수상 후 앵콜무대 - 나는 아픈 건 딱 질색이니까 (ENCORE)"
+  "title": "▫️[ASEA 2025] i-dle 아이들 수상 후 앵콜무대 - 나는 아픈 건 딱 질색이니까 (ENCORE)"
 },
 
 {
@@ -4622,8 +4954,8 @@ const 공연축제Cards = [
   "member": "아이들",
   "date": "2025-06-21T18:00:04",
   "thumbnail": "https://phinf.pstatic.net/tvcast/20250621_58/3F8Ve_1750516922781FIjd3_JPEG/zqGQMoch63_05.jpg?type=now720b",
-  "alt": "제34회 서울가요대상 'SMA 2025' 대상수상+앵콜무대",
-  "title": "제34회 서울가요대상 'SMA 2025' 대상수상+앵콜무대"
+  "alt": "▫️제34회 서울가요대상 'SMA 2025' 대상수상+앵콜무대",
+  "title": "▫️제34회 서울가요대상 'SMA 2025' 대상수상+앵콜무대 (NAVER)"
 },
 
 {
@@ -4633,9 +4965,10 @@ const 공연축제Cards = [
   "date": "2025-06-21T23:16:16",
   "duration": "00:07:07",
   "thumbnail": "https://i.ytimg.com/vi/fH7CzOWHhQs/maxresdefault.jpg",
-  "alt": "제34회 서울가요대상 SMA 2025 - Intro + Good Thing + 나는 아픈 건 딱 질색이니까 (Fate) | 34th Seoul Music Awards",
-  "title": "제34회 서울가요대상 SMA 2025 - Intro + Good Thing + 나는 아픈 건 딱 질색이니까 (Fate) | 34th Seoul Music Awards"
+  "alt": "▫️제34회 서울가요대상 SMA 2025 - Intro + Good Thing + 나는 아픈 건 딱 질색이니까 (Fate) | 34th Seoul Music Awards",
+  "title": "▫️제34회 서울가요대상 SMA 2025 - Intro + Good Thing + 나는 아픈 건 딱 질색이니까 (Fate) | 34th Seoul Music Awards"
 },
+
 {
   "link": "https://youtu.be/2EpppUvsC1g",
   "category": "공연축제",
@@ -4644,9 +4977,9 @@ const 공연축제Cards = [
   "duration": "00:02:01",
   "thumbnail": "https://i.ytimg.com/vi/2EpppUvsC1g/maxresdefault.jpg",
   "alt": "민니 (Minnie) - 보라빛 향기 (원곡: 강수지) | 34th Seoul Music Awards | 250621",
-  "title": "민니 (Minnie) - 보라빛 향기 (원곡: 강수지) | 34th Seoul Music Awards | 250621",
-  "subtag": "페스티벌"
+  "title": "▫️민니 (Minnie) - 보라빛 향기 (원곡: 강수지) | 34th Seoul Music Awards | 250621"
 },
+
 {
   "link": "https://youtu.be/UjAkAAgo6l4",
   "category": "공연축제",
@@ -4655,7 +4988,7 @@ const 공연축제Cards = [
   "duration": "00:35:12",
   "thumbnail": "https://i.ytimg.com/vi/UjAkAAgo6l4/maxresdefault.jpg",
   "alt": "[반얀트리 풀파티] 소연 10곡 UPLOUNGE CLUB : POOL PARTY IN BANYANTREE",
-  "title": "[반얀트리 풀파티] 소연 10곡 UPLOUNGE CLUB : POOL PARTY IN BANYANTREE"
+  "title": "▫️[반얀트리 풀파티] 소연 10곡 UPLOUNGE CLUB : POOL PARTY IN BANYANTREE"
 },
 
 {
@@ -4666,7 +4999,7 @@ const 공연축제Cards = [
   "duration": "00:03:16",
   "thumbnail": "https://i.ytimg.com/vi/5ktHEKUrFkM/maxresdefault.jpg",
   "alt": "[TAIWAN CPBL All Star Game] 민니 시구 ",
-  "title": "[TAIWAN CPBL All Star Game] 민니 시구 "
+  "title": "▫️[TAIWAN CPBL All Star Game] 민니 시구 "
 },
 
 {
@@ -4677,7 +5010,7 @@ const 공연축제Cards = [
   "duration": "00:22:13",
   "thumbnail": "https://i.ytimg.com/vi/2dOTVb1ra3s/maxresdefault.jpg",
   "alt": "[TAIWAN CPBL All Star Game] Full Performance - Blind Eyes Red + HER + Cherry Sky + Obsession +Queencard",
-  "title": "[TAIWAN CPBL All Star Game] Full Performance - Blind Eyes Red + HER + Cherry Sky + Obsession +Queencard"
+  "title": "▫️[TAIWAN CPBL All Star Game] Full Performance - Blind Eyes Red + HER + Cherry Sky + Obsession +Queencard"
 },
 
 {
@@ -4714,6 +5047,17 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/T8VdJVp6BoE",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2025-08-10T01:19:35",
+  "duration": "00:02:07",
+  "thumbnail": "https://i.ytimg.com/vi/T8VdJVp6BoE/maxresdefault.jpg",
+  "alt": "[2025 가요대전 썸머] 우기 (YUQI) - Don't Start Now (원곡 : Dua Lipa)",
+  "title": "[2025 가요대전 썸머] 우기 (YUQI) - Don't Start Now (원곡 : Dua Lipa)"
+},
+
+{
   "link": "https://youtu.be/ay_TBZHLrIk",
   "category": "공연축제",
   "member": "아이들",
@@ -4725,21 +5069,10 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/T8VdJVp6BoE",
-  "category": "공연축제",
-  "member": "우기",
-  "date": "2025-08-10T07:54:55",
-  "duration": "00:02:07",
-  "thumbnail": "https://i.ytimg.com/vi/T8VdJVp6BoE/maxresdefault.jpg",
-  "alt": "[2025 가요대전 썸머] 우기 (YUQI) - Don't Start Now (원곡 : Dua Lipa)",
-  "title": "[2025 가요대전 썸머] 우기 (YUQI) - Don't Start Now (원곡 : Dua Lipa)"
-},
-
-{
   "link": "https://youtu.be/SA2td_iBmfY",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2025-08-10T10:35:52",
+  "date": "2025-08-10T02:04:29",
   "duration": "00:04:22",
   "thumbnail": "https://i.ytimg.com/vi/SA2td_iBmfY/maxresdefault.jpg",
   "alt": "[2025 가요대전 썸머 4K] 아이들 'INTRO + Good Thing (Orbit Ver.)' (i-dle FullCam) @SBS GayoDaejeon",
@@ -4750,7 +5083,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/GL7Xy-BIpLc",
   "category": "공연축제",
   "member": "미연",
-  "date": "2025-08-10T11:55:00",
+  "date": "2025-08-10T02:04:30",
   "duration": "00:03:21",
   "thumbnail": "https://i.ytimg.com/vi/GL7Xy-BIpLc/maxresdefault.jpg",
   "alt": "[2025 가요대전 썸머 4K] 아이들 미연 'INTRO + Good Thing (Orbit Ver.)' (i-dle MIYEON FanCam) @SBS GayoDaejeon",
@@ -4758,10 +5091,21 @@ const 공연축제Cards = [
 },
 
 {
+  "link": "https://youtu.be/r_fTrvplAYw",
+  "category": "공연축제",
+  "member": "민니",
+  "date": "2025-08-10T02:04:31",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/r_fTrvplAYw/maxresdefault.jpg",
+  "alt": "[2025 가요대전 썸머 4K] 아이들 민니 'INTRO + Good Thing (Orbit Ver.)' (i-dle MINNIE FanCam) @SBS GayoDaejeon",
+  "title": "[2025 가요대전 썸머 4K] 아이들 민니 'INTRO + Good Thing (Orbit Ver.)' (i-dle MINNIE FanCam) @SBS GayoDaejeon"
+},
+
+{
   "link": "https://youtu.be/lCnucIBbc1I",
   "category": "공연축제",
   "member": "소연",
-  "date": "2025-08-10T11:55:01",
+  "date": "2025-08-10T02:04:32",
   "duration": "00:04:18",
   "thumbnail": "https://i.ytimg.com/vi/lCnucIBbc1I/maxresdefault.jpg",
   "alt": "[2025 가요대전 썸머 4K] 아이들 소연 'INTRO + Good Thing (Orbit Ver.)' (i-dle SOYEON FanCam) @SBS GayoDaejeon",
@@ -4772,7 +5116,7 @@ const 공연축제Cards = [
   "link": "https://youtu.be/Kg3QT3vuhvQ",
   "category": "공연축제",
   "member": "우기",
-  "date": "2025-08-10T11:55:01",
+  "date": "2025-08-10T02:04:33",
   "duration": "00:03:31",
   "thumbnail": "https://i.ytimg.com/vi/Kg3QT3vuhvQ/maxresdefault.jpg",
   "alt": "[2025 가요대전 썸머 4K] 아이들 우기 'INTRO + Good Thing (Orbit Ver.)' (i-dle YUQI FanCam) @SBS GayoDaejeon",
@@ -4783,22 +5127,11 @@ const 공연축제Cards = [
   "link": "https://youtu.be/z3s6iBrzPUg",
   "category": "공연축제",
   "member": "슈화",
-  "date": "2025-08-10T11:55:01",
+  "date": "2025-08-10T02:04:34",
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/z3s6iBrzPUg/maxresdefault.jpg",
   "alt": "[2025 가요대전 썸머 4K] 아이들 슈화 'INTRO + Good Thing (Orbit Ver.)' (i-dle SHUHUA FanCam) @SBS GayoDaejeon",
   "title": "[2025 가요대전 썸머 4K] 아이들 슈화 'INTRO + Good Thing (Orbit Ver.)' (i-dle SHUHUA FanCam) @SBS GayoDaejeon"
-},
-
-{
-  "link": "https://youtu.be/r_fTrvplAYw",
-  "category": "공연축제",
-  "member": "민니",
-  "date": "2025-08-10T11:55:02",
-  "duration": "00:03:31",
-  "thumbnail": "https://i.ytimg.com/vi/r_fTrvplAYw/maxresdefault.jpg",
-  "alt": "[2025 가요대전 썸머 4K] 아이들 민니 'INTRO + Good Thing (Orbit Ver.)' (i-dle MINNIE FanCam) @SBS GayoDaejeon",
-  "title": "[2025 가요대전 썸머 4K] 아이들 민니 'INTRO + Good Thing (Orbit Ver.)' (i-dle MINNIE FanCam) @SBS GayoDaejeon"
 },
 
 {
@@ -4831,7 +5164,7 @@ const 공연축제Cards = [
   "duration": "00:03:16",
   "thumbnail": "https://i.ytimg.com/vi/g50hLD5yp_g/maxresdefault.jpg",
   "alt": "[fancam] 아이들 - TOMBOY | 2025 SUMMER SONIC OSAKA",
-  "title": "[fancam] 아이들 - TOMBOY | 2025 SUMMER SONIC OSAKA"
+  "title": "▫️[fancam] 아이들 - TOMBOY | 2025 SUMMER SONIC OSAKA"
 },
 
 {
@@ -4842,7 +5175,7 @@ const 공연축제Cards = [
   "duration": "00:03:47",
   "thumbnail": "https://i.ytimg.com/vi/SwfkSNFa-Sc/maxresdefault.jpg",
   "alt": "[fancam] 아이들 - LATATA | 2025 SUMMER SONIC OSAKA",
-  "title": "[fancam] 아이들 - LATATA | 2025 SUMMER SONIC OSAKA"
+  "title": "▫️[fancam] 아이들 - LATATA | 2025 SUMMER SONIC OSAKA"
 },
 
 {
@@ -4853,7 +5186,7 @@ const 공연축제Cards = [
   "duration": "00:02:01",
   "thumbnail": "https://i.ytimg.com/vi/CS4byOJX83g/maxresdefault.jpg",
   "alt": "[fancam] 아이들 - WIPE | 2025 SUMMER SONIC OSAKA",
-  "title": "[fancam] 아이들 - WIPE | 2025 SUMMER SONIC OSAKA"
+  "title": "▫️[fancam] 아이들 - WIPE | 2025 SUMMER SONIC OSAKA"
 },
 
 {
@@ -4864,7 +5197,7 @@ const 공연축제Cards = [
   "duration": "00:02:44",
   "thumbnail": "https://i.ytimg.com/vi/sTHrSIW5k7s/maxresdefault.jpg",
   "alt": "[fancam] 아이들 - 나는 아픈 건 딱 질색이니까 (ver. Japanese) | 2025 SUMMER SONIC OSAKA",
-  "title": "[fancam] 아이들 - 나는 아픈 건 딱 질색이니까 (ver. Japanese) | 2025 SUMMER SONIC OSAKA"
+  "title": "▫️[fancam] 아이들 - 나는 아픈 건 딱 질색이니까 (ver. Japanese) | 2025 SUMMER SONIC OSAKA"
 },
 
 {
@@ -4886,7 +5219,7 @@ const 공연축제Cards = [
   "duration": "00:25:12",
   "thumbnail": "https://i.ytimg.com/vi/ErxAWlbNzzM/maxresdefault.jpg",
   "alt": "[TIMA 2025] 아이들 Good thing + Wife + LATATA  + TOMBOY + Queencard + Fate | TIMA In Macau※",
-  "title": "[TIMA 2025] 아이들 Good thing + Wife + LATATA  + TOMBOY + Queencard + Fate | TIMA In Macau※"
+  "title": "▫️[TIMA 2025] 아이들 Good thing + Wife + LATATA  + TOMBOY + Queencard + Fate | TIMA In Macau※"
 },
 
 {
@@ -4897,7 +5230,7 @@ const 공연축제Cards = [
   "duration": "00:02:22",
   "thumbnail": "https://i.ytimg.com/vi/zie5ythfgT8/maxresdefault.jpg",
   "alt": "[TIMA 2025] i-dle (아이들) 'Best International Group of the Year'",
-  "title": "[TIMA 2025] i-dle (아이들) 'Best International Group of the Year'"
+  "title": "▫️[TIMA 2025] i-dle (아이들) 'Best International Group of the Year'"
 },
 
 {
@@ -4996,7 +5329,7 @@ const 공연축제Cards = [
   "duration": "00:00:17",
   "thumbnail": "https://i.ytimg.com/vi/orSCWgvy7Ls/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 3 Red Rover (Incomplete)",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 3 Red Rover (Incomplete)"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 3 Red Rover (Incomplete)"
 },
 
 {
@@ -5007,7 +5340,7 @@ const 공연축제Cards = [
   "duration": "00:02:17",
   "thumbnail": "https://i.ytimg.com/vi/8dWDEnsDwaE/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 5  Don't Start Now",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 5  Don't Start Now"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 5  Don't Start Now"
 },
 
 {
@@ -5018,7 +5351,7 @@ const 공연축제Cards = [
   "duration": "00:03:30",
   "thumbnail": "https://i.ytimg.com/vi/g2UG0pXc4C8/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 4  All Night + Love Tease",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 4  All Night + Love Tease"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 4  All Night + Love Tease"
 },
 
 {
@@ -5029,7 +5362,7 @@ const 공연축제Cards = [
   "duration": "00:03:20",
   "thumbnail": "https://i.ytimg.com/vi/f836vcjubZI/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 6  Giant",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 6  Giant"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 6  Giant"
 },
 
 {
@@ -5040,7 +5373,7 @@ const 공연축제Cards = [
   "duration": "00:05:26",
   "thumbnail": "https://i.ytimg.com/vi/UCUIOMZ9PDs/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 1 Bonnie & Clyde + 2  Beggin'",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 1 Bonnie & Clyde + 2  Beggin'"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 1 Bonnie & Clyde + 2  Beggin'"
 },
 
 {
@@ -5051,7 +5384,7 @@ const 공연축제Cards = [
   "duration": "00:04:15",
   "thumbnail": "https://i.ytimg.com/vi/26t0QpRpfnc/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 7  背對背擁抱(Back to Back)",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 7  背對背擁抱(Back to Back)"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 7  背對背擁抱(Back to Back)"
 },
 
 {
@@ -5062,7 +5395,7 @@ const 공연축제Cards = [
   "duration": "00:02:18",
   "thumbnail": "https://i.ytimg.com/vi/iKIGBu7vJrw/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 10. On Clap",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 10. On Clap"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 10. On Clap"
 },
 
 {
@@ -5073,7 +5406,7 @@ const 공연축제Cards = [
   "duration": "00:03:10",
   "thumbnail": "https://i.ytimg.com/vi/x9lFwuzf6QY/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 8  Always Remember Us This Way",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 8  Always Remember Us This Way"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 8  Always Remember Us This Way"
 },
 
 {
@@ -5084,7 +5417,7 @@ const 공연축제Cards = [
   "duration": "00:04:10",
   "thumbnail": "https://i.ytimg.com/vi/xIcNrM0XVK4/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 9. Motivation",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 9. Motivation"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 9. Motivation"
 },
 
 {
@@ -5095,7 +5428,7 @@ const 공연축제Cards = [
   "duration": "00:02:46",
   "thumbnail": "https://i.ytimg.com/vi/btFyI6b9qmw/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 11. Radio",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 11. Radio"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 11. Radio"
 },
 
 {
@@ -5106,7 +5439,7 @@ const 공연축제Cards = [
   "duration": "00:02:55",
   "thumbnail": "https://i.ytimg.com/vi/eBFMgro9YFc/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 13. Happy Space",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 13. Happy Space"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 13. Happy Space"
 },
 
 {
@@ -5117,7 +5450,7 @@ const 공연축제Cards = [
   "duration": "00:03:24",
   "thumbnail": "https://i.ytimg.com/vi/PTimYNyLyxU/maxresdefault.jpg",
   "alt": "【4K Fancam】 Yuqi Fancon in Guangzhou 12. Freak",
-  "title": "【4K Fancam】 Yuqi Fancon in Guangzhou 12. Freak"
+  "title": "▫️【4K Fancam】 Yuqi Fancon in Guangzhou 12. Freak"
 },
 
 {
@@ -5128,7 +5461,7 @@ const 공연축제Cards = [
   "duration": "00:12:33",
   "thumbnail": "https://i.ytimg.com/vi/-pbexaJ6Zh8/maxresdefault.jpg",
   "alt": "‘LOVE YOUR W 2025’ Full Performance (Good Thing, Tomboy, Queencard, Fate) ",
-  "title": "‘LOVE YOUR W 2025’ Full Performance (Good Thing, Tomboy, Queencard, Fate) "
+  "title": "▫️‘LOVE YOUR W 2025’ Full Performance (Good Thing, Tomboy, Queencard, Fate) "
 },
 
 {
@@ -5161,7 +5494,7 @@ const 공연축제Cards = [
   "duration": "00:20:17",
   "thumbnail": "https://i.ytimg.com/vi/Qikrw2WPdv4/maxresdefault.jpg",
   "alt": "[2025 인천공항 스카이 페스티벌] 미연 - Say My Name + F.F.L.Y + Reno + Drive | Incheon Airport SKY FESTIVAL",
-  "title": "[2025 인천공항 스카이 페스티벌] 미연 - Say My Name + F.F.L.Y + Reno + Drive | Incheon Airport SKY FESTIVAL"
+  "title": "▫️[2025 인천공항 스카이 페스티벌] 미연 - Say My Name + F.F.L.Y + Reno + Drive | Incheon Airport SKY FESTIVAL"
 },
 
 {
@@ -5172,7 +5505,7 @@ const 공연축제Cards = [
   "duration": "01:10:03",
   "thumbnail": "https://i.ytimg.com/vi/wsTTmBXDbc0/maxresdefault.jpg",
   "alt": "2025 인천공항 SKY FESTIVAL [20:36~27:48], [34:22~35:18], [1:09:48~1:09:51]",
-  "title": "2025 인천공항 SKY FESTIVAL [20:36~27:48], [34:22~35:18], [1:09:48~1:09:51]"
+  "title": "▫️2025 인천공항 SKY FESTIVAL [20:36~27:48], [34:22~35:18], [1:09:48~1:09:51]"
 },
 
 {
@@ -5194,7 +5527,7 @@ const 공연축제Cards = [
   "duration": "00:02:42",
   "thumbnail": "https://i.ytimg.com/vi/85m4pBseDyg/sddefault.jpg",
   "alt": "[드림콘서트2025] 미연 - “Say My Name” | DREAM CONCERT ABU DHABI 2025",
-  "title": "[드림콘서트2025] 미연 - “Say My Name” | DREAM CONCERT ABU DHABI 2025"
+  "title": "▫️[드림콘서트2025] 미연 - “Say My Name” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -5205,7 +5538,7 @@ const 공연축제Cards = [
   "duration": "00:02:25",
   "thumbnail": "https://i.ytimg.com/vi/QJXAkf-hUiA/sddefault.jpg",
   "alt": "[드림콘서트2025] 미연 - “F.F.L.Y” | DREAM CONCERT ABU DHABI 2025",
-  "title": "[드림콘서트2025] 미연 - “F.F.L.Y” | DREAM CONCERT ABU DHABI 2025"
+  "title": "▫️[드림콘서트2025] 미연 - “F.F.L.Y” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -5216,7 +5549,7 @@ const 공연축제Cards = [
   "duration": "00:02:53",
   "thumbnail": "https://i.ytimg.com/vi/sFSeNkBuUiI/sddefault.jpg",
   "alt": "[드림콘서트2025] 미연 - “Reno (Ft. Colde)” | DREAM CONCERT ABU DHABI 2025",
-  "title": "[드림콘서트2025] 미연 - “Reno (Ft. Colde)” | DREAM CONCERT ABU DHABI 2025"
+  "title": "▫️[드림콘서트2025] 미연 - “Reno (Ft. Colde)” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -5227,7 +5560,7 @@ const 공연축제Cards = [
   "duration": "00:02:05",
   "thumbnail": "https://i.ytimg.com/vi/yh88OcdtP24/sddefault.jpg",
   "alt": "[드림콘서트2025] 미연 - “Stage Talk” | DREAM CONCERT ABU DHABI 2025",
-  "title": "[드림콘서트2025] 미연 - “Stage Talk” | DREAM CONCERT ABU DHABI 2025"
+  "title": "▫️[드림콘서트2025] 미연 - “Stage Talk” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -5238,7 +5571,7 @@ const 공연축제Cards = [
   "duration": "00:03:01",
   "thumbnail": "https://i.ytimg.com/vi/hUAsCRatT9o/maxresdefault.jpg",
   "alt": "[드림콘서트2025] 미연 - “Show” | DREAM CONCERT ABU DHABI 2025",
-  "title": "[드림콘서트2025] 미연 - “Show” | DREAM CONCERT ABU DHABI 2025"
+  "title": "▫️[드림콘서트2025] 미연 - “Show” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -5249,7 +5582,7 @@ const 공연축제Cards = [
   "duration": "00:03:00",
   "thumbnail": "https://i.ytimg.com/vi/oXxR1l_mdkk/sddefault.jpg",
   "alt": "[드림콘서트2025] 미연 - “Petal Shower” | DREAM CONCERT ABU DHABI 2025",
-  "title": "[드림콘서트2025] 미연 - “Petal Shower” | DREAM CONCERT ABU DHABI 2025"
+  "title": "▫️[드림콘서트2025] 미연 - “Petal Shower” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -5260,7 +5593,7 @@ const 공연축제Cards = [
   "duration": "00:04:11",
   "thumbnail": "https://i.ytimg.com/vi/UelZptYalCg/sddefault.jpg",
   "alt": "[드림콘서트2025] 미연 - “TE AMO” | DREAM CONCERT ABU DHABI 2025",
-  "title": "[드림콘서트2025] 미연 - “TE AMO” | DREAM CONCERT ABU DHABI 2025"
+  "title": "▫️[드림콘서트2025] 미연 - “TE AMO” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -5271,7 +5604,7 @@ const 공연축제Cards = [
   "duration": "00:01:32",
   "thumbnail": "https://i.ytimg.com/vi/_vcakxRNhR4/sddefault.jpg",
   "alt": "[드림콘서트2025] 미연 - “Stage Talk” | DREAM CONCERT ABU DHABI 2025",
-  "title": "[드림콘서트2025] 미연 - “Stage Talk” | DREAM CONCERT ABU DHABI 2025"
+  "title": "▫️[드림콘서트2025] 미연 - “Stage Talk” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -5282,7 +5615,7 @@ const 공연축제Cards = [
   "duration": "00:02:49",
   "thumbnail": "https://i.ytimg.com/vi/kZUYhdCYHB0/sddefault.jpg",
   "alt": "[드림콘서트2025] 미연 - “Fate” | DREAM CONCERT ABU DHABI 2025",
-  "title": "[드림콘서트2025] 미연 - “Fate” | DREAM CONCERT ABU DHABI 2025"
+  "title": "▫️[드림콘서트2025] 미연 - “Fate” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -5293,7 +5626,7 @@ const 공연축제Cards = [
   "duration": "00:04:01",
   "thumbnail": "https://i.ytimg.com/vi/ytwXMX1Oe1g/maxresdefault.jpg",
   "alt": "[드림콘서트2025] 미연 - “Sky Walking” | DREAM CONCERT ABU DHABI 2025",
-  "title": "[드림콘서트2025] 미연 - “Sky Walking” | DREAM CONCERT ABU DHABI 2025"
+  "title": "▫️[드림콘서트2025] 미연 - “Sky Walking” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -5304,7 +5637,7 @@ const 공연축제Cards = [
   "duration": "00:03:28",
   "thumbnail": "https://i.ytimg.com/vi/6vN1v5QndA0/sddefault.jpg",
   "alt": "[드림콘서트2025] 미연 - “Drive”  | DREAM CONCERT ABU DHABI 2025",
-  "title": "[드림콘서트2025] 미연 - “Drive” | DREAM CONCERT ABU DHABI 2025"
+  "title": "▫️[드림콘서트2025] 미연 - “Drive” | DREAM CONCERT ABU DHABI 2025"
 },
 
 {
@@ -5359,7 +5692,7 @@ const 공연축제Cards = [
   "duration": "00:06:47",
   "thumbnail": "https://i.ytimg.com/vi/5J4I7J8xtbk/maxresdefault.jpg",
   "alt": "[#AAA2025] SHUHUA Cut at Asia Artist Awards AAA 2025 (ft. YUQI, IU & HMLYCP)",
-  "title": "[#AAA2025] SHUHUA Cut at Asia Artist Awards AAA 2025 (ft. YUQI, IU & HMLYCP)"
+  "title": "▫️[#AAA2025] SHUHUA Cut at Asia Artist Awards AAA 2025 (ft. YUQI, IU & HMLYCP)"
 },
 
 {
@@ -5402,8 +5735,8 @@ const 공연축제Cards = [
   "date": "2025-12-06T20:09:40",
   "duration": "00:01:31",
   "thumbnail": "https://i.ytimg.com/vi/1_SDxOQp3Sw/maxresdefault.jpg",
-  "alt": "[#AAA2025] SHUHUA won 'AAA BEST CHOICE' at Asia Artist Awards 2025 in Kaohsiung◾️",
-  "title": "[#AAA2025] SHUHUA won 'AAA BEST CHOICE' at Asia Artist Awards 2025 in Kaohsiung◾️"
+  "alt": "[#AAA2025] SHUHUA won 'AAA BEST CHOICE' at Asia Artist Awards 2025 in Kaohsiung",
+  "title": "▫️[#AAA2025] SHUHUA won 'AAA BEST CHOICE' at Asia Artist Awards 2025 in Kaohsiung"
 },
 
 {
@@ -5413,8 +5746,8 @@ const 공연축제Cards = [
   "date": "2025-12-07T23:30:33",
   "duration": "00:10:04",
   "thumbnail": "https://i.ytimg.com/vi/JMIwFtsqmQY/maxresdefault.jpg",
-  "alt": "[#ACON 2025] MC SHUHUA Cut at ACON 2025 in Kaohsiung◾️",
-  "title": "[#ACON 2025] MC SHUHUA Cut at ACON 2025 in Kaohsiung◾️"
+  "alt": "[#ACON 2025] MC SHUHUA Cut at ACON 2025 in Kaohsiung",
+  "title": "▫️[#ACON 2025] MC SHUHUA Cut at ACON 2025 in Kaohsiung"
 },
 
 {
@@ -5438,6 +5771,7 @@ const 공연축제Cards = [
   "alt": "汪苏泷 Silence Wang ［像晴天像雨天］十万伏特2.0 Official Stage Video",
   "title": "汪苏泷 Silence Wang ［像晴天像雨天］十万伏特2.0 Official Stage Video"
 },
+
 {
   "link": "https://youtu.be/RlMhmvFhksM",
   "category": "공연축제",
@@ -5448,6 +5782,7 @@ const 공연축제Cards = [
   "alt": "李晨、郑恺、沙溢、白鹿、范丞丞、宋雨琦、李昀锐合唱 《最美的太阳》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)",
   "title": "李晨、郑恺、沙溢、白鹿、范丞丞、宋雨琦、李昀锐合唱 《最美的太阳》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)"
 },
+
 {
   "link": "https://youtu.be/Lmw6TZ-BV1k",
   "category": "공연축제",
@@ -5458,6 +5793,7 @@ const 공연축제Cards = [
   "alt": "宋雨琦 《还痛吗》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)",
   "title": "宋雨琦 《还痛吗》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)"
 },
+
 {
   "link": "https://youtu.be/jG8d4tY335Y",
   "category": "공연축제",
@@ -5468,6 +5804,7 @@ const 공연축제Cards = [
   "alt": "宋雨琦 《M.O.》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)",
   "title": "宋雨琦 《M.O.》 | 2025-2026浙江卫视跨年晚会 (절강위성TV 연말무대)"
 },
+
 {
   "link": "https://youtu.be/CRncKqyz_Ho",
   "category": "공연축제",
@@ -5475,8 +5812,8 @@ const 공연축제Cards = [
   "date": "2021-06-19T04:01:29",
   "duration": "00:09:50",
   "thumbnail": "https://i.ytimg.com/vi/CRncKqyz_Ho/maxresdefault.jpg",
-  "alt": "YUQI 《Giant+同桌的你》 | 全球中文音乐榜上榜/JingLong Global Chinese Music 2021◾️",
-  "title": "YUQI 《Giant+同桌的你》 | 全球中文音乐榜上榜/JingLong Global Chinese Music 2021◾️"
+  "alt": "YUQI 《Giant+同桌的你》 | 全球中文音乐榜上榜/JingLong Global Chinese Music 2021",
+  "title": "▫️YUQI 《Giant+同桌的你》 | 全球中文音乐榜上榜/JingLong Global Chinese Music 2021"
 },
 
 {
@@ -5509,7 +5846,7 @@ const 공연축제Cards = [
   "duration": "00:03:53",
   "thumbnail": "https://i.ytimg.com/vi/b6MwKcar0oM/maxresdefault.jpg",
   "alt": "211210 YUQI (G)I-DLE - BONNIE & CLYDE STAGE ON \"2060\"",
-  "title": "211210 YUQI (G)I-DLE - BONNIE & CLYDE STAGE ON \"2060\""
+  "title": "▫️211210 YUQI (G)I-DLE - BONNIE & CLYDE STAGE ON \"2060\""
 },
 
 {
@@ -5520,8 +5857,338 @@ const 공연축제Cards = [
   "duration": "00:02:45",
   "thumbnail": "https://i.ytimg.com/vi/JLgcZ76K6NE/maxresdefault.jpg",
   "alt": "211224 YUQI (G)I-DLE - \"2060\" THEME SONG",
-  "title": "211224 YUQI (G)I-DLE - \"2060\" THEME SONG"
+  "title": "▫️211224 YUQI (G)I-DLE - \"2060\" THEME SONG"
+},
+
+{
+  "link": "https://youtu.be/4W0z0S7u-0Q",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2022-09-16T01:48:35",
+  "duration": "02:15:47",
+  "thumbnail": "https://i.ytimg.com/vi/4W0z0S7u-0Q/hqdefault.jpg",
+  "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN TOKYO DAY 1",
+  "title": "▫️2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN TOKYO DAY 1"
+},
+
+{
+  "link": "https://youtu.be/dDG-v85wlpA",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2022-09-17T21:49:53",
+  "duration": "02:21:37",
+  "thumbnail": "https://i.ytimg.com/vi/dDG-v85wlpA/hqdefault.jpg",
+  "alt": "2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN TOKYO DAY 2",
+  "title": "▫️2022 (G)I-DLE WORLD TOUR [JUST ME ( )I-DLE] IN TOKYO DAY 2"
+},
+
+{
+  "link": "https://youtu.be/V7uLSMiQXcA",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2023-06-18T14:00:01",
+  "duration": "01:46:54",
+  "thumbnail": "https://i.ytimg.com/vi/V7uLSMiQXcA/maxresdefault.jpg",
+  "alt": "【Blu-Ray】2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL",
+  "title": "▫️【Blu-Ray】2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL"
+},
+
+{
+  "link": "https://youtu.be/DoypaKXNwpk",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2023-06-18T14:00:02",
+  "duration": "00:48:56",
+  "thumbnail": "https://i.ytimg.com/vi/DoypaKXNwpk/maxresdefault.jpg",
+  "alt": "【Blu-Ray】2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL | ENCORE",
+  "title": "▫️【Blu-Ray】2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL | ENCORE"
+},
+
+{
+  "link": "https://youtu.be/wG-EHBANZ7M",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2023-06-18T14:00:03",
+  "duration": "00:08:26",
+  "thumbnail": "https://i.ytimg.com/vi/wG-EHBANZ7M/maxresdefault.jpg",
+  "alt": "【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 POSTER & MD MAKING FILM",
+  "title": "▫️【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 POSTER & MD MAKING FILM"
+},
+
+{
+  "link": "https://youtu.be/VQpxcRJCrhc",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2023-06-18T14:00:04",
+  "duration": "00:11:26",
+  "thumbnail": "https://i.ytimg.com/vi/VQpxcRJCrhc/maxresdefault.jpg",
+  "alt": "【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 VCR MAKING FILM",
+  "title": "▫️【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 VCR MAKING FILM"
+},
+
+{
+  "link": "https://youtu.be/VGh87rqghsg",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2023-06-18T14:00:05",
+  "duration": "00:15:13",
+  "thumbnail": "https://i.ytimg.com/vi/VGh87rqghsg/maxresdefault.jpg",
+  "alt": "【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 PRACTICE & REHEARSAL MAKING FILM",
+  "title": "▫️【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 PRACTICE & REHEARSAL MAKING FILM"
+},
+
+{
+  "link": "https://youtu.be/8TRU79EOZsg",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2023-06-18T14:00:06",
+  "duration": "00:38:50",
+  "thumbnail": "https://i.ytimg.com/vi/8TRU79EOZsg/maxresdefault.jpg",
+  "alt": "【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 D-DAY MAKING FILM",
+  "title": "▫️【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 D-DAY MAKING FILM"
+},
+
+{
+  "link": "https://youtu.be/i-18eIfR6ZE",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2024-08-04T14:00:01",
+  "duration": "02:23:20",
+  "thumbnail": "https://i.ytimg.com/vi/i-18eIfR6ZE/hqdefault.jpg",
+  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | SUB",
+  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | SUB"
+},
+
+{
+  "link": "https://youtu.be/x2CReWZDfgU",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2024-08-04T14:00:02",
+  "duration": "00:43:41",
+  "thumbnail": "https://i.ytimg.com/vi/x2CReWZDfgU/hqdefault.jpg",
+  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL Encore | SUB",
+  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL Encore | SUB"
+},
+
+{
+  "link": "https://youtu.be/5AaHp2LL5IA",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2024-08-04T14:00:03",
+  "duration": "00:09:46",
+  "thumbnail": "https://i.ytimg.com/vi/5AaHp2LL5IA/maxresdefault.jpg",
+  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | POSTER & MD MAKING FILM | SUB",
+  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | POSTER & MD MAKING FILM | SUB"
+},
+
+{
+  "link": "https://youtu.be/etNzP300LEo",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2024-08-04T14:00:04",
+  "duration": "00:17:34",
+  "thumbnail": "https://i.ytimg.com/vi/etNzP300LEo/maxresdefault.jpg",
+  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | VCR MAKING FILM | SUB",
+  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | VCR MAKING FILM | SUB"
+},
+
+{
+  "link": "https://youtu.be/IInjCea7J_o",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2024-08-04T14:00:05",
+  "duration": "00:13:54",
+  "thumbnail": "https://i.ytimg.com/vi/IInjCea7J_o/maxresdefault.jpg",
+  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | PRACTICE MAKING FILM | SUB",
+  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | PRACTICE MAKING FILM | SUB"
+},
+
+{
+  "link": "https://youtu.be/p32v7jyATz0",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2024-08-04T14:00:06",
+  "duration": "00:14:41",
+  "thumbnail": "https://i.ytimg.com/vi/p32v7jyATz0/maxresdefault.jpg",
+  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | REHEARSAL MAKING FILM | SUB",
+  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | REHEARSAL MAKING FILM | SUB"
+},
+
+{
+  "link": "https://youtu.be/5hz8WWYDl5I",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2024-08-04T14:00:07",
+  "duration": "00:57:29",
+  "thumbnail": "https://i.ytimg.com/vi/5hz8WWYDl5I/maxresdefault.jpg",
+  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | D-DAY MAKING FILM | SUB",
+  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | D-DAY MAKING FILM | SUB"
+},
+
+{
+  "link": "https://youtu.be/pksOmtdud9Q",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2025-10-05T22:19:52",
+  "duration": "01:18:51",
+  "thumbnail": "https://i.ytimg.com/vi/pksOmtdud9Q/hqdefault.jpg",
+  "alt": "▫️【4K】2025 i-dle first japan tour [ 逢い-dle ] in Saitama Day2",
+  "title": "▫️【4K】2025 i-dle first japan tour [ 逢い-dle ] in Saitama Day2"
+},
+
+{
+  "link": "https://youtu.be/JiJ8eJOAoVY",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2025-10-19T01:17:31",
+  "duration": "02:27:46",
+  "thumbnail": "https://i.ytimg.com/vi/JiJ8eJOAoVY/maxresdefault.jpg",
+  "alt": "▫️2025 i-dle first japan tour [ 逢い-dle ] in Kobe Day2",
+  "title": "▫️2025 i-dle first japan tour [ 逢い-dle ] in Kobe Day2"
+},
+{
+  "link": "https://youtu.be/bsTNYeur7IE",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2026-02-21T19:24:32",
+  "duration": "00:16:41",
+  "thumbnail": "https://i.ytimg.com/vi/bsTNYeur7IE/maxresdefault.jpg",
+  "alt": "▫️2026 i-dle WORLD TOUR [Syncopation] in Seoul Day1 | VIP Sound Check",
+  "title": "▫️2026 i-dle WORLD TOUR [Syncopation] in Seoul Day1 | VIP Sound Check"
+},
+{
+  "link": "https://youtu.be/AGWFiNIZhng",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2026-02-21T19:24:33",
+  "duration": "02:33:57",
+  "thumbnail": "https://i.ytimg.com/vi/AGWFiNIZhng/maxresdefault.jpg",
+  "alt": "▫️2026 i-dle WORLD TOUR [Syncopation] in Seoul Day1",
+  "title": "▫️2026 i-dle WORLD TOUR [Syncopation] in Seoul Day1"
+},
+
+{
+  "link": "https://youtu.be/RTczyAEigls",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2026-02-22T23:00:48",
+  "duration": "00:17:57",
+  "thumbnail": "https://i.ytimg.com/vi/RTczyAEigls/maxresdefault.jpg",
+  "alt": "▫️2026 i-dle WORLD TOUR [Syncopation] in Seoul Day2 | VIP Sound Check",
+  "title": "▫️2026 i-dle WORLD TOUR [Syncopation] in Seoul Day2 | VIP Sound Check"
+},
+
+{
+  "link": "https://youtu.be/hPtaDbAdOm0",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2026-03-07T22:20:23",
+  "duration": "02:46:13",
+  "thumbnail": "https://i.ytimg.com/vi/hPtaDbAdOm0/maxresdefault.jpg",
+  "alt": "▫️2026 i-dle WORLD TOUR [Syncopation] in Taipei",
+  "title": "▫️2026 i-dle WORLD TOUR [Syncopation] in Taipei"
+},
+{
+  "link": "https://youtu.be/AWM5I8AnU70",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2026-03-07T22:20:24",
+  "duration": "00:03:35",
+  "thumbnail": "https://i.ytimg.com/vi/AWM5I8AnU70/maxresdefault.jpg",
+  "alt": "▫️'無眠' (Cover) @ 2026 i-dle WORLD TOUR [Syncopation] in Taipei",
+  "title": "▫️'無眠' (Cover) @ 2026 i-dle WORLD TOUR [Syncopation] in Taipei"
+},
+{
+  "link": "https://youtu.be/TqMv5WM1Uuc",
+  "category": "공연축제",
+  "member": "미연",
+  "date": "2026-03-14T11:24:12",
+  "duration": "00:06:28",
+  "thumbnail": "https://i.ytimg.com/vi/TqMv5WM1Uuc/maxresdefault.jpg",
+  "alt": "[Tokyo Girls Collection] 미연 (MIYEON) - Say My Name + Don’t Ever Say Goodbye 。",
+  "title": "[Tokyo Girls Collection] 미연 (MIYEON) - Say My Name + Don’t Ever Say Goodbye 。"
+},
+{
+  "link": "https://youtu.be/DGBugXfdbLo",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:01",
+  "duration": "00:04:21",
+  "thumbnail": "https://i.ytimg.com/vi/DGBugXfdbLo/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Young & One'",
+  "title": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Young & One'"
+},
+{
+  "link": "https://youtu.be/Axk8hzSPViA",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:02",
+  "duration": "00:04:43",
+  "thumbnail": "https://i.ytimg.com/vi/Axk8hzSPViA/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Follow Your Dreams (한걸음)'",
+  "title": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Follow Your Dreams (한걸음)'"
+},
+{
+  "link": "https://youtu.be/EwVRzVkvOZY",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:03",
+  "duration": "00:03:45",
+  "thumbnail": "https://i.ytimg.com/vi/EwVRzVkvOZY/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Upgrade'",
+  "title": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Upgrade'"
+},
+{
+  "link": "https://youtu.be/cKQbbvHKrpU",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:04",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/cKQbbvHKrpU/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] HyunA(현아) - Bubble Pop! (ft. (G)-IDLE)",
+  "title": "▫️[2018 United Cube Concert ONE] HyunA(현아) - Bubble Pop! (ft. (G)-IDLE)"
+},
+{
+  "link": "https://youtu.be/n0zzvle7PgQ",
+  "category": "공연축제",
+  "member": "소연",
+  "date": "2018-06-16T22:00:05",
+  "duration": "00:04:48",
+  "thumbnail": "https://i.ytimg.com/vi/n0zzvle7PgQ/hqdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] 이민혁x프니엘x정일훈x장예은x우석x소연 - 'Mermaid' Fancam (콘서트 EDIT VER)",
+  "title": "▫️[2018 United Cube Concert ONE] 이민혁x프니엘x정일훈x장예은x우석x소연 - 'Mermaid' Fancam (콘서트 EDIT VER)"
+},
+{
+  "link": "https://youtu.be/uEOODTL7VOI",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:06",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/uEOODTL7VOI/hqdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'MAZE' Fancam",
+  "title": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'MAZE' Fancam"
+},
+{
+  "link": "https://youtu.be/PmDxuYuril4",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:07",
+  "duration": "00:02:31",
+  "thumbnail": "https://i.ytimg.com/vi/PmDxuYuril4/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'Light My Body Up' Fancam",
+  "title": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'Light My Body Up' Fancam"
+},
+{
+  "link": "https://youtu.be/oyStY1ODOn0",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:08",
+  "duration": "00:03:28",
+  "thumbnail": "https://i.ytimg.com/vi/oyStY1ODOn0/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'LATATA' Fancam",
+  "title": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'LATATA' Fancam"
 }
+
 
 
 ];

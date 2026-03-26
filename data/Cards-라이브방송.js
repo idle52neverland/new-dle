@@ -421,14 +421,14 @@ const 라이브방송Cards = [
 },
 
 {
-  "link": "https://weverse.io/i-dle/live/3-110666546",
+  "link": "https://youtu.be/xTQyWi9Zbm0",
   "category": "라이브방송",
   "member": "아이들",
-  "date": "2019-05-02T18:00:00",
-  "duration": "01:16:13",
-  "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfMjQ5/MDAxNjcyODkxNDQ0MTEw.vk1ESnkR7Yoe_W1xFHJKIvTndnLSAP47uwRG76dd84Ig.hEr2JnpFs3beUONe7wqjhXgolAZVNzb314Lr_7x1FoYg.JPEG/upload_EC9584EC9DB4EB93A4.jpg?type=f640_360",
-  "alt": "💜아이들 데뷔 1주년 기념 V LIVE🎉💜 (1th)",
-  "title": "💜아이들 데뷔 1주년 기념 V LIVE🎉💜 (1th)",
+  "date": "2019-05-02T19:48:12",
+  "duration": "01:16:14",
+  "thumbnail": "https://i.ytimg.com/vi/xTQyWi9Zbm0/hqdefault.jpg",
+  "alt": "💜아이들 데뷔 1주년 기념 V LIVE🎉💜 。",
+  "title": "💜아이들 데뷔 1주년 기념 V LIVE🎉💜 。",
   "subtag": "기념일 라이브"
 },
 
@@ -1060,12 +1060,12 @@ const 라이브방송Cards = [
   "link": "https://youtu.be/sPz8C3MSdVs",
   "category": "라이브방송",
   "member": "아이들",
-  "date": "2020-02-15T18:00:00",
+  "date": "2020-02-14T18:00:00",
   "duration": "00:59:31",
   "thumbnail": "https://i.ytimg.com/vi/sPz8C3MSdVs/sddefault.jpg",
   "alt": "[I-LIVE] So Sweet~ Happy Valentine's Day!",
   "title": "[I-LIVE] So Sweet~ Happy Valentine's Day!",
-  "subtag": "그 외"
+  "subtag": "기념일 라이브"
 },
 
 {
@@ -1375,8 +1375,8 @@ const 라이브방송Cards = [
   "date": "2020-05-02T18:00:00",
   "duration": "00:59:18",
   "thumbnail": "https://i.ytimg.com/vi/M0mFoGBRu14/sddefault.jpg",
-  "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 🎂 (2th)",
-  "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 🎂 (2th)",
+  "alt": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 🎂",
+  "title": "[I-LIVE] (여자)아이들 데뷔 2주년 기념일 🎂",
   "subtag": "기념일 라이브"
 },
 
@@ -1691,7 +1691,17 @@ const 라이브방송Cards = [
   "title": "네버버 ♡",
   "subtag": "위버스 라이브"
 },
-
+{
+  "link": "https://youtu.be/MgE7Lb7q06U",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2020-06-28T00:38:52",
+  "duration": "00:28:54",
+  "thumbnail": "https://i.ytimg.com/vi/MgE7Lb7q06U/maxresdefault.jpg",
+  "alt": "[I-LIVE] (여자)아이들 랜덤 노래자랑 라이브 ❤💜  。",
+  "title": "[I-LIVE] (여자)아이들 랜덤 노래자랑 라이브 ❤💜  。",
+  "subtag": "그 외"
+},
 {
   "link": "https://weverse.io/i-dle/live/0-111421989",
   "category": "라이브방송",
@@ -2239,8 +2249,8 @@ const 라이브방송Cards = [
   "date": "2020-11-13T18:00:00",
   "duration": "00:18:11",
   "thumbnail": "https://i.ytimg.com/vi/JO70MsFGHqA/maxresdefault.jpg",
-  "alt": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official◾️",
-  "title": "미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official◾️",
+  "alt": "▫️미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official",
+  "title": "▫️미연, 우기 인스타 라이브(Live) [Full] @visitseoul_official",
   "subtag": "그 외"
 },
 
@@ -2248,7 +2258,7 @@ const 라이브방송Cards = [
   "link": "https://weverse.io/i-dle/live/1-111439051",
   "category": "라이브방송",
   "member": "미연",
-  "date": "2020-11-13T18:00:00",
+  "date": "2020-11-13T21:00:02",
   "duration": "00:39:22",
   "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfMTkw/MDAxNjcyODkxNDI4OTk4.ORnr-kwGuPHU_in53g7RdXS19geDF-3aGFM9Ksj0RZMg.J7T6XXdpfml3Tin3utlCFfzsapbyaUjpOCjyfp93RFwg.JPEG/upload_53200925980280101f45c74e6-39ac-40e0-8cf9-3f293c5c5208.jpg?type=f640_360",
   "alt": "13일의 금요일 두번째 이야기😈😈😈",
@@ -2927,7 +2937,17 @@ const 라이브방송Cards = [
   "title": "다시면😍",
   "subtag": "위버스 라이브"
 },
-
+{
+  "link": "https://youtu.be/m8rHmMDTRRE",
+  "category": "라이브방송",
+  "member": "소연",
+  "date": "2021-07-05T16:00:00",
+  "duration": "00:41:08",
+  "thumbnail": "https://i.ytimg.com/vi/m8rHmMDTRRE/sddefault.jpg",
+  "alt": "JEON SOYEON - 'Windy Burger Grand Open!' 라이브 방송",
+  "title": "JEON SOYEON - 'Windy Burger Grand Open!' 라이브 방송",
+  "subtag": "컴백 라이브"
+},
 {
   "link": "https://weverse.io/i-dle/live/0-111422031",
   "category": "라이브방송",
@@ -2940,17 +2960,7 @@ const 라이브방송Cards = [
   "subtag": "위버스 라이브"
 },
 
-{
-  "link": "https://youtu.be/m8rHmMDTRRE",
-  "category": "라이브방송",
-  "member": "소연",
-  "date": "2021-07-06T23:59:02",
-  "duration": "00:41:08",
-  "thumbnail": "https://i.ytimg.com/vi/m8rHmMDTRRE/sddefault.jpg",
-  "alt": "JEON SOYEON - 'Windy Burger Grand Open!' 라이브 방송",
-  "title": "JEON SOYEON - 'Windy Burger Grand Open!' 라이브 방송",
-  "subtag": "컴백 라이브"
-},
+
 
 {
   "link": "https://weverse.io/i-dle/live/3-110666638",
@@ -3179,6 +3189,17 @@ const 라이브방송Cards = [
   "title": "예 약속 ♡",
   "subtag": "위버스 라이브"
 },
+{
+  "link": "https://youtu.be/YQ3GeSdiy2w",
+  "category": "라이브방송",
+  "member": "우기",
+  "date": "2021-09-22T18:00:11",
+  "duration": "00:39:13",
+  "thumbnail": "https://i.ytimg.com/vi/YQ3GeSdiy2w/maxresdefault.jpg",
+  "alt": "▫️YUQI (G)I-DLE BIRTHDAY WEIBO LIVE",
+  "title": "▫️YUQI (G)I-DLE BIRTHDAY WEIBO LIVE",
+  "subtag": "웨이보 라이브"
+},
 
 {
   "link": "https://weverse.io/i-dle/live/2-111432001",
@@ -3203,7 +3224,51 @@ const 라이브방송Cards = [
   "title": "누들🍜💕",
   "subtag": "위버스 라이브"
 },
+{
+  "link": "https://youtu.be/iATA6_yHO8o",
+  "category": "라이브방송",
+  "member": "미연",
+  "date": "2021-05-13T02:00:54",
+  "duration": "00:01:26",
+  "thumbnail": "https://i.ytimg.com/vi/iATA6_yHO8o/maxresdefault.jpg",
+  "alt": "▫️MC Miyeon with special MCs Shinwon & Kino's Pentagon Surprise VLive. Cube Family😊❤",
+  "title": "▫️MC Miyeon with special MCs Shinwon & Kino's Pentagon Surprise VLive. Cube Family😊❤",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/W73bXnDgduw",
+  "category": "라이브방송",
+  "member": "미연",
+  "date": "2021-08-12T17:03:16",
+  "duration": "00:03:13",
+  "thumbnail": "https://i.ytimg.com/vi/W73bXnDgduw/maxresdefault.jpg",
+  "alt": "▫️MCOUNTDOWN VISUAL MCs' SURPRISE VLIVE | NAM YOONSU & CHO MIYEON",
+  "title": "▫️MCOUNTDOWN VISUAL MCs' SURPRISE VLIVE | NAM YOONSU & CHO MIYEON",
+  "subtag": "그 외"
+},
+{
+  "link": "https://youtu.be/jB4obJEOcFY",
+  "category": "라이브방송",
+  "member": "미연",
+  "date": "2021-09-30T18:21:53",
+  "duration": "00:07:29",
+  "thumbnail": "https://i.ytimg.com/vi/jB4obJEOcFY/maxresdefault.jpg",
+  "alt": "▫️MCOUNTDOWN VISUAL MCs' SURPRISE VLIVE | NAM YOONSU & CHO MIYEON",
+  "title": "▫️MCOUNTDOWN VISUAL MCs' SURPRISE VLIVE | NAM YOONSU & CHO MIYEON",
+  "subtag": "그 외"
+},
 
+{
+  "link": "https://youtu.be/Hat9lEGtOZ0",
+  "category": "라이브방송",
+  "member": "미연",
+  "date": "2021-10-14T17:47:22",
+  "duration": "00:09:37",
+  "thumbnail": "https://i.ytimg.com/vi/Hat9lEGtOZ0/maxresdefault.jpg",
+  "alt": "▫️MCOUNTDOWN VISUAL MCs' SURPRISE VLIVE | NAM YOONSU & CHO MIYEON",
+  "title": "▫️MCOUNTDOWN VISUAL MCs' SURPRISE VLIVE | NAM YOONSU & CHO MIYEON",
+  "subtag": "그 외"
+},
 {
   "link": "https://weverse.io/i-dle/live/2-111432004",
   "category": "라이브방송",
@@ -3364,7 +3429,7 @@ const 라이브방송Cards = [
   "link": "https://weverse.io/i-dle/live/3-110666654",
   "category": "라이브방송",
   "member": "미연",
-  "date": "2021-11-17T23:59:02",
+  "date": "2021-11-17T23:59:03",
   "duration": "00:20:02",
   "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfMTA3/MDAxNjcyODkxNDY0MTY2.jXITWFusm1jKu5xgX0AnlK2uipHlWYfJ652Wrx79laMg.-sI-Sl4uCXNb8k2YcyssFNZb83cxjm55gj3D0QhewOMg.JPEG/7a78f720-47a0-11ec-a74c-48df379ccacc_04.jpg?type=f640_360",
   "alt": "다시면💕",
@@ -3623,6 +3688,17 @@ const 라이브방송Cards = [
   "title": "면💕",
   "subtag": "위버스 라이브"
 },
+{
+  "link": "https://youtu.be/JVr1ho1pSyA",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2022-04-02T20:30:31",
+  "duration": "00:45:02",
+  "thumbnail": "https://i.ytimg.com/vi/JVr1ho1pSyA/maxresdefault.jpg",
+  "alt": "(여자)아이들 네이버 VIBE 파티룸 。",
+  "title": "(여자)아이들 네이버 VIBE 파티룸 。",
+  "subtag": "그 외"
+},
 
 {
   "link": "https://weverse.io/i-dle/live/2-111432023",
@@ -3727,8 +3803,8 @@ const 라이브방송Cards = [
   "date": "2022-05-02T18:00:00",
   "duration": "01:18:25",
   "thumbnail": "https://i.ytimg.com/vi/ka1uS3ORmxk/sddefault.jpg",
-  "alt": "[I-LIVE] 4랑하는 네버랜드💜 (여자)아이들 데뷔 4주년 됐어요🎂🎉(4th)",
-  "title": "[I-LIVE] 4랑하는 네버랜드💜 (여자)아이들 데뷔 4주년 됐어요🎂🎉 (4th)",
+  "alt": "[I-LIVE] 4랑하는 네버랜드💜 (여자)아이들 데뷔 4주년 됐어요🎂🎉",
+  "title": "[I-LIVE] 4랑하는 네버랜드💜 (여자)아이들 데뷔 4주년 됐어요🎂🎉",
   "subtag": "기념일 라이브"
 },
 
@@ -3808,11 +3884,11 @@ const 라이브방송Cards = [
   "link": "https://weverse.io/i-dle/live/4-110663606",
   "category": "라이브방송",
   "member": "미연, 민니, 우기, 슈화",
-  "date": "2022-06-22T18:00:00",
+  "date": "2022-06-22T18:00:01",
   "duration": "00:31:35",
   "thumbnail": "https://phinf.wevpstatic.net/MjAyMzAxMDVfNTgg/MDAxNjcyODkxNDgwOTcw.KMMdlUNb6ZzqmijM_gr8apXFMr7101SABOKqC7OlU-Ug.mIFNfzd9yzI6571IKWcqHNbxtYlTgsOh80SuzV_wsmog.JPEG/6ef2a436-f225-11ec-8bba-505dac8c381b_03.jpg?type=f640_360",
-  "alt": "다시💕",
-  "title": "다시💕",
+  "alt": "다시💕 (2)",
+  "title": "다시💕 (2)",
   "subtag": "위버스 라이브"
 },
 
@@ -4043,7 +4119,17 @@ const 라이브방송Cards = [
   "title": "🎁🎁🎁",
   "subtag": "위버스 라이브"
 },
-
+{
+  "link": "https://youtu.be/Y5FUYFDaLi4",
+  "category": "라이브방송",
+  "member": "아이들",
+  "date": "2022-10-08T17:37:02",
+  "duration": "00:20:30",
+  "thumbnail": "https://i.ytimg.com/vi/Y5FUYFDaLi4/maxresdefault.jpg",
+  "alt": "(여자)아이들 Twitter Spaces Q&A  (Voice Only) 。",
+  "title": "(여자)아이들 Twitter Spaces Q&A  (Voice Only) 。",
+  "subtag": "그 외"
+},
 {
   "link": "https://youtu.be/bsXWkiZN1rk",
   "category": "라이브방송",
@@ -4135,8 +4221,8 @@ const 라이브방송Cards = [
   "date": "2023-05-01T18:00:00",
   "duration": "01:22:45",
   "thumbnail": "https://i.ytimg.com/vi/x3vs_eA3jZA/sddefault.jpg",
-  "alt": "[I-LIVE] 🎉 (G)I-DLE 5TH ANNIVERSARY PARTY with Pajamas 🎂🎉 (5주년)",
-  "title": "[I-LIVE] 🎉 (G)I-DLE 5TH ANNIVERSARY PARTY with Pajamas 🎂🎉 (5주년)",
+  "alt": "[I-LIVE] 🎉 (G)I-DLE 5TH ANNIVERSARY PARTY with Pajamas 🎂🎉",
+  "title": "[I-LIVE] 🎉 (G)I-DLE 5TH ANNIVERSARY PARTY with Pajamas 🎂🎉",
   "subtag": "기념일 라이브"
 },
 
@@ -4535,7 +4621,17 @@ const 라이브방송Cards = [
   "title": "10mins live 😋",
   "subtag": "위버스 라이브"
 },
-
+{
+  "link": "https://youtu.be/9Q8bIJ9z2Oo",
+  "category": "라이브방송",
+  "member": "우기, 민니",
+  "date": "2024-04-23T14:17:50",
+  "duration": "02:02:21",
+  "thumbnail": "https://i.ytimg.com/vi/9Q8bIJ9z2Oo/maxresdefault.jpg",
+  "alt": "YUQI 1st Mini Album [YUQ1] FAN SHOWCASE 。",
+  "title": "YUQI 1st Mini Album [YUQ1] FAN SHOWCASE 。",
+  "subtag": "컴백 라이브"
+},
 {
   "link": "https://weverse.io/i-dle/live/3-161551503",
   "category": "라이브방송",
@@ -4555,8 +4651,8 @@ const 라이브방송Cards = [
   "date": "2024-05-02T18:00:00",
   "duration": "01:08:36",
   "thumbnail": "https://i.ytimg.com/vi/DbuBqLl1IyQ/sddefault.jpg",
-  "alt": "[I-LIVE] 🎉 (G)I-DLE 6TH ANNIVERSARY PARTY 💜 (6주년)",
-  "title": "[I-LIVE] 🎉 (G)I-DLE 6TH ANNIVERSARY PARTY 💜 (6주년)",
+  "alt": "[I-LIVE] 🎉 (G)I-DLE 6TH ANNIVERSARY PARTY 💜",
+  "title": "[I-LIVE] 🎉 (G)I-DLE 6TH ANNIVERSARY PARTY 💜",
   "subtag": "기념일 라이브"
 },
 
@@ -4699,9 +4795,9 @@ const 라이브방송Cards = [
   "date": "2024-09-22T18:00:00",
   "duration": "00:31:10",
   "thumbnail": "https://i.ytimg.com/vi/QidnyVMJsxg/sddefault.jpg",
-  "alt": "[ENG SUB]240922 Yuqi Weibo bday live",
-  "title": "[ENG SUB]240922 Yuqi Weibo bday live",
-  "subtag": "위버스 라이브"
+  "alt": "▫️[ENG SUB] 우기 웨이보 라이브",
+  "title": "▫️[ENG SUB] 우기 웨이보 라이브",
+  "subtag": "웨이보 라이브"
 },
 
 {
@@ -4927,8 +5023,8 @@ const 라이브방송Cards = [
   "date": "2025-05-02T18:00:00",
   "duration": "01:43:40",
   "thumbnail": "https://i.ytimg.com/vi/aBg10lRqyRA/sddefault.jpg",
-  "alt": "i-dle (아이들) 7th ANNIVERSARY PARTY with NEVERLAND 🎆 (7주년)",
-  "title": "i-dle (아이들) 7th ANNIVERSARY PARTY with NEVERLAND 🎆 (7주년)",
+  "alt": "i-dle (아이들) 7th ANNIVERSARY PARTY with NEVERLAND 🎆",
+  "title": "i-dle (아이들) 7th ANNIVERSARY PARTY with NEVERLAND 🎆",
   "subtag": "기념일 라이브"
 },
 
@@ -5011,8 +5107,8 @@ const 라이브방송Cards = [
   "date": "2025-08-21T19:00:05",
   "duration": "00:27:54",
   "thumbnail": "https://i.ytimg.com/vi/-vL2WMSJD9Y/maxresdefault.jpg",
-  "alt": "미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh◾️",
-  "title": "미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh◾️",
+  "alt": "▫️미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh",
+  "title": "▫️미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh",
   "subtag": "인스타 라이브"
 },
 
@@ -5023,8 +5119,8 @@ const 라이브방송Cards = [
   "date": "2025-08-21T19:00:06",
   "duration": "00:21:03",
   "thumbnail": "https://i.ytimg.com/vi/jPKT9lzK89k/maxresdefault.jpg",
-  "alt": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh◾️",
-  "title": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh◾️",
+  "alt": "▫️(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh",
+  "title": "▫️(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh",
   "subtag": "인스타 라이브"
 },
 
@@ -5068,11 +5164,11 @@ const 라이브방송Cards = [
   "link": "https://youtu.be/TdOkalPqJ2Q",
   "category": "라이브방송",
   "member": "아이들",
-  "date": "2018-08-15T18:00:00",
+  "date": "2018-08-14T22:00:00",
   "duration": "01:30:41",
   "thumbnail": "https://i.ytimg.com/vi/TdOkalPqJ2Q/maxresdefault.jpg",
-  "alt": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV 。",
-  "title": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV 。",
+  "alt": "[V LIVE] (G)I-DLE X LieV - (여자)아이들의 눕방라이브! 。",
+  "title": "[V LIVE] (G)I-DLE X LieV - (여자)아이들의 눕방라이브! 。",
   "subtag": "그 외"
 },
 
@@ -5080,11 +5176,11 @@ const 라이브방송Cards = [
   "link": "https://youtu.be/wSQFfyo3L-A",
   "category": "라이브방송",
   "member": "아이들",
-  "date": "2019-02-27T18:00:00",
+  "date": "2019-02-26T22:00:00",
   "duration": "01:21:14",
   "thumbnail": "https://i.ytimg.com/vi/wSQFfyo3L-A/maxresdefault.jpg",
-  "alt": "(여자)아이들 X 카우치토크 (G)I-DLE X CouchTalk 。",
-  "title": "(여자)아이들 X 카우치토크 (G)I-DLE X CouchTalk 。",
+  "alt": "[V LIVE] (G)I-DLE X CouchTalk - (여자)아이들 X 카우치토크 。",
+  "title": "[V LIVE] (G)I-DLE X CouchTalk - (여자)아이들 X 카우치토크 。",
   "subtag": "그 외"
 },
 
@@ -5092,11 +5188,11 @@ const 라이브방송Cards = [
   "link": "https://youtu.be/1ewquZ3jM94",
   "category": "라이브방송",
   "member": "아이들",
-  "date": "2019-07-06T18:00:00",
+  "date": "2019-07-05T22:00:00",
   "duration": "01:08:54",
   "thumbnail": "https://i.ytimg.com/vi/1ewquZ3jM94/maxresdefault.jpg",
-  "alt": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV 。",
-  "title": "(여자)아이들의 눕방라이브! (G)I-DLE X LieV 。",
+  "alt": "[V LIVE] (G)I-DLE X LieV - (여자)아이들의 눕방라이브! 。",
+  "title": "[V LIVE] (G)I-DLE X LieV - (여자)아이들의 눕방라이브! 。",
   "subtag": "그 외"
 },
 
@@ -5119,8 +5215,8 @@ const 라이브방송Cards = [
   "date": "2020-04-06T18:00:00",
   "duration": "01:10:30",
   "thumbnail": "https://i.ytimg.com/vi/tLNDjqyZ48U/maxresdefault.jpg",
-  "alt": "(여자)아이들 X 같이 먹어요 (G)I-DLE X Eating Show 。",
-  "title": "(여자)아이들 X 같이 먹어요 (G)I-DLE X Eating Show 。",
+  "alt": "[V LIVE] (G)I-DLE X Eating Show - (여자)아이들 X 같이 먹어요 。",
+  "title": "[V LIVE] (G)I-DLE X Eating Show - (여자)아이들 X 같이 먹어요 。",
   "subtag": "그 외"
 },
 
@@ -5159,6 +5255,7 @@ const 라이브방송Cards = [
   "title": "민니, 우기, 슈화 - 큐브 외국인라인 추석회동 라이브 (w. SORN, Elkie) 。",
   "subtag": "인스타 라이브"
 },
+
 
 {
   "link": "https://youtu.be/joA-DckMVc8",
@@ -5532,6 +5629,134 @@ const 라이브방송Cards = [
   "subtag": "그 외"
 },
 
+
+
+{
+  "link": "https://youtu.be/u-wZsRL2gfU",
+  "category": "라이브방송",
+  "member": "민니, 우기, 슈화",
+  "date": "2019-11-14T23:08:43",
+  "duration": "00:54:33",
+  "thumbnail": "https://i.ytimg.com/vi/u-wZsRL2gfU/maxresdefault.jpg",
+  "alt": "▫️[Deleted] 민우슈의 언박싱♡",
+  "title": "▫️[Deleted] 민우슈의 언박싱♡",
+  "subtag": "위버스 라이브"
+},
+{
+  "link": "https://youtu.be/y3HcmSGJQ4c",
+  "category": "라이브방송",
+  "member": "미연",
+  "date": "2019-12-13T15:29:36",
+  "duration": "01:12:24",
+  "thumbnail": "https://i.ytimg.com/vi/y3HcmSGJQ4c/maxresdefault.jpg",
+  "alt": "[Deleted] 안뇽 。",
+  "title": "[Deleted] 안뇽 。",
+  "subtag": "위버스 라이브"
+},
+{
+  "link": "https://youtu.be/x7EWY4mZbL4",
+  "category": "라이브방송",
+  "member": "미연, 민니",
+  "date": "2020-10-12T23:32:23",
+  "duration": "00:47:03",
+  "thumbnail": "https://i.ytimg.com/vi/x7EWY4mZbL4/hqdefault.jpg",
+  "alt": "▫️[Deleted] 🐭💜",
+  "title": "▫️[Deleted] 🐭💜",
+  "subtag": "위버스 라이브"
+},
+
+{
+  "link": "https://youtu.be/bzgqLuBsGBs",
+  "category": "라이브방송",
+  "member": "미연",
+  "date": "2020-11-13T21:00:01",
+  "duration": "00:26:35",
+  "thumbnail": "https://i.ytimg.com/vi/bzgqLuBsGBs/maxresdefault.jpg",
+  "alt": "▫️[Deleted] 다시 돌아온 13일의 금요일 😈",
+  "title": "▫️[Deleted] 다시 돌아온 13일의 금요일 😈",
+  "subtag": "위버스 라이브"
+},
+{
+  "link": "https://youtu.be/WfB_i39lK1I",
+  "category": "라이브방송",
+  "member": "우기, 슈화",
+  "date": "2021-01-09T17:28:40",
+  "duration": "00:18:47",
+  "thumbnail": "https://i.ytimg.com/vi/WfB_i39lK1I/maxresdefault.jpg",
+  "alt": "[Deleted] 슈화 라이브 (ft.우기, 수진) 。",
+  "title": "[Deleted] 슈화 라이브 (ft.우기, 수진) 。",
+  "subtag": "위버스 라이브"
+},
+{
+  "link": "https://youtu.be/B7TJdX6qDl8",
+  "category": "라이브방송",
+  "member": "슈화",
+  "date": "2021-09-17T15:36:26",
+  "duration": "01:09:46",
+  "thumbnail": "https://i.ytimg.com/vi/B7TJdX6qDl8/maxresdefault.jpg",
+  "alt": "[Deleted] 예 약속 ♡ 。",
+  "title": "[Deleted] 예 약속 ♡ 。",
+  "subtag": "위버스 라이브"
+},
+{
+  "link": "https://youtu.be/3vXEyUQ92Dg",
+  "category": "라이브방송",
+  "member": "미연",
+  "date": "2021-11-17T23:59:02",
+  "duration": "00:02:08",
+  "thumbnail": "https://i.ytimg.com/vi/3vXEyUQ92Dg/maxresdefault.jpg",
+  "alt": "[Deleted] 면 퇴근길💕 。",
+  "title": "[Deleted] 면 퇴근길💕 。",
+  "subtag": "위버스 라이브"
+},
+{
+  "link": "https://youtu.be/l7bqSEpFnWs",
+  "category": "라이브방송",
+  "member": "슈화",
+  "date": "2021-12-22T15:37:55",
+  "duration": "01:06:49",
+  "thumbnail": "https://i.ytimg.com/vi/l7bqSEpFnWs/maxresdefault.jpg",
+  "alt": "[Deleted] 슈🌻 。",
+  "title": "[Deleted] 슈🌻 。",
+  "subtag": "위버스 라이브"
+},
+{
+  "link": "https://youtu.be/zY8AvXLMv48",
+  "category": "라이브방송",
+  "member": "민니, 우기",
+  "date": "2022-05-02T00:35:20",
+  "duration": "00:16:31",
+  "thumbnail": "https://i.ytimg.com/vi/zY8AvXLMv48/maxresdefault.jpg",
+  "alt": "▫️[Deleted] 민니 우기 브이앱",
+  "title": "▫️[Deleted] 민니 우기 브이앱",
+  "subtag": "위버스 라이브"
+},
+
+{
+  "link": "https://youtu.be/DVsiWeJrqXo",
+  "category": "라이브방송",
+  "member": "미연, 민니, 슈화",
+  "date": "2022-06-05T23:59:03",
+  "duration": "00:01:10",
+  "thumbnail": "https://i.ytimg.com/vi/DVsiWeJrqXo/hqdefault.jpg",
+  "alt": "[Deleted]  〉〈♡ 。",
+  "title": "[Deleted]  〉〈♡ 。",
+  "subtag": "위버스 라이브"
+},
+{
+  "link": "https://youtu.be/a7nVNpwa0PQ",
+  "category": "라이브방송",
+  "member": "미연, 우기, 슈화",
+  "date": "2022-06-22T18:00:01",
+  "duration": "00:23:28",
+  "thumbnail": "https://i.ytimg.com/vi/a7nVNpwa0PQ/hqdefault.jpg",
+  "alt": "▫️[Deleted] 미연, 우기, 슈화 너무 끊겨서 삭제된 브이앱 (1)",
+  "title": "▫️[Deleted] 미연, 우기, 슈화 너무 끊겨서 삭제된 브이앱 (1)",
+  "subtag": "위버스 라이브"
+},
+
+
+
 {
   "link": "https://link.berriz.in/app/main/i-dle/live/replay/019b4ed2-8b27-a4de-f4c2-30802de719ed",
   "category": "라이브방송",
@@ -5539,8 +5764,8 @@ const 라이브방송Cards = [
   "date": "2025-12-24T14:26:26",
   "duration": "00:07:50",
   "thumbnail": "https://statics.berriz.in/cdn/base/file/ve/uv/rp/tq/af/un/1414857541.jpeg",
-  "alt": "[Berriz]며니랑 미리 크리스마스💕💕💕 (1)",
-  "title": "[Berriz]며니랑 미리 크리스마스💕💕💕 (1)",
+  "alt": "며니랑 미리 크리스마스💕💕💕 (1)",
+  "title": "며니랑 미리 크리스마스💕💕💕 (1)",
   "subtag": "베리즈 라이브"
 },
 
@@ -5551,32 +5776,8 @@ const 라이브방송Cards = [
   "date": "2025-12-24T14:35:33",
   "duration": "00:29:38",
   "thumbnail": "https://statics.berriz.in/cdn/base/file/vj/uv/rp/tp/he/an/200428869.jpeg",
-  "alt": "[Berriz]며니랑 미리 크리스마스💕💕💕 (2)",
-  "title": "[Berriz]며니랑 미리 크리스마스💕💕💕 (2)",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/PdX6ZkBBJ5A",
-  "category": "라이브방송",
-  "member": "미연",
-  "date": "2025-12-24T14:35:34",
-  "duration": "00:07:51",
-  "thumbnail": "https://i.ytimg.com/vi/PdX6ZkBBJ5A/maxresdefault.jpg",
-  "alt": "[YouTube]며니랑 미리 크리스마스💕💕💕 (1)  。",
-  "title": "[YouTube]며니랑 미리 크리스마스💕💕💕 (1)  。",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/mMJg8hz2cXc",
-  "category": "라이브방송",
-  "member": "미연",
-  "date": "2025-12-24T14:35:35",
-  "duration": "00:29:40",
-  "thumbnail": "https://i.ytimg.com/vi/mMJg8hz2cXc/maxresdefault.jpg",
-  "alt": "[YouTube]며니랑 미리 크리스마스💕💕💕 (2)  。",
-  "title": "[YouTube]며니랑 미리 크리스마스💕💕💕 (2)  。",
+  "alt": "며니랑 미리 크리스마스💕💕💕 (2)",
+  "title": "며니랑 미리 크리스마스💕💕💕 (2)",
   "subtag": "베리즈 라이브"
 },
 
@@ -5587,20 +5788,8 @@ const 라이브방송Cards = [
   "date": "2025-12-25T15:29:22",
   "duration": "00:31:39",
   "thumbnail": "https://statics.berriz.in/cdn/base/file/vj/ur/ve/dj/an/te/511871799.jpeg",
-  "alt": "[Berriz]소여니랑 메리 크리스마스❤️",
-  "title": "[Berriz]소여니랑 메리 크리스마스❤️",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/P4k9sBURucc",
-  "category": "라이브방송",
-  "member": "소연",
-  "date": "2025-12-25T15:29:23",
-  "duration": "00:31:40",
-  "thumbnail": "https://i.ytimg.com/vi/P4k9sBURucc/hqdefault.jpg",
-  "alt": "[YouTube]소여니랑 메리 크리스마스❤️ 。",
-  "title": "[YouTube]소여니랑 메리 크리스마스❤️ 。",
+  "alt": "소여니랑 메리 크리스마스❤️",
+  "title": "소여니랑 메리 크리스마스❤️",
   "subtag": "베리즈 라이브"
 },
 
@@ -5611,8 +5800,8 @@ const 라이브방송Cards = [
   "date": "2025-12-30T13:51:53",
   "duration": "00:14:23",
   "thumbnail": "https://statics.berriz.in/cdn/base/file/ae/dv/hb/tw/zu/pf/989691274.jpeg",
-  "alt": "[Berriz]소연이의 잠깐라이브 (1)",
-  "title": "[Berriz]소연이의 잠깐라이브 (1)",
+  "alt": "소연이의 잠깐라이브 (1)",
+  "title": "소연이의 잠깐라이브 (1)",
   "subtag": "베리즈 라이브"
 },
 
@@ -5623,32 +5812,8 @@ const 라이브방송Cards = [
   "date": "2025-12-30T14:09:07",
   "duration": "00:04:12",
   "thumbnail": "https://statics.berriz.in/cdn/base/file/re/da/cs/tp/bx/mp/1407331185.jpeg",
-  "alt": "[Berriz]다시 라이브(2)",
-  "title": "[Berriz]다시 라이브 (2)",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/YI3NHGw3ofQ",
-  "category": "라이브방송",
-  "member": "소연",
-  "date": "2025-12-30T14:09:08",
-  "duration": "00:14:24",
-  "thumbnail": "https://i.ytimg.com/vi/YI3NHGw3ofQ/maxresdefault.jpg",
-  "alt": "[YouTube]소연이의 잠깐라이브 (1) 。",
-  "title": "[YouTube]소연이의 잠깐라이브 (1) 。",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/_SvGYMgt_rI",
-  "category": "라이브방송",
-  "member": "소연",
-  "date": "2025-12-30T14:09:09",
-  "duration": "00:04:13",
-  "thumbnail": "https://i.ytimg.com/vi/_SvGYMgt_rI/maxresdefault.jpg",
-  "alt": "[YouTube]다시 라이브 (2) 。",
-  "title": "[YouTube]다시 라이브 (2) 。",
+  "alt": "다시 라이브(2)",
+  "title": "다시 라이브 (2)",
   "subtag": "베리즈 라이브"
 },
 
@@ -5659,20 +5824,8 @@ const 라이브방송Cards = [
   "date": "2026-01-22T23:03:58",
   "duration": "00:49:09",
   "thumbnail": "https://statics.berriz.in/cdn/base/file/rf/mt/vr/rw/mw/zb/577523202.jpeg",
-  "alt": "[Berriz]밍이왔다💖",
-  "title": "[Berriz]밍이왔다💖",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/u8RTpNkLIak",
-  "category": "라이브방송",
-  "member": "민니",
-  "date": "2026-01-22T23:03:59",
-  "duration": "00:49:10",
-  "thumbnail": "https://i.ytimg.com/vi/u8RTpNkLIak/maxresdefault.jpg",
-  "alt": "[YouTube]밍이왔다💖 。",
-  "title": "[YouTube]밍이왔다💖 。",
+  "alt": "밍이왔다💖",
+  "title": "밍이왔다💖",
   "subtag": "베리즈 라이브"
 },
 
@@ -5683,20 +5836,8 @@ const 라이브방송Cards = [
   "date": "2026-01-27T18:21:37",
   "duration": "00:18:00",
   "thumbnail": "https://i.ytimg.com/vi/Cu1_XXREiuc/hqdefault.jpg",
-  "alt": "[Berriz]🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
-  "title": "[Berriz]🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/Cu1_XXREiuc",
-  "category": "라이브방송",
-  "member": "아이들",
-  "date": "2026-01-27T18:21:38",
-  "duration": "00:18:02",
-  "thumbnail": "https://i.ytimg.com/vi/Cu1_XXREiuc/hqdefault.jpg",
-  "alt": "[YouTube]🖤네버버~ 아이들이 Mono 들려주러 왔어🤍 。",
-  "title": "[YouTube]🖤네버버~ 아이들이 Mono 들려주러 왔어🤍 。",
+  "alt": "🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
+  "title": "🖤네버버~ 아이들이 Mono 들려주러 왔어🤍",
   "subtag": "베리즈 라이브"
 },
 
@@ -5707,21 +5848,20 @@ const 라이브방송Cards = [
   "date": "2026-01-29T19:40:29",
   "duration": "00:11:56",
   "thumbnail": "https://i.ytimg.com/vi/d6IyubYpy48/hqdefault.jpg",
-  "alt": "[Berriz]🖤네버버와 함께 시작한 Mono 활동🤍",
-  "title": "[Berriz]🖤네버버와 함께 시작한 Mono 활동🤍",
+  "alt": "🖤네버버와 함께 시작한 Mono 활동🤍",
+  "title": "🖤네버버와 함께 시작한 Mono 활동🤍",
   "subtag": "베리즈 라이브"
 },
-
 {
-  "link": "https://youtu.be/d6IyubYpy48",
+  "link": "https://youtu.be/LhSyZSXv3b0",
   "category": "라이브방송",
-  "member": "아이들",
-  "date": "2026-01-29T19:40:30",
-  "duration": "00:11:57",
-  "thumbnail": "https://i.ytimg.com/vi/d6IyubYpy48/hqdefault.jpg",
-  "alt": "[YouTube]🖤네버버와 함께 시작한 Mono 활동🤍 。",
-  "title": "[YouTube]🖤네버버와 함께 시작한 Mono 활동🤍 。",
-  "subtag": "베리즈 라이브"
+  "member": "소연",
+  "date": "2026-01-29T23:21:46",
+  "duration": "00:13:19",
+  "thumbnail": "https://i.ytimg.com/vi/LhSyZSXv3b0/maxresdefault.jpg",
+  "alt": "소연 인스타 라이브 。",
+  "title": "소연 인스타 라이브 。",
+  "subtag": "인스타 라이브"
 },
 
 {
@@ -5731,8 +5871,8 @@ const 라이브방송Cards = [
   "date": "2026-01-30T18:43:38",
   "duration": "00:09:07",
   "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/c000c945-15dc-46d1-bf13-3a8dba168901.jpeg",
-  "alt": "[Berriz]❤️‍🔥❤️‍🔥❤️‍🔥 (1)",
-  "title": "[Berriz]❤️‍🔥❤️‍🔥❤️‍🔥 (1)",
+  "alt": "❤️‍🔥❤️‍🔥❤️‍🔥 (1)",
+  "title": "❤️‍🔥❤️‍🔥❤️‍🔥 (1)",
   "subtag": "베리즈 라이브"
 },
 
@@ -5743,32 +5883,8 @@ const 라이브방송Cards = [
   "date": "2026-01-30T18:56:18",
   "duration": "00:02:00",
   "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/86512d6d-5a39-4d5e-9ad2-ab45e3e5b7ed.jpeg",
-  "alt": "[Berriz]❤️❤️❤️ (2)",
-  "title": "[Berriz]❤️❤️❤️ (2)",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/Cw0gZUdhDjk",
-  "category": "라이브방송",
-  "member": "민니, 우기, 슈화",
-  "date": "2026-01-30T18:56:19",
-  "duration": "00:09:08",
-  "thumbnail": "https://i.ytimg.com/vi/Cw0gZUdhDjk/maxresdefault.jpg",
-  "alt": "[YouTube] ❤️‍🔥❤️‍🔥❤️‍🔥 (1) 。",
-  "title": "[YouTube] ❤️‍🔥❤️‍🔥❤️‍🔥 (1) 。",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/o6VOsT918q0",
-  "category": "라이브방송",
-  "member": "민니, 소연, 우기, 슈화",
-  "date": "2026-01-30T18:56:20",
-  "duration": "00:02:01",
-  "thumbnail": "https://i.ytimg.com/vi/o6VOsT918q0/maxresdefault.jpg",
-  "alt": "[YouTube] ❤️❤️❤️ (2) 。",
-  "title": "[YouTube] ❤️❤️❤️ (2) 。",
+  "alt": "❤️❤️❤️ (2)",
+  "title": "❤️❤️❤️ (2)",
   "subtag": "베리즈 라이브"
 },
 
@@ -5779,20 +5895,8 @@ const 라이브방송Cards = [
   "date": "2026-01-31T16:43:48",
   "duration": "00:16:58",
   "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/638dad45-91c3-43bf-99c5-c26309686742.jpeg",
-  "alt": "[Berriz] 💝🎁며니 생일이 와따💕💕💕",
-  "title": "[Berriz] 💝🎁며니 생일이 와따💕💕💕",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/p9PcM95YeuI",
-  "category": "라이브방송",
-  "member": "미연, 민니, 우기",
-  "date": "2026-01-31T16:43:49",
-  "duration": "00:16:59",
-  "thumbnail": "https://i.ytimg.com/vi/p9PcM95YeuI/maxresdefault.jpg",
-  "alt": "[YouTube] 💝🎁며니 생일이 와따💕💕💕 。",
-  "title": "[YouTube] 💝🎁며니 생일이 와따💕💕💕 。",
+  "alt": "💝🎁며니 생일이 와따💕💕💕",
+  "title": "💝🎁며니 생일이 와따💕💕💕",
   "subtag": "베리즈 라이브"
 },
 
@@ -5803,20 +5907,8 @@ const 라이브방송Cards = [
   "date": "2026-02-01T16:42:09",
   "duration": "00:37:46",
   "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/bc884ae6-a4f2-4d57-8d6f-83dcc4c0f1f0.jpeg",
-  "alt": "[Berriz] 소연이야",
-  "title": "[Berriz] 소연이야",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/bJhVUqQHfns",
-  "category": "라이브방송",
-  "member": "소연",
-  "date": "2026-02-01T16:42:10",
-  "duration": "00:37:47",
-  "thumbnail": "https://i.ytimg.com/vi/bJhVUqQHfns/maxresdefault.jpg",
-  "alt": "[YouTube] 소연이야 。",
-  "title": "[YouTube] 소연이야 。",
+  "alt": "소연이야",
+  "title": "소연이야",
   "subtag": "베리즈 라이브"
 },
 
@@ -5827,20 +5919,8 @@ const 라이브방송Cards = [
   "date": "2026-02-02T19:47:24",
   "duration": "00:34:00",
   "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/3edd2608-19d7-421b-90e9-c5cf4b75c073.jpeg",
-  "alt": "[Berriz] 또 여니",
-  "title": "[Berriz] 또 여니",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/DGQwMAyDxyU",
-  "category": "라이브방송",
-  "member": "소연",
-  "date": "2026-02-02T19:47:25",
-  "duration": "00:34:01",
-  "thumbnail": "https://i.ytimg.com/vi/DGQwMAyDxyU/maxresdefault.jpg",
-  "alt": "[YouTube] 또 여니 。",
-  "title": "[YouTube] 또 여니 。",
+  "alt": "또 여니",
+  "title": "또 여니",
   "subtag": "베리즈 라이브"
 },
 
@@ -5851,8 +5931,8 @@ const 라이브방송Cards = [
   "date": "2026-02-03T14:49:08",
   "duration": "00:35:10",
   "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/17bb778e-6958-4bb1-b782-9706ab8ffcef.jpeg",
-  "alt": "[Berriz] 또또여니 (1)",
-  "title": "[Berriz] 또또여니 (1)",
+  "alt": "또또여니 (1)",
+  "title": "또또여니 (1)",
   "subtag": "베리즈 라이브"
 },
 
@@ -5863,32 +5943,8 @@ const 라이브방송Cards = [
   "date": "2026-02-03T15:26:08",
   "duration": "00:04:56",
   "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/57896d17-d7d3-4d16-9e52-5771d2d26c0b.jpeg",
-  "alt": "[Berriz] 다시 (2)",
-  "title": "[Berriz] 다시 (2)",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/cf_6gu0gZ0I",
-  "category": "라이브방송",
-  "member": "소연",
-  "date": "2026-02-03T15:26:09",
-  "duration": "00:35:12",
-  "thumbnail": "https://i.ytimg.com/vi/cf_6gu0gZ0I/maxresdefault.jpg",
-  "alt": "[YouTube] 또또여니 (1) 。",
-  "title": "[YouTube] 또또여니 (1) 。",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/8oyUAtBRyRQ",
-  "category": "라이브방송",
-  "member": "소연",
-  "date": "2026-02-03T15:26:10",
-  "duration": "00:04:57",
-  "thumbnail": "https://i.ytimg.com/vi/8oyUAtBRyRQ/maxresdefault.jpg",
-  "alt": "[YouTube] 다시 (2) 。",
-  "title": "[YouTube] 다시 (2) 。",
+  "alt": "다시 (2)",
+  "title": "다시 (2)",
   "subtag": "베리즈 라이브"
 },
 
@@ -5899,20 +5955,8 @@ const 라이브방송Cards = [
   "date": "2026-02-05T19:34:58",
   "duration": "00:34:02",
   "thumbnail": "https://i.ytimg.com/vi/ah9FHxr4dog/hqdefault.jpg",
-  "alt": "[Berriz] 🖤네버버가 만들어 준 Mono 첫 1위🤍",
-  "title": "[Berriz] 🖤네버버가 만들어 준 Mono 첫 1위🤍",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/ah9FHxr4dog",
-  "category": "라이브방송",
-  "member": "아이들",
-  "date": "2026-02-05T19:34:59",
-  "duration": "00:34:03",
-  "thumbnail": "https://i.ytimg.com/vi/ah9FHxr4dog/hqdefault.jpg",
-  "alt": "[YouTube] 🖤네버버가 만들어 준 Mono 첫 1위🤍 。",
-  "title": "[YouTube] 🖤네버버가 만들어 준 Mono 첫 1위🤍 。",
+  "alt": "🖤네버버가 만들어 준 Mono 첫 1위🤍",
+  "title": "🖤네버버가 만들어 준 Mono 첫 1위🤍",
   "subtag": "베리즈 라이브"
 },
 
@@ -5923,20 +5967,8 @@ const 라이브방송Cards = [
   "date": "2026-02-06T18:42:35",
   "duration": "00:14:12",
   "thumbnail": "https://i.ytimg.com/vi/aaperRZ32Mo/hqdefault.jpg",
-  "alt": "[Berriz] 🖤오늘도 소중한 1위 만들어 준 네버버 고마워~🤍",
-  "title": "[Berriz] 🖤오늘도 소중한 1위 만들어 준 네버버 고마워~🤍",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/aaperRZ32Mo",
-  "category": "라이브방송",
-  "member": "아이들",
-  "date": "2026-02-06T18:42:36",
-  "duration": "00:14:13",
-  "thumbnail": "https://i.ytimg.com/vi/aaperRZ32Mo/hqdefault.jpg",
-  "alt": "[YouTube] 🖤오늘도 소중한 1위 만들어 준 네버버 고마워~🤍 。",
-  "title": "[YouTube] 🖤오늘도 소중한 1위 만들어 준 네버버 고마워~🤍 。",
+  "alt": "🖤오늘도 소중한 1위 만들어 준 네버버 고마워~🤍",
+  "title": "🖤오늘도 소중한 1위 만들어 준 네버버 고마워~🤍",
   "subtag": "베리즈 라이브"
 },
 
@@ -5947,20 +5979,8 @@ const 라이브방송Cards = [
   "date": "2026-02-07T16:48:20",
   "duration": "00:23:19",
   "thumbnail": "https://i.ytimg.com/vi/sFaQyBGey0w/hqdefault.jpg",
-  "alt": "[Berriz] 🖤토요일 마무리는 Mono와 함께🤍",
-  "title": "[Berriz] 🖤토요일 마무리는 Mono와 함께🤍",
-  "subtag": "베리즈 라이브"
-},
-
-{
-  "link": "https://youtu.be/sFaQyBGey0w",
-  "category": "라이브방송",
-  "member": "아이들",
-  "date": "2026-02-07T16:48:21",
-  "duration": "00:23:20",
-  "thumbnail": "https://i.ytimg.com/vi/sFaQyBGey0w/hqdefault.jpg",
-  "alt": "[YouTube] 🖤토요일 마무리는 Mono와 함께🤍 。",
-  "title": "[YouTube] 🖤토요일 마무리는 Mono와 함께🤍 。",
+  "alt": "🖤토요일 마무리는 Mono와 함께🤍",
+  "title": "🖤토요일 마무리는 Mono와 함께🤍",
   "subtag": "베리즈 라이브"
 },
 
@@ -5971,8 +5991,8 @@ const 라이브방송Cards = [
   "date": "2026-02-08T18:53:57",
   "duration": "00:46:34",
   "thumbnail": "https://i.ytimg.com/vi/vs4SId7dV40/hqdefault.jpg",
-  "alt": "260208 매점가요 LIVE STREAM with i-dle | 인기가요 끝나면 매점가요",
-  "title": "260208 매점가요 LIVE STREAM with i-dle | 인기가요 끝나면 매점가요",
+  "alt": "매점가요 LIVE STREAM with i-dle | 인기가요 끝나면 매점가요。",
+  "title": "매점가요 LIVE STREAM with i-dle | 인기가요 끝나면 매점가요。",
   "subtag": "그 외"
 },
   {
@@ -5997,8 +6017,19 @@ const 라이브방송Cards = [
     "title": "퇴근",
     "subtag": "베리즈 라이브"
   },
+{
+  "link": "https://youtu.be/j5TomnkOIlE",
+  "category": "라이브방송",
+  "member": "우기",
+  "date": "2026-02-25T17:04:34",
+  "duration": "00:25:03",
+  "thumbnail": "https://i.ytimg.com/vi/j5TomnkOIlE/maxresdefault.jpg",
+  "alt": "▫️YUQI Weibo Live after Milan Fashion Week",
+  "title": "▫️YUQI Weibo Live after Milan Fashion Week",
+  "subtag": "웨이보 라이브"
+},
   {
-    "link": "https://berriz.in/en/i-dle/live/replay/019ca27c-0e68-2662-2960-21ffad1cabc8/",
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019ca27c-0e68-2662-2960-21ffad1cabc8",
     "category": "라이브방송",
     "member": "소연",
     "date": "2026-02-28T13:22:52",
@@ -6008,7 +6039,17 @@ const 라이브방송Cards = [
     "title": "여니",
     "subtag": "베리즈 라이브"
   },
-
+{
+  "link": "https://youtu.be/4vDFUR-1Gnc",
+  "category": "라이브방송",
+  "member": "민니",
+  "date": "2026-03-12T23:45:43",
+  "duration": "00:35:24",
+  "thumbnail": "https://i.ytimg.com/vi/4vDFUR-1Gnc/maxresdefault.jpg",
+  "alt": "▫️(ENG) 민니 인스타 라이브",
+  "title": "▫️(ENG) 민니 인스타 라이브",
+  "subtag": "인스타 라이브"
+},
 
 ];
 window.라이브방송Cards = 라이브방송Cards;
