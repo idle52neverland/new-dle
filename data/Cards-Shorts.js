@@ -19891,16 +19891,6 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/7q_UsbFKGqQ/maxresdefault.jpg",
   "alt": "오늘도 승리의 요정! ⚾💚",
   "title": "오늘도 승리의 요정! ⚾💚"
-},
-{
-  "link": "https://youtube.com/shorts/7q_UsbFKGqQ",
-  "category": "Shorts",
-  "member": "미연",
-  "date": "2026-04-12T21:19:01",
-  "duration": "00:00:13",
-  "thumbnail": "https://i.ytimg.com/vi/7q_UsbFKGqQ/maxresdefault.jpg",
-  "alt": "오늘도 승리의 요정! ⚾💚",
-  "title": "오늘도 승리의 요정! ⚾💚"
 }
 
   ];
