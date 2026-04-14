@@ -177,17 +177,6 @@ const 매거진인터뷰Cards = [
 },
 
 {
-  "link": "https://youtu.be/5RgCND3HbWw",
-  "category": "매거진인터뷰",
-  "member": "아이들",
-  "date": "2019-03-08T14:53:30",
-  "duration": "01:06:00",
-  "thumbnail": "https://i.ytimg.com/vi/5RgCND3HbWw/sddefault.jpg",
-  "alt": "[Multi SUB/I'm Celuv] (여자)아이들((G)I-DLE), 19년 3월 7일 방송 Full Ver. (Celuv.TV)",
-  "title": "[Multi SUB/I'm Celuv] (여자)아이들((G)I-DLE), 19년 3월 7일 방송 Full Ver. (Celuv.TV)"
-},
-
-{
   "link": "https://youtu.be/nko3KEL5o3I",
   "category": "매거진인터뷰",
   "member": "아이들",
@@ -498,8 +487,8 @@ const 매거진인터뷰Cards = [
   "date": "2020-06-01T18:00:00",
   "duration": "00:02:44",
   "thumbnail": "https://i.ytimg.com/vi/-ZeDaxqB8BM/sddefault.jpg",
-  "alt": "(여자)아이들 미연 슈화 서로 첫인상은? 최애 노래는? _ (초하이텐션)퀵터뷰 Eng Sub",
-  "title": "(여자)아이들 미연 슈화 서로 첫인상은? 최애 노래는? _ (초하이텐션)퀵터뷰 Eng Sub"
+  "alt": "(여자)아이들 미연 슈화 서로 첫인상은? 최애 노래는? _ (초하이텐션)퀵터뷰 Eng Sub | Marie Claire Korea",
+  "title": "(여자)아이들 미연 슈화 서로 첫인상은? 최애 노래는? _ (초하이텐션)퀵터뷰 Eng Sub | Marie Claire Korea"
 },
 
 {
@@ -509,8 +498,8 @@ const 매거진인터뷰Cards = [
   "date": "2020-06-05T18:00:31",
   "duration": "00:01:26",
   "thumbnail": "https://i.ytimg.com/vi/nmY4AEZfRfE/sddefault.jpg",
-  "alt": "시작한지 1초만에 균열.... (여자)아이들(G)I-DLE 미연 슈화 좌식댄스_오마이갓 Oh my god(Eng Sub)",
-  "title": "시작한지 1초만에 균열.... (여자)아이들(G)I-DLE 미연 슈화 좌식댄스_오마이갓 Oh my god(Eng Sub)"
+  "alt": "시작한지 1초만에 균열.... (여자)아이들(G)I-DLE 미연 슈화 좌식댄스_오마이갓 Oh my god(Eng Sub) | Marie Claire Korea",
+  "title": "시작한지 1초만에 균열.... (여자)아이들(G)I-DLE 미연 슈화 좌식댄스_오마이갓 Oh my god(Eng Sub) | Marie Claire Korea"
 },
 
 {
@@ -564,8 +553,8 @@ const 매거진인터뷰Cards = [
   "date": "2020-12-19T18:00:30",
   "duration": "00:00:36",
   "thumbnail": "https://i.ytimg.com/vi/pU8GHpHA4ts/sddefault.jpg",
-  "alt": "수슈는 찐입니다, 여러분♥ #짤줍환영 ㅣ 싱테나",
-  "title": "수슈는 찐입니다, 여러분♥ #짤줍환영 ㅣ 싱테나"
+  "alt": "수슈는 찐입니다, 여러분♥ #짤줍환영 ㅣ싱테나 | 싱글즈 SINGLES",
+  "title": "수슈는 찐입니다, 여러분♥ #짤줍환영 ㅣ싱테나 | 싱글즈 SINGLES"
 },
 
 {
@@ -575,8 +564,8 @@ const 매거진인터뷰Cards = [
   "date": "2020-12-21T17:00:02",
   "duration": "00:07:11",
   "thumbnail": "https://i.ytimg.com/vi/CEYyGxftaYQ/sddefault.jpg",
-  "alt": "#수진 #슈화 의 텔레파시가 이정도? 역시 #수슈 다! ㅣ 싱터뷰",
-  "title": "#수진 #슈화 의 텔레파시가 이정도? 역시 #수슈 다! ㅣ 싱터뷰"
+  "alt": "#수진 #슈화 의 텔레파시가 이정도? 역시 #수슈 다! ㅣ싱터뷰 | 싱글즈 SINGLES",
+  "title": "#수진 #슈화 의 텔레파시가 이정도? 역시 #수슈 다! ㅣ싱터뷰 | 싱글즈 SINGLES"
 },
 
 {
@@ -586,8 +575,8 @@ const 매거진인터뷰Cards = [
   "date": "2021-01-06T18:00:32",
   "duration": "00:02:04",
   "thumbnail": "https://i.ytimg.com/vi/ynYP0zHOvYk/sddefault.jpg",
-  "alt": "좌식댄스 도장깨기 하러 온  (여자)아이들(G)I-DLE 소연&우기 덤디덤디DUMDi DUMDi 좌식댄스(eng)",
-  "title": "좌식댄스 도장깨기 하러 온  (여자)아이들(G)I-DLE 소연&우기 덤디덤디DUMDi DUMDi 좌식댄스(eng)"
+  "alt": "좌식댄스 도장깨기 하러 온  (여자)아이들(G)I-DLE 소연&우기 덤디덤디DUMDi DUMDi 좌식댄스(eng) | Marie Claire Korea",
+  "title": "좌식댄스 도장깨기 하러 온  (여자)아이들(G)I-DLE 소연&우기 덤디덤디DUMDi DUMDi 좌식댄스(eng) | Marie Claire Korea"
 },
 
 {
@@ -641,8 +630,8 @@ const 매거진인터뷰Cards = [
   "date": "2021-01-13T18:00:31",
   "duration": "00:05:00",
   "thumbnail": "https://i.ytimg.com/vi/wB2r4hxi9JA/sddefault.jpg",
-  "alt": "환상의 티키타카. (여자)아이들 소연 우기 추측🤔인터뷰(Eng Sub)",
-  "title": "환상의 티키타카. (여자)아이들 소연 우기 추측🤔인터뷰(Eng Sub)"
+  "alt": "환상의 티키타카. (여자)아이들 소연 우기 추측🤔인터뷰(Eng Sub) | Marie Claire Korea",
+  "title": "환상의 티키타카. (여자)아이들 소연 우기 추측🤔인터뷰(Eng Sub) | Marie Claire Korea"
 },
 
 {
@@ -663,8 +652,8 @@ const 매거진인터뷰Cards = [
   "date": "2021-02-27T13:00:00",
   "duration": "00:09:56",
   "thumbnail": "https://i.ytimg.com/vi/4d68adSEfmg/sddefault.jpg",
-  "alt": "[ENG](여자)아이들 미연&민니 넘사벽 취향 차이 무엇?!｜싱터뷰",
-  "title": "[ENG](여자)아이들 미연&민니 넘사벽 취향 차이 무엇?!｜싱터뷰"
+  "alt": "[ENG](여자)아이들 미연&민니 넘사벽 취향 차이 무엇?!｜싱터뷰 | 싱글즈 SINGLES",
+  "title": "[ENG](여자)아이들 미연&민니 넘사벽 취향 차이 무엇?!｜싱터뷰 | 싱글즈 SINGLES"
 },
 
 {
@@ -762,8 +751,8 @@ const 매거진인터뷰Cards = [
   "date": "2021-07-07T20:33:05",
   "duration": "00:07:14",
   "thumbnail": "https://i.ytimg.com/vi/JM67SbkWUes/sddefault.jpg",
-  "alt": "전소연(JEON SOYEON) - 'Weather' 뮤직 필름💕ㅣ8PM CONCERT",
-  "title": "전소연(JEON SOYEON) - 'Weather' 뮤직 필름💕ㅣ8PM CONCERT"
+  "alt": "전소연(JEON SOYEON) - 'Weather' 뮤직 필름💕ㅣ8PM CONCERT | VOGUE KOREA",
+  "title": "전소연(JEON SOYEON) - 'Weather' 뮤직 필름💕ㅣ8PM CONCERT | VOGUE KOREA"
 },
 
 {
@@ -795,8 +784,8 @@ const 매거진인터뷰Cards = [
   "date": "2021-07-28T18:00:07",
   "duration": "00:05:46",
   "thumbnail": "https://i.ytimg.com/vi/HXda3rdPs6E/sddefault.jpg",
-  "alt": "🍔윈디 버거 대표🍔 (여자)아이들 소연이가 가장 좋아하는 열가지💜 (G)I-DLE JEON SOYEON MY 10 FAVORITES(ENG SUB)",
-  "title": "🍔윈디 버거 대표🍔 (여자)아이들 소연이가 가장 좋아하는 열가지💜 (G)I-DLE JEON SOYEON MY 10 FAVORITES(ENG SUB)"
+  "alt": "🍔윈디 버거 대표🍔 (여자)아이들 소연이가 가장 좋아하는 열가지💜 (G)I-DLE JEON SOYEON MY 10 FAVORITES(ENG SUB) | Marie Claire Korea",
+  "title": "🍔윈디 버거 대표🍔 (여자)아이들 소연이가 가장 좋아하는 열가지💜 (G)I-DLE JEON SOYEON MY 10 FAVORITES(ENG SUB) | Marie Claire Korea"
 },
 
 {
@@ -839,8 +828,8 @@ const 매거진인터뷰Cards = [
   "date": "2021-08-05T20:00:05",
   "duration": "00:05:23",
   "thumbnail": "https://i.ytimg.com/vi/ELW_jflFceg/sddefault.jpg",
-  "alt": "(여자)아이들 전소연이 고백하는 법 알려드림",
-  "title": "(여자)아이들 전소연이 고백하는 법 알려드림"
+  "alt": "(여자)아이들 전소연이 고백하는 법 알려드림 | ARENA HOMME+",
+  "title": "(여자)아이들 전소연이 고백하는 법 알려드림 | ARENA HOMME+"
 },
 
 {
@@ -971,8 +960,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-01-28T16:00:15",
   "duration": "00:00:41",
   "thumbnail": "https://i.ytimg.com/vi/ZFQ48gknSF0/sddefault.jpg",
-  "alt": "TINY, PRETTY, J / 전소연,그 화려하고도 몽롱한, 요즘 예쁨.",
-  "title": "TINY, PRETTY, J / 전소연,그 화려하고도 몽롱한, 요즘 예쁨."
+  "alt": "TINY, PRETTY, J / 전소연,그 화려하고도 몽롱한, 요즘 예쁨. | DAZED KOREA",
+  "title": "TINY, PRETTY, J / 전소연,그 화려하고도 몽롱한, 요즘 예쁨. | DAZED KOREA"
 },
 
 {
@@ -982,8 +971,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-01-31T14:00:13",
   "duration": "00:08:44",
   "thumbnail": "https://i.ytimg.com/vi/exH70A1huzs/sddefault.jpg",
-  "alt": "[WAHT'S IN MY POUCH] 전소연, 그 화려하고도 몽롱한, 요즘 예쁨.",
-  "title": "[WAHT'S IN MY POUCH] 전소연, 그 화려하고도 몽롱한, 요즘 예쁨."
+  "alt": "[WAHT'S IN MY POUCH] 전소연, 그 화려하고도 몽롱한, 요즘 예쁨. | DAZED KOREA",
+  "title": "[WAHT'S IN MY POUCH] 전소연, 그 화려하고도 몽롱한, 요즘 예쁨. | DAZED KOREA"
 },
 
 {
@@ -1015,19 +1004,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-03-24T20:00:09",
   "duration": "00:07:34",
   "thumbnail": "https://i.ytimg.com/vi/L-5BsMgB4FQ/sddefault.jpg",
-  "alt": "[ENG] 무반주 댄스를 곁들인 (여자)아이들 민니&소연&우기의 1분 인터뷰! l 싱터뷰",
-  "title": "[ENG] 무반주 댄스를 곁들인 (여자)아이들 민니&소연&우기의 1분 인터뷰! l 싱터뷰"
-},
-
-{
-  "link": "https://youtu.be/RYR4H1DYzcs",
-  "category": "매거진인터뷰",
-  "member": "민니",
-  "date": "2022-03-24T20:36:51",
-  "duration": "00:22:31",
-  "thumbnail": "https://i.ytimg.com/vi/RYR4H1DYzcs/sddefault.jpg",
-  "alt": "민니야 언니 화장 잘하지🤟😈🤟 오늘 직업 만족도 최상♥인 이사배(RISABAE Makeup)",
-  "title": "민니야 언니 화장 잘하지🤟😈🤟 오늘 직업 만족도 최상♥인 이사배(RISABAE Makeup)"
+  "alt": "[ENG] 무반주 댄스를 곁들인 (여자)아이들 민니&소연&우기의 1분 인터뷰! l 싱터뷰 | 싱글즈 SINGLES",
+  "title": "[ENG] 무반주 댄스를 곁들인 (여자)아이들 민니&소연&우기의 1분 인터뷰! l 싱터뷰 | 싱글즈 SINGLES"
 },
 
 {
@@ -1081,8 +1059,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-04-13T03:00:27",
   "duration": "00:06:30",
   "thumbnail": "https://i.ytimg.com/vi/eoyCrS3ysb4/sddefault.jpg",
-  "alt": "(G)I-DLE Plays Who’s Who",
-  "title": "(G)I-DLE Plays Who’s Who"
+  "alt": "(G)I-DLE Plays Who’s Who | BuzzFeed Celeb",
+  "title": "(G)I-DLE Plays Who’s Who | BuzzFeed Celeb"
 },
 
 {
@@ -1092,8 +1070,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-04-21T17:30:05",
   "duration": "00:04:48",
   "thumbnail": "https://i.ytimg.com/vi/P_Pk8ehfOCQ/sddefault.jpg",
-  "alt": "JUST ME I-DLE / 다른 어떤 수식어도 필요 없이, 아이들은 아이들답게.",
-  "title": "JUST ME I-DLE / 다른 어떤 수식어도 필요 없이, 아이들은 아이들답게."
+  "alt": "JUST ME I-DLE / 다른 어떤 수식어도 필요 없이, 아이들은 아이들답게. | DAZED KOREA",
+  "title": "JUST ME I-DLE / 다른 어떤 수식어도 필요 없이, 아이들은 아이들답게. | DAZED KOREA"
 },
 
 {
@@ -1136,8 +1114,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-05-05T17:00:05",
   "duration": "00:04:38",
   "thumbnail": "https://i.ytimg.com/vi/ARVPBgjzUJ4/sddefault.jpg",
-  "alt": "[ENG SUB] 존재가 프린세스인 #미연 이랑 셀카 #Drive 함께 가실미연?👸",
-  "title": "[ENG SUB] 존재가 프린세스인 #미연 이랑 셀카 #Drive 함께 가실미연?👸"
+  "alt": "[ENG SUB] 존재가 프린세스인 #미연 이랑 셀카 #Drive 함께 가실미연?👸 | Marie Claire Korea",
+  "title": "[ENG SUB] 존재가 프린세스인 #미연 이랑 셀카 #Drive 함께 가실미연?👸 | Marie Claire Korea"
 },
 
 {
@@ -1246,8 +1224,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-07-12T19:06:41",
   "duration": "00:09:32",
   "thumbnail": "https://i.ytimg.com/vi/gLY8nbCRmuQ/sddefault.jpg",
-  "alt": "[ENG, CN SUB] 명언파티! 인생 2회차?! (여자)아이들의 이모지퀴즈🤟",
-  "title": "[ENG, CN SUB] 명언파티! 인생 2회차?! (여자)아이들의 이모지퀴즈🤟"
+  "alt": "[ENG, CN SUB] 명언파티! 인생 2회차?! (여자)아이들의 이모지퀴즈🤟 | Y magazine 와이매거진",
+  "title": "[ENG, CN SUB] 명언파티! 인생 2회차?! (여자)아이들의 이모지퀴즈🤟 | Y magazine 와이매거진"
 },
 
 {
@@ -1268,8 +1246,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-07-29T19:00:03",
   "duration": "00:00:49",
   "thumbnail": "https://i.ytimg.com/vi/arHZL3QSnq4/sddefault.jpg",
-  "alt": "(여자)아이들 멋짐 그 잡채! | BEHIND.ZYP",
-  "title": "(여자)아이들 멋짐 그 잡채! | BEHIND.ZYP"
+  "alt": "(여자)아이들 멋짐 그 잡채! | BEHIND.ZYP | Y magazine 와이매거진",
+  "title": "(여자)아이들 멋짐 그 잡채! | BEHIND.ZYP | Y magazine 와이매거진"
 },
 
 {
@@ -1444,8 +1422,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-10-29T16:05:54",
   "duration": "00:05:41",
   "thumbnail": "https://i.ytimg.com/vi/dhWATtljlVM/sddefault.jpg",
-  "alt": "쉿! Yes I’m Nxde. (여자)아이들 우기의 있는 그대로의 모습에 대한 모든 것.",
-  "title": "쉿! Yes I’m Nxde. (여자)아이들 우기의 있는 그대로의 모습에 대한 모든 것."
+  "alt": "쉿! Yes I’m Nxde. (여자)아이들 우기의 있는 그대로의 모습에 대한 모든 것. | 맨 노블레스",
+  "title": "쉿! Yes I’m Nxde. (여자)아이들 우기의 있는 그대로의 모습에 대한 모든 것. | 맨 노블레스"
 },
 
 {
@@ -1510,8 +1488,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-12-02T13:00:01",
   "duration": "00:00:42",
   "thumbnail": "https://i.ytimg.com/vi/6fKxTMn6vB4/sddefault.jpg",
-  "alt": "(여자)아이들 댕자🐾 민니 미연 절대 비주얼 케미💕✨",
-  "title": "(여자)아이들 댕자🐾 민니 미연 절대 비주얼 케미💕✨"
+  "alt": "(여자)아이들 댕자🐾 민니 미연 절대 비주얼 케미💕✨ | Marie Claire Korea",
+  "title": "(여자)아이들 댕자🐾 민니 미연 절대 비주얼 케미💕✨ | Marie Claire Korea"
 },
 
 {
@@ -1554,8 +1532,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-12-10T05:06:12",
   "duration": "00:06:50",
   "thumbnail": "https://i.ytimg.com/vi/dI_8XzWS81I/sddefault.jpg",
-  "alt": "(G)I-DLE Talks Producing Music, New Album Coming Soon & More!",
-  "title": "(G)I-DLE Talks Producing Music, New Album Coming Soon & More!"
+  "alt": "(G)I-DLE Talks Producing Music, New Album Coming Soon & More! | WiLD 949",
+  "title": "(G)I-DLE Talks Producing Music, New Album Coming Soon & More! | WiLD 949"
 },
 
 {
@@ -1565,8 +1543,8 @@ const 매거진인터뷰Cards = [
   "date": "2022-12-23T19:00:11",
   "duration": "00:06:41",
   "thumbnail": "https://i.ytimg.com/vi/pPbkEVCX1dA/sddefault.jpg",
-  "alt": "[ENG] 🚨6분 순삭 주의🚨우기(YUQI)에게 6분간 홀렸습니다…💫ㅣ(여자) 아이들ㅣ우기ㅣ줌터뷰",
-  "title": "[ENG] 🚨6분 순삭 주의🚨우기(YUQI)에게 6분간 홀렸습니다…💫ㅣ(여자) 아이들ㅣ우기ㅣ줌터뷰"
+  "alt": "[ENG] 🚨6분 순삭 주의🚨우기(YUQI)에게 6분간 홀렸습니다…💫ㅣ(여자) 아이들ㅣ우기ㅣ줌터뷰 | COSMOPOLITAN KOREA",
+  "title": "[ENG] 🚨6분 순삭 주의🚨우기(YUQI)에게 6분간 홀렸습니다…💫ㅣ(여자) 아이들ㅣ우기ㅣ줌터뷰 | COSMOPOLITAN KOREA"
 },
 
 {
@@ -1609,8 +1587,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-03-07T20:00:14",
   "duration": "00:02:46",
   "thumbnail": "https://i.ytimg.com/vi/Sd6VQeFaLb4/maxresdefault.jpg",
-  "alt": "'우리.. 미션 성공할 수 있을까?'✨슈화가 우기를 귀여워할 때😚 MISSION BOX with YUQI SHUHUA of (G)I-DLE❤ (Eng sub)",
-  "title": "'우리.. 미션 성공할 수 있을까?'✨슈화가 우기를 귀여워할 때😚 MISSION BOX with YUQI SHUHUA of (G)I-DLE❤ (Eng sub)"
+  "alt": "'우리.. 미션 성공할 수 있을까?'✨슈화가 우기를 귀여워할 때😚 MISSION BOX with YUQI SHUHUA of (G)I-DLE❤ (Eng sub) | Marie Claire Korea",
+  "title": "'우리.. 미션 성공할 수 있을까?'✨슈화가 우기를 귀여워할 때😚 MISSION BOX with YUQI SHUHUA of (G)I-DLE❤ (Eng sub) | Marie Claire Korea"
 },
 
 {
@@ -1620,8 +1598,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-03-31T10:50:59",
   "duration": "00:03:53",
   "thumbnail": "https://i.ytimg.com/vi/VotvPanrGHo/sddefault.jpg",
-  "alt": "혜미리예채파 I.💖 이 분이 누구시죠..?!🙄 나는 내 사진을 모르겠숴요😂 혜리, 미연, 예나의 찐친 케미! ZOOM QUIZ 👀",
-  "title": "혜미리예채파 I.💖 이 분이 누구시죠..?!🙄 나는 내 사진을 모르겠숴요😂 혜리, 미연, 예나의 찐친 케미! ZOOM QUIZ 👀"
+  "alt": "혜미리예채파 I.💖 이 분이 누구시죠..?!🙄 나는 내 사진을 모르겠숴요😂 혜리, 미연, 예나의 찐친 케미! ZOOM QUIZ 👀 | DAZED KOREA",
+  "title": "혜미리예채파 I.💖 이 분이 누구시죠..?!🙄 나는 내 사진을 모르겠숴요😂 혜리, 미연, 예나의 찐친 케미! ZOOM QUIZ 👀 | DAZED KOREA"
 },
 
 {
@@ -1686,8 +1664,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-05-26T10:00:11",
   "duration": "00:04:38",
   "thumbnail": "https://i.ytimg.com/vi/93z_ePVDzUc/sddefault.jpg",
-  "alt": "[ENG] (여자)아이들에 퀸며들게 만드는 리더 소연 👑 이제는 말 할 수 있다?! 6년 아이돌 인생 중 소연의 위기썰은?ㅣ전소연 ㅣ퀸카ㅣ줌터뷰",
-  "title": "[ENG] (여자)아이들에 퀸며들게 만드는 리더 소연 👑 이제는 말 할 수 있다?! 6년 아이돌 인생 중 소연의 위기썰은?ㅣ전소연 ㅣ퀸카ㅣ줌터뷰"
+  "alt": "[ENG] (여자)아이들에 퀸며들게 만드는 리더 소연 👑 이제는 말 할 수 있다?! 6년 아이돌 인생 중 소연의 위기썰은?ㅣ전소연 | 퀸카ㅣ줌터뷰 | COSMOPOLITAN KOREA",
+  "title": "[ENG] (여자)아이들에 퀸며들게 만드는 리더 소연 👑 이제는 말 할 수 있다?! 6년 아이돌 인생 중 소연의 위기썰은?ㅣ전소연ㅣ퀸카ㅣ줌터뷰 | COSMOPOLITAN KOREA"
 },
 
 {
@@ -1727,11 +1705,11 @@ const 매거진인터뷰Cards = [
   "link": "https://youtu.be/YQV5B8qoDEc",
   "category": "매거진인터뷰",
   "member": "아이들",
-  "date": "2023-06-21T18:48:50",
+  "date": "2023-06-06T18:48:50",
   "duration": "00:19:54",
   "thumbnail": "https://i.ytimg.com/vi/YQV5B8qoDEc/sddefault.jpg",
-  "alt": "K인터뷰 제 38기 인터뷰 번역본 爱我请举手 K访谈 第三十八期采访",
-  "title": "K인터뷰 제 38기 인터뷰 번역본 爱我请举手 K访谈 第三十八期采访"
+  "alt": "▫️爱我请举手 | K인터뷰 제 38기 인터뷰 번역본 / 爱我请举手 K访谈 第三十八期采访",
+  "title": "▫️爱我请举手 | K인터뷰 제 38기 인터뷰 번역본 / 爱我请举手 K访谈 第三十八期采访"
 },
 
 {
@@ -1741,8 +1719,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-06-24T17:45:29",
   "duration": "00:08:00",
   "thumbnail": "https://i.ytimg.com/vi/tIALOeq2Mwo/sddefault.jpg",
-  "alt": "[ENG SUB] 당도 100%‼️ 이렇게 귀여워도 되나요❓ 민니의 N초 인터뷰",
-  "title": "[ENG SUB] 당도 100%‼️ 이렇게 귀여워도 되나요❓ 민니의 N초 인터뷰"
+  "alt": "[ENG SUB] 당도 100%‼️ 이렇게 귀여워도 되나요❓ 민니의 N초 인터뷰 | Y magazine 와이매거진",
+  "title": "[ENG SUB] 당도 100%‼️ 이렇게 귀여워도 되나요❓ 민니의 N초 인터뷰 | Y magazine 와이매거진"
 },
 
 {
@@ -1752,8 +1730,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-07-07T11:56:02",
   "duration": "00:05:40",
   "thumbnail": "https://i.ytimg.com/vi/Lgc9s-kTTKk/sddefault.jpg",
-  "alt": "[eng sub] 그니까❓ 화보 촬영장에서 왜 밥을 짓고 있어요?!🤔 슈화는 요리왕👩‍🍳 COOKING SHUHUA✨",
-  "title": "[eng sub] 그니까❓ 화보 촬영장에서 왜 밥을 짓고 있어요?!🤔 슈화는 요리왕👩‍🍳 COOKING SHUHUA✨"
+  "alt": "[eng sub] 그니까❓ 화보 촬영장에서 왜 밥을 짓고 있어요?!🤔 슈화는 요리왕👩‍🍳 COOKING SHUHUA✨ | DAZED KOREA",
+  "title": "[eng sub] 그니까❓ 화보 촬영장에서 왜 밥을 짓고 있어요?!🤔 슈화는 요리왕👩‍🍳 COOKING SHUHUA✨ | DAZED KOREA"
 },
 
 {
@@ -1763,8 +1741,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-07-13T14:00:30",
   "duration": "00:08:32",
   "thumbnail": "https://i.ytimg.com/vi/iacZ4UR-m_g/sddefault.jpg",
-  "alt": "폴꾸에 진심인 (여자)아이들💜 폴꾸zip📁 with (G)I-DLE (Eng sub)",
-  "title": "폴꾸에 진심인 (여자)아이들💜 폴꾸zip📁 with (G)I-DLE (Eng sub)"
+  "alt": "폴꾸에 진심인 (여자)아이들💜 폴꾸zip📁 with (G)I-DLE (Eng sub) | Marie Claire Korea",
+  "title": "폴꾸에 진심인 (여자)아이들💜 폴꾸zip📁 with (G)I-DLE (Eng sub) | Marie Claire Korea"
 },
 
 {
@@ -1785,8 +1763,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-08-04T19:00:25",
   "duration": "00:00:35",
   "thumbnail": "https://i.ytimg.com/vi/Uxkw8z9nfFw/sddefault.jpg",
-  "alt": "여름이었다✨ 민니의 모든 순간  | BEHIND.ZYP",
-  "title": "여름이었다✨ 민니의 모든 순간  | BEHIND.ZYP"
+  "alt": "여름이었다✨ 민니의 모든 순간  | BEHIND.ZYP | Y magazine 와이매거진",
+  "title": "여름이었다✨ 민니의 모든 순간  | BEHIND.ZYP | Y magazine 와이매거진"
 },
 
 {
@@ -1884,8 +1862,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-10-03T04:30:03",
   "duration": "00:06:33",
   "thumbnail": "https://i.ytimg.com/vi/fpLoP7dgRm0/maxresdefault.jpg",
-  "alt": "(G)I-DLE Answers 30 Questions As Quickly As Possible",
-  "title": "(G)I-DLE Answers 30 Questions As Quickly As Possible"
+  "alt": "(G)I-DLE Answers 30 Questions As Quickly As Possible | BuzzFeed Celeb",
+  "title": "(G)I-DLE Answers 30 Questions As Quickly As Possible | BuzzFeed Celeb"
 },
 
 {
@@ -1906,8 +1884,18 @@ const 매거진인터뷰Cards = [
   "date": "2023-10-07T04:00:01",
   "duration": "00:08:08",
   "thumbnail": "https://i.ytimg.com/vi/5lGZICZ3ANc/maxresdefault.jpg",
-  "alt": "(G)I-DLE on Releasing FIRST English-Language EP (Exclusive)",
-  "title": "(G)I-DLE on Releasing FIRST English-Language EP (Exclusive)"
+  "alt": "(G)I-DLE on Releasing FIRST English-Language EP (Exclusive) | Entertainment Tonight",
+  "title": "(G)I-DLE on Releasing FIRST English-Language EP (Exclusive) | Entertainment Tonight"
+},
+{
+  "link": "https://youtu.be/YUDvIUKXccI",
+  "category": "매거진인터뷰",
+  "member": "아이들",
+  "date": "2023-10-07T08:23:25",
+  "duration": "00:06:14",
+  "thumbnail": "https://i.ytimg.com/vi/YUDvIUKXccI/maxresdefault.jpg",
+  "alt": "G IDLE x Jackie Ramirez | The Cruz Show | REAL 92.3 LA",
+  "title": "G IDLE x Jackie Ramirez | The Cruz Show | REAL 92.3 LA"
 },
 
 {
@@ -1928,8 +1916,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-10-11T23:00:15",
   "duration": "00:14:14",
   "thumbnail": "https://i.ytimg.com/vi/CPfsFjeP0og/maxresdefault.jpg",
-  "alt": "(G)I-DLE | HEAT, Queencard, I Do, Creative Process",
-  "title": "(G)I-DLE | HEAT, Queencard, I Do, Creative Process"
+  "alt": "(G)I-DLE | HEAT, Queencard, I Do, Creative Process | Zach Sang Show",
+  "title": "(G)I-DLE | HEAT, Queencard, I Do, Creative Process | Zach Sang Show"
 },
 
 {
@@ -1939,8 +1927,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-10-12T09:12:59",
   "duration": "00:15:45",
   "thumbnail": "https://i.ytimg.com/vi/LKGSKbLPmG8/maxresdefault.jpg",
-  "alt": "(G)I-DLE share their favorite tour memories, meaning behind ‘I DO’, and more!",
-  "title": "(G)I-DLE share their favorite tour memories, meaning behind ‘I DO’, and more!"
+  "alt": "(G)I-DLE share their favorite tour memories, meaning behind ‘I DO’, and more! | 102.7KIISFM",
+  "title": "(G)I-DLE share their favorite tour memories, meaning behind ‘I DO’, and more! | 102.7KIISFM"
 },
 
 {
@@ -1950,8 +1938,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-10-23T19:11:13",
   "duration": "00:10:05",
   "thumbnail": "https://i.ytimg.com/vi/rj9wt9b_8e0/sddefault.jpg",
-  "alt": "[ENG]민니의 행복은 무엇? 보는 내내 '행복지수' 올라가는 애교 장인 민니의 #툭툭인터뷰💝",
-  "title": "[ENG]민니의 행복은 무엇? 보는 내내 '행복지수' 올라가는 애교 장인 민니의 #툭툭인터뷰💝"
+  "alt": "[ENG]민니의 행복은 무엇? 보는 내내 '행복지수' 올라가는 애교 장인 민니의 #툭툭인터뷰💝 | Harper's BAZAAR Korea",
+  "title": "[ENG]민니의 행복은 무엇? 보는 내내 '행복지수' 올라가는 애교 장인 민니의 #툭툭인터뷰💝 | Harper's BAZAAR Korea"
 },
 
 {
@@ -1961,8 +1949,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-11-29T17:00:33",
   "duration": "00:07:51",
   "thumbnail": "https://i.ytimg.com/vi/sk60HEx2BBg/sddefault.jpg",
-  "alt": "[ENG]한때 서커스 단원을 꿈꿨던 (여자)아이들 전소연과 태양의서커스가 만났을 때! #툭툭인터뷰",
-  "title": "[ENG]한때 서커스 단원을 꿈꿨던 (여자)아이들 전소연과 태양의서커스가 만났을 때! #툭툭인터뷰"
+  "alt": "[ENG]한때 서커스 단원을 꿈꿨던 (여자)아이들 전소연과 태양의서커스가 만났을 때! #툭툭인터뷰 | Harper's BAZAAR Korea",
+  "title": "[ENG]한때 서커스 단원을 꿈꿨던 (여자)아이들 전소연과 태양의서커스가 만났을 때! #툭툭인터뷰 | Harper's BAZAAR Korea"
 },
 
 {
@@ -1972,8 +1960,8 @@ const 매거진인터뷰Cards = [
   "date": "2023-12-22T02:00:44",
   "duration": "00:03:41",
   "thumbnail": "https://i.ytimg.com/vi/uUOdSlARYII/maxresdefault.jpg",
-  "alt": "(G)I-DLE Talk About Their Jingle Ball Performance & Send A Special Message To Their Fans!",
-  "title": "(G)I-DLE Talk About Their Jingle Ball Performance & Send A Special Message To Their Fans!"
+  "alt": "(G)I-DLE Talk About Their Jingle Ball Performance & Send A Special Message To Their Fans! | iHeartRadio",
+  "title": "(G)I-DLE Talk About Their Jingle Ball Performance & Send A Special Message To Their Fans! | iHeartRadio"
 },
 
 {
@@ -2013,11 +2001,11 @@ const 매거진인터뷰Cards = [
   "link": "https://youtu.be/yjdg8jmXXOw",
   "category": "매거진인터뷰",
   "member": "아이들",
-  "date": "2024-02-16T05:14:03",
+  "date": "2024-02-07T14:06:35",
   "duration": "00:25:18",
   "thumbnail": "https://i.ytimg.com/vi/yjdg8jmXXOw/mqdefault.jpg",
-  "alt": "(ENG/한) SUPER LADIES Off to Work",
-  "title": "(ENG/한) SUPER LADIES Off to Work"
+  "alt": "▫️(ENG/한) 【(G)I-DLE (여자)아이들】20240207 (G)I-DLE SOHU KOREA interview 인터뷰【1 부】（아이돌 출근한다 爱豆上班啦）",
+  "title": "▫️(ENG/한) 【(G)I-DLE (여자)아이들】20240207 (G)I-DLE SOHU KOREA interview 인터뷰【1 부】（아이돌 출근한다 爱豆上班啦）"
 },
 
 {
@@ -2038,8 +2026,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-03-12T18:00:16",
   "duration": "00:07:10",
   "thumbnail": "https://i.ytimg.com/vi/D3mLlNqHUbA/sddefault.jpg",
-  "alt": "[ENG] 블링블링 골저스 레이디~💍 댕댕댕 케미맛.ZIP 도착!ㅣ(여자)아이들ㅣ케미맛.ZIP",
-  "title": "[ENG] 블링블링 골저스 레이디~💍 댕댕댕 케미맛.ZIP 도착!ㅣ(여자)아이들ㅣ케미맛.ZIP"
+  "alt": "[ENG] 블링블링 골저스 레이디~💍 댕댕댕 케미맛.ZIP 도착!ㅣ(여자)아이들ㅣ케미맛.ZIP | COSMOPOLITAN KOREA",
+  "title": "[ENG] 블링블링 골저스 레이디~💍 댕댕댕 케미맛.ZIP 도착!ㅣ(여자)아이들ㅣ케미맛.ZIP | COSMOPOLITAN KOREA"
 },
 
 {
@@ -2063,7 +2051,16 @@ const 매거진인터뷰Cards = [
   "alt": "【YUQI 우기】20240430 YUQI SOHU KOREA interview 인터뷰（아이돌 출근한다 爱豆上班啦）",
   "title": "【YUQI 우기】20240430 YUQI SOHU KOREA interview 인터뷰（아이돌 출근한다 爱豆上班啦）"
 },
-
+{
+  "link": "https://youtu.be/QDL2l_tNYb0",
+  "category": "매거진인터뷰",
+  "member": "민니",
+  "date": "2024-04-08T16:00:23",
+  "duration": "00:05:07",
+  "thumbnail": "https://i.ytimg.com/vi/QDL2l_tNYb0/maxresdefault.jpg",
+  "alt": "[NINE HEART PICKS] (여자)아이들 민니, 당신이 몰랐던 9가지 사실 (ENG) | DAZED KOREA",
+  "title": "[NINE HEART PICKS] (여자)아이들 민니, 당신이 몰랐던 9가지 사실 (ENG) | DAZED KOREA"
+},
 {
   "link": "https://youtu.be/slrQWhFYVKQ",
   "category": "매거진인터뷰",
@@ -2082,8 +2079,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-05-30T12:00:07",
   "duration": "00:10:23",
   "thumbnail": "https://i.ytimg.com/vi/FYkex66MH4U/sddefault.jpg",
-  "alt": "[ENG] 아이들 우기의 새로운 이름 코커?🤔 그게 무슨 뜻 이예요? I 아이들 우기 편집장 인터뷰",
-  "title": "[ENG] 아이들 우기의 새로운 이름 코커?🤔 그게 무슨 뜻 이예요? I 아이들 우기 편집장 인터뷰"
+  "alt": "[ENG] 아이들 우기의 새로운 이름 코커?🤔 그게 무슨 뜻 이예요? I 아이들 우기 편집장 인터뷰 | 싱글즈 SINGLES",
+  "title": "[ENG] 아이들 우기의 새로운 이름 코커?🤔 그게 무슨 뜻 이예요? I 아이들 우기 편집장 인터뷰 | 싱글즈 SINGLES"
 },
 
 {
@@ -2093,8 +2090,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-07-01T15:00:16",
   "duration": "00:05:45",
   "thumbnail": "https://i.ytimg.com/vi/Yb3D1vFNQ8s/sddefault.jpg",
-  "alt": "[ENG] 앨범 스포에 증명사진까지 보여준 소연? 고마워요ㅣ(여자)아이들ㅣ코스모톡톡",
-  "title": "[ENG] 앨범 스포에 증명사진까지 보여준 소연? 고마워요ㅣ(여자)아이들ㅣ코스모톡톡"
+  "alt": "[ENG] 앨범 스포에 증명사진까지 보여준 소연? 고마워요ㅣ(여자)아이들ㅣ코스모톡톡 | COSMOPOLITAN KOREA",
+  "title": "[ENG] 앨범 스포에 증명사진까지 보여준 소연? 고마워요ㅣ(여자)아이들ㅣ코스모톡톡 | COSMOPOLITAN KOREA"
 },
 
 {
@@ -2137,8 +2134,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-10-07T19:01:00",
   "duration": "00:04:29",
   "thumbnail": "https://i.ytimg.com/vi/tjCUIsH66jU/maxresdefault.jpg",
-  "alt": "Exclusive! สัมภาษณ์พิเศษ (G)I-DLE เตรียมสนุกกับคอนเสิร์ตเวิลด์ทัวร์ในไทย 19 ต.ค.นี้",
-  "title": "Exclusive! สัมภาษณ์พิเศษ (G)I-DLE เตรียมสนุกกับคอนเสิร์ตเวิลด์ทัวร์ในไทย 19 ต.ค.นี้"
+  "alt": "Exclusive! สัมภาษณ์พิเศษ (G)I-DLE เตรียมสนุกกับคอนเสิร์ตเวิลด์ทัวร์ในไทย 19 ต.ค.นี้ | Mint Magazine Thailand",
+  "title": "Exclusive! สัมภาษณ์พิเศษ (G)I-DLE เตรียมสนุกกับคอนเสิร์ตเวิลด์ทัวร์ในไทย 19 ต.ค.นี้ | Mint Magazine Thailand"
 },
 
 {
@@ -2148,8 +2145,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-12-04T17:00:15",
   "duration": "00:07:14",
   "thumbnail": "https://i.ytimg.com/vi/L7uwbUvH_O0/sddefault.jpg",
-  "alt": "[ENG] 2024 민니 헤메스 월드컵ㅣMINNIEㅣ(여자)아이들ㅣ코스모톡톡",
-  "title": "[ENG] 2024 민니 헤메스 월드컵ㅣMINNIEㅣ(여자)아이들ㅣ코스모톡톡"
+  "alt": "[ENG] 2024 민니 헤메스 월드컵ㅣMINNIEㅣ(여자)아이들ㅣ코스모톡톡 | COSMOPOLITAN KOREA",
+  "title": "[ENG] 2024 민니 헤메스 월드컵ㅣMINNIEㅣ(여자)아이들ㅣ코스모톡톡 | COSMOPOLITAN KOREA"
 },
 
 {
@@ -2159,8 +2156,8 @@ const 매거진인터뷰Cards = [
   "date": "2024-12-06T19:00:03",
   "duration": "00:05:16",
   "thumbnail": "https://i.ytimg.com/vi/2EkLzvXAV0M/sddefault.jpg",
-  "alt": "미연이 크리스마스 시즌이 되면 떠오르는 노래는? ❄Christmas Tree DIY🎄(Eng sub)",
-  "title": "미연이 크리스마스 시즌이 되면 떠오르는 노래는? ❄Christmas Tree DIY🎄(Eng sub)"
+  "alt": "미연이 크리스마스 시즌이 되면 떠오르는 노래는? ❄Christmas Tree DIY🎄(Eng sub) | Marie Claire Korea",
+  "title": "미연이 크리스마스 시즌이 되면 떠오르는 노래는? ❄Christmas Tree DIY🎄(Eng sub) | Marie Claire Korea"
 },
 
 {
@@ -2181,8 +2178,8 @@ const 매거진인터뷰Cards = [
   "date": "2025-01-12T17:55:00",
   "duration": "00:15:31",
   "thumbnail": "https://i.ytimg.com/vi/Iz9q_y8Piaw/sddefault.jpg",
-  "alt": "민니를 웃게 만든 바자의 센스 있고, 고급스럽고, 뻔하지 않은 선물들! 어디서 살 수 있냐고요? (feat. 카카오톡 선물하기)",
-  "title": "민니를 웃게 만든 바자의 센스 있고, 고급스럽고, 뻔하지 않은 선물들! 어디서 살 수 있냐고요? (feat. 카카오톡 선물하기)"
+  "alt": "민니를 웃게 만든 바자의 센스 있고, 고급스럽고, 뻔하지 않은 선물들! 어디서 살 수 있냐고요? (feat. 카카오톡 선물하기) | Harper's BAZAAR Korea",
+  "title": "민니를 웃게 만든 바자의 센스 있고, 고급스럽고, 뻔하지 않은 선물들! 어디서 살 수 있냐고요? (feat. 카카오톡 선물하기) | Harper's BAZAAR Korea"
 },
 
 {
@@ -2236,8 +2233,8 @@ const 매거진인터뷰Cards = [
   "date": "2025-04-23T13:57:52",
   "duration": "00:04:22",
   "thumbnail": "https://i.ytimg.com/vi/Kv-M_Tzl1aU/maxresdefault.jpg",
-  "alt": "[ENG] SHUHUA X 势界PowerCircles Interview",
-  "title": "[ENG] SHUHUA X 势界PowerCircles Interview"
+  "alt": "▫️[ENG] SHUHUA X 势界PowerCircles Interview",
+  "title": "▫️[ENG] SHUHUA X 势界PowerCircles Interview"
 },
 
 {
@@ -2269,8 +2266,8 @@ const 매거진인터뷰Cards = [
   "date": "2025-05-19T22:00:43",
   "duration": "00:03:53",
   "thumbnail": "https://i.ytimg.com/vi/NSD0BJIdCjw/sddefault.jpg",
-  "alt": "K-pop Stars i-dle Dish On 8th Mini Album [We are] (Exclusive)",
-  "title": "K-pop Stars i-dle Dish On 8th Mini Album [We are] (Exclusive)"
+  "alt": "K-pop Stars i-dle Dish On 8th Mini Album [We are] (Exclusive) | Access Hollywood",
+  "title": "K-pop Stars i-dle Dish On 8th Mini Album [We are] (Exclusive) | Access Hollywood"
 },
 
 {
@@ -2357,8 +2354,8 @@ const 매거진인터뷰Cards = [
   "date": "2025-08-28T19:51:01",
   "duration": "00:15:04",
   "thumbnail": "https://i.ytimg.com/vi/AlZqHHdrlqk/maxresdefault.jpg",
-  "alt": "i-dle TMEA 2025 Interview",
-  "title": "i-dle TMEA 2025 Interview"
+  "alt": "▫️i-dle TMEA 2025 Interview",
+  "title": "▫️i-dle TMEA 2025 Interview"
 },
 
 {
@@ -2434,8 +2431,8 @@ const 매거진인터뷰Cards = [
   "date": "2025-11-04T00:17:24",
   "duration": "00:03:48",
   "thumbnail": "https://i.ytimg.com/vi/YPfuqt9oi5c/maxresdefault.jpg",
-  "alt": "超真實INFP本人登場！舒華最快樂的小事太可愛了🥹 |ELLE TAIWAN",
-  "title": "超真實INFP本人登場！舒華最快樂的小事太可愛了🥹 |ELLE TAIWAN"
+  "alt": "超真實INFP本人登場！舒華最快樂的小事太可愛了🥹 | ELLE TAIWAN",
+  "title": "超真實INFP本人登場！舒華最快樂的小事太可愛了🥹 | ELLE TAIWAN"
 },
 
 {
@@ -2456,8 +2453,8 @@ const 매거진인터뷰Cards = [
   "date": "2025-11-11T20:00:02",
   "duration": "00:06:50",
   "thumbnail": "https://i.ytimg.com/vi/aZHONUXxpk8/maxresdefault.jpg",
-  "alt": "[EN/JP/CN/핫터뷰] MIYEON 미연 존재가 프린세스👸 부지런한 하루 공개, 00과 무인도를?! 예측불가 밸런스 게임까지🆚",
-  "title": "[EN/JP/CN/핫터뷰] MIYEON 미연 존재가 프린세스👸 부지런한 하루 공개, 00과 무인도를?! 예측불가 밸런스 게임까지🆚"
+  "alt": "[EN/JP/CN/핫터뷰] MIYEON 미연 존재가 프린세스👸 부지런한 하루 공개, 00과 무인도를?! 예측불가 밸런스 게임까지🆚 | THE STAR MAGAZINE",
+  "title": "[EN/JP/CN/핫터뷰] MIYEON 미연 존재가 프린세스👸 부지런한 하루 공개, 00과 무인도를?! 예측불가 밸런스 게임까지🆚 | THE STAR MAGAZINE"
 },
 
 {
@@ -2467,8 +2464,8 @@ const 매거진인터뷰Cards = [
   "date": "2025-11-22T20:00:09",
   "duration": "00:07:28",
   "thumbnail": "https://i.ytimg.com/vi/5C7vT7_eso4/maxresdefault.jpg",
-  "alt": "[EN/JP/CN/쇼미유어백] MIYEON 자랑할게 너무 많은 아이들 미연🤗 가방 속 신박템+애정템 대공개👜💗",
-  "title": "[EN/JP/CN/쇼미유어백] MIYEON 자랑할게 너무 많은 아이들 미연🤗 가방 속 신박템+애정템 대공개👜💗"
+  "alt": "[EN/JP/CN/쇼미유어백] MIYEON 자랑할게 너무 많은 아이들 미연🤗 가방 속 신박템+애정템 대공개👜💗 | THE STAR MAGAZINE",
+  "title": "[EN/JP/CN/쇼미유어백] MIYEON 자랑할게 너무 많은 아이들 미연🤗 가방 속 신박템+애정템 대공개👜💗 | THE STAR MAGAZINE"
 },
 {
   "link": "https://youtu.be/z_aGupIZ-kM",
@@ -2518,8 +2515,8 @@ const 매거진인터뷰Cards = [
   "date": "2026-01-30T13:26:41",
   "duration": "00:01:24",
   "thumbnail": "https://i.ytimg.com/vi/nyzzBNHdZ0s/maxresdefault.jpg",
-  "alt": "[단독] i-dle (아이들)이 직접 말하는 신곡 'Mono' 비하인드",
-  "title": "[단독] i-dle (아이들)이 직접 말하는 신곡 'Mono' 비하인드"
+  "alt": "[단독] i-dle (아이들)이 직접 말하는 신곡 'Mono' 비하인드 | ESQUIRE Korea",
+  "title": "[단독] i-dle (아이들)이 직접 말하는 신곡 'Mono' 비하인드 | ESQUIRE Korea"
 },
 {
   "link": "https://youtu.be/whr79zOPVYU",
@@ -2558,9 +2555,80 @@ const 매거진인터뷰Cards = [
   "date": "2026-02-06T20:30:02",
   "duration": "00:02:48",
   "thumbnail": "https://i.ytimg.com/vi/ES4MWSzNfyE/maxresdefault.jpg",
-  "alt": "단독! #idle과의 특별 인터뷰에서 최신 디지털 싱글 'Mono (Feat. skaiwater)'에 대해 이야기를 나눠보세요.",
-  "title": "단독! #idle과의 특별 인터뷰에서 최신 디지털 싱글 'Mono (Feat. skaiwater)'에 대해 이야기를 나눠보세요."
+  "alt": "단독! #idle과의 특별 인터뷰에서 최신 디지털 싱글 'Mono (Feat. skaiwater)'에 대해 이야기를 나눠보세요. | Mint Magazine Thailand",
+  "title": "단독! #idle과의 특별 인터뷰에서 최신 디지털 싱글 'Mono (Feat. skaiwater)'에 대해 이야기를 나눠보세요. | Mint Magazine Thailand"
+},
+{
+  "link": "https://youtu.be/YP1XzINZkKs",
+  "category": "매거진인터뷰",
+  "member": "민니",
+  "date": "2026-04-01T17:00:00",
+  "duration": "00:07:24",
+  "thumbnail": "https://i.ytimg.com/vi/YP1XzINZkKs/maxresdefault.jpg",
+  "alt": "아이들 민니, 욘따라락, 욘따흐흑, 욘잘생김😎 민니에게 이것저것 다 물어봤습니다 | COSMOPOLITAN KOREA",
+  "title": "아이들 민니, 욘따라락, 욘따흐흑, 욘잘생김😎 민니에게 이것저것 다 물어봤습니다 | COSMOPOLITAN KOREA"
+},
+{
+  "link": "https://youtu.be/B31xq3cAlZo",
+  "category": "해외콘텐츠",
+  "member": "아이들",
+  "date": "2026-03-19T00:00:06",
+  "duration": "00:04:33",
+  "thumbnail": "https://i.ytimg.com/vi/B31xq3cAlZo/maxresdefault.jpg",
+  "alt": "i-dle (아이들) “mono” Lyrics & Meaning | Genius Verified",
+  "title": "i-dle (아이들) “mono” Lyrics & Meaning | Genius Verified"
+},
+{
+  "link": "https://youtu.be/iMkw2P_z1ZM",
+  "category": "해외콘텐츠",
+  "member": "아이들",
+  "date": "2026-03-21T03:00:50",
+  "duration": "00:22:19",
+  "thumbnail": "https://i.ytimg.com/vi/iMkw2P_z1ZM/maxresdefault.jpg",
+  "alt": "I-dle on Dropping the \"G,\" American Crushes & Creative Control | Complex News",
+  "title": "I-dle on Dropping the \"G,\" American Crushes & Creative Control | Complex News"
+},
+{
+  "link": "https://youtu.be/4vCJVAVTMX4",
+  "category": "해외콘텐츠",
+  "member": "아이들",
+  "date": "2026-03-24T08:00:06",
+  "duration": "00:30:47",
+  "thumbnail": "https://i.ytimg.com/vi/4vCJVAVTMX4/maxresdefault.jpg",
+  "alt": "i-dle Talks New Music, Touring & More! | Exclusive Interview + Live Performance | 102.7KIISFM & JoJo Wright",
+  "title": "i-dle Talks New Music, Touring & More! | Exclusive Interview + Live Performance | 102.7KIISFM & JoJo Wright"
+},
+{
+  "link": "https://youtu.be/C7x4L3dI2c0",
+  "category": "해외콘텐츠",
+  "member": "아이들",
+  "date": "2026-03-26T02:51:10",
+  "duration": "00:49:46",
+  "thumbnail": "https://i.ytimg.com/vi/C7x4L3dI2c0/maxresdefault.jpg",
+  "alt": "i-dle Talks Mono, Crow, Solo Projects, Tomboy & Upcoming Album | Zach Sang Show",
+  "title": "i-dle Talks Mono, Crow, Solo Projects, Tomboy & Upcoming Album | Zach Sang Show"
+},
+{
+  "link": "https://youtu.be/cxSSZrAAIkk",
+  "category": "해외콘텐츠",
+  "member": "아이들",
+  "date": "2026-04-03T22:52:03",
+  "duration": "00:08:33",
+  "thumbnail": "https://i.ytimg.com/vi/cxSSZrAAIkk/maxresdefault.jpg",
+  "alt": "i-dle with Mike Adam | Audacy Music",
+  "title": "i-dle with Mike Adam | Audacy Music"
+},
+{
+  "link": "https://youtu.be/MY5umQYLXE8",
+  "category": "해외콘텐츠",
+  "member": "아이들",
+  "date": "2026-04-07T00:17:52",
+  "duration": "00:09:59",
+  "thumbnail": "https://i.ytimg.com/vi/MY5umQYLXE8/maxresdefault.jpg",
+  "alt": "i-dle talks being \"family\", rebranding the group, new music and K/DA | Interview | Etalk",
+  "title": "i-dle talks being \"family\", rebranding the group, new music and K/DA | Interview | Etalk"
 }
+
 
 
 

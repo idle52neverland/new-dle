@@ -4126,8 +4126,8 @@ const 라이브방송Cards = [
   "date": "2022-10-08T17:37:02",
   "duration": "00:20:30",
   "thumbnail": "https://i.ytimg.com/vi/Y5FUYFDaLi4/maxresdefault.jpg",
-  "alt": "(여자)아이들 Twitter Spaces Q&A  (Voice Only) 。",
-  "title": "(여자)아이들 Twitter Spaces Q&A  (Voice Only) 。",
+  "alt": "(여자)아이들 Twitter Spaces Q&A (Audio) 。",
+  "title": "(여자)아이들 Twitter Spaces Q&A (Audio) 。",
   "subtag": "그 외"
 },
 {
@@ -6043,13 +6043,35 @@ const 라이브방송Cards = [
   "link": "https://youtu.be/4vDFUR-1Gnc",
   "category": "라이브방송",
   "member": "민니",
-  "date": "2026-03-12T23:45:43",
+  "date": "2026-03-12T21:45:43",
   "duration": "00:35:24",
   "thumbnail": "https://i.ytimg.com/vi/4vDFUR-1Gnc/maxresdefault.jpg",
   "alt": "▫️(ENG) 민니 인스타 라이브",
   "title": "▫️(ENG) 민니 인스타 라이브",
   "subtag": "인스타 라이브"
 },
+  {
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019ce2b2-a408-9944-6d3e-9f9983d2ff18/",
+    "category": "라이브방송",
+    "member": "미연",
+    "date": "2026-03-12T23:38:00",
+    "duration": "00:52:04",
+    "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/7b1279ed-782c-495d-9661-ee3d9d5511e4.jpeg",
+    "alt": "며닝🤓💕",
+    "title": "며닝🤓💕",
+    "subtag": "베리즈 라이브"
+  },
+  {
+    "link": "https://link.berriz.in/app/main/i-dle/live/replay/019ce65a-7172-6fca-b64d-0e2694ba975e/",
+    "category": "라이브방송",
+    "member": "미연",
+    "date": "2026-03-13T17:40:00",
+    "duration": "00:10:40",
+    "thumbnail": "https://statics.berriz.in/cdn/live/thumbnail/3b1e6c75-80c1-451d-aa90-2bc6a6d33fbc.jpeg",
+    "alt": "며닝💐",
+    "title": "며닝💐",
+    "subtag": "베리즈 라이브"
+  }
 
 ];
 window.라이브방송Cards = 라이브방송Cards;

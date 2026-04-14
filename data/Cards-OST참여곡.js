@@ -1,25 +1,14 @@
 const OST참여곡Cards = [
 
 {
-  "link": "https://youtu.be/Q8ERCF_AgIo",
-  "category": "OST참여곡",
-  "member": "소연",
-  "date": "2016-08-25T19:09:18",
-  "duration": "00:03:15",
-  "thumbnail": "https://i.ytimg.com/vi/Q8ERCF_AgIo/hqdefault.jpg",
-  "alt": "[Nada, Jeon So Yeon - Scary] Special Stage | M COUNTDOWN/엠카운트다운 EP.490",
-  "title": "[나다,전소연 - 무서워] Special Stage | M COUNTDOWN/엠카운트다운 EP.490"
-},
-
-{
   "link": "https://youtu.be/F4K1mMDlsj0",
   "category": "OST참여곡",
   "member": "슈화",
   "date": "2017-09-04T18:00:01",
   "duration": "00:04:04",
   "thumbnail": "https://i.ytimg.com/vi/F4K1mMDlsj0/mqdefault.jpg",
-  "alt": "[ Starring SHUHUA ] [MV] 10cm _ pet",
-  "title": "[ Starring SHUHUA ] [MV] 10cm _ pet"
+  "alt": "[MV] 10cm _ pet (Starring SHUHUA)",
+  "title": "[MV] 10cm _ pet (Starring SHUHUA)"
 },
 
 {
@@ -40,8 +29,8 @@ const OST참여곡Cards = [
   "date": "2018-09-21T18:00:01",
   "duration": "00:01:22",
   "thumbnail": "https://i.ytimg.com/vi/2SO-qLst3po/mqdefault.jpg",
-  "alt": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice",
-  "title": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' Dance Practice"
+  "alt": "[STATION X 0] 슬기X신비X청하X소연 'Wow Thing' Dance Practice",
+  "title": "[STATION X 0] 슬기X신비X청하X소연 'Wow Thing' Dance Practice"
 },
 
 {
@@ -51,8 +40,8 @@ const OST참여곡Cards = [
   "date": "2018-09-26T18:00:01",
   "duration": "00:01:00",
   "thumbnail": "https://i.ytimg.com/vi/AGa2wCSK45Y/maxresdefault.jpg",
-  "alt": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' #비하인더스테이션",
-  "title": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' #비하인더스테이션"
+  "alt": "[STATION X 0] 슬기X신비X청하X소연 'Wow Thing' #비하인더스테이션",
+  "title": "[STATION X 0] 슬기X신비X청하X소연 'Wow Thing' #비하인더스테이션"
 },
 
 {
@@ -62,8 +51,8 @@ const OST참여곡Cards = [
   "date": "2018-09-28T18:00:04",
   "duration": "00:03:24",
   "thumbnail": "https://i.ytimg.com/vi/KR5CtMLuiqQ/mqdefault.jpg",
-  "alt": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' MV",
-  "title": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' MV"
+  "alt": "[STATION X 0] 슬기X신비X청하X소연 'Wow Thing' MV",
+  "title": "[STATION X 0] 슬기X신비X청하X소연 'Wow Thing' MV"
 },
 
 {
@@ -73,8 +62,8 @@ const OST참여곡Cards = [
   "date": "2018-11-03T16:30:00",
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/UOxkGD8qRB4/maxresdefault.jpg",
-  "alt": "미연,소연 - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends",
-  "title": "[ 미연,소연 ] - K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends"
+  "alt": "K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends",
+  "title": "K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) | Music Video - League of Legends"
 },
 
 {
@@ -95,8 +84,8 @@ const OST참여곡Cards = [
   "date": "2019-01-30T18:00:03",
   "duration": "00:03:04",
   "thumbnail": "https://i.ytimg.com/vi/ZvhpjERxJlQ/hqdefault.jpg",
-  "alt": "[ Written by SOYEON ] [MV] CLC _ No",
-  "title": "[ Written by SOYEON ] [MV] CLC _ No"
+  "alt": "[MV] CLC - 'No' (Written by SOYEON)",
+  "title": "[MV] CLC - 'No' (Written by SOYEON)"
 },
 
 {
@@ -106,8 +95,8 @@ const OST참여곡Cards = [
   "date": "2019-03-04T12:00:02",
   "duration": "00:03:14",
   "thumbnail": "https://i.ytimg.com/vi/_E5JtAcc3cY/maxresdefault.jpg",
-  "alt": "[ Feat. SOYEON ] KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV",
-  "title": "[ Feat. SOYEON ] KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV"
+  "alt": "KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV",
+  "title": "KEY 키 'I Wanna Be (Feat. 소연 of (여자)아이들)' MV"
 },
 
 {
@@ -139,8 +128,8 @@ const OST참여곡Cards = [
   "date": "2019-07-09T18:00:07",
   "duration": "00:01:31",
   "thumbnail": "https://i.ytimg.com/vi/fkfeTUGFq6E/sddefault.jpg",
-  "alt": "[ Feat. MIYEON ] 행주(Hangzoo) X 미연 - 'Cart' Special Clip",
-  "title": "[ Feat. MIYEON ] 행주(Hangzoo) X 미연 - 'Cart' Special Clip"
+  "alt": "행주(Hangzoo) X 미연 - 'Cart' Special Clip",
+  "title": "행주(Hangzoo) X 미연 - 'Cart' Special Clip"
 },
 
 {
@@ -161,8 +150,8 @@ const OST참여곡Cards = [
   "date": "2019-10-18T22:00:09",
   "duration": "00:03:08",
   "thumbnail": "https://i.ytimg.com/vi/-kVhMnKuk_A/mqdefault.jpg",
-  "alt": "[ Feat. MINNIE ] WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV)",
-  "title": "[ Feat. MINNIE ] WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV)"
+  "alt": "WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV)",
+  "title": "WENGIE ft. MINNIE of (G)I-DLE 'EMPIRE' (OFFICIAL MV)"
 },
 
 {
@@ -172,8 +161,8 @@ const OST참여곡Cards = [
   "date": "2019-11-10T21:08:40",
   "duration": "00:03:19",
   "thumbnail": "https://i.ytimg.com/vi/sVZpHFXcFJw/maxresdefault.jpg",
-  "alt": "소연(SOYEON) - True Damage - GIANTS (ft. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) | League of Legends",
-  "title": "소연(SOYEON) - True Damage - GIANTS (ft. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) | League of Legends"
+  "alt": "True Damage - GIANTS (ft. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) | League of Legends",
+  "title": "True Damage - GIANTS (ft. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) | League of Legends"
 },
 
 {
@@ -183,8 +172,8 @@ const OST참여곡Cards = [
   "date": "2020-07-22T20:00:04",
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/4VmLuWDkHYQ/maxresdefault.jpg",
-  "alt": "[ Feat. SOYEON ] HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV",
-  "title": "[ Feat. SOYEON ] HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV"
+  "alt": "HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV",
+  "title": "HYO 효연 ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))’ MV"
 },
 
 {
@@ -194,8 +183,8 @@ const OST참여곡Cards = [
   "date": "2020-09-07T18:00:07",
   "duration": "00:03:06",
   "thumbnail": "https://i.ytimg.com/vi/en4BDQgflG0/mqdefault.jpg",
-  "alt": "[ Written By Soyeon ] (김남주) 'Bird' MV",
-  "title": "[ Written By Soyeon ] (김남주) 'Bird' MV"
+  "alt": "김남주 - 'Bird' MV (Written By Soyeon)",
+  "title": "김남주 - 'Bird' MV (Written By Soyeon)"
 },
 
 {
@@ -227,8 +216,8 @@ const OST참여곡Cards = [
   "date": "2020-10-15T18:00:02",
   "duration": "00:02:56",
   "thumbnail": "https://i.ytimg.com/vi/602Esq9_2G0/maxresdefault.jpg",
-  "alt": "[MV] 미연,민니 ((여자)아이들) - We Already Fell In Love [도도솔솔라라솔 OST Part.4 (DoDoSolSolLaLaSol OST Part.4)]",
-  "title": "[MV] 미연,민니 ((여자)아이들) - We Already Fell In Love [도도솔솔라라솔 OST Part.4 (DoDoSolSolLaLaSol OST Part.4)]"
+  "alt": "[MV] 미연,민니 - We Already Fell In Love [도도솔솔라라솔 OST Part.4 (DoDoSolSolLaLaSol OST Part.4)]",
+  "title": "[MV] 미연,민니 - We Already Fell In Love [도도솔솔라라솔 OST Part.4 (DoDoSolSolLaLaSol OST Part.4)]"
 },
 
 {
@@ -239,7 +228,7 @@ const OST참여곡Cards = [
   "duration": "00:03:51",
   "thumbnail": "https://i.ytimg.com/vi/3VTkBuxU4yk/maxresdefault.jpg",
   "alt": "K/DA - MORE ft. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine (Official Music Video)",
-  "title": "[MIYEON, SOYEON] K/DA - MORE | ft. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine (Official Music Video)"
+  "title": "K/DA - MORE | ft. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine (Official Music Video)"
 },
 
 {
@@ -260,8 +249,8 @@ const OST참여곡Cards = [
   "date": "2021-01-21T21:05:42",
   "duration": "00:02:26",
   "thumbnail": "https://i.ytimg.com/vi/4On_fj1ccks/mqdefault.jpg",
-  "alt": "< Prod. SOYEON > [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송",
-  "title": "[ Prod. SOYEON ] [최종회] 이서빈 - Eternal Sunshine @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송"
+  "alt": "이서빈 - Eternal Sunshine (Prod. SOYEON) @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송",
+  "title": "이서빈 - Eternal Sunshine (Prod. SOYEON) @파이널 미션#캡틴 | CAP-TEEN EP.10 | Mnet 210121 방송"
 },
 
 {
@@ -293,8 +282,8 @@ const OST참여곡Cards = [
   "date": "2021-09-30T21:00:10",
   "duration": "00:04:16",
   "thumbnail": "https://i.ytimg.com/vi/Lx4ka2qBY_A/maxresdefault.jpg",
-  "alt": "[ Feat. MINNIE ] F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV]",
-  "title": "[ Feat. MINNIE ] F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV]"
+  "alt": "F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV]",
+  "title": "F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE) - MONEY HONEY (Prod. By URBOYTJ) [Official MV]"
 },
 
 {
@@ -315,8 +304,8 @@ const OST참여곡Cards = [
   "date": "2021-10-16T22:00:32",
   "duration": "00:03:36",
   "thumbnail": "https://i.ytimg.com/vi/l3pXHJTmpqU/sddefault.jpg",
-  "alt": "[Feat. MIYEON ] DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video",
-  "title": "[ Feat. MIYEON ] DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video"
+  "alt": "DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video",
+  "title": "DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video"
 },
 
 {
@@ -337,8 +326,8 @@ const OST참여곡Cards = [
   "date": "2021-11-21T12:00:13",
   "duration": "00:03:09",
   "thumbnail": "https://i.ytimg.com/vi/eA2QBBM8s8s/sddefault.jpg",
-  "alt": "[어른연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love",
-  "title": "[어른연습생 OST Part 2] 미연 ((여자)아이들) - Imagine Love"
+  "alt": "미연 ((여자)아이들) - Imagine Love [어른연습생 OST Part 2]",
+  "title": "미연 ((여자)아이들) - Imagine Love [어른연습생 OST Part 2]"
 },
 
 {
@@ -348,8 +337,8 @@ const OST참여곡Cards = [
   "date": "2021-12-07T18:01:01",
   "duration": "00:03:03",
   "thumbnail": "https://i.ytimg.com/vi/qIyXFwnGy_I/maxresdefault.jpg",
-  "alt": "[ Feat. SOYEON ] 라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV",
-  "title": "[ Feat. SOYEON ] 라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV"
+  "alt": "라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV",
+  "title": "라비(RAVI) - '애니(feat.소연 ((여자)아이들))' MV"
 },
 
 {
@@ -359,7 +348,7 @@ const OST참여곡Cards = [
   "date": "2022-01-04T17:57:55",
   "duration": "00:03:13",
   "thumbnail": "https://i.ytimg.com/vi/KeMq2QKhcTE/sddefault.jpg",
-  "alt": "[AUDIO] 소연(SOYEON) -Fire (With 브랜뉴차일드 & 클루씨)",
+  "alt": "[AUDIO] 소연(SOYEON) - Fire (With 브랜뉴차일드 & 클루씨)",
   "title": "[AUDIO] 소연(SOYEON) - Fire (With 브랜뉴차일드 & 클루씨)"
 },
 
@@ -425,8 +414,8 @@ const OST참여곡Cards = [
   "date": "2022-04-25T18:00:31",
   "duration": "00:03:31",
   "thumbnail": "https://i.ytimg.com/vi/q5EcE3zTmJc/mqdefault.jpg",
-  "alt": "지금부터, 쇼타임! — 전소연 \"FREAK SHOW\" Official VideoㅣFrom Now On, Showtime!",
-  "title": "지금부터, 쇼타임! — 전소연 \"FREAK SHOW\" Official VideoㅣFrom Now On, Showtime!"
+  "alt": "지금부터, 쇼타임! — 전소연 'FREAK SHOW' Official VideoㅣFrom Now On, Showtime!",
+  "title": "지금부터, 쇼타임! — 전소연 'FREAK SHOW' Official VideoㅣFrom Now On, Showtime!"
 },
 
 {
@@ -436,8 +425,8 @@ const OST참여곡Cards = [
   "date": "2022-06-21T18:00:33",
   "duration": "00:04:00",
   "thumbnail": "https://i.ytimg.com/vi/rsgyQYs4C8A/maxresdefault.jpg",
-  "alt": "[M/V] 민니 ((여자)아이들) - 너의 하루를 묻고 싶어 :: 링크: 먹고 사랑하라, 죽이게(Link: Eat, Love, Kill) OST Part.2",
-  "title": "[M/V] 민니 ((여자)아이들) - 너의 하루를 묻고 싶어 :: 링크: 먹고 사랑하라, 죽이게(Link: Eat, Love, Kill) OST Part.2"
+  "alt": "[M/V] 민니 ((여자)아이들) - 너의 하루를 묻고 싶어 | 링크: 먹고 사랑하라, 죽이게(Link: Eat, Love, Kill) OST Part.2",
+  "title": "[M/V] 민니 ((여자)아이들) - 너의 하루를 묻고 싶어 | 링크: 먹고 사랑하라, 죽이게(Link: Eat, Love, Kill) OST Part.2"
 },
 
 {
@@ -502,8 +491,8 @@ const OST참여곡Cards = [
   "date": "2023-02-23T18:00:27",
   "duration": "00:04:02",
   "thumbnail": "https://i.ytimg.com/vi/YlEahTLcL_Y/maxresdefault.jpg",
-  "alt": "(여자)아이들 (G)I-DLE 우기(YUQI) X 하이퍼타임(HypeerTime) 'Not Cinderella' Live Clip - 신데렐라는 내가 아니었다 OST",
-  "title": "(여자)아이들 (G)I-DLE 우기(YUQI) X 하이퍼타임(HypeerTime) 'Not Cinderella' Live Clip - 신데렐라는 내가 아니었다 OST"
+  "alt": "우기(YUQI) X 하이퍼타임(HypeerTime) 'Not Cinderella' Live Clip - 신데렐라는 내가 아니었다 OST",
+  "title": "우기(YUQI) X 하이퍼타임(HypeerTime) 'Not Cinderella' Live Clip - 신데렐라는 내가 아니었다 OST"
 },
 
 {
@@ -568,8 +557,8 @@ const OST참여곡Cards = [
   "date": "2023-05-28T16:28:13",
   "duration": "00:02:06",
   "thumbnail": "https://i.ytimg.com/vi/4xycl7eFNmE/mqdefault.jpg",
-  "alt": "[ Feat. MINNIE ] Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023",
-  "title": "[ Feat. MINNIE ] Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023"
+  "alt": "Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023",
+  "title": "Making Waves” ft. Minnie of (G)I-DLE // VALORANT Champions Tour  Pacific 2023"
 },
 
 {
@@ -579,8 +568,8 @@ const OST참여곡Cards = [
   "date": "2023-06-30T15:00:15",
   "duration": "00:03:49",
   "thumbnail": "https://i.ytimg.com/vi/1XIi9ofX2kE/mqdefault.jpg",
-  "alt": "[ Feat. YUQI ] YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV",
-  "title": "[ Feat. YUQI ] YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV"
+  "alt": "YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV",
+  "title": "YENA (최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) MV"
 },
 
 {
@@ -634,8 +623,8 @@ const OST참여곡Cards = [
   "date": "2023-10-17T18:00:13",
   "duration": "00:03:33",
   "thumbnail": "https://i.ytimg.com/vi/NL-uanxNldk/maxresdefault.jpg",
-  "alt": "[ Feat. MINNIE ] 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN]",
-  "title": "[ Feat. MINNIE ] 로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN]"
+  "alt": "로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN]",
+  "title": "로꼬 (Loco) - 'NOT OK (Feat. 민니 ((여자)아이들))' Official Music Video [ENG/CHN]"
 },
 
 {
@@ -700,8 +689,8 @@ const OST참여곡Cards = [
   "date": "2023-12-21T17:00:09",
   "duration": "00:02:18",
   "thumbnail": "https://i.ytimg.com/vi/rO1ANdXvdTg/mqdefault.jpg",
-  "alt": "[ Feat. YUQI ] Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)",
-  "title": "[ Feat. YUQI ] Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)"
+  "alt": "Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)",
+  "title": "Alan Walker, YUQI of (G)I-DLE, JVKE - Fire! (Official Music Video)"
 },
 
 {
@@ -722,8 +711,8 @@ const OST참여곡Cards = [
   "date": "2024-02-20T18:00:11",
   "duration": "00:02:43",
   "thumbnail": "https://i.ytimg.com/vi/O_B-0iPCbaU/maxresdefault.jpg",
-  "alt": "[Cameo: SOYEON] 비비 (BIBI) - Sugar Rush Official M/V",
-  "title": "[Cameo: SOYEON] 비비 (BIBI) - Sugar Rush Official M/V"
+  "alt": "비비 (BIBI) - Sugar Rush Official M/V [Cameo: SOYEON]",
+  "title": "비비 (BIBI) - Sugar Rush Official M/V [Cameo: SOYEON]"
 },
 
 {
@@ -788,8 +777,8 @@ const OST참여곡Cards = [
   "date": "2024-09-23T18:00:27",
   "duration": "00:03:16",
   "thumbnail": "https://i.ytimg.com/vi/AlirzLFEHUI/mqdefault.jpg",
-  "alt": "[ Prod.SOYEON ] QWER '내 이름 맑음' Official MV",
-  "title": "[ Prod.SOYEON ] QWER '내 이름 맑음' Official MV"
+  "alt": "QWER '내 이름 맑음' Official MV (Prod.SOYEON)",
+  "title": "QWER '내 이름 맑음' Official MV (Prod.SOYEON)"
 },
 
 {
@@ -855,7 +844,7 @@ const OST참여곡Cards = [
   "duration": "00:04:38",
   "thumbnail": "https://i.ytimg.com/vi/ZlpxcCiCCP4/maxresdefault.jpg",
   "alt": "周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화)",
-  "title": "[ Starring SHUHUA ] 周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화)"
+  "title": "(Starring SHUHUA) 周興哲Eric Chou《幾乎是愛情 Almost》Official Music Video (特邀主演:舒華 Shuhua 슈화)"
 },
 
 {
@@ -890,7 +879,16 @@ const OST참여곡Cards = [
   "alt": "[MV] MINNIE(민니) ((G)I-DLE ((여자)아이들)) - Draw the Moon(달이 그려지다) (feat. MIYAVI)",
   "title": "[MV] MINNIE(민니) ((G)I-DLE ((여자)아이들)) - Draw the Moon(달이 그려지다) (feat. MIYAVI)"
 },
-
+{
+  "link": "https://youtu.be/xTogmXfHI2E",
+  "category": "OST참여곡",
+  "member": "우기",
+  "date": "2025-04-03T03:15:50",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/xTogmXfHI2E/maxresdefault.jpg",
+  "alt": "▫️[FMV] pH-1 'Baby Steps' (Feat. YUQI) (번역/자막/가사)",
+  "title": "▫️[FMV] pH-1 'Baby Steps' (Feat. YUQI) (번역/자막/가사)"
+},
 {
   "link": "https://youtu.be/_UwS-Iox8gw",
   "category": "OST참여곡",
@@ -953,8 +951,8 @@ const OST참여곡Cards = [
   "date": "2025-06-16T00:00:17",
   "duration": "00:02:58",
   "thumbnail": "https://i.ytimg.com/vi/uWT79Qq52sU/mqdefault.jpg",
-  "alt": "[ Prod.SOYEON ] Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV",
-  "title": "[ Prod.SOYEON ] Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV"
+  "alt": "Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (Prod.SOYEON)",
+  "title": "Baby DONT Cry - '지금을 놓치면 분명 너 후회할 거야' MV (Prod.SOYEON)"
 },
 
 {
@@ -964,8 +962,8 @@ const OST참여곡Cards = [
   "date": "2025-06-17T18:01:06",
   "duration": "00:03:27",
   "thumbnail": "https://i.ytimg.com/vi/nqBnrY6GrtY/maxresdefault.jpg",
-  "alt": "[ Prod.YUQI ] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video",
-  "title": "[ Prod.YUQI ] NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video"
+  "alt": "NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (Prod.YUQI)",
+  "title": "NOWZ (나우즈) '자유롭게 날아 (Feat. 우기 (YUQI))' Official Music Video (Prod.YUQI)"
 },
 
 {
@@ -975,8 +973,8 @@ const OST참여곡Cards = [
   "date": "2025-06-23T18:00:01",
   "duration": "00:02:45",
   "thumbnail": "https://i.ytimg.com/vi/KEUlytSqlsU/mqdefault.jpg",
-  "alt": "[ Prod.SOYEON] Baby DONT Cry - ‘F Girl’ MV",
-  "title": "[ Prod.SOYEON ] Baby DONT Cry - ‘F Girl’ MV"
+  "alt": "Baby DONT Cry - ‘F Girl’ MV (Prod.SOYEON)",
+  "title": "Baby DONT Cry - ‘F Girl’ MV (Prod.SOYEON)"
 },
 
 {
@@ -1191,7 +1189,48 @@ const OST참여곡Cards = [
   "thumbnail": "https://i.ytimg.com/vi/ElbFCtOgBBM/maxresdefault.jpg",
   "alt": "[M/V] 민니 (MINNIE) - Hello | 세이렌(Siren's Kiss) OST Part.3",
   "title": "[M/V] 민니 (MINNIE) - Hello | 세이렌(Siren's Kiss) OST Part.3"
+},
+{
+  "link": "https://youtu.be/A6MFdJ_ZCkg",
+  "category": "OST참여곡",
+  "member": "민니",
+  "date": "2026-03-27T12:00:08",
+  "duration": "00:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/A6MFdJ_ZCkg/maxresdefault.jpg",
+  "alt": "CARRY YOU -  BamBam x MINNIE (Official Music Video) | PUBG MOBILE",
+  "title": "CARRY YOU -  BamBam x MINNIE (Official Music Video) | PUBG MOBILE"
+},
+{
+  "link": "https://youtu.be/uktlbbOxSws",
+  "category": "OST참여곡",
+  "member": "미연",
+  "date": "2026-04-10T19:03:48",
+  "duration": "00:02:10",
+  "thumbnail": "https://i.ytimg.com/vi/uktlbbOxSws/maxresdefault.jpg",
+  "alt": "[AUDIO] NUTON - Don't Ever Say Goodbye (Feat. MIYEON)",
+  "title": "[AUDIO] NUTON - Don't Ever Say Goodbye (Feat. MIYEON)"
+},
+{
+  "link": "https://youtu.be/KaOumNboHz4",
+  "category": "OST참여곡",
+  "member": "미연",
+  "date": "2026-04-13T12:00:30",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/KaOumNboHz4/maxresdefault.jpg",
+  "alt": "[AUDIO] 미연(MIYEON) - Bloom Again (Prod by Yoon Ilsang) | 기후행동 캠페인송",
+  "title": "[AUDIO] 미연(MIYEON) - Bloom Again (Prod by Yoon Ilsang) | 기후행동 캠페인송"
+},
+{
+  "link": "https://youtu.be/4-G7LceKOqA",
+  "category": "OST참여곡",
+  "member": "미연",
+  "date": "2026-04-14T11:00:05",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/4-G7LceKOqA/hqdefault.jpg",
+  "alt": "2026년 기후변화주간 캠페인송 | i-dle(아이들) 미연 - BLOOM AGAIN 🌏 | 기후에너지환경부",
+  "title": "2026년 기후변화주간 캠페인송 | i-dle(아이들) 미연 - BLOOM AGAIN 🌏 | 기후에너지환경부"
 }
+
 
 
 

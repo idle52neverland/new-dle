@@ -166,17 +166,6 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/kIzY2F-9u2s",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2019-03-05T14:29:52",
-  "duration": "00:03:32",
-  "thumbnail": "https://i.ytimg.com/vi/kIzY2F-9u2s/sddefault.jpg",
-  "alt": "[IDOL RADIO]☆★(여자)아이들의 메들리댄스~★☆",
-  "title": "[IDOL RADIO]☆★(여자)아이들의 메들리댄스~★☆"
-},
-
-{
   "link": "https://youtu.be/yj4-s_UEQqU",
   "category": "출연콘텐츠",
   "member": "우기",
@@ -186,7 +175,16 @@ const 출연콘텐츠Cards = [
   "alt": "(여자)아이들이 우기 때문에 인내심이 대폭발해버렸다 | 마피아댄스 | MAFIA DANCE | Senorita | (G)I-DLE",
   "title": "(여자)아이들이 우기 때문에 인내심이 대폭발해버렸다 | 마피아댄스 | MAFIA DANCE | Senorita | (G)I-DLE"
 },
-
+{
+  "link": "https://youtu.be/5RgCND3HbWw",
+  "category": "출연콘텐츠",
+  "member": "아이들",
+  "date": "2019-03-07T14:53:30",
+  "duration": "01:06:00",
+  "thumbnail": "https://i.ytimg.com/vi/5RgCND3HbWw/sddefault.jpg",
+  "alt": "[Multi SUB/I'm Celuv] (여자)아이들((G)I-DLE), 19년 3월 7일 방송 Full Ver. (Celuv.TV)",
+  "title": "[Multi SUB/I'm Celuv] (여자)아이들((G)I-DLE), 19년 3월 7일 방송 Full Ver. (Celuv.TV)"
+},
 {
   "link": "https://youtu.be/vok-tx3LadQ",
   "category": "출연콘텐츠",
@@ -361,17 +359,6 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/hWtqH3i3QFo",
-  "category": "출연콘텐츠",
-  "member": "아이들",
-  "date": "2019-10-28T18:22:22",
-  "duration": "00:02:23",
-  "thumbnail": "https://i.ytimg.com/vi/hWtqH3i3QFo/sddefault.jpg",
-  "alt": "[뽀짝포착] 천재돌 (여자)아이들의 귀염뽀짝 리허설 현장! / (여자)아이들 IDOL RADIO 비하인드 / (G)I-DLE IDOL RADIO BEHIND",
-  "title": "[뽀짝포착] 천재돌 (여자)아이들의 귀염뽀짝 리허설 현장! / (여자)아이들 IDOL RADIO 비하인드 / (G)I-DLE IDOL RADIO BEHIND"
-},
-
-{
   "link": "https://youtu.be/DCzC6tbIcyg",
   "category": "출연콘텐츠",
   "member": "아이들",
@@ -385,7 +372,7 @@ const 출연콘텐츠Cards = [
 {
   "link": "https://youtu.be/utlgTmcA_fY",
   "category": "출연콘텐츠",
-  "member": "아이들",
+  "member": "민니, 슈화",
   "date": "2019-12-05T20:59:36",
   "duration": "00:14:39",
   "thumbnail": "https://i.ytimg.com/vi/utlgTmcA_fY/sddefault.jpg",
@@ -2564,17 +2551,6 @@ const 출연콘텐츠Cards = [
 },
 
 {
-  "link": "https://youtu.be/5Cve_AY1R3g",
-  "category": "출연콘텐츠",
-  "member": "소연",
-  "date": "2021-07-13T18:02:04",
-  "duration": "00:09:16",
-  "thumbnail": "https://i.ytimg.com/vi/5Cve_AY1R3g/sddefault.jpg",
-  "alt": "삠삠 듣기 딱 좋은 날씨네☀ 전소연의 첫 미니 앨범 [Windy] 작업기 | 최애플레이리스트 ep.11",
-  "title": "삠삠 듣기 딱 좋은 날씨네☀ 전소연의 첫 미니 앨범 [Windy] 작업기 | 최애플레이리스트 ep.11"
-},
-
-{
   "link": "https://youtu.be/2iT0sfJN1qg",
   "category": "출연콘텐츠",
   "member": "소연",
@@ -2605,17 +2581,6 @@ const 출연콘텐츠Cards = [
   "thumbnail": "https://i.ytimg.com/vi/qKb5UYHcdLg/sddefault.jpg",
   "alt": "[ENG] 전소연에게 딸의 팬레터를 읽어줬다 | 안녕자네 Ep.01",
   "title": "[ENG] 전소연에게 딸의 팬레터를 읽어줬다 | 안녕자네 Ep.01"
-},
-
-{
-  "link": "https://youtu.be/4m1QS-TywCo",
-  "category": "출연콘텐츠",
-  "member": "소연",
-  "date": "2021-07-20T18:00:01",
-  "duration": "00:08:45",
-  "thumbnail": "https://i.ytimg.com/vi/4m1QS-TywCo/sddefault.jpg",
-  "alt": "전소연의 인생 띵곡 플리🎶 이 노래들 들으면서 소연이 생각 해달라 하네요😇 | 최애플레이리스트 ep.12",
-  "title": "전소연의 인생 띵곡 플리🎶 이 노래들 들으면서 소연이 생각 해달라 하네요😇 | 최애플레이리스트 ep.12"
 },
 
 {
@@ -3166,7 +3131,16 @@ const 출연콘텐츠Cards = [
   "alt": "[ENG SUB] 별안간 들려온 🚨무삭제🤟🚨 버전에 춤추다 놀란 (여자)아이들!? 🛒 [매터돌 EP.4] | IDOL’S Snack Spree | (G)I-DLE",
   "title": "[ENG SUB] 별안간 들려온 🚨무삭제🤟🚨 버전에 춤추다 놀란 (여자)아이들!? 🛒 [매터돌 EP.4] | IDOL’S Snack Spree | (G)I-DLE"
 },
-
+{
+  "link": "https://youtu.be/RYR4H1DYzcs",
+  "category": "출연콘텐츠",
+  "member": "민니",
+  "date": "2022-03-24T20:36:51",
+  "duration": "00:22:31",
+  "thumbnail": "https://i.ytimg.com/vi/RYR4H1DYzcs/sddefault.jpg",
+  "alt": "민니야 언니 화장 잘하지🤟😈🤟 오늘 직업 만족도 최상♥인 이사배(RISABAE Makeup)",
+  "title": "민니야 언니 화장 잘하지🤟😈🤟 오늘 직업 만족도 최상♥인 이사배(RISABAE Makeup)"
+},
 {
   "link": "https://youtu.be/K9Pt2WGVy24",
   "category": "출연콘텐츠",
@@ -7678,6 +7652,7 @@ const 출연콘텐츠Cards = [
   "alt": "[abyss] 아이스블루래빗 연습영상",
   "title": "[abyss] 아이스블루래빗 연습영상"
 }
+
 
 
 

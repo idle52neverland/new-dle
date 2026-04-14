@@ -51,7 +51,7 @@ const 공식채널Cards = [
 {
   "link": "https://youtu.be/yXQFSJV2wtQ",
   "category": "공식채널",
-  "member": "아이들",
+  "member": "소연",
   "date": "2018-01-31T23:00:12",
   "duration": "00:03:43",
   "thumbnail": "https://i.ytimg.com/vi/yXQFSJV2wtQ/maxresdefault.jpg",
@@ -11802,9 +11802,73 @@ const 공식채널Cards = [
   "alt": "민니의 LA DAY OFF [i-log] #47 😋 | i-dle (아이들)ㅣSUB",
   "title": "민니의 LA DAY OFF [i-log] #47 😋 | i-dle (아이들)ㅣSUB",
   "subtag": "I-LOG"
+},
+{
+  "link": "https://youtu.be/4WybwsKIeIQ",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-03-27T19:00:00",
+  "duration": "00:25:32",
+  "thumbnail": "https://i.ytimg.com/vi/4WybwsKIeIQ/maxresdefault.jpg",
+  "alt": "2026 i-dle WORLD TOUR [Syncopation] Behind the Rhythm EP.02 | i-dle (아이들)ㅣSUB",
+  "title": "2026 i-dle WORLD TOUR [Syncopation] Behind the Rhythm EP.02 | i-dle (아이들)ㅣSUB",
+  "subtag": "콘서트 비하인드"
+},
+{
+  "link": "https://youtu.be/VIbpQHu_VDQ",
+  "category": "공식채널",
+  "member": "미연, 우기",
+  "date": "2026-03-30T22:00:00",
+  "duration": "00:12:56",
+  "thumbnail": "https://i.ytimg.com/vi/VIbpQHu_VDQ/maxresdefault.jpg",
+  "alt": "미연의 LA DAY OFF [i-log] #48 😉 | i-dle (아이들)ㅣSUB",
+  "title": "미연의 LA DAY OFF [i-log] #48 😉 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-LOG"
+},
+{
+  "link": "https://youtu.be/lOWRZohXAP4",
+  "category": "공식채널",
+  "member": "우기",
+  "date": "2026-04-01T19:00:00",
+  "duration": "00:12:02",
+  "thumbnail": "https://i.ytimg.com/vi/lOWRZohXAP4/maxresdefault.jpg",
+  "alt": "우기의 ToryBurch FW26 & Fendi FW26 Fashion Show 비하인드 [i-talk] #243 | i-dle (아이들)ㅣSUB",
+  "title": "우기의 ToryBurch FW26 & Fendi FW26 Fashion Show 비하인드 [i-talk] #243 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/ZNG6i6aCvAA",
+  "category": "공식채널",
+  "member": "민니",
+  "date": "2026-04-03T19:00:00",
+  "duration": "00:11:31",
+  "thumbnail": "https://i.ytimg.com/vi/ZNG6i6aCvAA/maxresdefault.jpg",
+  "alt": "민니의 MiuMiu FW26 Fashion Show 비하인드 [i-talk] #244 | i-dle (아이들)ㅣSUB",
+  "title": "민니의 MiuMiu FW26 Fashion Show 비하인드 [i-talk] #244 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/Qjl5p8GoxdA",
+  "category": "공식채널",
+  "member": "미연",
+  "date": "2026-04-07T19:00:44",
+  "duration": "00:15:26",
+  "thumbnail": "https://i.ytimg.com/vi/Qjl5p8GoxdA/maxresdefault.jpg",
+  "alt": "미연의 shu uemura 타이베이 팝업스토어 행사 & TGC 2026 S/S 비하인드 [i-talk] #245 | i-dle (아이들)ㅣSUB",
+  "title": "미연의 shu uemura 타이베이 팝업스토어 행사 & TGC 2026 S/S 비하인드 [i-talk] #245 | i-dle (아이들)ㅣSUB",
+  "subtag": "I-TALK"
+},
+{
+  "link": "https://youtu.be/LObn2C4EPCk",
+  "category": "공식채널",
+  "member": "아이들",
+  "date": "2026-04-10T19:00:39",
+  "duration": "00:17:50",
+  "thumbnail": "https://i.ytimg.com/vi/LObn2C4EPCk/maxresdefault.jpg",
+  "alt": "2026 i-dle WORLD TOUR [Syncopation] Behind the Rhythm EP.03 | i-dle (아이들)ㅣSUB",
+  "title": "2026 i-dle WORLD TOUR [Syncopation] Behind the Rhythm EP.03 | i-dle (아이들)ㅣSUB",
+  "subtag": "콘서트 비하인드"
 }
-
-
 
 
 ];

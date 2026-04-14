@@ -63,8 +63,8 @@ const 노래클립Cards = [
   "date": "2018-03-25T16:12:04",
   "duration": "00:02:15",
   "thumbnail": "https://i.ytimg.com/vi/Hnfbq6U4KO8/hqdefault.jpg",
-  "alt": "전소연 Cover - 니가 뭔데(WHO YOU?) (원곡: G-DRAGON)。",
-  "title": "전소연 Cover - 니가 뭔데(WHO YOU?) (원곡: G-DRAGON)。"
+  "alt": "전소연 '니가 뭔데(WHO YOU?)' Cover (원곡: G-DRAGON)。",
+  "title": "전소연 '니가 뭔데(WHO YOU?)' Cover (원곡: G-DRAGON)。"
 },
 
 {
@@ -375,16 +375,6 @@ const 노래클립Cards = [
   "thumbnail": "https://i.ytimg.com/vi/1t7yn-8348I/maxresdefault.jpg",
   "alt": "《芭啦芭啦樱之花》郑恺 Lucas 宋雨琦 《奔跑吧3》 Keep Running S3 EP10 花絮 20190628 [ 浙江卫视官方HD ]",
   "title": "《芭啦芭啦樱之花》郑恺 Lucas 宋雨琦 《奔跑吧3》 Keep Running S3 EP10 花絮 20190628 [ 浙江卫视官方HD ]"
-},
-{
-  "link": "https://youtu.be/Co1eTktOTpc",
-  "category": "노래클립",
-  "member": "미연, 민니",
-  "date": "2019-07-05T09:48:20",
-  "duration": "00:01:56",
-  "thumbnail": "https://i.ytimg.com/vi/Co1eTktOTpc/sddefault.jpg",
-  "alt": "[IDOL RADIO] 본격 귀호강 TIME! 미연&민니의 Someone Like You",
-  "title": "[IDOL RADIO] 본격 귀호강 TIME! 미연&민니의 Someone Like You"
 },
 
 {
@@ -699,7 +689,7 @@ const 노래클립Cards = [
   "link": "https://youtu.be/04l4LH_U21E",
   "category": "노래클립",
   "member": "아이들",
-  "date": "2020-08-07T15:06:51",
+  "date": "2020-08-06T15:06:51",
   "duration": "00:03:47",
   "thumbnail": "https://i.ytimg.com/vi/04l4LH_U21E/sddefault.jpg",
   "alt": "[집방캠][4K] 덤디덤디(DUMDi DUMDi) - (여자)아이들 ((G)I-DLE) LIVE 컬투쇼",

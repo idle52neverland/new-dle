@@ -1,41 +1,448 @@
 const 라디오오디오쇼Cards = [
 
 {
+  "link": "https://youtu.be/LIHNggz8G5c",
+  "category": "라디오오디오쇼",
+  "member": "미연, 소연, 우기",
+  "date": "2018-05-21T12:41:18",
+  "duration": "00:52:34",
+  "thumbnail": "https://i.ytimg.com/vi/LIHNggz8G5c/hqdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE)) 미연, 소연, 우기 [SBS 이국주의 영스트리트] 。",
+  "title": "(여자)아이들((G)I-DLE)) 미연, 소연, 우기 [SBS 이국주의 영스트리트] 。",
+  "subtag": "라디오"
+},
+{
   "link": "https://youtu.be/YpIzTYXcza8",
   "category": "라디오오디오쇼",
-  "member": "아이들",
-  "date": "2018-05-31T17:22:38",
+  "member": "미연, 소연, 우기",
+  "date": "2018-05-21T12:41:19",
   "duration": "00:01:14",
   "thumbnail": "https://i.ytimg.com/vi/YpIzTYXcza8/maxresdefault.jpg",
   "alt": "여자 아이들 미연, 오디션때 부른 곡은? [SBS 이국주의 영스트리트]",
   "title": "여자 아이들 미연, 오디션때 부른 곡은? [SBS 이국주의 영스트리트]",
   "subtag": "라디오"
 },
-
+{
+  "link": "https://youtu.be/GksBVAL4-O8",
+  "category": "라디오오디오쇼",
+  "member": "미연, 민니, 소연",
+  "date": "2018-05-25T17:17:00",
+  "duration": "00:56:53",
+  "thumbnail": "https://i.ytimg.com/vi/GksBVAL4-O8/hqdefault.jpg",
+  "alt": "[정오의 희망곡 김신영입니다] 아이들(미연,민니,소연) X 아이아이 。",
+  "title": "[정오의 희망곡 김신영입니다] 아이들(미연,민니,소연) X 아이아이 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/dsFposEPx9A",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2018-05-30T19:22:41",
+  "duration": "00:39:21",
+  "thumbnail": "https://i.ytimg.com/vi/dsFposEPx9A/maxresdefault.jpg",
+  "alt": "[SBS NCT의 night night! (나잇나잇)] 아이돌 초대석 (아이들) 。",
+  "title": "[SBS NCT의 night night! (나잇나잇)] 아이돌 초대석 (아이들) 。",
+  "subtag": "라디오"
+},
 {
   "link": "https://youtu.be/Yszu-1Gs3Mg",
   "category": "라디오오디오쇼",
   "member": "아이들",
-  "date": "2018-06-20T10:39:07",
+  "date": "2018-05-30T19:22:42",
   "duration": "00:01:48",
   "thumbnail": "https://i.ytimg.com/vi/Yszu-1Gs3Mg/maxresdefault.jpg",
   "alt": "(여자)아이들 소연이 알려주는 맴버들 특징 [SBS NCT의 night night! (나잇나잇)]",
   "title": "(여자)아이들 소연이 알려주는 맴버들 특징 [SBS NCT의 night night! (나잇나잇)]",
   "subtag": "라디오"
 },
+{
+  "link": "https://youtu.be/mBvv7Yb8dJo",
+  "category": "라디오오디오쇼",
+  "member": "미연, 소연",
+  "date": "2018-06-02T19:24:41",
+  "duration": "00:35:03",
+  "thumbnail": "https://i.ytimg.com/vi/mBvv7Yb8dJo/maxresdefault.jpg",
+  "alt": "박소현의 러브게임 - 여자아이들 미연, 수진, 소연 (Audio)  。",
+  "title": "박소현의 러브게임 - 여자아이들 미연, 수진, 소연 (Audio)  。",
+  "subtag": "라디오"
+},
 
+{
+  "link": "https://youtu.be/6YlxYaGW_pg",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2018-08-22T19:25:30",
+  "duration": "00:56:52",
+  "thumbnail": "https://i.ytimg.com/vi/6YlxYaGW_pg/hqdefault.jpg",
+  "alt": "두시의 데이트 지석진입니다 - 훅 들어온 초대석 with 여자아이들 。",
+  "title": "두시의 데이트 지석진입니다 - 훅 들어온 초대석 with 여자아이들 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/eT2H8TTFEgA",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2018-08-22T22:30:19",
+  "duration": "00:43:50",
+  "thumbnail": "https://i.ytimg.com/vi/eT2H8TTFEgA/hqdefault.jpg",
+  "alt": "[SBS NCT의 night night! (나잇나잇)] 아이돌 초대석 (아이들) 。",
+  "title": "[SBS NCT의 night night! (나잇나잇)] 아이돌 초대석 (아이들) 。",
+  "subtag": "라디오"
+},
 {
   "link": "https://youtu.be/bOUHhPXjZyY",
   "category": "라디오오디오쇼",
   "member": "아이들",
-  "date": "2018-09-05T17:30:20",
+  "date": "2018-08-22T22:30:20",
   "duration": "00:01:49",
   "thumbnail": "https://i.ytimg.com/vi/bOUHhPXjZyY/hqdefault.jpg",
   "alt": "(여자)아이들, 한 휘파람 소리 [SBS NCT의 night night! (나잇나잇)]",
   "title": "(여자)아이들, 한 휘파람 소리 [SBS NCT의 night night! (나잇나잇)]",
   "subtag": "라디오"
 },
+{
+  "link": "https://youtu.be/SJ7CrkZm4tk",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2018-08-30T19:26:10",
+  "duration": "00:48:00",
+  "thumbnail": "https://i.ytimg.com/vi/SJ7CrkZm4tk/hqdefault.jpg",
+  "alt": "두시탈출 컬투쇼 - 특선라이브 (스페셜 DJ 유노윤호, (여자)아이들, 십센치)  。",
+  "title": "두시탈출 컬투쇼 - 특선라이브 (스페셜 DJ 유노윤호, (여자)아이들, 십센치)  。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/qq9cCyqFl6w",
+  "category": "라디오오디오쇼",
+  "member": "슈화",
+  "date": "2019-01-10T12:00:01",
+  "duration": "00:04:27",
+  "thumbnail": "https://i.ytimg.com/vi/qq9cCyqFl6w/maxresdefault.jpg",
+  "alt": "[IDOL RADIO] PART 1｜아이돌라디오 100회 시자악~!! (FEAT.아모르 파티)",
+  "title": "[IDOL RADIO] PART 1｜아이돌라디오 100회 시자악~!! (FEAT.아모르 파티)",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/TBrdYpJYALU",
+  "category": "라디오오디오쇼",
+  "member": "슈화",
+  "date": "2019-01-10T12:00:02",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/TBrdYpJYALU/maxresdefault.jpg",
+  "alt": "[IDOL RADIO] PART 2｜아이돌라디오X아육대 콜라보레이션~♬♪",
+  "title": "[IDOL RADIO] PART 2｜아이돌라디오X아육대 콜라보레이션~♬♪",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/I2bfdoL0L_c",
+  "category": "라디오오디오쇼",
+  "member": "슈화",
+  "date": "2019-01-10T12:00:03",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/I2bfdoL0L_c/maxresdefault.jpg",
+  "alt": "[IDOL RADIO] PART 3｜아이돌라디오 아이엠그라운드 자기소개하기!(아육대Ver.)",
+  "title": "[IDOL RADIO] PART 3｜아이돌라디오 아이엠그라운드 자기소개하기!(아육대Ver.)",
+  "subtag": "라디오"
+},
 
+{
+  "link": "https://youtu.be/ipOoGwb-HzI",
+  "category": "라디오오디오쇼",
+  "member": "슈화",
+  "date": "2019-01-10T12:00:04",
+  "duration": "00:46:59",
+  "thumbnail": "https://i.ytimg.com/vi/ipOoGwb-HzI/hqdefault.jpg",
+  "alt": "[IDOL RADIO] PART 4｜아이돌라디오X아육대 리듬 속의 그 춤을 with 아이들 슈화, 모모랜드 。",
+  "title": "[IDOL RADIO] PART 4｜아이돌라디오X아육대 리듬 속의 그 춤을 with 아이들 슈화, 모모랜드 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/XiEDOiMWVGA",
+  "category": "TV방송",
+  "member": "슈화",
+  "date": "2019-01-10T12:00:05",
+  "duration": "00:02:38",
+  "thumbnail": "https://i.ytimg.com/vi/XiEDOiMWVGA/maxresdefault.jpg",
+  "alt": "[IDOL RADIO] PART 5｜[뽀짝포착] 리듬 속의 그 춤을 / [아이돌라디오X아육대 2019 설특집 비하인드] / IDOL RADIO X IDOL STAR ATHLETICS CHAMPIONSHIP BEHIND)",
+  "title": "[IDOL RADIO] PART 5｜[뽀짝포착] 리듬 속의 그 춤을 / [아이돌라디오X아육대 2019 설특집 비하인드] / IDOL RADIO X IDOL STAR ATHLETICS CHAMPIONSHIP BEHIND)"
+},
+{
+  "link": "https://youtu.be/2LrHmsj0bBY",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-02-27T12:00:01",
+  "duration": "00:04:54",
+  "thumbnail": "https://i.ytimg.com/vi/2LrHmsj0bBY/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 1 。",
+  "title": "[IDOL RADIO] Part 1 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/gwxVS_tLo4c",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-02-27T12:00:02",
+  "duration": "00:03:38",
+  "thumbnail": "https://i.ytimg.com/vi/gwxVS_tLo4c/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 2  | 아이들 라디오! 아이들 입장!!! ♬♪",
+  "title": "[IDOL RADIO] Part 2  | 아이들 라디오! 아이들 입장!!! ♬♪",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/6hsRgPKlYvY",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-02-27T12:00:03",
+  "duration": "00:01:25",
+  "thumbnail": "https://i.ytimg.com/vi/6hsRgPKlYvY/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 3 。",
+  "title": "[IDOL RADIO] Part 3 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/RnJbRXdiU4Y",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-02-27T12:00:04",
+  "duration": "00:02:53",
+  "thumbnail": "https://i.ytimg.com/vi/RnJbRXdiU4Y/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 4  | 아이엠 그라운드 자기소개 하기! ((G)I-dle ver.)",
+  "title": "[IDOL RADIO] Part 4  | 아이엠 그라운드 자기소개 하기! ((G)I-dle ver.)",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/f7a1N3q6PQI",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-02-27T12:00:05",
+  "duration": "00:22:16",
+  "thumbnail": "https://i.ytimg.com/vi/f7a1N3q6PQI/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 5 。",
+  "title": "[IDOL RADIO] Part 5 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/kIzY2F-9u2s",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-02-27T12:00:06",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/kIzY2F-9u2s/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 6  | ☆★(여자)아이들의 메들리댄스~★☆",
+  "title": "[IDOL RADIO] Part 6  | ☆★(여자)아이들의 메들리댄스~★☆",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/zy15NKhwfv8",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-02-27T12:00:07",
+  "duration": "00:06:30",
+  "thumbnail": "https://i.ytimg.com/vi/zy15NKhwfv8/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 7 。",
+  "title": "[IDOL RADIO] Part 7 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/Uh5Gt4ex_3o",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-02-27T12:00:08",
+  "duration": "00:03:00",
+  "thumbnail": "https://i.ytimg.com/vi/Uh5Gt4ex_3o/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 8  | 미연과 민니의 짧은 한소절 (feat.그리워하다)",
+  "title": "[IDOL RADIO] Part 8  | 미연과 민니의 짧은 한소절 (feat.그리워하다)",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/q2LvIhE4sjk",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-02-27T12:00:09",
+  "duration": "00:23:27",
+  "thumbnail": "https://i.ytimg.com/vi/q2LvIhE4sjk/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 9 。",
+  "title": "[IDOL RADIO] Part 9 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/hWtqH3i3QFo",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-02-27T12:00:10",
+  "duration": "00:02:22",
+  "thumbnail": "https://i.ytimg.com/vi/hWtqH3i3QFo/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 10 | [뽀짝포착] 천재돌 (여자)아이들의 귀염뽀짝 리허설 현장! / (여자)아이들 IDOL RADIO 비하인드 / (G)I-DLE IDOL RADIO BEHIND",
+  "title": "[IDOL RADIO] Part 10 | [뽀짝포착] 천재돌 (여자)아이들의 귀염뽀짝 리허설 현장! / (여자)아이들 IDOL RADIO 비하인드 / (G)I-DLE IDOL RADIO BEHIND",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/QdY6CY_72tY",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-02-28T19:27:08",
+  "duration": "00:47:28",
+  "thumbnail": "https://i.ytimg.com/vi/QdY6CY_72tY/hqdefault.jpg",
+  "alt": "두시의 데이트 지석진입니다 - 훅 들어온 초대석 with 여자아이들 。",
+  "title": "두시의 데이트 지석진입니다 - 훅 들어온 초대석 with 여자아이들 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/sYnlBZ0ahyo",
+  "category": "라디오오디오쇼",
+  "member": "미연, 민니",
+  "date": "2019-03-09T19:27:55",
+  "duration": "00:39:36",
+  "thumbnail": "https://i.ytimg.com/vi/sYnlBZ0ahyo/hqdefault.jpg",
+  "alt": "박소현의 러브게임 - 홍현희, 아이들 미연, 민니 (Audio)  。",
+  "title": "박소현의 러브게임 - 홍현희, 아이들 미연, 민니 (Audio)  。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/BljX-zq8vks",
+  "category": "라디오오디오쇼",
+  "member": "미연, 민니",
+  "date": "2019-04-16T19:30:30",
+  "duration": "01:10:07",
+  "thumbnail": "https://i.ytimg.com/vi/BljX-zq8vks/maxresdefault.jpg",
+  "alt": "프니엘의 Skool of kpop - 미연, 민니 (Audio)  。",
+  "title": "프니엘의 Skool of kpop - 미연, 민니 (Audio)  。",
+  "subtag": "라디오"
+},
+
+{
+  "link": "https://youtu.be/Ll0WOVODrvw",
+  "category": "라디오오디오쇼",
+  "member": "민니",
+  "date": "2019-05-21T12:00:01",
+  "duration": "00:03:43",
+  "thumbnail": "https://i.ytimg.com/vi/Ll0WOVODrvw/hqdefault.jpg",
+  "alt": "[IDOL RADIO] 켄타가 소개하는 내 고향 음식 \"라멘\" ♥♡",
+  "title": "[IDOL RADIO] 켄타가 소개하는 내 고향 음식 \"라멘\" ♥♡",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/gu421fXjePY",
+  "category": "라디오오디오쇼",
+  "member": "민니",
+  "date": "2019-05-21T12:00:02",
+  "duration": "00:02:55",
+  "thumbnail": "https://i.ytimg.com/vi/gu421fXjePY/hqdefault.jpg",
+  "alt": "[IDOL RADIO] 오로라가 소개하는 내 고향 음식 \"마라탕\"♨♨",
+  "title": "[IDOL RADIO] 오로라가 소개하는 내 고향 음식 \"마라탕\"♨♨",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/9I7auxm6YcE",
+  "category": "라디오오디오쇼",
+  "member": "민니",
+  "date": "2019-05-21T12:00:03",
+  "duration": "00:02:15",
+  "thumbnail": "https://i.ytimg.com/vi/9I7auxm6YcE/hqdefault.jpg",
+  "alt": "[IDOL RADIO] 다니엘 린데만의 \"봄처녀\" 편곡 피아노 연주 ♬♪",
+  "title": "[IDOL RADIO] 다니엘 린데만의 \"봄처녀\" 편곡 피아노 연주 ♬♪",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/Nu3_dhzYX1I",
+  "category": "라디오오디오쇼",
+  "member": "민니",
+  "date": "2019-05-21T12:00:04",
+  "duration": "00:04:12",
+  "thumbnail": "https://i.ytimg.com/vi/Nu3_dhzYX1I/hqdefault.jpg",
+  "alt": "[IDOL RADIO] 켄타 & 민니 & 오로라의 ★☆메들리 댄스☆★",
+  "title": "[IDOL RADIO] 켄타 & 민니 & 오로라의 ★☆메들리 댄스☆★",
+  "subtag": "라디오"
+},
+
+{
+  "link": "https://youtu.be/fczSRhYWX3Q",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-07-01T12:00:01",
+  "duration": "00:03:24",
+  "thumbnail": "https://i.ytimg.com/vi/fczSRhYWX3Q/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 1 | 멋짐이 폭발한다ㅠㅠ (여자)아이들 - Uh-Oh",
+  "title": "[IDOL RADIO] Part 1 | 멋짐이 폭발한다ㅠㅠ (여자)아이들 - Uh-Oh",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/AaM_D9QM8h0",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-07-01T12:00:02",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/AaM_D9QM8h0/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 2 | 기립 박수 나오게 하는 컨셉 장인, (여자)아이들 등장!",
+  "title": "[IDOL RADIO] Part 2 | 기립 박수 나오게 하는 컨셉 장인, (여자)아이들 등장!",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/H5y7AmmAuTY",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-07-01T12:00:03",
+  "duration": "00:26:38",
+  "thumbnail": "https://i.ytimg.com/vi/H5y7AmmAuTY/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 3 。",
+  "title": "[IDOL RADIO] Part 3 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/c47Rb2giFXY",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-07-01T12:00:04",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/c47Rb2giFXY/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 4 |  [메들리 댄스] 반전 매력♨ 감탄밖에 나오는 우리 아이들♡",
+  "title": "[IDOL RADIO] Part 4 | [메들리 댄스] 반전 매력♨ 감탄밖에 나오는 우리 아이들♡",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/2WQvGzVWLy8",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-07-01T12:00:05",
+  "duration": "00:12:46",
+  "thumbnail": "https://i.ytimg.com/vi/2WQvGzVWLy8/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 5 。",
+  "title": "[IDOL RADIO] Part 5 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/Co1eTktOTpc",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-07-01T12:00:06",
+  "duration": "00:01:55",
+  "thumbnail": "https://i.ytimg.com/vi/Co1eTktOTpc/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 6 | 본격 귀호강 TIME! 미연&민니의 Someone Like You",
+  "title": "[IDOL RADIO] Part 6 | 본격 귀호강 TIME! 미연&민니의 Someone Like You",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/wLwz0-wd2Lo",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-07-01T12:00:07",
+  "duration": "00:17:13",
+  "thumbnail": "https://i.ytimg.com/vi/wLwz0-wd2Lo/hqdefault.jpg",
+  "alt": "[IDOL RADIO] Part 7 。",
+  "title": "[IDOL RADIO] Part 7 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/bShURNzNSRA",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2019-07-04T19:31:31",
+  "duration": "00:48:03",
+  "thumbnail": "https://i.ytimg.com/vi/bShURNzNSRA/hqdefault.jpg",
+  "alt": "악동뮤지션 수현의 볼륨을 높여요 With 여자아이들  。",
+  "title": "악동뮤지션 수현의 볼륨을 높여요 With 여자아이들  。",
+  "subtag": "라디오"
+},
 {
   "link": "https://naver.me/xR22F96t",
   "category": "라디오오디오쇼",
@@ -74,7 +481,7 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/rclhcbOIcHc",
   "category": "라디오오디오쇼",
   "member": "아이들",
-  "date": "2020-04-15T15:20:49",
+  "date": "2020-04-14T15:20:49",
   "duration": "00:36:19",
   "thumbnail": "https://i.ytimg.com/vi/rclhcbOIcHc/sddefault.jpg",
   "alt": "키스더 초대석 with (여자)아이들 full ver. /[박원의 키스 더 라디오]",
@@ -128,6 +535,28 @@ const 라디오오디오쇼Cards = [
   "subtag": "네이버NOW"
 },
 {
+  "link": "https://youtu.be/LwowTc4vgsc",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2020-08-06T11:28:59",
+  "duration": "00:52:22",
+  "thumbnail": "https://i.ytimg.com/vi/LwowTc4vgsc/hqdefault.jpg",
+  "alt": "두시탈출 컬투쇼 -  특선라이브 DJ 신봉선, 에릭남, (여자)아이들 。",
+  "title": "두시탈출 컬투쇼 -  특선라이브 DJ 신봉선, 에릭남, (여자)아이들 。",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/wTpcwkPSWys",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2020-08-10T11:29:47",
+  "duration": "01:00:03",
+  "thumbnail": "https://i.ytimg.com/vi/wTpcwkPSWys/hqdefault.jpg",
+  "alt": "이준의 영스트리트 - 만나면 반갑준~ (여자)아이들 。",
+  "title": "이준의 영스트리트 - 만나면 반갑준~ (여자)아이들 。",
+  "subtag": "라디오"
+},
+{
   "link": "https://youtu.be/7l2FpaYWP4Q",
   "category": "라디오오디오쇼",
   "member": "소연, 우기",
@@ -145,8 +574,8 @@ const 라디오오디오쇼Cards = [
   "date": "2020-08-17T13:34:24",
   "duration": "01:03:15",
   "thumbnail": "https://i.ytimg.com/vi/RvgNO2r-gsw/maxresdefault.jpg",
-  "alt": "하성운의 심야아이돌 (Voice Only) | 네이버 NOW。",
-  "title": "하성운의 심야아이돌 (Voice Only) | 네이버 NOW。",
+  "alt": "하성운의 심야아이돌 (Audio) | 네이버 NOW。",
+  "title": "하성운의 심야아이돌 (Audio) | 네이버 NOW。",
   "subtag": "네이버NOW"
 },
 {
@@ -186,18 +615,6 @@ const 라디오오디오쇼Cards = [
 },
 
 {
-  "link": "https://youtu.be/zFxULkjVOEs",
-  "category": "라디오오디오쇼",
-  "member": "아이들",
-  "date": "2021-01-13T15:07:10",
-  "duration": "00:01:58",
-  "thumbnail": "https://i.ytimg.com/vi/zFxULkjVOEs/sddefault.jpg",
-  "alt": "🔥 화(火花)(HWAA) 🔥 2배속 댄스 /[Day6의 키스 더 라디오] l kbs 210113 방송",
-  "title": "🔥 화(火花)(HWAA) 🔥 2배속 댄스 /[Day6의 키스 더 라디오] l kbs 210113 방송",
-  "subtag": "라디오"
-},
-
-{
   "link": "https://youtu.be/eFe6ocZWY5E",
   "category": "라디오오디오쇼",
   "member": "아이들",
@@ -208,7 +625,28 @@ const 라디오오디오쇼Cards = [
   "title": "본인등판 with (여자)아이들((G)I-DLE) full ver. /[Day6의 키스 더 라디오] l kbs 210113 방송",
   "subtag": "라디오"
 },
-
+{
+  "link": "https://youtu.be/zFxULkjVOEs",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2021-01-13T19:45:07",
+  "duration": "00:01:58",
+  "thumbnail": "https://i.ytimg.com/vi/zFxULkjVOEs/sddefault.jpg",
+  "alt": "🔥 화(火花)(HWAA) 🔥 2배속 댄스 /[Day6의 키스 더 라디오] l kbs 210113 방송",
+  "title": "🔥 화(火花)(HWAA) 🔥 2배속 댄스 /[Day6의 키스 더 라디오] l kbs 210113 방송",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/P5btc0XuNKg",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2021-01-14T11:30:33",
+  "duration": "00:48:48",
+  "thumbnail": "https://i.ytimg.com/vi/P5btc0XuNKg/maxresdefault.jpg",
+  "alt": "두시탈출 컬투쇼 - (여자)아이들 & 10CM 。",
+  "title": "두시탈출 컬투쇼 - (여자)아이들 & 10CM 。",
+  "subtag": "라디오"
+},
 {
   "link": "https://youtu.be/YfAHqA2hu74",
   "category": "라디오오디오쇼",
@@ -364,14 +802,14 @@ const 라디오오디오쇼Cards = [
 },
 
 {
-  "link": "https://naver.me/FDGTezvK",
+  "link": "https://youtu.be/wwos_e1VDtg",
   "category": "라디오오디오쇼",
   "member": "소연",
-  "date": "2021-04-02T18:00:00",
-  "duration": "01:23:06",
-  "thumbnail": "https://phinf.pstatic.net/tvcast/20220422_270/jxFUa_1650609983120dUCqj_JPEG/b91ba787-0b96-11ec-86ec-48df37ae3fca_03.jpg?type=now720b",
-  "alt": "[자이언티의 SAP] 삽질하는 이야기 합니다 with 소연 | 네이버 NOW",
-  "title": "[자이언티의 SAP] 삽질하는 이야기 합니다 with 소연 | 네이버 NOW",
+  "date": "2021-04-02T10:58:37",
+  "duration": "01:23:07",
+  "thumbnail": "https://i.ytimg.com/vi/wwos_e1VDtg/maxresdefault.jpg",
+  "alt": "[자이언티의 SAP] 삽질하는 이야기 합니다 with 소연 아이들 | 네이버 NOW 。",
+  "title": "[자이언티의 SAP] 삽질하는 이야기 합니다 with 소연 아이들 | 네이버 NOW 。",
   "subtag": "네이버NOW"
 },
 
@@ -559,11 +997,11 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/1s7_BcNNO2c",
   "category": "라디오오디오쇼",
   "member": "소연",
-  "date": "2021-07-12T00:00:00",
+  "date": "2021-07-11T00:00:08",
   "duration": "00:01:46",
   "thumbnail": "https://i.ytimg.com/vi/1s7_BcNNO2c/sddefault.jpg",
-  "alt": "전소연 삠삠 포인트 안무💜 /[Day6의 키스 더 라디오] l kbs 방송",
-  "title": "전소연 삠삠 포인트 안무💜 /[Day6의 키스 더 라디오] l kbs 방송",
+  "alt": "전소연 삠삠 포인트 안무💜 /[Day6의 키스 더 라디오] l kbs 210711방송",
+  "title": "전소연 삠삠 포인트 안무💜 /[Day6의 키스 더 라디오] l kbs 210711방송",
   "subtag": "라디오"
 },
 
@@ -571,11 +1009,11 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/IGr-H7l8jcQ",
   "category": "라디오오디오쇼",
   "member": "소연",
-  "date": "2021-07-12T00:00:07",
+  "date": "2021-07-11T00:00:07",
   "duration": "00:37:57",
   "thumbnail": "https://i.ytimg.com/vi/IGr-H7l8jcQ/sddefault.jpg",
-  "alt": "본인등판! 전소연 full ver. /[Day6의 키스 더 라디오] l kbs 방송",
-  "title": "본인등판! 전소연 full ver. /[Day6의 키스 더 라디오] l kbs 방송",
+  "alt": "본인등판! 전소연 full ver. /[Day6의 키스 더 라디오] l kbs 210711방송",
+  "title": "본인등판! 전소연 full ver. /[Day6의 키스 더 라디오] l kbs 210711방송",
   "subtag": "라디오"
 },
 
@@ -590,7 +1028,27 @@ const 라디오오디오쇼Cards = [
   "title": "[소문의 아이들] ep.23 - 짤부자 걔🎀면프로디테 입장",
   "subtag": "네이버NOW"
 },
+{
+  "link": "https://youtu.be/5Cve_AY1R3g",
+  "category": "라디오오디오쇼",
+  "member": "소연",
+  "date": "2021-07-13T19:02:04",
+  "duration": "00:09:16",
+  "thumbnail": "https://i.ytimg.com/vi/5Cve_AY1R3g/sddefault.jpg",
+  "alt": "삠삠 듣기 딱 좋은 날씨네☀ 전소연의 첫 미니 앨범 [Windy] 작업기 | FLO 최애플레이리스트 ep.11",
+  "title": "삠삠 듣기 딱 좋은 날씨네☀ 전소연의 첫 미니 앨범 [Windy] 작업기 | FLO 최애플레이리스트 ep.11"
+},
 
+{
+  "link": "https://youtu.be/4m1QS-TywCo",
+  "category": "라디오오디오쇼",
+  "member": "소연",
+  "date": "2021-07-20T15:00:01",
+  "duration": "00:08:45",
+  "thumbnail": "https://i.ytimg.com/vi/4m1QS-TywCo/sddefault.jpg",
+  "alt": "전소연의 인생 띵곡 플리🎶 이 노래들 들으면서 소연이 생각 해달라 하네요😇 | FLO 최애플레이리스트 ep.12",
+  "title": "전소연의 인생 띵곡 플리🎶 이 노래들 들으면서 소연이 생각 해달라 하네요😇 | FLO 최애플레이리스트 ep.12"
+},
 {
   "link": "https://naver.me/FnmOc6XV",
   "category": "라디오오디오쇼",
@@ -610,8 +1068,8 @@ const 라디오오디오쇼Cards = [
   "date": "2021-07-21T22:17:24",
   "duration": "00:36:36",
   "thumbnail": "https://i.ytimg.com/vi/R1PJt5KQak8/sddefault.jpg",
-  "alt": "라디오 토토 with 소연(of (여자)아이들) full ver. /[정은지의 가요광장] l KBS 방송",
-  "title": "라디오 토토 with 소연(of (여자)아이들) full ver. /[정은지의 가요광장] l KBS 방송",
+  "alt": "라디오 토토 with 소연(of (여자)아이들) full ver. /[정은지의 가요광장] l KBS 210721 방송",
+  "title": "라디오 토토 with 소연(of (여자)아이들) full ver. /[정은지의 가요광장] l KBS 210721 방송",
   "subtag": "라디오"
 },
 
@@ -619,14 +1077,24 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/i9KRRIoonBM",
   "category": "라디오오디오쇼",
   "member": "소연",
-  "date": "2021-07-22T20:27:30",
+  "date": "2021-07-21T22:17:25",
   "duration": "00:02:47",
   "thumbnail": "https://i.ytimg.com/vi/i9KRRIoonBM/sddefault.jpg",
-  "alt": "✨소연(of (여자)아이들)의 술부심! and 삠삠 가사 키워드 인터뷰 OX! /[정은지의 가요광장] l KBS 방송",
-  "title": "✨소연(of (여자)아이들)의 술부심! and 삠삠 가사 키워드 인터뷰 OX! /[정은지의 가요광장] l KBS 방송",
+  "alt": "✨소연(of (여자)아이들)의 술부심! and 삠삠 가사 키워드 인터뷰 OX! /[정은지의 가요광장] l KBS 210721 방송",
+  "title": "✨소연(of (여자)아이들)의 술부심! and 삠삠 가사 키워드 인터뷰 OX! /[정은지의 가요광장] l KBS 210721 방송",
   "subtag": "라디오"
 },
-
+{
+  "link": "https://youtu.be/Oh7Xh3Omlcs",
+  "category": "라디오오디오쇼",
+  "member": "소연",
+  "date": "2021-07-26T11:31:13",
+  "duration": "00:55:43",
+  "thumbnail": "https://i.ytimg.com/vi/Oh7Xh3Omlcs/hqdefault.jpg",
+  "alt": "강한나의 볼륨을 높여요 With 전소연 。",
+  "title": "강한나의 볼륨을 높여요 With 전소연 。",
+  "subtag": "라디오"
+},
 {
   "link": "https://naver.me/xv6v6dnr",
   "category": "라디오오디오쇼",
@@ -758,7 +1226,17 @@ const 라디오오디오쇼Cards = [
   "title": "[소문의 아이들] ep.35 - 미연이랑 슈화랑소문의 홈파티🎀",
   "subtag": "네이버NOW"
 },
-
+{
+  "link": "https://youtu.be/THCl5hRB3ro",
+  "category": "라디오오디오쇼",
+  "member": "미연",
+  "date": "2021-10-11T07:34:16",
+  "duration": "01:08:20",
+  "thumbnail": "https://i.ytimg.com/vi/THCl5hRB3ro/maxresdefault.jpg",
+  "alt": "[응수C네] 소문의 그녀✨ 미연과 함께해요❤ | 네이버 NOW 。",
+  "title": "[응수C네] 소문의 그녀✨ 미연과 함께해요❤ | 네이버 NOW 。",
+  "subtag": "네이버NOW"
+},
 {
   "link": "https://naver.me/xNn3nddc",
   "category": "라디오오디오쇼",
@@ -804,18 +1282,6 @@ const 라디오오디오쇼Cards = [
   "thumbnail": "https://phinf.pstatic.net/tvcast/20220412_183/psDIO_1649751798217zKsvg_JPEG/02d405d1-63b6-11ec-9ac9-a0369ff94f34_03.jpg?type=now720b",
   "alt": "[소문의 아이들] ep.39 - 면스트랑 픽시랑가을 캠핑🍂",
   "title": "[소문의 아이들] ep.39 - 면스트랑 픽시랑가을 캠핑🍂",
-  "subtag": "네이버NOW"
-},
-
-{
-  "link": "https://youtu.be/JCILU1qBUW4",
-  "category": "라디오오디오쇼",
-  "member": "미연",
-  "date": "2021-11-04T18:00:09",
-  "duration": "00:02:39",
-  "thumbnail": "https://i.ytimg.com/vi/JCILU1qBUW4/sddefault.jpg",
-  "alt": "[응수CINE] ep.260 미연이 꿈은 팜므파탈? 치명미 뿜뿜하는 비니 쓴 미연 요정🧚‍♀️ | 네이버 NOW.",
-  "title": "[응수CINE] ep.260 미연이 꿈은 팜므파탈? 치명미 뿜뿜하는 비니 쓴 미연 요정🧚‍♀️ | 네이버 NOW.",
   "subtag": "네이버NOW"
 },
 
@@ -1048,30 +1514,6 @@ const 라디오오디오쇼Cards = [
 },
 
 {
-  "link": "https://youtu.be/7GTS5dp2qXQ",
-  "category": "라디오오디오쇼",
-  "member": "아이들",
-  "date": "2022-03-18T23:30:04",
-  "duration": "00:03:08",
-  "thumbnail": "https://i.ytimg.com/vi/7GTS5dp2qXQ/sddefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) 찐텐션 대방출❤️‍🔥(ft.한소절라이브,성대모사,눈웃음) / [비투비의 키스 더 라디오] l KBS 220318 방송",
-  "title": "(여자)아이들((G)I-DLE) 찐텐션 대방출❤️‍🔥(ft.한소절라이브,성대모사,눈웃음) / [비투비의 키스 더 라디오] l KBS 220318 방송",
-  "subtag": "라디오"
-},
-
-{
-  "link": "https://youtu.be/I6XlTOGYGTM",
-  "category": "라디오오디오쇼",
-  "member": "아이들",
-  "date": "2022-03-18T23:30:07",
-  "duration": "00:01:25",
-  "thumbnail": "https://i.ytimg.com/vi/I6XlTOGYGTM/sddefault.jpg",
-  "alt": "[벌칙영상] (여자)아이들((G)I-DLE) ‘TOMBOY(톰보이)’ 2배속 댄스💖/ [비투비의 키스 더 라디오] l KBS 220318 방송",
-  "title": "[벌칙영상] (여자)아이들((G)I-DLE) ‘TOMBOY(톰보이)’ 2배속 댄스💖/ [비투비의 키스 더 라디오] l KBS 220318 방송",
-  "subtag": "라디오"
-},
-
-{
   "link": "https://youtu.be/chMiGr_W8Zo",
   "category": "라디오오디오쇼",
   "member": "아이들",
@@ -1082,7 +1524,28 @@ const 라디오오디오쇼Cards = [
   "title": "원샷 초대석 with (여자)아이들((G)I-DLE) full ver. / [비투비의 키스 더 라디오] l KBS 220318 방송",
   "subtag": "라디오"
 },
-
+{
+  "link": "https://youtu.be/I6XlTOGYGTM",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2022-03-18T23:45:13",
+  "duration": "00:01:25",
+  "thumbnail": "https://i.ytimg.com/vi/I6XlTOGYGTM/sddefault.jpg",
+  "alt": "[벌칙영상] (여자)아이들((G)I-DLE) ‘TOMBOY(톰보이)’ 2배속 댄스💖/ [비투비의 키스 더 라디오] l KBS 220318 방송",
+  "title": "[벌칙영상] (여자)아이들((G)I-DLE) ‘TOMBOY(톰보이)’ 2배속 댄스💖/ [비투비의 키스 더 라디오] l KBS 220318 방송",
+  "subtag": "라디오"
+},
+{
+  "link": "https://youtu.be/7GTS5dp2qXQ",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2022-03-18T23:45:14",
+  "duration": "00:03:08",
+  "thumbnail": "https://i.ytimg.com/vi/7GTS5dp2qXQ/sddefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) 찐텐션 대방출❤️‍🔥(ft.한소절라이브,성대모사,눈웃음) / [비투비의 키스 더 라디오] l KBS 220318 방송",
+  "title": "(여자)아이들((G)I-DLE) 찐텐션 대방출❤️‍🔥(ft.한소절라이브,성대모사,눈웃음) / [비투비의 키스 더 라디오] l KBS 220318 방송",
+  "subtag": "라디오"
+},
 {
   "link": "https://youtu.be/gUSubxDc5vE",
   "category": "라디오오디오쇼",
@@ -1219,11 +1682,11 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/bK2XXvw6UUE",
   "category": "라디오오디오쇼",
   "member": "미연",
-  "date": "2022-04-28T03:46:05",
+  "date": "2022-04-27T22:27:27",
   "duration": "00:01:40",
   "thumbnail": "https://i.ytimg.com/vi/bK2XXvw6UUE/sddefault.jpg",
-  "alt": "[벌칙영상] 미연((G)I-DLE)의 동요에 막춤추기💝 / [비투비의 키스 더 라디오] l KBS 방송",
-  "title": "[벌칙영상] 미연((G)I-DLE)의 동요에 막춤추기💝 / [비투비의 키스 더 라디오] l KBS 방송",
+  "alt": "[벌칙영상] 미연((G)I-DLE)의 동요에 막춤추기💝 / [비투비의 키스 더 라디오] l KBS 220427 방송",
+  "title": "[벌칙영상] 미연((G)I-DLE)의 동요에 막춤추기💝 / [비투비의 키스 더 라디오] l KBS 220427 방송",
   "subtag": "라디오"
 },
 
@@ -1231,11 +1694,11 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/4vRInPn_uwI",
   "category": "라디오오디오쇼",
   "member": "미연, 민니",
-  "date": "2022-04-28T17:31:28",
+  "date": "2022-04-27T22:27:28",
   "duration": "00:03:37",
   "thumbnail": "https://i.ytimg.com/vi/4vRInPn_uwI/sddefault.jpg",
-  "alt": "“민니야아아앙ㅠㅠ” 세상 반가운 미연과 민니((G)I-DLE)와의 전화연결 퀴즈!📞💖 (ft. 아이들 우정 뽀에버…★) / [비투비의 키스 더 라디오] l KBS 방송",
-  "title": "“민니야아아앙ㅠㅠ” 세상 반가운 미연과 민니((G)I-DLE)와의 전화연결 퀴즈!📞💖 (ft. 아이들 우정 뽀에버…★) / [비투비의 키스 더 라디오] l KBS 방송",
+  "alt": "“민니야아아앙ㅠㅠ” 세상 반가운 미연과 민니((G)I-DLE)와의 전화연결 퀴즈!📞💖 (ft. 아이들 우정 뽀에버…★) / [비투비의 키스 더 라디오] l KBS 220427 방송",
+  "title": "“민니야아아앙ㅠㅠ” 세상 반가운 미연과 민니((G)I-DLE)와의 전화연결 퀴즈!📞💖 (ft. 아이들 우정 뽀에버…★) / [비투비의 키스 더 라디오] l KBS 220427 방송",
   "subtag": "라디오"
 },
 
@@ -1243,11 +1706,11 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/9CxGXexDWgU",
   "category": "라디오오디오쇼",
   "member": "미연",
-  "date": "2022-04-28T17:33:59",
+  "date": "2022-04-27T22:27:29",
   "duration": "00:03:25",
   "thumbnail": "https://i.ytimg.com/vi/9CxGXexDWgU/sddefault.jpg",
-  "alt": "얼굴, 노래, 2행시, “웅니~♥︎”까지 못하는게 없는 ‘최고의 아이돌’ 미연이 원샷 noodle.zip💝 / [비투비의 키스 더 라디오] l KBS 방송",
-  "title": "얼굴, 노래, 2행시, “웅니~♥︎”까지 못하는게 없는 ‘최고의 아이돌’ 미연이 원샷 noodle.zip💝 / [비투비의 키스 더 라디오] l KBS 방송",
+  "alt": "얼굴, 노래, 2행시, “웅니~♥︎”까지 못하는게 없는 ‘최고의 아이돌’ 미연이 원샷 noodle.zip💝 / [비투비의 키스 더 라디오] l KBS 220427 방송",
+  "title": "얼굴, 노래, 2행시, “웅니~♥︎”까지 못하는게 없는 ‘최고의 아이돌’ 미연이 원샷 noodle.zip💝 / [비투비의 키스 더 라디오] l KBS 220427 방송",
   "subtag": "라디오"
 },
 
@@ -1311,14 +1774,14 @@ const 라디오오디오쇼Cards = [
   "subtag": "네이버NOW"
 },
 {
-  "link": "https://youtu.be/wGNJjW13QKI",
+  "link": "https://youtu.be/ku9yCg-YIEg",
   "category": "라디오오디오쇼",
   "member": "미연",
-  "date": "2022-05-13T01:18:35",
-  "duration": "01:11:47",
-  "thumbnail": "https://i.ytimg.com/vi/wGNJjW13QKI/maxresdefault.jpg",
-  "alt": "▫️[비투비 현식의 야간작업실] 한 잔만 해 with 미연((여자)아이들) | 네이버 NOW",
-  "title": "▫️[비투비 현식의 야간작업실] 한 잔만 해 with 미연((여자)아이들) | 네이버 NOW",
+  "date": "2022-05-13T11:00:46",
+  "duration": "01:10:06",
+  "thumbnail": "https://i.ytimg.com/vi/ku9yCg-YIEg/maxresdefault.jpg",
+  "alt": "[비투비 현식의 야간작업실] 한 잔만 해 with 미연((여자)아이들) | 네이버 NOW。",
+  "title": "[비투비 현식의 야간작업실] 한 잔만 해 with 미연((여자)아이들) | 네이버 NOW。",
   "subtag": "네이버NOW"
 },
 {
@@ -1400,8 +1863,8 @@ const 라디오오디오쇼Cards = [
   "date": "2022-06-25T22:00:32",
   "duration": "00:38:08",
   "thumbnail": "https://i.ytimg.com/vi/mAJhaehrF_0/sddefault.jpg",
-  "alt": "[FULL] 💜민니💜도 힘든 태국음식은? 미니마우스와 함께 하는 태국 탐방🤘 / GOT7 영재의 친한친구 8시 네 고향 / MBC 방송",
-  "title": "[FULL] 💜민니💜도 힘든 태국음식은? 미니마우스와 함께 하는 태국 탐방🤘 / GOT7 영재의 친한친구 8시 네 고향 / MBC 방송",
+  "alt": "[FULL] 💜민니💜도 힘든 태국음식은? 미니마우스와 함께 하는 태국 탐방🤘 / GOT7 영재의 친한친구 8시 네 고향 / MBC 220625 방송",
+  "title": "[FULL] 💜민니💜도 힘든 태국음식은? 미니마우스와 함께 하는 태국 탐방🤘 / GOT7 영재의 친한친구 8시 네 고향 / MBC 220625 방송",
   "subtag": "라디오"
 },
 
@@ -1478,10 +1941,21 @@ const 라디오오디오쇼Cards = [
 },
 
 {
+  "link": "https://youtu.be/sRguxMpZMB0",
+  "category": "라디오오디오쇼",
+  "member": "아이들",
+  "date": "2022-10-20T14:32:57",
+  "duration": "00:53:45",
+  "thumbnail": "https://i.ytimg.com/vi/sRguxMpZMB0/sddefault.jpg",
+  "alt": "비투비의 키스더라디오(BTOB Kiss the radio) with (G)I-DLE (여자)아이들",
+  "title": "비투비의 키스더라디오(BTOB Kiss the radio) with (G)I-DLE (여자)아이들",
+  "subtag": "라디오"
+},
+{
   "link": "https://youtu.be/UcuKUSiPj2Y",
   "category": "라디오오디오쇼",
   "member": "소연, 우기, 슈화",
-  "date": "2022-10-20T09:45:29",
+  "date": "2022-10-20T14:32:58",
   "duration": "00:03:36",
   "thumbnail": "https://i.ytimg.com/vi/UcuKUSiPj2Y/sddefault.jpg",
   "alt": "[벌칙영상] 어떤 모습이어도 사랑해💗 (여자)아이들((G)I-DLE) 슈화&소연&우기 서로 칭찬해주기✨ / [비투비의 키스 더 라디오]",
@@ -1496,22 +1970,11 @@ const 라디오오디오쇼Cards = [
   "date": "2022-10-20T22:00:10",
   "duration": "00:45:42",
   "thumbnail": "https://i.ytimg.com/vi/Avq13ocXYz8/sddefault.jpg",
-  "alt": "[FULL] 가장 (여자)아이들다운 모습을 입고 따따랏따라~ / GOT7 영재의 친한친구 / MBC 방송",
-  "title": "[FULL] 가장 (여자)아이들다운 모습을 입고 따따랏따라~ / GOT7 영재의 친한친구 / MBC 방송",
+  "alt": "[FULL] 가장 (여자)아이들다운 모습을 입고 따따랏따라~ / GOT7 영재의 친한친구 / MBC 221020 방송",
+  "title": "[FULL] 가장 (여자)아이들다운 모습을 입고 따따랏따라~ / GOT7 영재의 친한친구 / MBC 221020 방송",
   "subtag": "라디오"
 },
 
-{
-  "link": "https://youtu.be/sRguxMpZMB0",
-  "category": "라디오오디오쇼",
-  "member": "아이들",
-  "date": "2022-10-20T22:32:57",
-  "duration": "00:53:45",
-  "thumbnail": "https://i.ytimg.com/vi/sRguxMpZMB0/sddefault.jpg",
-  "alt": "비투비의 키스더라디오(BTOB Kiss the radio) with (G)I-DLE (여자)아이들",
-  "title": "비투비의 키스더라디오(BTOB Kiss the radio) with (G)I-DLE (여자)아이들",
-  "subtag": "라디오"
-},
 
 {
   "link": "https://youtu.be/AgXZkCieP50",
@@ -1520,8 +1983,8 @@ const 라디오오디오쇼Cards = [
   "date": "2022-10-24T01:30:01",
   "duration": "00:40:03",
   "thumbnail": "https://i.ytimg.com/vi/AgXZkCieP50/sddefault.jpg",
-  "alt": "볼륨 초대석 : 왔어요 with (여자)아이들 ((G)I-DLE) full ver./ [헤이즈의 볼륨을 높여요] I KBS 방송",
-  "title": "볼륨 초대석 : 왔어요 with (여자)아이들 ((G)I-DLE) full ver./ [헤이즈의 볼륨을 높여요] I KBS 방송",
+  "alt": "볼륨 초대석 : 왔어요 with (여자)아이들 ((G)I-DLE) full ver./ [헤이즈의 볼륨을 높여요] I KBS 221024 방송",
+  "title": "볼륨 초대석 : 왔어요 with (여자)아이들 ((G)I-DLE) full ver./ [헤이즈의 볼륨을 높여요] I KBS 221024 방송",
   "subtag": "라디오"
 },
 
@@ -1532,11 +1995,21 @@ const 라디오오디오쇼Cards = [
   "date": "2022-10-25T16:30:01",
   "duration": "00:43:20",
   "thumbnail": "https://i.ytimg.com/vi/7uAq3vuboEI/sddefault.jpg",
-  "alt": "기광 막힌 초대석 with (여자)아이들 (미연, 민니, 슈화) full ver./ [이기광의 가요광장] I KBS 방송",
-  "title": "기광 막힌 초대석 with (여자)아이들 (미연, 민니, 슈화) full ver./ [이기광의 가요광장] I KBS 방송",
+  "alt": "기광 막힌 초대석 with (여자)아이들 (미연, 민니, 슈화) full ver./ [이기광의 가요광장] I KBS 221025 방송",
+  "title": "기광 막힌 초대석 with (여자)아이들 (미연, 민니, 슈화) full ver./ [이기광의 가요광장] I KBS 221025 방송",
   "subtag": "라디오"
 },
-
+{
+  "link": "https://youtu.be/PznjpktXayI",
+  "category": "라디오오디오쇼",
+  "member": "미연, 민니, 슈화",
+  "date": "2022-10-25T16:30:02",
+  "duration": "00:03:48",
+  "thumbnail": "https://i.ytimg.com/vi/PznjpktXayI/sddefault.jpg",
+  "alt": "네버버 일로와봐여🥶 (여자)아이들 미연, 민니, 슈화의 밸런스게임 킬링포인트ㅋㅋㅋ (ft. 재연의 달인 슈화)/ [이기광의 가요광장] I KBS 221025 방송",
+  "title": "네버버 일로와봐여🥶 (여자)아이들 미연, 민니, 슈화의 밸런스게임 킬링포인트ㅋㅋㅋ (ft. 재연의 달인 슈화)/ [이기광의 가요광장] I KBS 221025 방송",
+  "subtag": "라디오"
+},
 {
   "link": "https://naver.me/GreEemHJ",
   "category": "라디오오디오쇼",
@@ -1547,18 +2020,6 @@ const 라디오오디오쇼Cards = [
   "alt": "[소문의 아이들] 시즌2 ep.3 - 소문의 할로윈🎃미연 X 드림캐쳐",
   "title": "[소문의 아이들] 시즌2 ep.3 - 소문의 할로윈🎃미연 X 드림캐쳐",
   "subtag": "네이버NOW"
-},
-
-{
-  "link": "https://youtu.be/PznjpktXayI",
-  "category": "라디오오디오쇼",
-  "member": "미연, 민니, 슈화",
-  "date": "2022-10-26T17:58:56",
-  "duration": "00:03:48",
-  "thumbnail": "https://i.ytimg.com/vi/PznjpktXayI/sddefault.jpg",
-  "alt": "네버버 일로와봐여🥶 (여자)아이들 미연, 민니, 슈화의 밸런스게임 킬링포인트ㅋㅋㅋ (ft. 재연의 달인 슈화)/ [이기광의 가요광장] I KBS 방송",
-  "title": "네버버 일로와봐여🥶 (여자)아이들 미연, 민니, 슈화의 밸런스게임 킬링포인트ㅋㅋㅋ (ft. 재연의 달인 슈화)/ [이기광의 가요광장] I KBS 방송",
-  "subtag": "라디오"
 },
 
 {
@@ -1592,8 +2053,8 @@ const 라디오오디오쇼Cards = [
   "date": "2022-11-14T12:00:19",
   "duration": "00:36:54",
   "thumbnail": "https://i.ytimg.com/vi/pg0wx6nAGdQ/sddefault.jpg",
-  "alt": "전설의 고수 with (여자)아이들 full ver. /[박명수의 라디오쇼]｜KBS 방송",
-  "title": "전설의 고수 with (여자)아이들 full ver. /[박명수의 라디오쇼]｜KBS 방송",
+  "alt": "전설의 고수 with (여자)아이들 full ver. /[박명수의 라디오쇼]｜KBS 221114 방송",
+  "title": "전설의 고수 with (여자)아이들 full ver. /[박명수의 라디오쇼]｜KBS 221114 방송",
   "subtag": "라디오"
 },
 
@@ -1709,11 +2170,11 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/h4kcfz8Uea4",
   "category": "라디오오디오쇼",
   "member": "아이들",
-  "date": "2023-05-17T10:33:43",
+  "date": "2023-05-16T10:33:43",
   "duration": "00:44:01",
   "thumbnail": "https://i.ytimg.com/vi/h4kcfz8Uea4/sddefault.jpg",
-  "alt": "원샷초대석 with (여자)아이들 full ver. / [비투비의 키스 더 라디오] | KBS 방송",
-  "title": "원샷초대석 with (여자)아이들 full ver. / [비투비의 키스 더 라디오] | KBS 방송",
+  "alt": "원샷초대석 with (여자)아이들 full ver. / [비투비의 키스 더 라디오] | KBS 230516 방송",
+  "title": "원샷초대석 with (여자)아이들 full ver. / [비투비의 키스 더 라디오] | KBS 230516 방송",
   "subtag": "라디오"
 },
 
@@ -1736,8 +2197,8 @@ const 라디오오디오쇼Cards = [
   "date": "2023-05-22T16:45:59",
   "duration": "00:35:18",
   "thumbnail": "https://i.ytimg.com/vi/bRsmqbo5UOc/sddefault.jpg",
-  "alt": "전설의 고수 with (여자)아이들 full ver. /[박명수의 라디오쇼]｜KBS 방송",
-  "title": "전설의 고수 with (여자)아이들 full ver. /[박명수의 라디오쇼]｜KBS 방송",
+  "alt": "전설의 고수 with (여자)아이들 full ver. /[박명수의 라디오쇼]｜KBS 230522 방송",
+  "title": "전설의 고수 with (여자)아이들 full ver. /[박명수의 라디오쇼]｜KBS 230522 방송",
   "subtag": "라디오"
 },
 
@@ -1754,14 +2215,14 @@ const 라디오오디오쇼Cards = [
 },
 
 {
-  "link": "https://youtu.be/jhJSaQxl1zY",
+  "link": "https://youtu.be/jhJSaQxl1zY?t=45m39s",
   "category": "라디오오디오쇼",
   "member": "민니, 우기",
   "date": "2023-06-22T21:55:18",
   "duration": "02:00:12",
   "thumbnail": "https://i.ytimg.com/vi/jhJSaQxl1zY/sddefault.jpg",
-  "alt": "[Full ver.] 디스했다가 훈훈했다가 여기 완전 💥찐남매 케미 맛집💥 l 나잇투밋츄 w. (여자)아이들 G)I-DLE 민니&우기",
-  "title": "[Full ver.] 디스했다가 훈훈했다가 여기 완전 💥찐남매 케미 맛집💥 l 나잇투밋츄 w. (여자)아이들 G)I-DLE 민니&우기",
+  "alt": "(45:39~) [Full ver.] 디스했다가 훈훈했다가 여기 완전 💥찐남매 케미 맛집💥 l 나잇투밋츄 w. (여자)아이들 G)I-DLE 민니&우기",
+  "title": "(45:39~) [Full ver.] 디스했다가 훈훈했다가 여기 완전 💥찐남매 케미 맛집💥 l 나잇투밋츄 w. (여자)아이들 G)I-DLE 민니&우기",
   "subtag": "라디오"
 },
 
@@ -1772,22 +2233,11 @@ const 라디오오디오쇼Cards = [
   "date": "2023-08-09T20:48:39",
   "duration": "00:12:34",
   "thumbnail": "https://i.ytimg.com/vi/PryFedOdq9s/sddefault.jpg",
-  "alt": "(G)I-DLE Reveals Their Favorite Part About NYC",
-  "title": "(G)I-DLE Reveals Their Favorite Part About NYC",
+  "alt": "(G)I-DLE Reveals Their Favorite Part About NYC ｜Z100 New York",
+  "title": "(G)I-DLE Reveals Their Favorite Part About NYC｜Z100 New York",
   "subtag": "라디오"
 },
 
-{
-  "link": "https://youtu.be/PryFedOdq9s",
-  "category": "라디오오디오쇼",
-  "member": "아이들",
-  "date": "2023-08-09T20:48:39",
-  "duration": "00:12:34",
-  "thumbnail": "https://i.ytimg.com/vi/PryFedOdq9s/maxresdefault.jpg",
-  "alt": "(G)I-DLE Reveals Their Favorite Part About NYC",
-  "title": "(G)I-DLE Reveals Their Favorite Part About NYC",
-  "subtag": "라디오"
-},
 
 {
   "link": "https://youtu.be/Z7akYetUqcI",
@@ -1796,8 +2246,8 @@ const 라디오오디오쇼Cards = [
   "date": "2023-08-09T21:08:40",
   "duration": "00:08:17",
   "thumbnail": "https://i.ytimg.com/vi/Z7akYetUqcI/sddefault.jpg",
-  "alt": "(G)I-DLE Reveals Who They Would Like To Collaborate With",
-  "title": "(G)I-DLE Reveals Who They Would Like To Collaborate With",
+  "alt": "(G)I-DLE Reveals Who They Would Like To Collaborate With｜103.5 KTU",
+  "title": "(G)I-DLE Reveals Who They Would Like To Collaborate With｜103.5 KTU",
   "subtag": "라디오"
 },
 
@@ -1824,7 +2274,28 @@ const 라디오오디오쇼Cards = [
   "title": "[조선을 걷다] #2 아이들(I-DLE) 미연(Miyeon) &  큰별쌤 최태성과 함께하는 KBS 경복궁 오디오가이드 (60분코스) | KBS 방송",
   "subtag": "오디오"
 },
-
+{
+  "link": "https://www.youtube.com/live/PxdYb0LKllk",
+  "category": "라디오오디오쇼",
+  "member": "미연, 소연, 슈화",
+  "date": "2024-01-30T14:00:00",
+  "duration": "00:40:42",
+  "thumbnail": "https://i.ytimg.com/vi/PxdYb0LKllk/hqdefault.jpg",
+  "alt": "이은지의 가요광장 with 여자아이들((G)-IDLE) 240130",
+  "title": "이은지의 가요광장 with 여자아이들((G)-IDLE) 240130",
+  "subtag": "라디오"
+},
+{
+  "link": "https://www.youtube.com/live/PjEeFH7lnTE",
+  "category": "라디오오디오쇼",
+  "member": "민니, 우기",
+  "date": "2024-02-06T14:00:00",
+  "duration": "00:52:14",
+  "thumbnail": "https://i.ytimg.com/vi/PjEeFH7lnTE/hqdefault.jpg",
+  "alt": "데이식스의 키스 더 라디오 with (여자)아이들 240206",
+  "title": "데이식스의 키스 더 라디오 with (여자)아이들 240206",
+  "subtag": "라디오"
+},
 {
   "link": "https://youtu.be/TLO_rkq7gBc",
   "category": "라디오오디오쇼",
@@ -1832,8 +2303,8 @@ const 라디오오디오쇼Cards = [
   "date": "2024-02-14T12:00:13",
   "duration": "00:56:26",
   "thumbnail": "https://i.ytimg.com/vi/TLO_rkq7gBc/sddefault.jpg",
-  "alt": "[FULL] ✨전소연✨ 암더탑 Super Lady로 정희 접수완❤️｜정오의 희망곡 김신영입니다｜MBC 방송",
-  "title": "[FULL] ✨전소연✨ 암더탑 Super Lady로 정희 접수완❤️｜정오의 희망곡 김신영입니다｜MBC 방송",
+  "alt": "[FULL] ✨전소연✨ 암더탑 Super Lady로 정희 접수완❤️｜정오의 희망곡 김신영입니다｜MBC 240214 방송",
+  "title": "[FULL] ✨전소연✨ 암더탑 Super Lady로 정희 접수완❤️｜정오의 희망곡 김신영입니다｜MBC 240214 방송",
   "subtag": "라디오"
 },
 
@@ -1841,11 +2312,11 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/XhO80sPC0u8",
   "category": "라디오오디오쇼",
   "member": "아이들",
-  "date": "2024-07-09T13:00:59",
+  "date": "2024-07-09T13:00:58",
   "duration": "00:40:46",
   "thumbnail": "https://i.ytimg.com/vi/XhO80sPC0u8/sddefault.jpg",
-  "alt": "이은지의 가요광장 with (여자)아이들 ((G)I-DLE) | KBS (화) 방송",
-  "title": "이은지의 가요광장 with (여자)아이들 ((G)I-DLE) | KBS (화) 방송",
+  "alt": "이은지의 가요광장 with (여자)아이들 ((G)I-DLE) | KBS (화) 240709 방송",
+  "title": "이은지의 가요광장 with (여자)아이들 ((G)I-DLE) | KBS (화) 240709 방송",
   "subtag": "라디오"
 },
 
@@ -1853,23 +2324,23 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/DV3CyZJWSTo",
   "category": "라디오오디오쇼",
   "member": "아이들",
-  "date": "2024-07-09T20:46:28",
+  "date": "2024-07-09T13:00:59",
   "duration": "00:03:16",
   "thumbnail": "https://i.ytimg.com/vi/DV3CyZJWSTo/sddefault.jpg",
-  "alt": "(여자)아이들 'I SWAY' 앨범 녹음&작사&안무 비하인드 최초 공개❗️🫶 / [이은지의 가요광장] I KBS 방송",
-  "title": "(여자)아이들 'I SWAY' 앨범 녹음&작사&안무 비하인드 최초 공개❗️🫶 / [이은지의 가요광장] I KBS 방송",
+  "alt": "(여자)아이들 'I SWAY' 앨범 녹음&작사&안무 비하인드 최초 공개❗️🫶 / [이은지의 가요광장] I KBS 240709 방송",
+  "title": "(여자)아이들 'I SWAY' 앨범 녹음&작사&안무 비하인드 최초 공개❗️🫶 / [이은지의 가요광장] I KBS 240709 방송",
   "subtag": "라디오"
 },
 
 {
-  "link": "https://youtu.be/Xsu0iUK_W8A",
+  "link": "https://youtu.be/Xsu0iUK_W8A?t=43m35s",
   "category": "라디오오디오쇼",
   "member": "미연, 우기",
-  "date": "2024-07-19T21:52:07",
+  "date": "2024-07-18T21:52:07",
   "duration": "02:05:03",
   "thumbnail": "https://i.ytimg.com/vi/Xsu0iUK_W8A/sddefault.jpg",
-  "alt": "[Full ver.] 미연&우기가 밤라에 나온다!!!! 쪼꼬들 클락션 울려!!!🛞🚘✨ \"나잇투밋츄\" w/(여자)아이들 우기&미연",
-  "title": "[Full ver.] 미연&우기가 밤라에 나온다!!!! 쪼꼬들 클락션 울려!!!🛞🚘✨ \"나잇투밋츄\" w/(여자)아이들 우기&미연",
+  "alt": "[Full ver.] 미연&우기가 밤라에 나온다!!!! 쪼꼬들 클락션 울려!!!🛞🚘✨ \"나잇투밋츄\" w/(여자)아이들 우기&미연 #밤의 라디오",
+  "title": "[Full ver.] 미연&우기가 밤라에 나온다!!!! 쪼꼬들 클락션 울려!!!🛞🚘✨ \"나잇투밋츄\" w/(여자)아이들 우기&미연 #밤의 라디오",
   "subtag": "라디오"
 },
 
@@ -1880,8 +2351,8 @@ const 라디오오디오쇼Cards = [
   "date": "2024-07-22T13:00:13",
   "duration": "00:57:10",
   "thumbnail": "https://i.ytimg.com/vi/HFYobCvufa8/sddefault.jpg",
-  "alt": "[FULL] 정희 대장님 ✨신디✨와 아이들 선장님 ✨소연✨ 조합❤️ 소리 대신 클락션 질러❗️| 정오의 희망곡 김신영입니다 | MBC 방송",
-  "title": "[FULL] 정희 대장님 ✨신디✨와 아이들 선장님 ✨소연✨ 조합❤️ 소리 대신 클락션 질러❗️| 정오의 희망곡 김신영입니다 | MBC 방송",
+  "alt": "[FULL] 정희 대장님 ✨신디✨와 아이들 선장님 ✨소연✨ 조합❤️ 소리 대신 클락션 질러❗️| 정오의 희망곡 김신영입니다 | MBC 240722 방송",
+  "title": "[FULL] 정희 대장님 ✨신디✨와 아이들 선장님 ✨소연✨ 조합❤️ 소리 대신 클락션 질러❗️| 정오의 희망곡 김신영입니다 | MBC 240722 방송",
   "subtag": "라디오"
 },
 
@@ -1892,8 +2363,8 @@ const 라디오오디오쇼Cards = [
   "date": "2025-01-22T13:00:07",
   "duration": "00:56:26",
   "thumbnail": "https://i.ytimg.com/vi/x8BwPfJdncw/sddefault.jpg",
-  "alt": "[FULL] 솔로 데뷔 2일차 ✨민니✨ 앨범 잉크도 마르기 전에 '헐'레벌떡 라이브 온 에어로 모셨습니다💗 | 정오의 희망곡 김신영입니다 | MBC 방송",
-  "title": "[FULL] 솔로 데뷔 2일차 ✨민니✨ 앨범 잉크도 마르기 전에 '헐'레벌떡 라이브 온 에어로 모셨습니다💗 | 정오의 희망곡 김신영입니다 | MBC 방송",
+  "alt": "[FULL] 솔로 데뷔 2일차 ✨민니✨ 앨범 잉크도 마르기 전에 '헐'레벌떡 라이브 온 에어로 모셨습니다💗 | 정오의 희망곡 김신영입니다 | MBC 250122 방송",
+  "title": "[FULL] 솔로 데뷔 2일차 ✨민니✨ 앨범 잉크도 마르기 전에 '헐'레벌떡 라이브 온 에어로 모셨습니다💗 | 정오의 희망곡 김신영입니다 | MBC 250122 방송",
   "subtag": "라디오"
 },
 
@@ -1901,11 +2372,11 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/OorZpjSm7QE",
   "category": "라디오오디오쇼",
   "member": "민니",
-  "date": "2025-01-24T01:19:53",
+  "date": "2025-01-23T01:19:53",
   "duration": "00:42:05",
   "thumbnail": "https://i.ytimg.com/vi/OorZpjSm7QE/sddefault.jpg",
-  "alt": "볼륨 초대석 : 최효정의 비밀정원 with 민니 (MINNIE) full ver. / [오마이걸 효정의 볼륨을 높여요] | KBS 방송",
-  "title": "볼륨 초대석 : 최효정의 비밀정원 with 민니 (MINNIE) full ver. / [오마이걸 효정의 볼륨을 높여요] | KBS 방송",
+  "alt": "볼륨 초대석 : 최효정의 비밀정원 with 민니 (MINNIE) full ver. / [오마이걸 효정의 볼륨을 높여요] | KBS 250123 방송",
+  "title": "볼륨 초대석 : 최효정의 비밀정원 with 민니 (MINNIE) full ver. / [오마이걸 효정의 볼륨을 높여요] | KBS 250123 방송",
   "subtag": "라디오"
 },
 
@@ -1940,8 +2411,8 @@ const 라디오오디오쇼Cards = [
   "date": "2025-01-30T13:00:47",
   "duration": "00:40:02",
   "thumbnail": "https://i.ytimg.com/vi/AKbHvJDWLC8/sddefault.jpg",
-  "alt": "이은지의 가요광장 with 민니((여자)아이들) KBS (목) 방송",
-  "title": "이은지의 가요광장 with 민니((여자)아이들) KBS (목) 방송",
+  "alt": "이은지의 가요광장 with 민니((여자)아이들) KBS (목) 250130 방송",
+  "title": "이은지의 가요광장 with 민니((여자)아이들) KBS (목) 250130 방송",
   "subtag": "라디오"
 },
 
@@ -1952,8 +2423,8 @@ const 라디오오디오쇼Cards = [
   "date": "2025-02-19T18:16:08",
   "duration": "00:41:37",
   "thumbnail": "https://i.ytimg.com/vi/QieM1oxUFUI/sddefault.jpg",
-  "alt": "가광 초대석, 누구세요? with 브브걸 (BBGIRLS) (스페셜 DJ 미연) full ver. / [이은지의 가요광장] I KBS 방송",
-  "title": "가광 초대석, 누구세요? with 브브걸 (BBGIRLS) (스페셜 DJ 미연) full ver. / [이은지의 가요광장] I KBS 방송",
+  "alt": "가광 초대석, 누구세요? with 브브걸 (BBGIRLS) (스페셜 DJ 미연) full ver. / [이은지의 가요광장] I KBS 250219 방송",
+  "title": "가광 초대석, 누구세요? with 브브걸 (BBGIRLS) (스페셜 DJ 미연) full ver. / [이은지의 가요광장] I KBS 250219 방송",
   "subtag": "라디오"
 },
 
@@ -1964,8 +2435,8 @@ const 라디오오디오쇼Cards = [
   "date": "2025-05-20T12:56:52",
   "duration": "00:47:24",
   "thumbnail": "https://i.ytimg.com/vi/ISsi7sLXI8g/sddefault.jpg",
-  "alt": "[이은지의 가요광장] with 아이들 | KBS (화) 방송",
-  "title": "[이은지의 가요광장] with 아이들 | KBS (화) 방송",
+  "alt": "[이은지의 가요광장] with 아이들 | KBS (화) 250520 방송",
+  "title": "[이은지의 가요광장] with 아이들 | KBS (화) 250520 방송",
   "subtag": "라디오"
 },
 
@@ -1976,8 +2447,8 @@ const 라디오오디오쇼Cards = [
   "date": "2025-05-21T11:00:11",
   "duration": "00:57:21",
   "thumbnail": "https://i.ytimg.com/vi/4-hj0AyLz3k/sddefault.jpg",
-  "alt": "[FULL] 모든 G는 처단한다❌ 오롯이 'idle'이라는 이름으로 빛날 분금치✨아이들 미연&우기✨와 함께하는 브카☕️💜 | 이석훈의 브런치 카페 | MBC 방송",
-  "title": "[FULL] 모든 G는 처단한다❌ 오롯이 'idle'이라는 이름으로 빛날 분금치✨아이들 미연&우기✨와 함께하는 브카☕️💜 | 이석훈의 브런치 카페 | MBC 방송",
+  "alt": "[FULL] 모든 G는 처단한다❌ 오롯이 'idle'이라는 이름으로 빛날 분금치✨아이들 미연&우기✨와 함께하는 브카☕️💜 | 이석훈의 브런치 카페 | MBC 250521 방송",
+  "title": "[FULL] 모든 G는 처단한다❌ 오롯이 'idle'이라는 이름으로 빛날 분금치✨아이들 미연&우기✨와 함께하는 브카☕️💜 | 이석훈의 브런치 카페 | MBC 250521 방송",
   "subtag": "라디오"
 },
 
@@ -1985,7 +2456,7 @@ const 라디오오디오쇼Cards = [
   "link": "https://youtu.be/cXmG6eKtP_4",
   "category": "출연콘텐츠",
   "member": "미연, 우기",
-  "date": "2025-05-21T20:01:08",
+  "date": "2025-05-21T11:00:12",
   "duration": "00:02:11",
   "thumbnail": "https://i.ytimg.com/vi/cXmG6eKtP_4/sddefault.jpg",
   "alt": "[4K] 공듀님 둘의 케미는 왕크게 봐야 좋으니까 💗왕크왕캠💗 아이들 미연&우기💜 | 이석훈의 브런치 카페",
@@ -2236,8 +2707,8 @@ const 라디오오디오쇼Cards = [
   "date": "2026-01-28T12:58:58",
   "duration": "00:06:15",
   "thumbnail": "https://i.ytimg.com/vi/R-j_GtKW6VQ/maxresdefault.jpg",
-  "alt": "(ENG) ✨아이들✨ 완전체 첫 등장! 예쁘고 귀엽고 웃기고 사랑스럽고 다 하는 아이들과 함께 한 어느날🩶 | i-dle | 정오의 희망곡 김신영입니다 | BEHIND RADIO",
-  "title": "(ENG) ✨아이들✨ 완전체 첫 등장! 예쁘고 귀엽고 웃기고 사랑스럽고 다 하는 아이들과 함께 한 어느날🩶 | i-dle | 정오의 희망곡 김신영입니다 | BEHIND RADIO",
+  "alt": "[비하인드] (ENG) ✨아이들✨ 완전체 첫 등장! 예쁘고 귀엽고 웃기고 사랑스럽고 다 하는 아이들과 함께 한 어느날🩶 | i-dle | 정오의 희망곡 김신영입니다 | BEHIND RADIO",
+  "title": "[비하인드] (ENG) ✨아이들✨ 완전체 첫 등장! 예쁘고 귀엽고 웃기고 사랑스럽고 다 하는 아이들과 함께 한 어느날🩶 | i-dle | 정오의 희망곡 김신영입니다 | BEHIND RADIO",
   "subtag": "라디오"
 },
 {

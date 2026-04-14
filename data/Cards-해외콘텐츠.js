@@ -1444,7 +1444,7 @@ const 해외콘텐츠Cards = [
   "duration": "00:41:09",
   "thumbnail": "https://i.ytimg.com/vi/npr7MDAUAoU/sddefault.jpg",
   "alt": "นัด “มินนี่ (G)I-DLE” ตั้งวงจกส้มตำปลาร้ากลางกรุงฯ @ตำกระเทยสาเกต | กี้ซดโอปโซ้ย EP.133",
-  "title": "(민니) นัด “มินนี่ (G)I-DLE” ตั้งวงจกส้มตำปลาร้ากลางกรุงฯ @ตำกระเทยสาเกต | กี้ซดโอปโซ้ย EP.133"
+  "title": "นัด “มินนี่ (G)I-DLE” ตั้งวงจกส้มตำปลาร้ากลางกรุงฯ @ตำกระเทยสาเกต | กี้ซดโอปโซ้ย EP.133"
 },
 
 {
@@ -1691,45 +1691,47 @@ const 해외콘텐츠Cards = [
   "alt": "ร้านประจำ MINNIE of i-dle [TH/ENG SUB]",
   "title": "ร้านประจำ MINNIE of i-dle [TH/ENG SUB]"
 },
+
 {
-  "link": "https://youtu.be/B31xq3cAlZo",
+  "link": "https://youtu.be/ulYFnKv9rM0",
   "category": "해외콘텐츠",
-  "member": "아이들",
-  "date": "2026-03-19T00:00:06",
-  "duration": "00:04:33",
-  "thumbnail": "https://i.ytimg.com/vi/B31xq3cAlZo/maxresdefault.jpg",
-  "alt": "i-dle (아이들) “mono” Lyrics & Meaning | Genius Verified",
-  "title": "i-dle (아이들) “mono” Lyrics & Meaning | Genius Verified"
+  "member": "민니",
+  "date": "2026-03-31T18:00:49",
+  "duration": "00:02:09",
+  "thumbnail": "https://i.ytimg.com/vi/ulYFnKv9rM0/maxresdefault.jpg",
+  "alt": "CARRY YOU -  BamBam x MINNIE | PUBG MOBILE Official MV Behind | PUBG MOBILE Thailand",
+  "title": "CARRY YOU -  BamBam x MINNIE | PUBG MOBILE Official MV Behind | PUBG MOBILE Thailand"
 },
 {
-  "link": "https://youtu.be/iMkw2P_z1ZM",
+  "link": "https://youtu.be/SW7j_UyzLbk",
   "category": "해외콘텐츠",
-  "member": "아이들",
-  "date": "2026-03-21T03:00:50",
-  "duration": "00:22:19",
-  "thumbnail": "https://i.ytimg.com/vi/iMkw2P_z1ZM/maxresdefault.jpg",
-  "alt": "I-dle on Dropping the \"G,\" American Crushes & Creative Control | Complex News",
-  "title": "I-dle on Dropping the \"G,\" American Crushes & Creative Control | Complex News"
+  "member": "민니",
+  "date": "2026-04-04T16:00:31",
+  "duration": "00:31:43",
+  "thumbnail": "https://i.ytimg.com/vi/SW7j_UyzLbk/maxresdefault.jpg",
+  "alt": "[SUB] 스턴건⚡️ 맞으면 구독자 50만된다고 해서 아이돌 최초! 직접 맞아봄 🔫 | 태국 남매 텐x민니의 교통경찰 체험기🚓 (feat. 법규 요정 풍자) | SOLDOUT",
+  "title": "[SUB] 스턴건⚡️ 맞으면 구독자 50만된다고 해서 아이돌 최초! 직접 맞아봄 🔫 | 태국 남매 텐x민니의 교통경찰 체험기🚓 (feat. 법규 요정 풍자) | SOLDOUT"
 },
 {
-  "link": "https://youtu.be/4vCJVAVTMX4",
+  "link": "https://youtu.be/sotiKPq1i8E",
   "category": "해외콘텐츠",
-  "member": "아이들",
-  "date": "2026-03-24T08:00:06",
-  "duration": "00:30:47",
-  "thumbnail": "https://i.ytimg.com/vi/4vCJVAVTMX4/maxresdefault.jpg",
-  "alt": "i-dle Talks New Music, Touring & More! | Exclusive Interview + Live Performance | JoJo Wright & 102.7KIISFM",
-  "title": "i-dle Talks New Music, Touring & More! | Exclusive Interview + Live Performance | JoJo Wright & 102.7KIISFM"
+  "member": "민니",
+  "date": "2026-04-07T20:01:32",
+  "duration": "00:01:26",
+  "thumbnail": "https://i.ytimg.com/vi/sotiKPq1i8E/maxresdefault.jpg",
+  "alt": "มารับชมเบื้องหลังการถ่ายทำ MV “CARRY YOU” MINNIE Ver. 🎬 | PUBG MOBILE Thailand",
+  "title": "มารับชมเบื้องหลังการถ่ายทำ MV “CARRY YOU” MINNIE Ver. 🎬 | PUBG MOBILE Thailand"
 },
+
 {
-  "link": "https://youtu.be/C7x4L3dI2c0",
+  "link": "https://youtu.be/jmUndPZD7a4",
   "category": "해외콘텐츠",
-  "member": "아이들",
-  "date": "2026-03-26T02:51:10",
-  "duration": "00:49:46",
-  "thumbnail": "https://i.ytimg.com/vi/C7x4L3dI2c0/maxresdefault.jpg",
-  "alt": "i-dle Talks Mono, Crow, Solo Projects, Tomboy & Upcoming Album | Zach Sang Show",
-  "title": "i-dle Talks Mono, Crow, Solo Projects, Tomboy & Upcoming Album | Zach Sang Show"
+  "member": "민니",
+  "date": "2026-04-10T12:25:55",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/jmUndPZD7a4/maxresdefault.jpg",
+  "alt": "MINNIE x WANNA เพ(ร)าะรัก…จากการให้คือการส่งต่อโอกาสและความหวัง | World Vision Thailand",
+  "title": "MINNIE x WANNA เพ(ร)าะรัก…จากการให้คือการส่งต่อโอกาสและความหวัง | World Vision Thailand"
 }
 
 

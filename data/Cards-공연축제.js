@@ -7,8 +7,8 @@ const 공연축제Cards = [
   "date": "2016-10-08T17:16:29",
   "duration": "00:22:20",
   "thumbnail": "https://i.ytimg.com/vi/sHQNmyB4Cfc/maxresdefault.jpg",
-  "alt": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스 (Cover)",
-  "title": "▫️(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스 (Cover)"
+  "alt": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스",
+  "title": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스"
 },
 
 {
@@ -32,7 +32,86 @@ const 공연축제Cards = [
   "alt": "음악중심 미니팬미팅 @상암 물빛공원",
   "title": "▫️음악중심 미니팬미팅 @상암 물빛공원"
 },
-
+{
+  "link": "https://youtu.be/DGBugXfdbLo",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:01",
+  "duration": "00:04:21",
+  "thumbnail": "https://i.ytimg.com/vi/DGBugXfdbLo/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Young & One'",
+  "title": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Young & One'"
+},
+{
+  "link": "https://youtu.be/Axk8hzSPViA",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:02",
+  "duration": "00:04:43",
+  "thumbnail": "https://i.ytimg.com/vi/Axk8hzSPViA/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Follow Your Dreams (한걸음)'",
+  "title": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Follow Your Dreams (한걸음)'"
+},
+{
+  "link": "https://youtu.be/EwVRzVkvOZY",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:03",
+  "duration": "00:03:45",
+  "thumbnail": "https://i.ytimg.com/vi/EwVRzVkvOZY/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Upgrade'",
+  "title": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Upgrade'"
+},
+{
+  "link": "https://youtu.be/cKQbbvHKrpU",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:04",
+  "duration": "00:03:27",
+  "thumbnail": "https://i.ytimg.com/vi/cKQbbvHKrpU/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] HyunA(현아) - Bubble Pop! (ft. (G)-IDLE)",
+  "title": "▫️[2018 United Cube Concert ONE] HyunA(현아) - Bubble Pop! (ft. (G)-IDLE)"
+},
+{
+  "link": "https://youtu.be/n0zzvle7PgQ",
+  "category": "공연축제",
+  "member": "소연",
+  "date": "2018-06-16T22:00:05",
+  "duration": "00:04:48",
+  "thumbnail": "https://i.ytimg.com/vi/n0zzvle7PgQ/hqdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] 이민혁x프니엘x정일훈x장예은x우석x소연 - 'Mermaid' Fancam (콘서트 EDIT VER)",
+  "title": "▫️[2018 United Cube Concert ONE] 이민혁x프니엘x정일훈x장예은x우석x소연 - 'Mermaid' Fancam (콘서트 EDIT VER)"
+},
+{
+  "link": "https://youtu.be/uEOODTL7VOI",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:06",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/uEOODTL7VOI/hqdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'MAZE' Fancam",
+  "title": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'MAZE' Fancam"
+},
+{
+  "link": "https://youtu.be/PmDxuYuril4",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:07",
+  "duration": "00:02:31",
+  "thumbnail": "https://i.ytimg.com/vi/PmDxuYuril4/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'Light My Body Up' Fancam",
+  "title": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'Light My Body Up' Fancam"
+},
+{
+  "link": "https://youtu.be/oyStY1ODOn0",
+  "category": "공연축제",
+  "member": "아이들",
+  "date": "2018-06-16T22:00:08",
+  "duration": "00:03:28",
+  "thumbnail": "https://i.ytimg.com/vi/oyStY1ODOn0/maxresdefault.jpg",
+  "alt": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'LATATA' Fancam",
+  "title": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'LATATA' Fancam"
+},
 {
   "link": "https://youtu.be/aj1WQSNfwL0",
   "category": "공연축제",
@@ -402,8 +481,8 @@ const 공연축제Cards = [
   "date": "2018-10-16T19:16:35",
   "duration": "00:13:18",
   "thumbnail": "https://i.ytimg.com/vi/D2p2htqV5EE/maxresdefault.jpg",
-  "alt": "[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LATATA)",
-  "title": "▫️[컬투쇼 신촌 여기콘서트] 여자아이들(G I-DLE) Full ver. (한 HANN + Talk + LATATA)"
+  "alt": "[컬투쇼 여기콘서트] 여자아이들 Full ver. (한 HANN + Talk + LATATA)",
+  "title": "▫️[컬투쇼 여기콘서트] 여자아이들 Full ver. (한 HANN + Talk + LATATA)"
 },
 
 {
@@ -798,14 +877,14 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/hT-Vr2kq-W4",
+  "link": "https://youtu.be/hT-Vr2kq-W4?t=02m03s",
   "category": "공연축제",
   "member": "소연",
   "date": "2019-04-05T23:16:20",
   "duration": "00:04:03",
   "thumbnail": "https://i.ytimg.com/vi/hT-Vr2kq-W4/hqdefault.jpg",
-  "alt": "이민혁 단독콘서트 TWONIGHT - 너도? 나도! (feat. 소연 of 여자아이들)",
-  "title": "▫️이민혁 단독콘서트 TWONIGHT - 너도? 나도! (feat. 소연 of 여자아이들)"
+  "alt": "▫️(02:03~) 이민혁 단독콘서트 - 너도? 나도! (feat. 소연 of 여자아이들)",
+  "title": "▫️(02:03~) 이민혁 단독콘서트 - 너도? 나도! (feat. 소연 of 여자아이들)"
 },
 
 {
@@ -3178,7 +3257,16 @@ const 공연축제Cards = [
   "alt": "[강남대 백양체전 KF22] (여자)아이들((G)I-DLE) full live - LION, LATATA, MY BAG, POP/STAR, TOMBOY",
   "title": "▫️[강남대 백양체전 KF22] (여자)아이들((G)I-DLE) full live - LION, LATATA, MY BAG, POP/STAR, TOMBOY"
 },
-
+{
+  "link": "https://youtu.be/fve5JDmKX1g",
+  "category": "공연축제",
+  "member": "우기",
+  "date": "2023-01-29T02:30:34",
+  "duration": "01:13:25",
+  "thumbnail": "https://i.ytimg.com/vi/fve5JDmKX1g/maxresdefault.jpg",
+  "alt": "▫️(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING - 인사, 토크, 편지 빈칸채우기",
+  "title": "▫️(G)I-DLE OFFICIAL FAN CLUB NEVERLAND 3RD FAN MEETING - 인사, 토크, 편지 빈칸채우기"
+},
 {
   "link": "https://youtu.be/YyBxIB6SjdM",
   "category": "공연축제",
@@ -4088,8 +4176,8 @@ const 공연축제Cards = [
   "date": "2024-08-24T00:48:55",
   "duration": "00:03:06",
   "thumbnail": "https://i.ytimg.com/vi/XsZjPlEjTOg/maxresdefault.jpg",
-  "alt": "▫️容祖兒 - '我的驕傲(My Pride)' (Cover)  @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN HONG KONG",
-  "title": "▫️容祖兒 - '我的驕傲(My Pride)' (Cover)  @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN HONG KONG"
+  "alt": "▫️容祖兒 - '我的驕傲(My Pride)' (Cover)  @(G)I-DLE WORLD TOUR [iDOL] IN HONG KONG",
+  "title": "▫️容祖兒 - '我的驕傲(My Pride)' (Cover)  @(G)I-DLE WORLD TOUR [iDOL] IN HONG KONG"
 },
 
 {
@@ -4099,8 +4187,8 @@ const 공연축제Cards = [
   "date": "2024-09-04T13:44:00",
   "duration": "00:05:14",
   "thumbnail": "https://i.ytimg.com/vi/gdTq48dIBF8/maxresdefault.jpg",
-  "alt": "▫️아이묭(Aimyon, あいみょん) - 'Marigold (マリーゴールド)' (Cover) @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN TOKYO",
-  "title": "▫️아이묭(Aimyon, あいみょん) - 'Marigold (マリーゴールド)' (Cover) @(G)I-DLE WORLD TOUR [iDOL] CONCERT IN TOKYO"
+  "alt": "▫️아이묭(Aimyon, あいみょん) - 'Marigold (マリーゴールド)' (Cover) @(G)I-DLE WORLD TOUR [iDOL] IN TOKYO",
+  "title": "▫️아이묭(Aimyon, あいみょん) - 'Marigold (マリーゴールド)' (Cover) @(G)I-DLE WORLD TOUR [iDOL] IN TOKYO"
 },
 
 {
@@ -4113,7 +4201,16 @@ const 공연축제Cards = [
   "alt": "▫️'如果可以(만약)' (Cover)  @(G)I-DLE WORLD TOUR [iDOL] IN TAIPEI",
   "title": "▫️'如果可以(만약)' (Cover)  @(G)I-DLE WORLD TOUR [iDOL] IN TAIPEI"
 },
-
+{
+  "link": "https://youtu.be/cBDPE2sn884",
+  "category": "공연축제",
+  "member": "우기, 슈화",
+  "date": "2024-10-06T01:59:37",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/cBDPE2sn884/maxresdefault.jpg",
+  "alt": "▫️YUQI&SHUHUA 'Super Star' (Cover) @WORLD TOUR [iDOL] IN TAIPEI",
+  "title": "▫️YUQI&SHUHUA 'Super Star' (Cover) @WORLD TOUR [iDOL] IN TAIPEI"
+},
 {
   "link": "https://youtu.be/AGLeEentGr8",
   "category": "공연축제",
@@ -4976,8 +5073,8 @@ const 공연축제Cards = [
   "date": "2025-06-21T23:16:17",
   "duration": "00:02:01",
   "thumbnail": "https://i.ytimg.com/vi/2EpppUvsC1g/maxresdefault.jpg",
-  "alt": "민니 (Minnie) - 보라빛 향기 (원곡: 강수지) | 34th Seoul Music Awards | 250621",
-  "title": "▫️민니 (Minnie) - 보라빛 향기 (원곡: 강수지) | 34th Seoul Music Awards | 250621"
+  "alt": "▫️민니(Minnie) - 보라빛 향기 (Cover) | 34th Seoul Music Awards | 250621",
+  "title": "▫️민니(Minnie) - 보라빛 향기 (Cover) | 34th Seoul Music Awards | 250621"
 },
 
 {
@@ -5889,8 +5986,8 @@ const 공연축제Cards = [
   "date": "2023-06-18T14:00:01",
   "duration": "01:46:54",
   "thumbnail": "https://i.ytimg.com/vi/V7uLSMiQXcA/maxresdefault.jpg",
-  "alt": "【Blu-Ray】2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL",
-  "title": "▫️【Blu-Ray】2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL"
+  "alt": "▫️[Blu-Ray] 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL",
+  "title": "▫️[Blu-Ray] 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL"
 },
 
 {
@@ -5900,8 +5997,8 @@ const 공연축제Cards = [
   "date": "2023-06-18T14:00:02",
   "duration": "00:48:56",
   "thumbnail": "https://i.ytimg.com/vi/DoypaKXNwpk/maxresdefault.jpg",
-  "alt": "【Blu-Ray】2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL | ENCORE",
-  "title": "▫️【Blu-Ray】2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL | ENCORE"
+  "alt": "▫️[Blu-Ray] 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL | ENCORE",
+  "title": "▫️[Blu-Ray] 2023 (G)I-DLE WORLD TOUR [I am FREE-TY] IN SEOUL | ENCORE"
 },
 
 {
@@ -5911,8 +6008,8 @@ const 공연축제Cards = [
   "date": "2023-06-18T14:00:03",
   "duration": "00:08:26",
   "thumbnail": "https://i.ytimg.com/vi/wG-EHBANZ7M/maxresdefault.jpg",
-  "alt": "【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 POSTER & MD MAKING FILM",
-  "title": "▫️【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 POSTER & MD MAKING FILM"
+  "alt": "▫️[Blu-Ray] (G)I-DLE WORLD TOUR [I am FREE-TY] POSTER & MD MAKING FILM",
+  "title": "▫️[Blu-Ray] (G)I-DLE WORLD TOUR [I am FREE-TY] POSTER & MD MAKING FILM"
 },
 
 {
@@ -5922,8 +6019,8 @@ const 공연축제Cards = [
   "date": "2023-06-18T14:00:04",
   "duration": "00:11:26",
   "thumbnail": "https://i.ytimg.com/vi/VQpxcRJCrhc/maxresdefault.jpg",
-  "alt": "【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 VCR MAKING FILM",
-  "title": "▫️【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 VCR MAKING FILM"
+  "alt": "▫️[Blu-Ray] (G)I-DLE WORLD TOUR [I am FREE-TY] VCR MAKING FILM",
+  "title": "▫️[Blu-Ray] (G)I-DLE WORLD TOUR [I am FREE-TY] VCR MAKING FILM"
 },
 
 {
@@ -5933,8 +6030,8 @@ const 공연축제Cards = [
   "date": "2023-06-18T14:00:05",
   "duration": "00:15:13",
   "thumbnail": "https://i.ytimg.com/vi/VGh87rqghsg/maxresdefault.jpg",
-  "alt": "【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 PRACTICE & REHEARSAL MAKING FILM",
-  "title": "▫️【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 PRACTICE & REHEARSAL MAKING FILM"
+  "alt": "▫️[Blu-Ray] (G)I-DLE WORLD TOUR [I am FREE-TY] PRACTICE & REHEARSAL MAKING FILM",
+  "title": "▫️[Blu-Ray] (G)I-DLE WORLD TOUR [I am FREE-TY] PRACTICE & REHEARSAL MAKING FILM"
 },
 
 {
@@ -5944,8 +6041,8 @@ const 공연축제Cards = [
   "date": "2023-06-18T14:00:06",
   "duration": "00:38:50",
   "thumbnail": "https://i.ytimg.com/vi/8TRU79EOZsg/maxresdefault.jpg",
-  "alt": "【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 D-DAY MAKING FILM",
-  "title": "▫️【Blu-Ray】(G)I-DLE WORLD TOUR 《I am FREE-TY》 D-DAY MAKING FILM"
+  "alt": "▫️[Blu-Ray] (G)I-DLE WORLD TOUR [I am FREE-TY] D-DAY MAKING FILM",
+  "title": "▫️[Blu-Ray] (G)I-DLE WORLD TOUR [I am FREE-TY] D-DAY MAKING FILM"
 },
 
 {
@@ -5955,8 +6052,8 @@ const 공연축제Cards = [
   "date": "2024-08-04T14:00:01",
   "duration": "02:23:20",
   "thumbnail": "https://i.ytimg.com/vi/i-18eIfR6ZE/hqdefault.jpg",
-  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | SUB",
-  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | SUB"
+  "alt": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | SUB",
+  "title": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | SUB"
 },
 
 {
@@ -5966,8 +6063,8 @@ const 공연축제Cards = [
   "date": "2024-08-04T14:00:02",
   "duration": "00:43:41",
   "thumbnail": "https://i.ytimg.com/vi/x2CReWZDfgU/hqdefault.jpg",
-  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL Encore | SUB",
-  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL Encore | SUB"
+  "alt": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL Encore | SUB",
+  "title": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL Encore | SUB"
 },
 
 {
@@ -5977,8 +6074,8 @@ const 공연축제Cards = [
   "date": "2024-08-04T14:00:03",
   "duration": "00:09:46",
   "thumbnail": "https://i.ytimg.com/vi/5AaHp2LL5IA/maxresdefault.jpg",
-  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | POSTER & MD MAKING FILM | SUB",
-  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | POSTER & MD MAKING FILM | SUB"
+  "alt": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | POSTER & MD MAKING FILM | SUB",
+  "title": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | POSTER & MD MAKING FILM | SUB"
 },
 
 {
@@ -5988,8 +6085,8 @@ const 공연축제Cards = [
   "date": "2024-08-04T14:00:04",
   "duration": "00:17:34",
   "thumbnail": "https://i.ytimg.com/vi/etNzP300LEo/maxresdefault.jpg",
-  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | VCR MAKING FILM | SUB",
-  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | VCR MAKING FILM | SUB"
+  "alt": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | VCR MAKING FILM | SUB",
+  "title": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | VCR MAKING FILM | SUB"
 },
 
 {
@@ -5999,8 +6096,8 @@ const 공연축제Cards = [
   "date": "2024-08-04T14:00:05",
   "duration": "00:13:54",
   "thumbnail": "https://i.ytimg.com/vi/IInjCea7J_o/maxresdefault.jpg",
-  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | PRACTICE MAKING FILM | SUB",
-  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | PRACTICE MAKING FILM | SUB"
+  "alt": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | PRACTICE MAKING FILM | SUB",
+  "title": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | PRACTICE MAKING FILM | SUB"
 },
 
 {
@@ -6010,8 +6107,8 @@ const 공연축제Cards = [
   "date": "2024-08-04T14:00:06",
   "duration": "00:14:41",
   "thumbnail": "https://i.ytimg.com/vi/p32v7jyATz0/maxresdefault.jpg",
-  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | REHEARSAL MAKING FILM | SUB",
-  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | REHEARSAL MAKING FILM | SUB"
+  "alt": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | REHEARSAL MAKING FILM | SUB",
+  "title": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | REHEARSAL MAKING FILM | SUB"
 },
 
 {
@@ -6021,8 +6118,8 @@ const 공연축제Cards = [
   "date": "2024-08-04T14:00:07",
   "duration": "00:57:29",
   "thumbnail": "https://i.ytimg.com/vi/5hz8WWYDl5I/maxresdefault.jpg",
-  "alt": "【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | D-DAY MAKING FILM | SUB",
-  "title": "▫️【Blu-Ray】2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | D-DAY MAKING FILM | SUB"
+  "alt": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | D-DAY MAKING FILM | SUB",
+  "title": "▫️[Blu-Ray] 2024 (G)I-DLE WORLD TOUR [i-DOL] IN SEOUL | D-DAY MAKING FILM | SUB"
 },
 
 {
@@ -6032,8 +6129,8 @@ const 공연축제Cards = [
   "date": "2025-10-05T22:19:52",
   "duration": "01:18:51",
   "thumbnail": "https://i.ytimg.com/vi/pksOmtdud9Q/hqdefault.jpg",
-  "alt": "▫️【4K】2025 i-dle first japan tour [ 逢い-dle ] in Saitama Day2",
-  "title": "▫️【4K】2025 i-dle first japan tour [ 逢い-dle ] in Saitama Day2"
+  "alt": "▫️2025 i-dle first japan tour [ 逢い-dle ] in Saitama Day2",
+  "title": "▫️2025 i-dle first japan tour [ 逢い-dle ] in Saitama Day2"
 },
 
 {
@@ -6079,12 +6176,12 @@ const 공연축제Cards = [
 },
 
 {
-  "link": "https://youtu.be/hPtaDbAdOm0",
+  "link": "https://youtu.be/s3chnUIzVKk",
   "category": "공연축제",
   "member": "아이들",
   "date": "2026-03-07T22:20:23",
-  "duration": "02:46:13",
-  "thumbnail": "https://i.ytimg.com/vi/hPtaDbAdOm0/maxresdefault.jpg",
+  "duration": "02:42:26",
+  "thumbnail": "https://i.ytimg.com/vi/s3chnUIzVKk/maxresdefault.jpg",
   "alt": "▫️2026 i-dle WORLD TOUR [Syncopation] in Taipei",
   "title": "▫️2026 i-dle WORLD TOUR [Syncopation] in Taipei"
 },
@@ -6105,89 +6202,41 @@ const 공연축제Cards = [
   "date": "2026-03-14T11:24:12",
   "duration": "00:06:28",
   "thumbnail": "https://i.ytimg.com/vi/TqMv5WM1Uuc/maxresdefault.jpg",
-  "alt": "[Tokyo Girls Collection] 미연 (MIYEON) - Say My Name + Don’t Ever Say Goodbye 。",
-  "title": "[Tokyo Girls Collection] 미연 (MIYEON) - Say My Name + Don’t Ever Say Goodbye 。"
+  "alt": "[Tokyo Girls Collection] 미연 (MIYEON) - Say My Name + Don’t Ever Say Goodbye (미발매곡) 。",
+  "title": "[Tokyo Girls Collection] 미연 (MIYEON) - Say My Name + Don’t Ever Say Goodbye (미발매곡)。"
 },
 {
-  "link": "https://youtu.be/DGBugXfdbLo",
+  "link": "https://youtu.be/p-K2wbG3nEk",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-06-16T22:00:01",
-  "duration": "00:04:21",
-  "thumbnail": "https://i.ytimg.com/vi/DGBugXfdbLo/maxresdefault.jpg",
-  "alt": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Young & One'",
-  "title": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Young & One'"
+  "date": "2026-03-21T21:00:01",
+  "duration": "00:18:47",
+  "thumbnail": "https://i.ytimg.com/vi/p-K2wbG3nEk/maxresdefault.jpg",
+  "alt": "▫️2026 i-dle WORLD TOUR [Syncopation] in Bangkok | VIP Sound Check",
+  "title": "▫️2026 i-dle WORLD TOUR [Syncopation] in Bangkok | VIP Sound Check"
 },
+
 {
-  "link": "https://youtu.be/Axk8hzSPViA",
+  "link": "https://youtu.be/Mo_u0cYS47M",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-06-16T22:00:02",
-  "duration": "00:04:43",
-  "thumbnail": "https://i.ytimg.com/vi/Axk8hzSPViA/maxresdefault.jpg",
-  "alt": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Follow Your Dreams (한걸음)'",
-  "title": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Follow Your Dreams (한걸음)'"
+  "date": "2026-03-21T21:00:02",
+  "duration": "02:22:12",
+  "thumbnail": "https://i.ytimg.com/vi/Mo_u0cYS47M/hqdefault.jpg",
+  "alt": "▫️2026 i-dle WORLD TOUR [Syncopation] in Bangkok",
+  "title": "▫️2026 i-dle WORLD TOUR [Syncopation] in Bangkok"
 },
 {
-  "link": "https://youtu.be/EwVRzVkvOZY",
+  "link": "https://youtu.be/Wp8b0Yz3OLk",
   "category": "공연축제",
   "member": "아이들",
-  "date": "2018-06-16T22:00:03",
-  "duration": "00:03:45",
-  "thumbnail": "https://i.ytimg.com/vi/EwVRzVkvOZY/maxresdefault.jpg",
-  "alt": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Upgrade'",
-  "title": "▫️[2018 United Cube Concert ONE] Cube TV All Artists - 'Upgrade'"
-},
-{
-  "link": "https://youtu.be/cKQbbvHKrpU",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2018-06-16T22:00:04",
-  "duration": "00:03:27",
-  "thumbnail": "https://i.ytimg.com/vi/cKQbbvHKrpU/maxresdefault.jpg",
-  "alt": "▫️[2018 United Cube Concert ONE] HyunA(현아) - Bubble Pop! (ft. (G)-IDLE)",
-  "title": "▫️[2018 United Cube Concert ONE] HyunA(현아) - Bubble Pop! (ft. (G)-IDLE)"
-},
-{
-  "link": "https://youtu.be/n0zzvle7PgQ",
-  "category": "공연축제",
-  "member": "소연",
-  "date": "2018-06-16T22:00:05",
-  "duration": "00:04:48",
-  "thumbnail": "https://i.ytimg.com/vi/n0zzvle7PgQ/hqdefault.jpg",
-  "alt": "▫️[2018 United Cube Concert ONE] 이민혁x프니엘x정일훈x장예은x우석x소연 - 'Mermaid' Fancam (콘서트 EDIT VER)",
-  "title": "▫️[2018 United Cube Concert ONE] 이민혁x프니엘x정일훈x장예은x우석x소연 - 'Mermaid' Fancam (콘서트 EDIT VER)"
-},
-{
-  "link": "https://youtu.be/uEOODTL7VOI",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2018-06-16T22:00:06",
-  "duration": "00:03:29",
-  "thumbnail": "https://i.ytimg.com/vi/uEOODTL7VOI/hqdefault.jpg",
-  "alt": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'MAZE' Fancam",
-  "title": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'MAZE' Fancam"
-},
-{
-  "link": "https://youtu.be/PmDxuYuril4",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2018-06-16T22:00:07",
-  "duration": "00:02:31",
-  "thumbnail": "https://i.ytimg.com/vi/PmDxuYuril4/maxresdefault.jpg",
-  "alt": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'Light My Body Up' Fancam",
-  "title": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'Light My Body Up' Fancam"
-},
-{
-  "link": "https://youtu.be/oyStY1ODOn0",
-  "category": "공연축제",
-  "member": "아이들",
-  "date": "2018-06-16T22:00:08",
-  "duration": "00:03:28",
-  "thumbnail": "https://i.ytimg.com/vi/oyStY1ODOn0/maxresdefault.jpg",
-  "alt": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'LATATA' Fancam",
-  "title": "▫️[2018 United Cube Concert ONE] (여자)아이들 - 'LATATA' Fancam"
+  "date": "2026-03-21T21:00:03",
+  "duration": "00:03:05",
+  "thumbnail": "https://i.ytimg.com/vi/Wp8b0Yz3OLk/maxresdefault.jpg",
+  "alt": "▫️'จีนี่ จ๋า (Genie Ja)' Cover  @ 2026 i-dle WORLD TOUR [Syncopation] in Bangkok",
+  "title": "▫️'จีนี่ จ๋า (Genie Ja)' Cover  @ 2026 i-dle WORLD TOUR [Syncopation] in Bangkok"
 }
+
 
 
 

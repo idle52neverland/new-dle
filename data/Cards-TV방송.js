@@ -81,8 +81,8 @@ const TV방송Cards = [
   "date": "2016-03-18T01:00:01",
   "duration": "00:04:38",
   "thumbnail": "https://i.ytimg.com/vi/_MgTSrVE8y4/maxresdefault.jpg",
-  "alt": "[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 1 (Soyeon Produce 101 moments only! 1)",
-  "title": "[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 1 (Soyeon Produce 101 moments only! 1)"
+  "alt": "▫️[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 1 (Soyeon Produce 101 moments only! 1)",
+  "title": "▫️[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 1 (Soyeon Produce 101 moments only! 1)"
 },
 
 {
@@ -92,8 +92,8 @@ const TV방송Cards = [
   "date": "2016-03-18T01:00:02",
   "duration": "00:02:25",
   "thumbnail": "https://i.ytimg.com/vi/jjh5ZMfZNfY/maxresdefault.jpg",
-  "alt": "[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 3 (Soyeon Produce101 moments only! 3)",
-  "title": "[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 3 (Soyeon Produce101 moments only! 3)"
+  "alt": "▫️[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 3 (Soyeon Produce101 moments only! 3)",
+  "title": "▫️[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 3 (Soyeon Produce101 moments only! 3)"
 },
 
 {
@@ -103,8 +103,8 @@ const TV방송Cards = [
   "date": "2016-03-18T01:00:03",
   "duration": "00:08:27",
   "thumbnail": "https://i.ytimg.com/vi/fTsiVesYAdk/maxresdefault.jpg",
-  "alt": "[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 5 (Soyeon Produce101 moments only! 5)",
-  "title": "[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 5 (Soyeon Produce101 moments only! 5)"
+  "alt": "▫️[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 5 (Soyeon Produce101 moments only! 5)",
+  "title": "▫️[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 5 (Soyeon Produce101 moments only! 5)"
 },
 
 {
@@ -114,8 +114,8 @@ const TV방송Cards = [
   "date": "2016-03-18T01:00:04",
   "duration": "00:08:00",
   "thumbnail": "https://i.ytimg.com/vi/7xhMJ3UMChQ/maxresdefault.jpg",
-  "alt": "[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 마지막 (Soyeon Produce101 moments only! End)",
-  "title": "[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 마지막 (Soyeon Produce101 moments only! End)"
+  "alt": "▫️[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 마지막 (Soyeon Produce101 moments only! End)",
+  "title": "▫️[(여자)아이들 소연] 전젤리를 보기 위한 프로듀스101 정주행!! 마지막 (Soyeon Produce101 moments only! End)"
 },
 {
   "link": "https://youtu.be/UznXdXBoWoI",
@@ -653,17 +653,6 @@ const TV방송Cards = [
   "thumbnail": "https://i.ytimg.com/vi/zrqEv17u63A/sddefault.jpg",
   "alt": "[2018 추석특집 아육대] 여자아이들(G)I-DLE 우기(YUQI)의 고난이도 리듬체조 무대",
   "title": "[2018 추석특집 아육대] 여자아이들(G)I-DLE 우기(YUQI)의 고난이도 리듬체조 무대"
-},
-
-{
-  "link": "https://youtu.be/XiEDOiMWVGA",
-  "category": "TV방송",
-  "member": "슈화",
-  "date": "2019-01-10T17:00:12",
-  "duration": "00:02:38",
-  "thumbnail": "https://i.ytimg.com/vi/XiEDOiMWVGA/maxresdefault.jpg",
-  "alt": "[뽀짝포착] 리듬 속의 그 춤을 / [아이돌라디오X아육대 2019 설특집 비하인드] / IDOL RADIO X IDOL STAR ATHLETICS CHAMPIONSHIP BEHIND)",
-  "title": "[뽀짝포착] 리듬 속의 그 춤을 / [아이돌라디오X아육대 2019 설특집 비하인드] / IDOL RADIO X IDOL STAR ATHLETICS CHAMPIONSHIP BEHIND)"
 },
 
 {

@@ -19807,11 +19807,101 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/EHAHVxC0WMA/maxresdefault.jpg",
   "alt": "NEVERLAND ขอบคุณค่ะ 💜",
   "title": "NEVERLAND ขอบคุณค่ะ 💜"
+},
+{
+  "link": "https://youtu.be/qSh4v3DDecg",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2026-03-27T16:00:00",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/qSh4v3DDecg/maxresdefault.jpg",
+  "alt": "pov: #idle is our new crew #P1Harmony (피원하모니)",
+  "title": "pov: #idle is our new crew #P1Harmony (피원하모니)"
+},
+{
+  "link": "https://youtu.be/CplUwwVZeOM",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2026-03-30T17:00:00",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/CplUwwVZeOM/maxresdefault.jpg",
+  "alt": "POV: you're at the 2026 i-dle WORLD TOUR [Syncopation] in Australia hearing #Mono",
+  "title": "POV: you're at the 2026 i-dle WORLD TOUR [Syncopation] in Australia hearing #Mono"
+},
+{
+  "link": "https://youtu.be/1dNv7K4FTOk",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2026-04-02T17:29:00",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/1dNv7K4FTOk/maxresdefault.jpg",
+  "alt": "Catch my heart with #SOYEON #최예나 #YENA #아이들 #YENA_CatchCatch",
+  "title": "Catch my heart with #SOYEON #최예나 #YENA #아이들 #YENA_CatchCatch"
+},
+{
+  "link": "https://youtu.be/14sE8lmWOwE",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2026-04-02T19:00:00",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/14sE8lmWOwE/maxresdefault.jpg",
+  "alt": "캐치캐치 내적댄스 ON 💃",
+  "title": "캐치캐치 내적댄스 ON 💃"
+},
+
+{
+  "link": "https://youtu.be/0QrJvFq4GeE",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2026-04-08T18:00:01",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/0QrJvFq4GeE/maxresdefault.jpg",
+  "alt": "#소연 선배님에게 끝도 없이 빠져들어 3 2 1❤️‍🔥#KISSOFLIFE #idle #SOYEON #Who_is_she #Who_is_she_Challenge #Shorts",
+  "title": "#소연 선배님에게 끝도 없이 빠져들어 3 2 1❤️‍🔥#KISSOFLIFE #idle #SOYEON #Who_is_she #Who_is_she_Challenge #Shorts"
+},
+
+{
+  "link": "https://youtu.be/hLW8P1ba9ak",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2026-04-09T12:00:43",
+  "duration": "00:00:30",
+  "thumbnail": "https://i.ytimg.com/vi/hLW8P1ba9ak/maxresdefault.jpg",
+  "alt": "𝑾𝒉𝒂𝒕’𝒔 𝒂 𝒈𝒊𝒓𝒍 𝒕𝒐 𝒅𝒐💋 왓걸이💋 with #idle #YUQI #DAYOUNG ​⁠@official_i_dle#WAGTD_Challenge",
+  "title": "𝑾𝒉𝒂𝒕’𝒔 𝒂 𝒈𝒊𝒓𝒍 𝒕𝒐 𝒅𝒐💋 왓걸이💋 with #idle #YUQI #DAYOUNG ​⁠@official_i_dle#WAGTD_Challenge"
+},
+
+{
+  "link": "https://youtu.be/hkUy8Eo-k9Y",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2026-04-09T19:01:08",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/hkUy8Eo-k9Y/maxresdefault.jpg",
+  "alt": "소연이가 계단 내려갈 때",
+  "title": "소연이가 계단 내려갈 때"
+},
+
+{
+  "link": "https://youtu.be/7q_UsbFKGqQ",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2026-04-12T21:19:00",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/7q_UsbFKGqQ/maxresdefault.jpg",
+  "alt": "오늘도 승리의 요정! ⚾💚",
+  "title": "오늘도 승리의 요정! ⚾💚"
+},
+{
+  "link": "https://youtube.com/shorts/7q_UsbFKGqQ",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2026-04-12T21:19:01",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/7q_UsbFKGqQ/maxresdefault.jpg",
+  "alt": "오늘도 승리의 요정! ⚾💚",
+  "title": "오늘도 승리의 요정! ⚾💚"
 }
-
-
-
-
 
   ];
 window.shortsCards = shortsCards;

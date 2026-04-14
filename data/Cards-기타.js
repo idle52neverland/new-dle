@@ -1,15 +1,6 @@
 const 기타Cards = [
 
-{
-  "link": "https://youtu.be/OYYXxhFpHE0",
-  "category": "기타",
-  "member": "아이들",
-  "date": "2018-10-14T00:09:39",
-  "duration": "00:03:30",
-  "thumbnail": "https://i.ytimg.com/vi/OYYXxhFpHE0/maxresdefault.jpg",
-  "alt": "181014 [강남 페스티벌 K-POP 콘서트] (여자)아이들 - 한(一)",
-  "title": "181014 [강남 페스티벌 K-POP 콘서트] (여자)아이들 - 한(一)"
-},
+
 {
   "link": "https://youtu.be/SkyM0aRrBvw",
   "category": "기타",
@@ -1112,10 +1103,171 @@ const 기타Cards = [
   "date": "2026-02-27T21:00:05",
   "duration": "00:28:58",
   "thumbnail": "https://i.ytimg.com/vi/dI00C8k189I/maxresdefault.jpg",
-  "alt": "(24:47~25:50) LNGSHOT - DEBUT EP [SHOT CALLERS] Musicshow Behind the Scenes",
-  "title": "(24:47~25:50) LNGSHOT - DEBUT EP [SHOT CALLERS] Musicshow Behind the Scenes"
+  "alt": "[24:47~25:50] LNGSHOT - DEBUT EP [SHOT CALLERS] Musicshow Behind the Scenes",
+  "title": "[24:47~25:50] LNGSHOT - DEBUT EP [SHOT CALLERS] Musicshow Behind the Scenes"
+},
+{
+  "link": "https://youtu.be/CAdRNXmkuc4?t=07m21s",
+  "category": "기타",
+  "member": "민니, 우기",
+  "date": "2026-02-17T18:00:01",
+  "duration": "00:14:27",
+  "thumbnail": "https://i.ytimg.com/vi/CAdRNXmkuc4/maxresdefault.jpg",
+  "alt": "[07:21~08:34] BABYMONSTER - ‘Really Like You’ MUSIC SHOW BEHIND",
+  "title": "[07:21~08:34] BABYMONSTER - ‘Really Like You’ MUSIC SHOW BEHIND"
+},
+{
+  "link": "https://youtu.be/DqG5U-4TTLY",
+  "category": "기타",
+  "member": "아이들",
+  "date": "2022-03-24T22:13:59",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/DqG5U-4TTLY/maxresdefault.jpg",
+  "alt": "🔥요즘 음원 차트 1위 : (여자)아이들((G)I-DLE) - TOMBOY [가사/해석/한국어/lyrics]",
+  "title": "🔥요즘 음원 차트 1위 : (여자)아이들((G)I-DLE) - TOMBOY [가사/해석/한국어/lyrics]"
+},
+{
+  "link": "https://youtu.be/SVy4_atH044",
+  "category": "기타",
+  "member": "미연",
+  "date": "2022-05-05T23:19:01",
+  "duration": "00:03:23",
+  "thumbnail": "https://i.ytimg.com/vi/SVy4_atH044/maxresdefault.jpg",
+  "alt": "💙빛나는 청춘들에게 : (여자)아이들((G)I-DLE) 미연 (MIYEON) - Drive [가사/Eng Lyrics]",
+  "title": "💙빛나는 청춘들에게 : (여자)아이들((G)I-DLE) 미연 (MIYEON) - Drive [가사/Eng Lyrics]"
+},
+{
+  "link": "https://youtu.be/s1jUsWFnC_M",
+  "category": "기타",
+  "member": "아이들",
+  "date": "2022-10-20T15:30:12",
+  "duration": "00:03:24",
+  "thumbnail": "https://i.ytimg.com/vi/s1jUsWFnC_M/maxresdefault.jpg",
+  "alt": "삶에는 언제나 기복이 있다는걸 알지만, 괜찮아 | (여자)아이들 - Change | 가사/해석/ENG/lyrics",
+  "title": "삶에는 언제나 기복이 있다는걸 알지만, 괜찮아 | (여자)아이들 - Change | 가사/해석/ENG/lyrics"
 },
 
+{
+  "link": "https://youtu.be/vn1ZZqTfNXQ",
+  "category": "기타",
+  "member": "아이들",
+  "date": "2022-10-21T12:30:12",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/vn1ZZqTfNXQ/maxresdefault.jpg",
+  "alt": "맞아, 난 너에게 미쳤어, 그러니 키스해 줘 | (여자)아이들  - DARK (X-file) | 가사/해석/ENG/lyrics",
+  "title": "맞아, 난 너에게 미쳤어, 그러니 키스해 줘 | (여자)아이들  - DARK (X-file) | 가사/해석/ENG/lyrics"
+},
+{
+  "link": "https://youtu.be/njtD_SKE6xE",
+  "category": "기타",
+  "member": "아이들",
+  "date": "2022-10-24T00:19:24",
+  "duration": "00:03:00",
+  "thumbnail": "https://i.ytimg.com/vi/njtD_SKE6xE/maxresdefault.jpg",
+  "alt": "🔥나왔다 하면 1위 : (여자)아이들((G)I-DLE) - Nxde [가사/해석/한국어/lyrics]",
+  "title": "🔥나왔다 하면 1위 : (여자)아이들((G)I-DLE) - Nxde [가사/해석/한국어/lyrics]"
+},
+{
+  "link": "https://youtu.be/W7a6S1C1koA",
+  "category": "기타",
+  "member": "민니",
+  "date": "2023-02-05T21:52:48",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/W7a6S1C1koA/maxresdefault.jpg",
+  "alt": "🌹홀린듯이 제목 찾게 되는 노래 : (민니) MINNIE ((G)I-DLE) - In The Novel [가사/해석/lyrics]",
+  "title": "🌹홀린듯이 제목 찾게 되는 노래 : (민니) MINNIE ((G)I-DLE) - In The Novel [가사/해석/lyrics]"
+},
+{
+  "link": "https://youtu.be/y6VP3GH8Ciw",
+  "category": "기타",
+  "member": "우기",
+  "date": "2023-02-28T22:04:05",
+  "duration": "00:04:07",
+  "thumbnail": "https://i.ytimg.com/vi/y6VP3GH8Ciw/maxresdefault.jpg",
+  "alt": "🔥들을 때마다 놀라는 중저음 : (우기)YUQI ((G)I-DLE), HypeerTime - Not Cinderella [가사/해석/lyrics]",
+  "title": "🔥들을 때마다 놀라는 중저음 : (우기)YUQI ((G)I-DLE), HypeerTime - Not Cinderella [가사/해석/lyrics]"
+},
+{
+  "link": "https://youtu.be/ZDLFVO8JM3I",
+  "category": "기타",
+  "member": "민니",
+  "date": "2023-03-10T22:38:12",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/ZDLFVO8JM3I/maxresdefault.jpg",
+  "alt": "상상도 못했는데 이렇게 좋다고?🤤 : Anne-Marie, MINNIE ((G)-IDLE) - Expectations [가사/해석/lyrics]",
+  "title": "상상도 못했는데 이렇게 좋다고?🤤 : Anne-Marie, MINNIE ((G)-IDLE) - Expectations [가사/해석/lyrics]"
+},
+{
+  "link": "https://youtu.be/cDha3p7JY5s",
+  "category": "기타",
+  "member": "아이들",
+  "date": "2023-06-04T00:13:27",
+  "duration": "00:02:43",
+  "thumbnail": "https://i.ytimg.com/vi/cDha3p7JY5s/maxresdefault.jpg",
+  "alt": "💗요즘 무섭게 떡상중인 노래 : (여자)아이들((G)I-DLE) - Allergy [가사/해석/한국어/lyrics]",
+  "title": "💗요즘 무섭게 떡상중인 노래 : (여자)아이들((G)I-DLE) - Allergy [가사/해석/한국어/lyrics]"
+},
+
+{
+  "link": "https://youtu.be/vz4LqQc5Qbc",
+  "category": "기타",
+  "member": "민니",
+  "date": "2023-10-31T22:08:51",
+  "duration": "00:03:17",
+  "thumbnail": "https://i.ytimg.com/vi/vz4LqQc5Qbc/maxresdefault.jpg",
+  "alt": "목소리 나오자마자 한국인 오열 : Loco (로꼬) - NOT OK (Feat. 민니 ((여자)아이들)) [Kor/Eng/가사]",
+  "title": "목소리 나오자마자 한국인 오열 : Loco (로꼬) - NOT OK (Feat. 민니 ((여자)아이들)) [Kor/Eng/가사]"
+},
+{
+  "link": "https://youtu.be/iPt-ez05IO8",
+  "category": "기타",
+  "member": "아이들",
+  "date": "2024-02-13T23:24:28",
+  "duration": "00:02:45",
+  "thumbnail": "https://i.ytimg.com/vi/iPt-ez05IO8/maxresdefault.jpg",
+  "alt": "💙떡상 안 하는 게 이상한 노래 : (여자)아이들((G)I-DLE) -  나는 아픈 건 딱 질색이니까 [가사/Eng lyrics]",
+  "title": "💙떡상 안 하는 게 이상한 노래 : (여자)아이들((G)I-DLE) -  나는 아픈 건 딱 질색이니까 [가사/Eng lyrics]"
+},
+{
+  "link": "https://youtu.be/Imb19_0IOrY",
+  "category": "기타",
+  "member": "아이들",
+  "date": "2024-07-11T22:28:53",
+  "duration": "00:02:54",
+  "thumbnail": "https://i.ytimg.com/vi/Imb19_0IOrY/maxresdefault.jpg",
+  "alt": "그냥 대놓고 완!전! 여름 노래🍉 : (G)I-DLE - 클락션 (Klaxon) [가사/Eng/Kor]",
+  "title": "그냥 대놓고 완!전! 여름 노래🍉 : (G)I-DLE - 클락션 (Klaxon) [가사/Eng/Kor]"
+},
+{
+  "link": "https://youtu.be/G5mPgsBDhMo",
+  "category": "기타",
+  "member": "민니",
+  "date": "2025-01-22T22:15:22",
+  "duration": "00:02:37",
+  "thumbnail": "https://i.ytimg.com/vi/G5mPgsBDhMo/maxresdefault.jpg",
+  "alt": "어떤 노래든 몽환적으로 만드는 음색 💘 : MINNIE(민니) ‘HER’ [가사/해석/Eng/lyrics]",
+  "title": "어떤 노래든 몽환적으로 만드는 음색 💘 : MINNIE(민니) ‘HER’ [가사/해석/Eng/lyrics]"
+},
+{
+  "link": "https://youtu.be/ubexCBiklKU",
+  "category": "기타",
+  "member": "미연",
+  "date": "2025-11-04T21:27:12",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/ubexCBiklKU/maxresdefault.jpg",
+  "alt": "너무 사랑해서, 죽여버렸어 ☺️ : 미연 (MIYEON) 'Reno (Feat. Colde)' [가사/Eng/lyrics]",
+  "title": "너무 사랑해서, 죽여버렸어 ☺️ : 미연 (MIYEON) 'Reno (Feat. Colde)' [가사/Eng/lyrics]"
+},
+{
+  "link": "https://youtu.be/_u03foNTxp0",
+  "category": "기타",
+  "member": "아이들",
+  "date": "2026-02-05T22:01:03",
+  "duration": "00:02:51",
+  "thumbnail": "https://i.ytimg.com/vi/_u03foNTxp0/maxresdefault.jpg",
+  "alt": "🖤 천재적이라고 난리난 아이들 신곡 : i-dle (아이들) - Mono (Feat. skaiwater) [가사/해석/lyrics]",
+  "title": "🖤 천재적이라고 난리난 아이들 신곡 : i-dle (아이들) - Mono (Feat. skaiwater) [가사/해석/lyrics]"
+},
 
 
 
